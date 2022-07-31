@@ -1,0 +1,835 @@
+Buffering the Vampire Slayer
+Episode 5.13: Blood Ties
+Laura: Hey, you beautiful Scoobs. This is Laura Zak from Angel on Top.
+Brittany: And I'm Brittany Ashley, also from Angel on Top.
+Laura: For the last year or so, it has been our great honor to host a sister podcast to Buffering the Vampire Slayer in which we rewatch every episode of the Buffy spin-off, Angel, in tandem with the equivalent Buffy episodes.
+Brittany: If you've not yet taken the journey from Sunnydale to Los Angeles to brood with us, and even if you've never watched an episode of Angel in your life, we're here to tell you that Season 2 is a magnificent time to join our family.
+Laura: The second season of Angel is jam-packed with objectively good television. And you can expect more of your favorites, like Cordelia coming into her own powers, Wesley battling inner and outer demons, Angel walking his cluttered path to redemption, cameos from Buffy regulars like Faith, Spike and Willow, and—
+Brittany: More Darla, Darla, Darla! Plus you'll get to know new characters who are some of the best in the entire Whedonverse, like Charles Gunn, defender of downtown LA's most vulnerable, and Lorne, the emotionally intelligent demon who runs a karaoke bar.
+Laura: Our Angel on Top community is growing every day and we'd love for you to join us for queer feminist analysis, new jingles and every episode, a new poem from Angel's point of view.
+Brittany: You can find Angel on Top on iTunes, Spotify and Google Play.
+Laura: Until then, see ya at the next crossover.
+Brittany: Ooh! Hey, Laura Zak, quick question for you.
+Laura: What's that, Brittany Ashley?
+Brittany: Do you remember Buffy's ex?
+Laura: Who, Faith?
+Brittany: No, the other one, that soft-spoken broody guy with the dark past?
+Laura: Oh, you mean Angel , the ensouled vampire with a heart of gold on a quest to atone for past sins?
+Brittany: Yeah, that's the one. We should do a rewatch podcast about his aptly-titled spin-off, Angel.
+Laura: Brittany, we already have one. We're in Season 2.
+Brittany: Oh right, hi, we're the hosts of Angel on Top.
+Laura: An Angel rewatch podcast that releases episodes every other Wednesday in tandem with Buffering the Vampire Slayer.
+Brittany: Wait, do you remember the episode in Season 1 where Faith shows up and there's so much sexual tension between the three of them?
+NOTES: [CHIME]
+Jenny: Hey, everybody! Woof.
+Kristin: Woof!
+Jenny: Before we get started—
+Kristin: "Woof" is right.
+Jenny: We gotta tell you some stuff.
+Kristin: We are, we're gonna tell you some stuff. We wanna start just by saying… dear, dear, dear, beautiful, beautiful, beautiful Scoobies. We recorded this episode that you're about to hear about a week and a half ago. The world was already turning upside down at that point, and in the time that has passed since then, we've both been adjusting as best we can to the ever-changing circumstances in Los Angeles and New York. We've been doing our best to help our communities, to stay informed, to stay centered in what is, um, a pretty chaotic time. It's a time that I know, and I know, Jenny, you know too, can feel really overwhelming and scary to so many of us in so many different ways.
+Jenny: Mm-hmm.
+Kristin: And so we just wanna say that, as always, we're here with you. The community that we have here at Buffering has held us up in so many ways and we could not be more thankful to have you all with us, to have Buffy to share together and to be a part of a community whose kindness and generosity knows literally no bounds.
+Jenny: Indeed! Some news… and updates for you before we dive into Blood Ties. First, ugh. Because of the global pandemic and to continue to do our best at keeping our community safe, our Brooklyn live taping and third annual Prom have been rescheduled to July 31st and August 1st, respectively. All ticket holders should have received an update directly from the wonderful people at the Bell House to let them know that their tickets have been transferred accordingly. If you cannot make those dates, your tickets will be fully refundable through May 31st, 2020. And we will release new tickets as and if we have them and keep you posted. Our first show in Chicago this July sold out so quickly that we added a second show
+at 8:30 PM on July 12th at Sleeping Village. You can find all those details on our website, bufferingthevampireslayer.com. Just click on Events and look to July 12th.
+Kristin: Yes and thank you so much for selling out Chicago so quickly. We're very excited—
+Jenny: Wow, yes.
+Kristin: To have two back to back shows with all of you in Chicago. Also, listen. Many of us have been inside of our homes for several days already and we will likely be in our homes for many weeks to come. So here are some things that are happening in our orbit that might bring you some online, don't-need-to-leave-the-house joy.
+Jenny: Hurray!
+Kristin: Yeah! So first of all, our listener Emily has donated an incredible array of Buffy paraphernalia for us to use in a giveaway. The donation includes a framed mint-condition copy of the first Buffy comic, a plush Mr. Pointy, the Gem—
+Jenny: Ahh!
+Kristin: I know! The Gem of Amara, Giles'—
+Jenny: Oh my god!
+Kristin: It's a good haul. Giles' green mug, the Funko Pop of Giles, a replica of Buffy's cross necklace that Angel gave to her, and a zippered pouch featuring the Bronze logo. So today, Wednesday, on socials, we'll share the photo of these amazing items. And we're gonna select five people to win either one or a couple of these prizes. So how do you win? Here's how. You help your community. If you've donated to local organizations, if you've purchased gift certificates at your local bookstore, restaurants, bars, if you've donated funds supporting artists, supporting sex workers, supporting anyone who is so directly impacted by what's happening here and abroad. If you've supported your community in non-monetary ways, if you've watered plants for an absent neighbor, if you've ran errands for an elderly or immuno-compromised person, you've entered to win this contest. So all you have to do is email us at bufferingthevampireslayer@gmail.com. Just use the subject line "Find the helpers" with whatever you've done, just put whatever you've done in the email. "This is what I did." You don't have to send us receipts, you don't have to send—just tell us what you've done, use that subject line, and we'll pick five of you out of there to win those prizes. And we'll select everyone who sends us that email to direct our Care Bear stare style love at you forever and ever and ever. Amen. Also, in addition to this—so we over in Patreon, we've had a penpal swap for some time. We're opening that penpal swap up to everyone, you don't need to be a Patron supporter of ours to join. It is a great time to sit and write letters, to get letters, and to just connect in some of these ways that we can't do when we're up and about and living our lives in a very different way than we are now. So we will put that link up on our Twitter, on our Instagram, on our Facebook page this week. And you can, this week, sign up if you'd like to get a Buffering penpal.
+Jenny: Wow. Sick. Okay.
+Kristin: Yes, and thank you to Michaela, who is our listener who runs that penpal swap and who is so—just like every other Scooby in this universe, right? Wrote me back immediately, 'cause I was like, "hey, maybe we can, like, open this up." And Michaela wrote back immediately and was like, "I've just been wanting to help and I don't know how and I'm so happy to do this, thank you so much." And I think a lot of us are feeling that right now, you know, like, how can we help? What can we do? And so—
+Jenny: Yes!
+Kristin: So thank you, Michaela, for doing this on our behalf.
+Jenny: Bless, Michaela!
+Kristin: Mm-hmm.
+Jenny: Over on Patreon, we will continue with our digital lives to keep you company as well. Kristin's next book club, happening in our Patreon Slack channel, will be on Saturday, March 28th at 2 PM Eastern. The discussion will center on Gideon the Ninth, a book written by a queer woman about lesbian necromancers in outer space! [Kristin laughs] That's fine!
+Kristin: [laughing] Yeah, it's pretty great. Pretty great.
+Jenny: Also...also, I'll be doing a very special Facebook hang, where I discuss—are you ready?—Xena. You know, the Warrior Princess, with a focus on the episodes in Season 1 with a hyper-focus on the episode, Callisto.
+Kristin: Wow. Don't know—
+Jenny: What do you think about that? Come prepared, there will be spoilers!
+Kristin: [simultaneously] Don't know what that means, but I'll tune in to find out.
+NOTES: [laughs]
+Jenny: Uh, and we will be doing a fun throwback bonus episode for our $10 Patrons where we talk about an episode from Season 3 with brand new eyeballs. You'll vote on which you'd like us to discuss. You can join our Patreon by going to patreon.com/bufferingcast. And today, head over there for our interview with Kevin Weisman who plays Dreg, available for free for all.
+Kristin: Yes. And just so you know, Jenny will be doing that Xena Warrior Princess meets Buffy the Vampire Slayer conversation on Facebook on Saturday, April 4th at 4 PM Eastern, 1 PM Pacific. And our bonus episode where we're gonna revisit some fun episode from Season 3, that will go up later next week. So we're at home, you're at home and we'd like to all have fun together as much as possible.
+Jenny: Yes.
+Kristin: Hey, one other silver lining amidst all of the chaos in the world right now is that a lot of those of us who podcast have found ourselves at home with microphones. [laughs] And little else. So guess what? Joanna Robinson and I are going to be collaborating on a brand new podcast called Feels Like the First Time. If you paid attention to what was happening with Joanna and I on The Storm and Star Wars, you know that I had never seen a Star War. And I would tell Joanna what I thought Star Wars was about, then I would watch the movie and we would discuss it. And it was so much fun, and lucky for all of you, I have seen pretty much nothing. I've never seen any Indiana Jones movies, I've never any James Bond movies, I've never seen any Fast and Furious movies. So we have a running list of movies we're gonna watch together while we are stuck in our houses. And we're gonna format it where I talk about what I think will happen, and then I watch, and then we talk about how I feel about what actually happened. What we're gonna do is put that podcast up on both the Buffering Patreon and The Storm podcast, that's Joanna Robinson's Lost rewatch podcast. The—both feeds will have—for any level, so $2 and above on The Storm Patreon page or the Buffering the Vampire Slayer Patreon page, you'll all get that podcast. We'll be launching it soon. It'll come out, like, whenever we watch the movies, and you can watch along with us. We hope that it is another way to keep you company in a time that feels overwhelming. [singing] "Feels like the first time!" You know what I mean, Jenny?
+Jenny: I… do know what you mean. [Kristin laughs] Speaking of the first time and all the times after that, it's time for the Sexual Tension Awards!
+Kristin: Is anyone better at segueing than you?
+Jenny: Results. [laughs]
+Kristin: I've never—I've really never experienced anyone better at it.
+Jenny: Oh, thank you. I think you just have to have the mind of a teen boy. [Kristin laughs] And chase that dream wherever it leads you. So the results for the Checkpoint poll, for the STAs. Surprising no one, coming in fourth place, with 4% of the vote, it's Xander and Smashing the Patriarchy. I just felt like his performance wasn't very convincing. Xander and Smashing the Patriarchy just don't have the chemistry we're looking for. Doing just slightly better with 14% of the vote, in third place, we have Glory and Buffy. Two blondes don't make a right, you know what I mean?
+Kristin: [laughing] Jesus Christ.
+Jenny: In second place—wow, heating up. Heating up in second place, put the kettle on! Two English people. [Kristin laughs] We rare—we very rarely get to nominate two people with English accents together at the same time, but here we are, and they've taken second place with 23% of the vote. It's Spike and Lydia, AKA Lady Watcher. Not lady watcher, but a Watcher who is a lady. [Kristin laughs] But also, she might be a lady watcher. We really didn't get to spend very much time with her. We know she's definitely a Spike watcher. Okay and then, in first place, winning— sweeping the Sexual Tension Awards for Checkpoint with 59% of the vote, more than half of the vote. [sighs] It's Buffy and Power. You know it is!
+Kristin: Fuck yeah. Fuck yeah.
+Jenny: Of course it is! What else could we do?
+Kristin: What kind of podcast do you think you're listening to?
+Jenny: I know.
+Kristin: Wow. Jenny, incredible. Just a beautiful freestyle from Jenny Owen Youngs—
+Jenny: Oh, thank you.
+Kristin: Everyone.
+Jenny: Now, we realize you're all very anxious to know, now that you're locked in your homes with little else to think about. You really wanna know what the deal is with Old Man… Seaver. Old Man Seaver?
+Kristin: Old Man Seaver, yes, thank you.
+Jenny: [inaudible]
+Kristin: Thank you. You see how memorable my—my 11-year-old writing is? [both laugh]
+Jenny: Yeah, incredible character development. Um, Old Man Seaver is on vacation this episode. But tune in next episode to get the thrilling next installment of Old Man Seaver!
+Kristin: Yes, yes. We don't wanna overwhelm you. We had a lot to talk about in this intro and we want to get—
+Jenny: Life is spooky enough without Spooky News right now.
+Kristin: Yes, yes, exactly. Okay, so, one last thing before we roll into Blood Ties, which is a content note. This episode, Blood Ties, deals with plot lines that involve self harm, which we will be addressing in our discussion today. So… now you know. And Jenny, I would love to just—just dive right into the theme song and get to one and a half weeks ago when we taped this episode. A different time. Let's talk about Blood Ties, shall we?
+Jenny: Were we ever so young? [shudders]
+Kristin: Literally, no. [laughs]
+Jenny: Alright. Let's go.
+NOTES: [Buffering theme plays]
+Jenny: Hello! Ho-ho-ho-ho. [Kristin laughs] And welcome to Buffering the Vampire Slayer, a podcast where we are watching and discussing every episode of Buffy the Vampire Slayer, one at a time, spoiler free. I'm Jenny Owen Youngs.
+Kristin: Wow. And I'm Kristin Russo, and this week, we are talking about Season 5, Episode 13, lucky 13, Blood Ties. Stay tuned at the end of this podcast every other week for an original song written by Jenny, recapping the Buffy episode we are discussing. Uh, also, if you haven't started listening to our Angel podcast, Angel on Top, hosted by Brittany Ashley and Laura Zak, you should get on over there and do that for yourself.
+Jenny: Honestly, it is a supernatural delight. [Kristin laughs] Blood Ties—Blood Ties!—was written by Steven S. DeKnight, directed by Michael Gershman, acted by Sarah Michelle Gellar, Michelle Trachtenberg—[Kristin laughing] James Marsters, Kristine Sutherland, Anthony Stewart Head, Amber Benson, Alyson Hannigan, Nicholas Brendan—
+Kristin: Wow. You took a big risk. Did you say Emma Caulfield?
+Jenny: I was getting there. I saved the best—
+Kristin: It's just like, ha, you're gonna forget somebody in that list, you know?
+Jenny: For last. Uh, and it originally aired on February 6th, 2001.
+Kristin: This is the one—this is a big one! IMDB does not say that, but Kristin Russo does. This is the one when Dawn learns her true identity. She runs away only to encounter Glory. There's a lot.
+Jenny: Ahh!
+Kristin: We got a lot, Jenny. And I'll have to tell you—
+Jenny: Okay.
+Kristin: I was not, like, fully prepared for how—I should be. As the producer of this podcast, [laughing] I should have been more prepared for everything that was in this episode. I was not, and I was like, oh wow. We learn a lot. You—
+Jenny: We learn a lot, and also, like, this is a good goddamn episode of television.
+Kristin: Yeah.
+Jenny: It's very tight. The writing is fantastic. Everyone is… performing on all cylinders.
+Kristin: Oof. Yeah.
+Jenny: Like, the acting is… so great.
+Kristin: Agree, and also, like, this is—so we're almost right in the heart of it, Season 5, right? Like, this is kinda smack dab in the center of all of these things that we've been working towards, and we know a lot now. We just learned Glory is a god. We've known that Dawn is the Key but Dawn's gonna learn that she's the Key. We know Glory needs the Key, now there's these fucking—I move to call them the Knights of Hackysack, um, moving forward?
+Jenny: Mmm.
+Kristin: Because at one point in this episode, Buffy calls them the Knights of Hack… and… Sack? No, of—
+Jenny: No.
+Kristin: H-ha...
+Jenny: Hack and Slash.
+Kristin: [laughs] Yeah.
+Jenny: Okay.
+Kristin: And I heard "Hackysack," so—
+Jenny: Sure, sure, sure, sure. The Knights of Hackysack.
+Kristin: We get the stupid—right. We get the stupid knights. And then we learn a lot about Glory, sort of like right at the top of this episode. So I just feel like, yes, good writing, but also, we're sort of like, finally in this place where we have so many pieces to play with.
+Jenny: Yeah, yeah, yeah.
+Kristin: Which is exciting and emotionally resonant, one might say.
+Jenny: So. It's Buffy's birthday again. [Kristin laughs] She's turning 20, and she should really know by now that when it's her birthday, she should leave town.
+Kristin: Yeah.
+Jenny: Uh, stay locked in a motel room for three days.
+Kristin: Oh, a motel room? I wonder who's there waiting for her to celebrate her birthday.
+Jenny: Dude! [both laugh] Um, speaking of Faith.
+Kristin: Uh-huh.
+Jenny: Um, we need to organize some kind of—I need to make a Powerpoint presentation for you, uh, about all the ways in which Xena ran so Buffy could also run.
+Kristin: Oh, wow. So are you talking to me or are you talking to our listeners?
+Jenny: I'm talking to you, but I'm saying it in front of our listeners so that they will hold us to it.
+Kristin: [laughs] Okay.
+Jenny: Because it's… a very important conversation.
+Kristin: Yes. In case you missed it, on Jenny's social media, she has been
+rewatching Xena: Warrior Princess.
+Jenny: That's right.
+Kristin: Yeah, so that's what's happening and you're having a lot of feelings. And I think that we can all collectively say that we enjoy Powerpoints that are born out of your powerful TV feelings. So please create that.
+Jenny: Beautiful.
+Kristin: Yes.
+Jenny: Okay, I just want to say it here and now so that I know it's not—okay. [clears throat] That's not why we're here today, but—[clears throat] okay. Onward.
+Kristin: Speaking of, like, being in a celebratory mood. Buffy is wearing what looks like she pulled a strip from off of a disco ball and wrapped it around her neck.
+Jenny: Mmm.
+Kristin: There's nothing else shiny about her outfit at all. It's completely out of context, and I don't know if she's just feeling festive or what. I mean, 20 is a big year. But I wanted to—
+Jenny: Big year.
+Kristin: Yeah, I wanted to put a pin in it. Okay, so let's get over the exposition hill here. We learn that Glory ruled over a hell dimension that was—I wrote in my notes, I'm so sorry, "supes intense." I don't know why. I don't know what happened to me in that moment, but that's what I wrote.
+Jenny: Uh... [laughs]
+Kristin: And I'm coming clean. With two other gods, so she's part of a throuple of gods, which—
+Jenny: Right, right.
+Kristin: I'm into. And she—
+Jenny: Me too. All about it. Not enough, uh, god throuple representation—
+Kristin: Yeah.
+Jenny: In media.
+Kristin: And she's weakened because she's in human form, which limits her powers. We also, like, are told explicitly that she—in order to survive, she absorbs the energies that combine the mind into a cohesive whole. I would like some science to back that up. I wanna know what these energies are that combine our minds into a cohesive—
+Jenny: Just the juice. Just the brain juice. [Kristin laughs] You gotta get that juice out. You know. But for whatever reason, being on Earth and in human form, her mental health is deteriorating because she's rapidly losing this juice, this vital brain juice.
+Kristin: Yes. Giles is making tea, very typical of Giles.
+Jenny: Nice.
+Kristin: He's got his green mug. He also makes Buffy a tea, which I don't know that I've ever witnessed before. And please write in to us at bufferingthevampireslayer@gmail.com to let me know if I'm wrong. But I at least noticed it very dramatically that he hands her a cup of tea.
+Jenny: Well, she's 20 now, Kristin.
+Kristin: [laughs] The legal tea-drinking age.
+Jenny: Yeah, yeah.
+Kristin: Yes, of course. And then—
+Jenny: Uh, just a quick note. Just a reminder. We've seen them all drinking alcohol at The Bronze. So they're all… well, not all, not Anya. But like, Willow, Tara, Xander, Buffy, they're all not legal drinking age. Just mentioning.
+Kristin: Right. Unless Sunnydale has a special caveat amendment to their—
+Jenny: Oh, true, true.
+Kristin: You know? Like, maybe—maybe because—like, maybe if your town is on the Hellmouth, your drinking age is lowered to 18.
+Jenny: Right.
+Kristin: Which seems fair.
+Jenny: Would make a lot of sense.
+Kristin: Yeah. [laughs] I think I would agree with that amendment. So the big thing in this scene is, of course, that right now, Joyce, Giles and Buffy are the only ones who know about Dawn being the Key. And I would like to kind of open this up to a meta convo with you, Jenny, on—there's a big back and forth about who's wrong and who's right about having told Dawn yet, having told the Scoobies yet. Do you think—like, would you have done this differently? Do you think Buffy should have told the Scoobies sooner? Do you think that she should have told Dawn sooner? Where do you fall?
+Jenny: Well, honestly, I think it's like—a lot is made in this scene about how, like, she wanted to protect them, by not giving them this information. But to me, it seems way more clear that she wanted to protect Dawn.
+Kristin: Yeah.
+Jenny: The fewer people who actually know Dawn's nature, the fewer people can be tortured until they tell Glory.
+Kristin: Right. Right. And I agree. And I feel really torn about it, especially because this show, obviously—and we're gonna dig into this—but this show uses the fantastical to also, you know, play with real life themes. And I think that there—one of the many themes that are brought to the surface in this episode are themes of, like, being adopted, right? Like, not being blood family and how that works, how that looks and how that can impact the adopted child who might not have been told at an earlier age. And so, you know, again, trying to like, peel out these things of like, what is the fantasy, what is the reality, and which are we talking about when we discuss it?
+Jenny: Right.
+Kristin: In the fantasy, Buffy is, like, choosing not to tell Dawn and them, I agree, because the more people know—and they kind of prove the fucking point within the first few seconds of knowing. Like, Dawn is in so much more danger than she has ever been in the minute that the Scoobies know. [laughing] Because they're not good at keeping secrets. They're good at a lot of things, but not that.
+Jenny: No. Especially Willow!
+Kristin: I know, usually it is "especially Willow." I mean, Willow has the worst history, like, the worst track record of keeping secrets [laughing] but honestly—
+Jenny: Yeah, just statistically, she's the one I'm worried about.
+Kristin: Yes, yes. But I mean, I don't know who does a worse job after they find out.
+Jenny: [laughs] Yeah! Okay, but before we get to everyone [laughs] being the worst at this. Let's talk about fuckin' Byzantium Kumbaya town.
+Kristin: Oh, the Knights of Hacky Sack? Yes, let's, please.
+Jenny: The Knights of Hackysack [laughs] are in their, as you called it, their forest office. [both laugh]
+Kristin: Yes, before we started recording, I was like—because I said to Jenny, so this is the episode where Dreg dies. And Jenny was like, really? And I said, yes, because I interviewed Kevin Weisman who plays Dreg. And so, just a little head's up. We interviewed Kevin Weisman who plays Dreg, and if you go over to our Patreon right now, it's free for everybody. So patreon.com/bufferingcast, you can also just go to the website, click on Patreon. It is up, it just went up today with this episode. You can hear us talk to Kevin about his time as one of Glory's minions, which is super fun. But Jenny, you didn't realize that Dreg—this was Dreg's RIP moment, right?
+Jenny: I really didn't. There's a lot—it's dark. There's a lot of brown robes and chainmail just flying around.
+Kristin: [laughing] Yes.
+Jenny: One of them—one of the minions comes in on a swinging rope for, I'm pretty sure, absolutely no reason.
+Kristin: [laughs] Well, I mean, when you're in a forest office, you know, you gotta use the supplies.
+Jenny: Sure, sure, sure, sure. But yeah, those minions are attacking the Knights of Byzantium. They get whooped but then just when you think… Jinx, right? It is Jinx—
+Kristin: It is Jinx, yeah.
+Jenny: Is gonna get it. Uh, thwap! Somebody catches the blade of Orlando, the knight. And prevents Jinx's death.
+Kristin: Yeah.
+Jenny: And says, "Never send a minion to do a god's work." Which is a rule we would all do well to keep in our hearts and use in day to day life.
+Kristin: Yes. Also a great play on "Never send a man to do a woman's work." If you ask me, Jenny Owen Youngs.
+Jenny: Also true—
+Kristin: Ooh, what a great place for me to play… the Patriarchy jingle.
+NOTES: [THE PATRIARCHY jingle plays] The patriarchy! [thunder clap, evil laughter]
+Kristin: Coming right out of the Patriarchy Jingle, I would like to point out that Glory does all of this wearing a red jumper. Glory's signature color of course is red, and she just finds so many ways at it. So I just want to give her a nod for this beautiful jumper.
+Jenny: Yeah. Yeah. Looking great. Glory—
+Kristin: Also… Jenny, the Key is the link, the link must be severed. This is a big theme in this episode for the Knights of Hackysack.
+Jenny: "Such is the will of God!" Excuse me. So the Knights of Byzantium do this in service to one god… we're gonna just guess the Christian god. They have a real strong Christian vibe, you know?
+Kristin: They do. I agree, yeah.
+Jenny: So I think it's interesting that in the lore of the show, the Christian god is aware of Glory and her, like, co-throuple gods.
+Kristin: Right.
+Jenny: And maybe, like, you know, bazillions of other dark gods. It's just interesting, maybe they know each other from way back. Maybe they know each other from camp! [Kristin laughs] Or, uh…
+Kristin: Oh my god, it's like American Gods camp, yeah.
+Jenny: Girl Scouts—God Scouts!
+Kristin: They're like, "remember that god that ate men with her vagina?" [laughs]
+Jenny: Oh yes, hell yes!
+Kristin: [laughs] So, um, right. And we don't—I mean, to be fair, we definitely don't know that these are Christian-based religious humans. But I agree, they're given that sort of energy in the show.
+Jenny: Yeah. And when you're watching, like, an American TV show, and there's some knights on a holy quest referring to "God" as just "God"—
+Kristin: Yes.
+Jenny: And there's one of them, you tend to assume that it's a Christian thing.
+Kristin: And their whole thing, Jenny, is—their whole thing is "destroy the Key." Right? They wanna destroy the Key. And so I think this is, like—we were getting into it a little bit with Ira. But it's like… if the gods—if the Knights of Byzantium are correct in their thesis statement, which is "destroy the Key," and then Gl—right? It's like, then Glory won't be able to get back or Glory will be destroyed? Something bad will happen. Something good for the knights and bad for Glory, right? That's the logic?
+Jenny: Mm-hmm, mm-hmm, mm-hmm.
+Kristin: Then why , I ask, along with I'm sure many of you all, did the monks not just destroy the energy to begin with? Like, I—
+Jenny: Well, maybe… maybe their—you know, maybe it was beyond their power scope to destroy the Key. Maybe they don't know how to destroy the Key. Maybe the Key is indestructible, which actually if Dawn gets wind of that—
+Kristin: Ooh.
+Jenny: She'd probably be feeling pretty cool.
+Kristin: Also, maybe the Key couldn't be destroyed if it wasn't in a vulnerable form, like the form of Dawn.
+Jenny: Ugh.
+Kristin: These are my theories. And what's fun about me is I'm a goldfish, so you think I'm pretending, but I actually don't know if any of this gets answered. Okay.
+NOTES: [both laugh]
+Jenny: Okay, so cut to, after the credits. Willow and Tara doing safety sand arts and crafts outside the Magic Box—
+Kristin: In full view.
+Jenny: This is sort of like the county fair, you know. Sand art in a jar, but then you dump the jar out on the ground outside of your patriarch's place of business to protect your friend's mystical energy Key sister. A tale as old as time! Dawn walks up wearing—are you ready?
+Kristin: I am ready!
+Jenny: Dawn's shirt watch—wearing a shirt that says "Little Miss Drama."
+Kristin: [delighted] Ugh!
+Jenny: Little Miss Drama.
+Kristin: In the context of this episode, it is just a delightful nugget. It's like, truly beautiful that they are like, you know what would be fun, is if she wears this shirt for this episode. [laughs]
+Jenny: Yeah. Yeah, yeah.
+Kristin: Because listen, Dawn is the center of all of the drama in this one.
+Jenny: Yeah, she's like the eye of the storm. So she's kind of like—she interacts with Willow and Tara. And then she goes in and interacts with Buffy, Giles, Anya and Xander. And everyone is doing a terrible job trying to just be cool!
+Kristin: I mean—
+Jenny: Around Dawn! "You make a very pretty girl!" [both laugh]
+Kristin: I'm sorry, Xander tickles h  er, which makes me vomit on the microphone.
+Jenny: Yeah.
+Kristin: This is a 14-year-old girl.
+Jenny: I mean…
+Kristin: And he is doing it so that he can feel that she's real. Xander, what in the motherfuck?! Honest to god. Tara and Willow do better than Xander and Anya in this.
+Jenny: Which is… well…
+Kristin: Saying—yeah. [both laugh]
+Jenny: I love also this moment where Xander's trying to like, back away, and is like, "hey, I need help with that thing." And Anya's like, [loudly] "Xander needs help with his thing!" [Kristin laughs] "Uh, love? Love?"
+Kristin: Anya's, like, default to make jokes about sex as a way to distract from the lie is—I mean, I think it's a good tactic, you know?
+Jenny: Yeah.
+Kristin: Like, I'm not gonna fault her there.
+Jenny: Meanwhile, Dawn clocks Giles putting his li'l journal away. Giles' li'l diary.
+Kristin: I'm so mad about this diary. Because you know what, Jenny, in this diary should be, like, "Joyce looks really pretty today." Not "Dawn is the Key!"
+NOTES: [stammers]
+Jenny: Well—
+Kristin: That's the—! I'm sorry. I don't mean to get ahead of ourselves, but—
+Jenny: You know, when you know a secret, maybe don't write it down.
+Kristin: Literally, like, 101 diary rule.
+Jenny: He's supposed to be in charge, kind of.
+Kristin: There's not even a little lock that never worked anyway.
+Jenny: Oh yeah.
+Kristin: But you know what I mean, those little locks that they'd put on diaries? I understand—I just feel like Dawn could have—here's the—here's my issue with a little bit of the writing. 'Cause I agree, this is a great episode of television. But I think that Dawn could have pieced together the truth from Giles' notes that we learn, and we'll get into this later. But I just cannot imagine that they wouldn't have told the Scoobies even, and that he's gonna write this down. So I just… whatever.
+Jenny: Well. We'll get there in a little bit. I have some things to say about the diary. But first, Dawn accuses Buffy of freaking out because she has to "fight someone prettier than her." [Kristin laughs] Which, um. Buffy does not seem to feel this way. Glory and Buffy are two beautiful ladies slash hell gods slash Slayers. And everyone's doing great. Okay.
+Kristin: I do think that this dig from Dawn is fun, though, because I think that there is something to Buffy's feelings about Glory being, as we've discussed, like, another petite blond. And like—and stronger than her. You know—
+Jenny: Yeah.
+Kristin: That it's probably, like, a little bit of a deeper burn. So I don't think Dawn nails it with the prettier, but I do think she kinda nails it with the, you know, "this girl is similar to you and it's freaking you out!" [laughs]
+Jenny: Right. Right, right, right, right. She's usually coming up against large gentleman trolls. [Kristin laughs] And, uh… various vampires. Okay, so. Glory is torturing Orlando, the Knight of Byzantium, who—
+Kristin: Why will you not just call them the Knights of Hacky Sack? Just make that happen.
+Jenny: That's your thing.
+Kristin: Ugh!
+Jenny: That's your thing. Uh, and he's played by a fellow named Justin Gorence, who is from Zimbabwe.
+Kristin: Oh!
+Jenny: And I wanted you to know that I looked up his IMDB and he's known for his work on Buffy, Melrose Place and in the feature film, From Justin to Kelly.
+Kristin: Stop it. Oh my god. Wow.
+Jenny: Yeah. Yeah. And also—
+Kristin: Deeply exciting.
+Jenny: Those were the three things I recognized. And then there was, like, one more credit which is a movie called The Sexperiment. [Kristin laughs] The Sexperiment. The Sexperiment. So. This gentleman, who kind of looks like a cross between Blake Mills and Nathan Fillion, which is I feel like the Venn diagram of people who will have visual ideas in their head for both of those people, seems kinda small. But for those of you who know, now you know. And… he's not giving any info up to Glory and then she sucks out his brain.
+Kristin: Yeah. So I—to me, this confirms that the Knights of Hackysack are human. Because—
+Jenny: Oh. Yeah.
+Kristin: Because we had, like, a little bit of a back—like, are they human? Is it confirmed that they're human? And I feel like this is just a given. Like, you—she must be sucking the brain juice out of only humans. I have a question about that later, actually. But I'm using this as my evidence to prove, once and for all, that the Knights of Hackysack are humans.
+Jenny: Agreed.
+Kristin: Great.
+Jenny: Is there a greater joy on this Earth than watching Anya watch Buffy open birthday presents? [laughs]
+Kristin: No. And as a matter of fact, Jenny, I think we cannot go any further before we hear Anya talking about the birthday presents.
+NOTES: [Clip from episode plays] [paper tearing]
+Anya: This is extremely suspenseful! [pause] I want the presents.
+Kristin: [both laugh] It's just—she has a moment later in this scene where she's like—wants the dress and she's like, "you know you were all thinking it." And that's like Anya's defining characteristic, and reminiscent, of course, of our beloved Cordelia, right? Is like, she's saying these things and she's like, are you kidding me that when you watch somebody open presents, there's not a part of you that just, like, wants to be the one opening the presents, like?
+Jenny: Yeah, yeah, yeah.
+Kristin: Stop playing! [laughs]
+Jenny: Love Giles saying, "well, not me, I have one just like it at home." [laughs]
+Kristin: God, the daddiest of all the dad jokes. [laughs]
+Jenny: Yeah. Uh… and then, grab your tissues, everybody. Because Dawn gives Buffy a framed photo of them at the beach with seashells from that beach walk glued around the edge of the frame. And everyone gets… very emotional. [both laugh] And it's very sweet.
+Kristin: It is very sweet.
+Jenny: Just very moving.
+Kristin: It is.
+Jenny: But Dawn's starting to really clock how everybody's being weird around her.
+Kristin: I mean, who wouldn't?
+Jenny: And Anya and Xander are like, deny till you die, "we were talking about sex, actually."
+Kristin: Oh, this is a great moment.
+Jenny: Like, you know, sometimes, uh, there's a fireman.
+Kristin: Sure. We can get behind that.
+Jenny: Or a shepherd, a sexy shepherd with a big crook.
+Kristin: So tell me—do you—
+Jenny: And a long robe. Probably a beard.
+Kristin: I just wanna know… okay, so. If Xander's a fireman and Anya is, like, in a burning building, save me! Right? Sure.
+Jenny: Yeah.
+Kristin: We get it.
+Jenny: You think Anya's maybe the sheep in the shepherd…
+Kristin: [laughing] You think she's the actual sheep?
+Jenny: Or she's like a milkmaid…
+Kristin: Yeah, I think—
+Jenny: She's a milkmaid and then there's gonna—there's like a mountain lion attack.
+Kristin: Yes.
+Jenny: But the shepherd has his big crook. And he's gonna chase the mountain lion away.
+Kristin: Is that what that thing is called, a crook?
+Jenny: Uh, yeah.
+Kristin: Wow. I just… that's a fun euphemism. So—
+Jenny: I had to use one once because I worked on a farm. And the gate where the 50 sheep were at got loose, got open and they all got out. And I had to get the shepherd's crook and kind of, just gently encourage them to get back in their zone.
+Kristin: What do you do with the crook?
+Jenny: Well, you can, like—there's, you know, it has like the hooked end so you can, like—if you need to maybe, like… I feel like I—
+Kristin: Like, you use it as a leash?
+Jenny: Um, I guess you can. I also feel like I'm picturing illustrations from books where, like, a sheep has fallen into a ravine and it's just like, hanging onto a little root that's sticking out of the ground and the shepherd, like, gets the sheep with the crook and lifts it up.
+Kristin: [laughs] Right.
+Jenny: Kind of like a fire—kind of in a fireman-y way.
+Kristin: Oh wow, so these are—
+Jenny: Maybe the shepherd and the fireman are the same guy and it's Xander. Okay, moving on.
+Kristin: But it was—but Xander was the shepherd and then, like, time travel—so it's like that song you wrote, Jenny, where the couple finds themselves again and again—
+Jenny: [laughing] Wha—okay.
+Kristin: Over time and space.
+Jenny: Okay. Yeah.
+Kristin: Based on an X-Files episode, if I'm not mistaken?
+Jenny: Uh, yes. Yes, correct.
+Kristin: So it's like that, but it's Xander every time.
+Jenny: Wow.
+Kristin: And Anya—yeah. So, sure. Great. I—I—
+Jenny: Truly beautiful.
+Kristin: I don't think that Anya plays the sheep. I think that Anya plays like a—
+Jenny: Sexy milkmaid.
+Kristin: Sexy milkmaid. For sure!
+Jenny: Sorry, milkmaid, just—
+Kristin: Anya would love playing a sexy milkmaid, are you kidding me?
+Jenny: I mean, consider her nightgown. Just think about her pajamas real quick. [Kristin laughs] And… it's not much of a conversion. So Dawn… is very distraught and huffs up to her room. And promptly climbs out the window—
+Kristin: Listen.
+Jenny: Setting off… the greatest team-up this show has seen to date.
+Kristin: [laughs] Yes. I just… why is it that when you have teenagers in your house, you put a trellis directly underneath their window?
+Jenny: Yeah.
+Kristin: Why does that always happen?
+Jenny: Well, for safety, so they don't just jump out the window and like break their ankle, trying to go to that kegger in the field.
+Kristin: [laughs] Right.
+Jenny: Um. Yeah. Dawn gets out and she's creepin' away and she backs right into Spike.
+Kristin: "I wasn't lurking. I was standing about," he says. [laughs]
+Jenny: It's a whole different vibe.
+Kristin: He's brought a, like, fucked-up box—
+Jenny: I think it's that same shitty box of chocolates that he was practicing with?
+Kristin: Yes. [laughs]
+NOTES: [SPIKE jingle plays] Spike! I love you Spike! So dreamy Spike! Your trench coat Spike! I love you Spike! Your black nails Spike! Peroxide
+Kristin: What is the version of events where Spike gives this to Buffy? Like, does he go into the party? Does he wait till after? Does he hope that she comes out to cry on the steps again? Like, what—what even—
+Jenny: Ooh! Maybe.
+Kristin: Yeah.
+Jenny: [laughs] Maybe the last one. [Kristin laughs] He's just biding his time.
+Kristin: Dawn is so tickled by the fact that Spike has shown up with a gift. Again, as she should be. She's sort of like, uh, Lydia the Spike fangirl in the last episode, being like, "what is your deal, though? Like, what—why would you? Why?"
+Jenny: Yeah. Yeah.
+Kristin: And then Spike—yes, and I agree, what is the best pairing of this episode, perhaps. Very fun. Spike and Dawn are in cahoots.
+Jenny: They're in cahoots and they're kinda like—I love Dawn, like, insulting the chocolates, being like, "Buffy wouldn't touch anything from you anyway." And then being like, "oh, you know, oh, I thought I should be scared but it's just you." You know, like—
+Kristin: [laughs] Yeah.
+Jenny: Really cutting Spike down, but like, in a very fun way. And she says she's gonna go to the Magic Box to steal stuff. And he's like, well, there's a lot of bad stuff that could happen to you between here and there, so I'm gonna—I'm gonna come along. And just watch your back.
+Kristin: And protect you!
+Jenny: Which is very sweet.
+Kristin: It is.
+Jenny: Especially for Spike!
+Kristin: Yeah, well, Spike's got a whole thing going on, doesn't he? [laughs]
+Jenny: Yeah, he really does.
+Kristin: So yeah, they head to the Magic Box. And this is very—this might be, like, where the Venn diagram hits its peak of Harriet the Spy and Buffy the Vampire Slayer, because—
+Jenny: Ah!
+Kristin: You know, I mean, she's really Harriet the Spy'ing it up in there with her little flashlight, digging around. "I think I remember him putting it—" I'm like, dude, you were there like, two hours ago and watched him put it in the drawer. [laughs] But okay.
+Jenny: Right, but it's like a—it's not a drawer with a handle, you know?
+Kristin: Ohh!
+Jenny: It's a drawer where she has to reach around under the counter and find a latch and then it pops out. Which...is that a custom build? I guess if you were gonna find—
+Kristin: [simultaneously] Yeah, Xander probably made that shit!
+Jenny: Or if it was already there, then like, of course, in a magic shop—a magic shop would be the most likely retail environment to find a secret drawer. And love that Spike picks the lock. It feels like he's being respectful.
+Kristin: Yes, he says—
+Jenny: Like he could just break in, but he's like, mmm, I got this.
+Kristin: Yeah, he's like, "I'm sorry I'm not quicker at this, I usually just knock the door down." [both laugh]
+Jenny: So Dawn promptly finds that latch and she pulls out the Giles journal, which I was workshopping some portmanteaus that we could—
+Kristin: Ooh!
+Jenny: Possibly use. The Gilesnal.
+Kristin: Ooh.
+Jenny: The Jouriles.
+Kristin: Mm.
+Jenny: The Giournal. [Kristin laughs] Or we could just call it the Giles journal.
+Kristin: [laughs] I mean, I don't know why you would do that when all of those portmanteaus are so wonderful to say.
+Jenny: Mmm!
+Kristin: Giourlesnon. Jersel.
+Jenny: Ha. Okay, so. Dawn gets set up reading by the light of three candles, one of which is a big unicorn candle.
+Kristin: Aww, hey, Harm!
+Jenny: Don't know if you noticed that.
+Kristin: Yeah. That's from the days of Harmony.
+Jenny: Yeah, exactly. We get this great moment where Spike is mucking around behind her, looking for stuff and he's like, "oh, a troll hammer!" He's so excited, and he, like, picks it up and it immediately crashes to the ground because he's not strong enough to hold it.
+Kristin: [laughs] Right.
+Jenny: And he's like, "didn't go with my stuff anyway." [laughs] He's like, such a cat in that moment. [Kristin laughs] Like ugh, no, no thanks, gross. Stupid hammer.
+Kristin: No, I wasn't even trying to—yeah.
+Jenny: Yeah, exactly.
+Kristin: I just wanted to see, like, how hard it could hit the floor. So.
+Jenny: Right. Yeah, yeah. And now I know.
+Kristin: They're also—Spike and Dawn are also sharing the chocolates that he was gonna give to Buffy, which is—
+Jenny: [laughing] Oh, shit! I missed that, that's great.
+Kristin: It's really—it's, like, very fun. It's like—it's like, Buffy the Vampire Slayer funny meets Neverending Story. Like, I—you know how, like, in the Neverending Story, he's got—
+Jenny: He's like, eating a sandwich?
+Kristin: Yeah, he's like—by the candlelight—
+Jenny: Oh, right, right, right. And he, like, stops himself. He eats half the sandwich and then he's like, "no, I can't eat the second half yet."
+Kristin: [laughing, simultaneously] "I better save this for la—this is a long fucking book, better save this sandwich for later." [both laugh] So, anyway. The journal, as we briefly talked about, connects for Dawn some dots, right? That people who are living outside of reality, which Spike tries to define as many things, but one of those can be what he refers to as lunatics. Um, but what we, I think, would refer to as the people who Glory has taken this, um, brain-binding juice out of, right? Those people can see the Key, see the energy that is the Key. And the only other things that can see the energy of the Key are necromanced animals, which like, A plus for getting necromancy in there.
+Jenny: Yeah. Specifically of canine and serpent construct.
+Kristin: Yeah, if only we had gotten a giant dog, you know? [laughs]
+Jenny: Right, that would have been nicer. But so Dawn is like—Dawn is reading this stuff out loud. And she's seeing flash—she's flashing back to people who have approached her on the street to tell her there's, like, nothing inside, or you know, that she isn't real. And she's flashing back to the snake. And then it's, I think, very important that Spike takes over reading duties.
+Kristin: Mm.
+Jenny: Because I don't think Dawn can read what is about to get revealed—she can't read it herself. Like, it's more powerful—
+Kristin: Right, right.
+Jenny: For somebody else to be—and they're the only people in the main cast who remain—
+Kristin: That don't know.
+Jenny: Who don't know that Dawn is the Key.
+Kristin: Yeah. And I think it's—I think it is really, like, spe—I mean, obviously like traumatic and we'll get into that. But it's—it is very special that, like, Spike is reading it to her, but also finding out as he reads.
+Jenny: Right, right.
+Kristin: You know? And of course, James Marsters, as always, doing just a fantastic job carrying so many different, like, emotional bits in this scene and this episode.
+Jenny: Yeah.
+Kristin: So… yeah. This is massive and then spins us off into the rest of this very intense episode. Before we get there, why not, Jenny, have some less intense words from our sponsors?
+NOTES: [AD BREAK]
+Jenny: So I just wanna say before we vault off of this very springy springboard—
+Kristin: Mmhmm.
+Jenny: That I think the choice to have Spike kind of, like, stumble—I think between the writing and James Marsters' performance, the sort of like, stumbling and like, misreading a word because like, Giles' handwriting is really small and he's—he really sounds like—
+Kristin: Yeah.
+Jenny: He's reading and thinking and taking it in all at the same time. It's such a great moment. And then he gets to this part where it says that the monks sent the Key to the Slayer in human form, in the form of a sister, and then we get this, like, look from Spike to Dawn. And he says, "huh. I guess that's you, niblet."
+Kristin: Niblet.
+Jenny: And it's like… damn, dude! [clears throat]
+Kristin: Yeah. And, you know, I think Spike—Spike has always been one of the characters that we've talked about with, like, a lot of foresight and knowledge into emotional matters.
+Jenny: Mmhmm.
+Kristin: And also is a character who has, you know, died and lived a long, undead life, has experienced a lot. And in these moments, you know, Spike has a very specific delivery. It's like if Xander was the one who had read that or Willow or something, you know, the moment would be so different. But Spike's like, you know, been there, done that, seen it all.
+Jenny: Right.
+Kristin: Whoa, dude. That's a big deal! But like, not knocked off of his feet 'cause this is—
+Jenny: Which, like, is so important, I think, to sort of like—to Dawn in this moment and to Buffy later on—
+Kristin: Yes.
+Jenny: When they're looking for Dawn. Like, he's definitely got more perspective and more of a [inaudible] than anybody else because he's been alive for so long.
+Kristin: Right.
+Jenny: You know, and he does have that high emotional IQ. He's able to sort of like, see things zoomed out—way more zoomed out than anybody else.
+Kristin: Yes. Yes. Likely a product of living, you know, hundreds of years, although I'm not sure that Angel got that. [both laugh] I don't know if Angel picked up on that, but most of the rest of them—
+Jenny: Oh, Angel has his moments.
+Kristin: [laughing] Yeah, no, he does.
+Jenny: So cutting to, like, what's really on everybody's mind, what everybody really wants to know.
+Kristin: Yes.
+Jenny: Did Buffy get a birthday card from Riley?
+Kristin: Listen! [laughter] I'm really glad you brought it up, Jenny, because I just wanna take a moment in this little amusing bubble that we will then have to pop to think about if Riley had sent a birthday card, what kind of birthday card do you think Riley Finn would have sent to Buffy Summers? Like, what—what kind—what do you think would be on the cover?
+Jenny: Golden retriever wearing sunglasses and a party hat. [Kristin laughs] And then inside, it's like… "It's ruff to be away from you on your birthday!" [Kristin laughs harder] What do you think?
+Kristin: Well, I would like to choose that option, but I—in my thinking of it, I kind of thought that Riley, like—I kind of thought that Riley would get a card like your mom would get for you. Like, one of those cards that—
+Jenny: Yeah, that's basically what— [laughs]
+Kristin: Well, actually, that is the card that your actual mom, uh, Jenny, would get for you.
+Jenny: Oh, yeah, yeah, yeah.
+Kristin: So I guess maybe we have the same answer, but different moms.
+Jenny: Right, right.
+Kristin: So my mom would get for me those cards that already have, like, the poem on the front. But then she would, like, underline it as though she had written it herself, you know?
+Jenny: [laughing] Oh, yeah!
+Kristin: [laughs] So—
+Jenny: Yeah, like "here are the really important words."
+Kristin: Right. And the important words would be like, "you." Or like— [both laugh] so I just feel like maybe Riley would get a card like that—
+Jenny: Right.
+Kristin: That was like, deeply emotional but where he didn't write the words but wanted to convey some of his, like, emotional feelings to Buffy.
+Jenny: Mmhmm. But we'll never know—or just a card that was like, balls.
+Kristin: [laughs] Yes.
+Jenny: And it was like, all different sport balls on the front. But we'll never know because Riley's too busy respecting Buffy's space—
+Kristin: Yeah.
+Jenny: To send her a birthday card.
+Kristin: Sure. Sure. Or he's—
+Jenny: And—and—
+Kristin: Walking through the jungle, who knows?
+Jenny: Well, probably both.
+Kristin: Right. Okay.
+Jenny: But Buffy comes up with a new plan. Birthdays without boyfriends.
+Kristin: Oh, right.
+Jenny: A program I've been involved in for 38 years.
+Kristin: [laughs] I got 39 on ya, so.
+Jenny: Uh-huh, uh-huh. [Kristin laughs] So they're having this, like, fun… I mean… [laughing] it's not exactly fun.
+Kristin: Fun, relatively speaking.
+Jenny: Bittersweet, but like, making the best of it, making jokes about it. And then Tara—and of course it would be Tara.
+Kristin: Yeah.
+Jenny: Sees Dawn across the room.
+Kristin: Yeah. And so this turns a very, very hard corner, I think in the season. You know, not just the episode, but definitely in the episode, where Dawn has, you know, as we could understand it, come home from the Magic Box with the knowledge that she is a mystical force, that she didn't exist, you know, however— she doesn't know anything at this point. And she has cut herself. And she's walked in and she's bleeding. And she says, "Is this blood? What am I? Am I real? Am I anything?" And I tweeted about this and I texted you earlier today, Jenny, about it. Because, you know, shows like Buffy use metaphor to also talk about real things. Like, high school is hell, right? The most obvious one in Buffy. And dating is fucking rough, and dudes can be assholes.
+Jenny: Sure.
+Kristin: And so I think that, you know, we are seeing the fantastical, which is that quite literally, Dawn has just, like, learned that she is actually not a human be—like, that she is a mystical force.
+Jenny: Yeah.
+Kristin: And she cannot comprehend that. She does not actually k  now if she exists. And the first thing that she does is she wants to see, like, then what the fuck is inside—like, what am I?
+Jenny: Right.
+Kristin: But then on the reality, this is a 14-year-old girl. And self-harm is something that is very common and that I think you and I can both speak to and have had experience with and many of our listeners. This is a real thing. And so there's two things for us to look at. And I think we will now and maybe as the episode goes on. But Jenny, what are your thoughts?
+Jenny: Well. I think it's interesting. I mean, I think it make—[sighs] it's tough because it—I think it does make sense as a stand-alone—
+Kristin: Right.
+Jenny: Kind of existential crisis moment for her to be discovering that she is not what she has thought herself to be. And then, looking to the most directly obvious place for an answer that she can think of. Well, if I'm not a human, then what's inside of me, right?
+Kristin: Right.
+Jenny: But it is—right, like, it's confusing and conflated with this other narrative, that is also—you know, can be really interwoven into existential crises experiences.
+Kristin: Yes.
+Jenny: Of self-injury. It's—it's—I don't think it's a spoiler to say they never really come back—this is, you know, basically like, a one-shot, that they don't come back to this. It's not like a developing narrative.
+Kristin: Right. Right.
+Jenny: So it sort of ends here, which on one hand, I feel like does make sense. And on the other hand, I could see, like, how it might feel like something is being kind of used in a way to sort of like, move the plot. Or like, something is being touched on that's like, bigger and much more serious. It's just kind of like the teenie tiny tip of the iceberg.
+Kristin: Mmhmm.
+Jenny: Of, like, a very real thing.
+Kristin: Right, and—
+Jenny: But it's not explored or even, like, really addressed.
+Kristin: Right. And we heard from one of our listeners who wrote in to say, like, this episode was actually super pivotal for me because when it happened, my mom said, like, you know, that's—how stupid for this girl to do that. And this person got very upset and it wound up sort of getting to a place where they both wound up in tears and this person said, you know, I do these things and was able to, like, seek help and talk to somebody and what have you. So you know, there is something to be said for this being in the episode. But it is where—and I think the show grapples with this with a lot of things—is that, how do you move a sci-fi fantasy show along its plot—you know, well, cleanly—and also touch on things that are very real and very serious, and do both responsibly. And I know that you—I know that it's possible. I'm certainly—like, I'm not saying that to say, like, "well, it's not possible to do both." 'Cause it is, but I think that it's difficult and I think that what winds up happening often is—in this show and in others—is that we see some but then it's like, well, now what do we do with it? Like, now what do we do with it when we got—like, that we've gotten here, how do we—do we go further or like, maybe we can just go somewhere else. So I just think that it's important to put a—like, to—for us to talk about it. And also, to talk about it in the larger context of the trauma contained within this show, which we get episodes that look at that. And this is one of them. And it's always, like, shocking, right? Because this is a television show and there's a lot of humor in it, there's a lot of fun in it, we're, you know, having many plot lines happening at once. But when you really think about the reality, the lived reality of the characters in this show, they're all experiencing massive amounts of ongoing trauma. And Dawn right now is at the center of that storm. I mean, she has learned, in an instant, that everything she has known about herself is not what she thought it was, that her memories of her own life have been fabricated. All of the other people around her had trauma experiencing that as somebody else. Dawn has to carry this now as her, and that is something, like, to take it even one step out of the self-harm that we see. Like, that is something that is going to impact Dawn and would impact Dawn forever. That is a massive trauma that happens to her in this episode.
+Jenny: Yeah. You know what's really interesting that is just occurring to me for the first time, that this is actually maybe an incredible moment, or an incredible piece of information for Dawn to get, that could help—
+Kristin: Mm. Mmhmm.
+Jenny: Her and Buffy relate to each other. Because Buffy is one girl in all the world and Dawn is, as she's just learned, one Key in all… of existence.
+Kristin: Yeah.
+Jenny: Which is pretty sick. Pretty interesting.
+Kristin: Yeah. Yeah. I was thinking about that when I said it, actually, that like, oh, I guess Buffy had a moment when she was, you know, basically Dawn's age, if we're really thinking about it. When everything she knew to be true about the world and her identity became undone.
+Jenny: Yeah.
+Kristin: She didn't lose her, like, biological tie to family, you know? But she did have this, like, everything you thought you knew is not true trauma. So I agree, they really do share that.
+Jenny: And man, really, hats off to Michelle Trachtenberg this entire episode—
+Kristin: Yeah.
+Jenny: But in this scene particularly, she is just… doing it, man!
+Kristin: Yeah, yeah.
+Jenny: She is, like, crushing so hard and I would—I would say, I feel like—this is the episode where Michelle Trachtenberg shows us that she can keep up with Sarah.
+Kristin: Yeah.
+Jenny: And with James too. I mean, like, the scenes that she shares with each of those, who are like, two of the strongest performers obviously on the show. I—it's just—she's just incredible. And it was hard for me to appreciate on my earlier watches of the show because I was so like, "oh my god, who is this kid?! Get me out of here!"
+Kristin: Yeah.
+Jenny: But she's really doing amazing, amazing work.
+Kristin: I agree. I agree. She does—I mean, and it—I think that it starts in this moment and like, carries through, through the episode. Because when we see her— even in—what I love too about this episode is that we go right from this moment to Joyce and Buffy being upstairs with her. And it sort of—it just mirrors, I think, a lot of traumatic experiences, that there's like, this traumatic moment happens and then you're upstairs and you're talking. But that's not the end, right? Like, that isn't—it's not like Buffy and Joyce can talk to her and make it better.
+Jenny: Right.
+Kristin: They literally cannot make it better. And so then after they talk to her, we see her then going through a second round of destruction. This time, on physical objects in her room, on her journal, which she finds, you know, these fake thoughts now.
+Jenny: Right.
+Kristin: They weren't even hers all along, like, these are the things she's struggling with. And I just think that that sort of journey that we go on in the episode is brilliantly done and beautifully done.
+Jenny: Yeah, yeah.
+Kristin: And I think, you know—again, talking about mixed metaphors and maybe some of the power of sci-fi and fantasy is that we can, a lot of times, lay our own experiences over the stories in ways that feel so true. Whereas, like, in a show that's based in reality, like, this would be a self-harm story line or this would be an adoption story line. Or—you know. And this… it's complicated because it's fantastical. But there's also a lot more going on. And this scene with Joyce and Buffy is really paralleling, like, adoption. And like, why didn't you tell me? And them saying, like, we wanted you to be older. Not knowing your roots and the theme that begins now and carries through the rest of the episode of like, she needs to understand who she is and where she comes from. Like, she has to be able to learn her history to feel complete. Which I think is understandable, given the fact that she is learning at age 14—although, debatable. Six months, 14, as old as time. Who knows how old Dawn actually is? [both laugh] But that she's finding out at 14, in her memory bank, that her mom, Joyce, is not her biological mom, her sister is not her biological sister, what does that mean?
+Jenny: Right.
+Kristin: And what does she need to know to form a picture of herself for herself?
+Jenny: Mmhmm, mmhmm. Okay, so Buffy is now very motivated to get answers about the origin of the Key… for Dawn. And it's weird that she wasn't [laughing] already motivated to get answers about the Key—
+Kristin: Right.
+Jenny: For the purposes of thwarting Glory, but here we are.
+Kristin: Yeah. I mean, I guess there's something there, right? That like, Buffy's norm is to, like, fight big bads. But when a member of her family is in direct peril, that energy shifts.
+Jenny: Right.
+Kristin: And I think that makes sense. I think that she values—I mean, this is kinda dark, I guess, but I think that she values the life of her family much more than her own life.
+Jenny: Mmm.
+Kristin: You know? Especially at this point in the series and especially because, like—she, I think, on the level of knowing, like, my job is to fight evil, finds family and friends to be more vulnerable. And, you know, that inspires the need to protect, too.
+Jenny: Yeah, yeah.
+Kristin: Listen, Michelle Trachtenberg—we cannot skip over the incredible scream of "get out"—
+Jenny: Oh my god.
+Kristin: That you do. It is phenomenal and I think sticks with many of us. [laughs] We remember this moment.
+NOTES: [Clip from episode plays]
+Dawn : Get out.
+Buffy : [whispers] Dawn…
+Dawn : Get out, get out, GET OUT!
+Jenny: Yep, yep.
+Kristin: And, yeah. And so Buffy—right, she runs to the Magic Box. Dawn deserves to know where she came from. I need to get her this information, I need to find out more information. Wait, what? Why is there ash tray [sic] in this… whatever it's in.
+NOTES: [laughs]
+Jenny: Uh, the Urn of Ishtar has been ashed-in. [Kristin laughs] And Buffy's like, I know somebody that smokes and also does some light B&E.
+Kristin: B and E?
+Jenny: Breaking and entering?
+Kristin: Oh! [laughs] Yes, and who also does his own nails.
+Jenny: Yeah! So she sweeps over to Spike's crypt. And a lot of misplaced anger here. "How could you let her find out like that?" Lady…
+Kristin: Mmhmm.
+Jenny: Lady. [singing] "Take a look in the mirror!"
+Kristin: Well, and what I love about Spike, right, is that, like, as obsessed with Buffy as he is, he's still like, "Lady!" [laughs]
+Jenny: Yeah, yeah, exactly. Love to see him kind of shine a light, like, he just found out too! Like, he had no idea.
+Kristin: Yeah, and—
+Jenny: And nobody tells him anything. And, like… all of this was within Buffy's control, not his.
+Kristin: And what we do know about Spike—
+Jenny: She's clearly mad at herself.
+Kristin: Right.
+Jenny: Sorry.
+Kristin: What we know about Spike at this point, as the viewer, is that had Spike known—which, you know. I mean, I can certainly get behind not telling Spike for a variety of reasons.
+Jenny: Mmhmm.
+Kristin: But we know, because we can see the inner workings in the background of what's happening with Spike, that had he known, he would have made sure that she did not go to the Magic Box.
+Jenny: Yeah.
+Kristin: Like, we know that his mission is to protect her, because he is obsessed with Buffy—
+Jenny: Mmhmm.
+Kristin: And wants to do anything to gain Buffy's favor. So he's making points, but I—you know, Buffy has at least a bit of a leg to stand on here with the fact that what she knows of Spike is that with the information, he could be up to no good. He might even be up to no good right now, who's to say?
+Jenny: Mmhmm, mmhmm, mmhmm.
+Kristin: Dawn, back at home—a super, super horrible moment when she turns to Joyce and says, "You're not my mother."
+Jenny: Ugh, brutal.
+Kristin: Yeah.
+Jenny: Brutal!
+Kristin: All, again, like, part of Dawn's emotional journey through this trauma that has just happened. And you know, we don't see, like, a bunch of the detail. But it is clear, I think, that both Buffy and Joyce, as hurt as they might be by Dawn's acting out, are very understanding of the fact that is coming from a place where she is acting out because she is so, you know, devastated and upended by this.
+Jenny: Yeah.
+Kristin: So, yeah. Hey, something else that we see in this episode a little bit later is Glory and Ben morphing into each other. Which—
+Jenny: [laughs] Sure, yes.
+Kristin: Might just be relevant when we hear the next scene between Jinx and Ben. And Ben says, "Glory can't lay a finger on me." We don't know why when he says it, but we kinda learn why later in the episode. [laughs]
+Jenny: Right, right.
+Kristin: What?! We'll get there.
+Jenny: Right. And this comes up because Ben goes into the ward with everyone who's had their brain juice sucked out. And recognizes the tattoo on the forehead of Orlando. And he's like, "Byzantium." And then—
+Kristin: You love calling him Orlando. Like, I had no idea what his name was and you've said Orlando, like, twelve times in this episode.
+Jenny: It's a fun name to say. Let me live. [Kristin laughs] Yeah, and um. Jinx has this line that I think is really cool, where he says the Knights of Byzantium are like ants. First you see one, then two, then the picnic's ruined.
+Kristin: Mmhmm.
+Jenny: I wonder like, how many times Glory has tried—had to evade these chainmail fellows?
+Kristin: Why does she keep getting sent out of her hell dimension or wherever she's from? Like, wh—I—I just—
+Jenny: We—I'm sure we're gonna find out at a later time.
+Kristin: Okay, great. Um, Kristin just playing the part of the first-time viewer—
+Jenny: Right. Right.
+Kristin: Because she doesn't remember anything. [Jenny laughs] Okay, so. We go back to the house and this is the scene—I can't remember what this is called. But it's like, this device used in shows where the character hears the wrong part of the dialogue, right?
+Jenny: Oh, does it have a name?
+Kristin: I think so. I don't know, it's making me think about Joanna Robinson and conversations we had. And maybe it doesn't have a name, but I thought it did. If it does, you can let us know. Tweet at us @BufferingCast. Okay. So. Dawn doesn't hear the, you know, "she's my sister" and blah blah blah. She doesn't hear the, "I was just saying what Dawn probably feels right now." All she hears is "she's not real, we're not her family, we don't even know what she is." Buffy is, as she says, is giving voice to what Dawn must be feeling. But Dawn hears it as what Buffy is saying to Joyce.
+Jenny: Yeah.
+Kristin: So she pulls everything off of her walls, she tears her diary.
+Jenny: Anybody know what band that is that she rips a poster down of?
+Kristin: Ooh, I didn't see.
+Jenny: I couldn't place it, but if you know, please let us know.
+Kristin: And then, as we learn a minute, you know, later, she sets a bunch of shit on fire in that garbage can and she leaves. Runs away.
+Jenny: And Buffy's first reaction—
+Kristin: [laughs] Oh my god.
+Jenny: Is to be like, "Dawn!" Her second reaction is to throw a blanket over the flame. She sees that Dawn is gone and then her third reaction is to reprise her role as the Ikea monkey—[Kristin laughs] and put on another big, fluffy, tan jacket thing.
+Kristin: Yeah. I will say also that when the fire alarm first goes off—this just made me have a good chuckle. 'Cause when the fire alarm goes off, Buffy's like, oh no, it's the spell that Willow and Tara set to, like—you know, 'cause they were like, an alarm will go off if Glory breaks the barrier. And so—
+Jenny: Right, right.
+Kristin: I love that in Buffy's mind, the alarm literally would be just like a fire alarm. "Beep, beep, beep!"
+Jenny: Sound just like a fire alarm, sure, yes. [both laugh]
+Kristin: Anyhow, yes. The Ikea monkey is off to save Dawn. Knights of Hackysack—this is where we get the origin of it, Buffy says "Knights of Hack and Slash." And she sort of is like, at the helm, "you do this, you stay here, you go there," sending everybody on their tasks to save the day.
+Jenny: And we see this shot of Dawn walking slowly through a playground. And who among us, when having an existential meltdown, has not done a slow walk of sadness and confusion through a local playground?
+Kristin: Don't you, like—was there a part of you that kinda thought Drusilla might be there? 'Cause, like, this dark—
+Jenny: A little bit. That's Dru's playground.
+Kristin: Yeah, it's Dru's playground and every time I see it, especially at night—
+Jenny: [singing] "It used to be Dru's playground…"
+Kristin: [laughs, sings] "Used to be…"
+NOTES: [DRUSILLA jingle plays] Dru… silla You… fill up My heart with dread And still I’m led Right back to you
+Kristin: So—
+Jenny: Okay. Get a load of these fucking—thank god these experts are on the case. Giles and Xander are in one of Sunnydale's many back alleys. Giles is, like, looking in the dumpster? [Kristin laughs] He's like, looking all kinds of stupid-ass place—I mean, no stone unturned, but—
+Kristin: Listen. To bring us back to Neverending Story, that is where we find what's-his-face. So.
+Jenny: Oh yeah, that is where what's-his-face hides.
+Kristin: He's hiding in the dumpster, yeah.
+Jenny: Uh, Tristan. Nicodemus. Aloysius.
+Kristin: All I can think is Atreyu, but that's… the other one.
+Jenny: It's not Atreyu. That's the other guy. [Kristin laughs] Okay, so. They're looking for Dawn in every possible nook and cranny. They're like, this space wouldn't fit a 14-year-old girl but I'mma just be… certain. You know?
+Kristin: So here's the thing, Jenny, is I'm gonna give major points to this episode and all of its characters except for Xander. Who's been having a great streak. But this is like… the writing of Xander in this episode is like harkening back, I posit, to like, Season 2 Xander bullshit. Because he's tickled Dawn in the beginning, which made me wanna die. And then he has this moment with Giles where he's like, "so you're saying, like, she's like a really powerful energy? Because like, she has a crush on me, so just so you know, powerful energies have crushes on me. " And I'm like, really dude?
+Jenny: Okay. Counterpoint. If I may.
+Kristin: Please.
+Jenny: May I?
+Kristin: You may.
+Jenny: Okay. So as for the tickle scene, like, I think it's really right on of you to have brought up the fact that he's, like, looking for a way to make sure that she is like a solid being? You know?
+Kristin: Mmhmm.
+Jenny: And he's known Dawn since she was, what, like, 10? And he's always—he's such a goofy guy that it seems like their relationship has been such that this would not be totally out of character for, like, them horsing around or like, goofing?
+Kristin: I'd have liked a noogie instead.
+Jenny: Sure, agree. Totally agree. But it doesn't, like, ring a danger bell.
+Kristin: No.
+Jenny: It's just like, wow, everybody sure is awkward right now as they're trying to figure out how to deal with this. And then, with regard—[starts laughing] with regard to the, like, "yeah"—like, this feels very in Xander's character where he's like—when he has a thing he can be proud about, even if it's like, this bizarre sort of like mental obstacle course that he goes on. Where he's like, "well, she is like a powerful being, you know? A big, magic energy. And she's got a crush on—of all the guys she could have a crush on, she's got a crush on me." And he's telling it to Giles. It's like a self-fulfilling… self burn. It's like, dude. He's just basically giving Giles the opportunity to have a hilarious reaction, where he's just like, I have no time for this. And like, whip off.
+Kristin: I will give you—I will give you, Jenny, one of two. He—Xander either gets to have all the memories of knowing Dawn forever and pull that bullshit tickle move, which I would prefer was different. Or he can be rooted in that she's not a 14-year-old girl, she's a mystical blob, and be—[Jenny laughs] I'll give you one of two. He does not get both, in my book. So that's my—
+Jenny: But I feel like the whole point of this episode is that she is both—
+Kristin: [unconvinced] Okay.
+Jenny: A mystical Key and also… a 14-year-old girl.
+Kristin: Fine. Xander still gets a C minus from me in this episode.
+Jenny: Okay, that's fine.
+Kristin: Okay, so. We go to the—uh, we go to Dru's playground. And Spike and Buffy are now there. And Spike says this thing that I brought up, because I think it is what ties together this, what is mystical, what is not. You know, she is not only dealing with the fact that she is a mystical Key. She is also still an actual 14-year-old girl dealing with a lot of hormones and dealing with a lot of other—you know, like, there's a lot going on here in the real world and in the mystical world together.
+Jenny: Mmhmm, mmhmm.
+Kristin: And Spike, you know, is back in his lane of like, I'm here for Buffy. And he looks at her and he says, "You will find her." 'Cause he just wants her to feel better.
+Jenny: And then… that is great. And then Buffy says, "Maybe, like, I will find her. And then what?"
+Kristin: Yeah.
+Jenny: You know? Like, ooh! Great question. Meanwhile.
+Kristin: Yeah. And then we're like, Buffy, don't worry. There's still nine more episodes of this season, so you have plenty to do.
+Jenny: Yeah, for you to figure it out, yeah.
+Kristin: Yeah. [laughs]
+Jenny: So. Dawn sees an ambulance and suddenly remembers that she knows a nice hot grown-up with a stethoscope. [Kristin laughs] She's like, let me go to the hospital where Ben and also a lot of people who have said weird shit to me all are.
+Kristin: Yes.
+Jenny: Maybe I can get some answers there.
+Kristin: Yes. And that's really interesting, Jenny, because that's what I thought. I was like, oh, she's going to the hospital for Ben. But then when she got there, I was like, oh wait, she wasn't going to the hospital—like, her initial reason for going to the hospital was to go to the mental ward to walk in to see if she could find out more about who she was. I don't think Ben was really part of her plan until she ran into him at the hospital.
+Jenny: Yeah, yeah. Ugh.
+Kristin: So this is—
+Jenny: For better or for worse.
+Kristin: Yeah. And this is a really devastating scene and brilliantly acted by Michelle Trachtenberg as well, where she's in the ward with all these patients and they're all looking at her. And she's just saying "what am I? What am I?" And it's just so painful, because—
+Jenny: Ugh.
+Kristin: We're tying it together with them all saying, like, she just needs to know her history, she needs to know who she is. Like, she has to be able to put together a picture for herself, for her to even be able to take a step forward at this point. And so the fact that she has to go here to the hospital to find those pieces, and that she's there by herself, is just like—it's just so devastating. And the—your best bud, Orlando here.
+Jenny: Mmhmm, mmhmm.
+Kristin: Sort of says, "you're a destroyer. The Key is the link." And so she's obviously not thrilled with the information that she has. Jenny, do I have a moment to tell you about a little 90s rabbit hole that I fell down because of this scene?
+Jenny: Please!
+Kristin: So, um, I was reading on IMDB and one of the points that was brought up on IMDB is that something that the patients in the hospital are saying is "what's the frequency?" And that that is a direct nod to… well, so I thought when I was reading, I was like, oh yeah, direct nod to What's the Frequency, Kenneth? That song that I know.
+Jenny: Mmhmm, mmhmm.
+Kristin: Do you know the backstory of this song and like, where it came from?
+Jenny: Please tell me.
+Kristin: Okay, so. Oh, I didn't know. I thought maybe you, a knowledgeable musician who knows lyrics to things way more than I do and also, you know, information way more than I do, might even know.
+Jenny: This is something that I read an article about at one point, but did not retain.
+Kristin: Yeah, so. Okay, so. You know who Dan Rather is, right?
+Jenny: Mmhmm.
+Kristin: So in 1986, when he was walking to his apartment in Manhattan, he was attacked by a man who, in addition to attacking him, screamed over and over again, "Kenneth, what is the frequency?" So it became this whole thing. Some people didn't believe Dan Rather's story because it was like, what the hell? And it eventually—literally, over ten years later, in 1997, uh, somebody in the New York Daily News solved the mystery, if you will. The man who attacked him was under the impression that the—NBC and other television establishments were using frequencies to get into his mind. And so that's where that came from. And so this whole thing inspired the chorus and the title of R.E.M.'s "What's the Frequency, Kenneth?"
+NOTES: [part of "What's the Frequency, Kenneth?" starts playing] "What's the frequency, Kenneth?" is your Benzedrine, uh-huh
+Kristin: I will end this 90s rabbit hole for you by saying that I think in 2008? R.E.M. played a concert at Madison Square Garden and Dan Rather came onstage and sang "What's the Frequency, Kenneth?" with R.E.M. Thank you very much for going on this journey with me. [laughs]
+Jenny: Wow.
+NOTES: [song fades out]
+Kristin: It just was like—
+Jenny: Wow.
+Kristin: You know when you, like, click on something and then you're like, what? And then you click on something else, you're like, what?! And then it ends with a Youtube video and you're watching Dan Rather sing onstage with R.E.M. and you're like, I don't understand what has happened.
+Jenny: Oh my god.
+Kristin: Yeah. So anyway. Back to Buffy the Vampire Slayer.
+Jenny: [clears throat] Yes indeed.
+Kristin: Um, Ben makes Dawn cocoa. Just like Joyce made Spike cocoa.
+Jenny: Aw.
+Kristin: We learn here, major difference between Dawn and Spike.
+Jenny: Ha!
+Kristin: Dawn hates the marshmallows, Spike loves the marshmallows.
+Jenny: Mmhmm, mmhmm, mmhmm.
+Kristin: They'd be great—if they ever have to, like, hang out together again, they'd be great to share Swissmiss packs.
+Jenny: Right.
+Kristin: Because Spike would get double the marshmallows. And Dawn could get none.
+Jenny: Yes, and he would love that.
+Kristin: They'd both be happy. Yeah.
+Jenny: Mmhmm, mmhmm. So. Dawn's pouring her little heart out to Ben. She's like, ugh. Everything's difficult and Buffy and whatever. And Ben tellingly says that he has a sister. [Kristin laughs] And there have been nights he wished she didn't exist too. And Dawn's like, "no, the problem's not Buffy, it's me. I'm just a thing the monks made so Glory couldn't find me." And Ben's like, "ohhh fuck! [both laugh] You're the Key!"
+Kristin: Ben's like—
+Jenny: "Run. Run."
+Kristin: Ben's, like, physically trying to shove Dawn's words back into her mouth. He's like, "stop it, stop it! Stop talking, please!"
+Jenny: Yeah.
+Kristin: I mean, we all are.
+Jenny: Yeah, yeah, yeah.
+Kristin: We're like, dude, not this guy. Please don't tell this guy. And then, just as we are frustrated with Dawn 'cause we're thinking, oh no, Ben, I guess, is Glory's sister [sic]. Uh, we take a hard turn into Animorphs over here. But it's not Animorphs, it's Ben morphing into Glory right before our very eyes!
+Jenny: Whoaaaa!
+NOTES: [BEN IS GLORY jingle plays] Ben is Glory! Glory is Ben! Ben is Glory! Glory is Ben! In case you forget, I'll say it again Ben is Glory! Glory is Ben!
+Kristin: What the [singsong] fuck! Ba-ba-bum!
+Jenny: Yeah. It's intense.
+Kristin: Anyway.
+Jenny: Whew.
+Kristin: Turns out these two morph into each other, but as we learn very shortly after, they don't hear—like, when one is one, they're not retaining the information that the other has gotten. Thank the lord. [laughing] Yeah, another convenient plot detail is that apparently Dawn doesn't remember seeing Ben morph into Glory, so. Hmm.
+Jenny: Right. So. Glory morphs up out of Ben and is like, "Hey, don't I know you?"
+NOTES: [both laugh]
+Kristin: Well, the first thing I think she says is, "Ugh, cotton!" [laughs]
+Jenny: Right, right. She's taking off the scrubs and putting on her red dress. And she's like, "rawr!"
+Kristin: Which, like—
+Jenny: "Makes your skin sing!"
+Kristin: Which like, Jenny, minor detail is that Glory keeps a spare silk red dress in the hospital locker room for the moments like these.
+Jenny: Yeah. So it's like—does it—does Ben slash Glory keep the red dress in a different locker? Or is there a possibility that somebody's going to see Ben's locker full of his stuff and also a red dress?
+Kristin: I assumed that it was Glory—that, like, Ben didn't even know—
+Jenny: Glory has her own locker?
+Kristin: Yeah, Glory has her own secret locker that Ben doesn't even know is there. And she's like—there's probably a couple pairs of shoes in there, you know.
+Jenny: Right, right. So many shoes, oh my god.
+Kristin: [laughs] So. Then she—now if Dawn hasn't had a fucking bad enough day, she then witnesses Glory snap the neck of a hospital employee, directly in front of her, which is pretty rough.
+Jenny: Yep.
+Kristin: Just about at the time that the Scoobies arrive at the hospital. They are looking for Dawn, and well, they find her so that's good.
+Jenny: Yeah, well, it helps when, just as you get to the hospital, somebody walks by and is like, "whoa, you gotta see this guy, his head is twisted clean off! [Kristin laughs] He's right up here in Room 402, come get a look!" [both laugh] And they're like, well, we guess Glory is here.
+Kristin: And this—right. And this continues Dawn's search for information. You know, we saw her first up with the patients, asking them "who am I, who am I?" And then now, she's with Glory. And she does use her wits, and she does kinda trick Glory for a little bit here, enough to get a little information from her. But this is— you know, makes me equally as sad to watch Dawn sort of say—
+Jenny: Oh!
+Kristin: You know, "is it evil?" And Glory is like, "Yes! Well, actually, I guess it depends on if you yourself are evil. [both laugh] Which I am."
+Jenny: Right, right, right. I think this is another really incredible bit of work from Michelle Trachtenberg, just watching her face. Kind of like, the control and the fear and the panic. Like, she's terrified but she's, like, willing herself to keep it together and also trying to control her reactions to the information that she's getting from Glory as it's coming out of Glory's mouth—it's just, like, so—
+Kristin: Yeah.
+Jenny: Great and complex. And I just think she's doing such a great job.
+Kristin: Yeah. Glory, who has many nicknames of her own, refers to Dawn as "tiny snapdragon." Which so far—
+Jenny: Uh-huh.
+Kristin: "Niblet" was high, but "tiny snapdragon" might be my favorite nickname Dawn has so far.
+Jenny: Hmm.
+Kristin: She tells her a little bit about the Key. And then is like, "I smell a fox in my hen house," right. She's onto Dawn. And so she's like, oh, I know what I'll do. I will just eat you, you know, I'll suck your brain juice out because I wanna piss the Slayer off anyway and that's perfect. She doesn't get to, but I just want to know—I'm dying to know, what do you think would have happened if she tried to brain-suck Dawn?
+Jenny: Oh my god, that's a great… great question.
+Kristin: Right?
+Jenny: Well, it's like—
+Kristin: Like, because Dawn is human.
+Jenny: Right, so she's got brain juice. But also, like… has Glory touched Dawn? Yeah, I guess she has.
+Kristin: Yeah. She has—
+Jenny: Right?
+Kristin: I think she has.
+Jenny: Or has she? Or has she just intimidated her by, like, basically teleporting and shit? Like… I don't know if we've seen her—this is a question that came up for me while I was watching. I was like—
+Kristin: But she—she—
+Jenny: What's up with Glory being inches away from the Key and not being able to perceive it? And surely, if she touched it—
+Kristin: You think, though? Like, because supposedly to—also! Ooh! Deeper question. 'Cause what I was about to say is well, she's not a necromanced snake or dog. And she is also—she has the brain juice. But do you think that the weaker that Glory gets, the more she can see the energy of the Key? Because like, if when she takes that brain juice out of the people, they can see the energy of the Key, then if she's depleting, would she see the energy of the Key? She wouldn't know it if she would?
+Jenny: Hmm. Well!
+Kristin: I think she can touch Dawn and not know. But I do wonder if it would have been, like, the best little Happy Meal she ever did eat, if she sucked the brain juice out of Dawn and then the Key shimmer sorta like, you know, escaped. Then she got a meal and a Key all in one.
+Jenny: Huh. Yeah, I—hmm.
+Kristin: I know, I'm just—you know. Write in with your thoughts to us, bufferingthevampireslayer@gmail.com. I wanna know what you all think would happen.
+Jenny: Luckily, we don't have to find out in this episode because Buffy shows up just in the nick of time and is like, importantly, "Get away from… my sister."
+Kristin: Yes! And also importantly: "Conversation's over, hell bitch." [both laugh]
+Jenny: So much great stuff in this fight scene.
+Kristin: Yeah.
+Jenny: Love Spike holding Glory while Buffy punches her and he's like, "thought you said this skank was tough" and then she pretty much immediately beats the shit out of—like, beats Spike into unconsciousness. [Kristin laughs] And then says—oh my god. "If he wakes up, tell your boyfriend to watch his mouth." Firing up Buffy. [both laugh]
+Kristin: Yeah.
+Jenny: Her "he is not my boyfriend" punch probably packs 20 to 40 percent more of a wallop.
+Kristin: Yes. Yes.
+Jenny: Than previous punches.
+Kristin: Then kicks Glory and Glory is like, "love your shoes!" [laughs]
+Jenny: Yeah, like, grabs her ankle so she can look at the shoe for a beat.
+Kristin: It's nice that for once Buffy is not wearing her brown, uh, knee-high boots.
+Jenny: Sensible boots.
+Kristin: I don't think that Glory would have been a fan of those.
+Jenny: No, no, no. Then we see Giles and Xander getting whooped. You can see a pretty clear-as-day shot of Giles's stunt double.
+Kristin: Oh, really?
+Jenny: Going down. Yeah. [both laugh] So take a look back at that. And then—
+Kristin: It's Latin o'clock over in Queer Town.
+Jenny: Latin o'clock in Queer Town, it is. [Kristin laughs] Tara and Willow are somehow going unnoticed as they do their vending machine magic.
+Kristin: Mm, sometimes bisexual erasure is great for everybody. Ba-dum-bum-tch!
+Jenny: [laughing] Oh my god. I wonder if—I don't know if you noticed, but in the ward where Glory's snack victims are currently staying—
+Kristin: Mmhmm.
+Jenny: There is a vending—inexplicably, there is a vending machine—
+Kristin: Stop!
+Jenny: In that room.
+Kristin: Does it say "cold drinks"?
+Jenny: And I wonder if its proximity is giving Willow and Tara more power.
+Kristin: Oh my god. How—listen, this episode could have only been better had their Latin o'clock summoned the vending machine once again. And smashed Glory with the vending machine.
+Jenny: Uh, that would have been pretty tight.
+Kristin: Yeah. But instead, I will say—you know, we talked earlier in Season 4 about how certainly, queer sex is two witches moving a vending machine by interlacing their fingers. And I will say, another version of queer sex is teleportating a god into space. Right?
+Jenny: Yes. That is correct.
+Kristin: Did you also like "teleportating?" 'Cause I did.
+Jenny: Ye—well, you got there how you needed to get there. [Kristin laughs] And I celebrate that. Um. Yeah, that's definitely doing it. They teleport Glory somewhere but they don't know where. Turns out, it's thousands of feet above Sunnydale.
+Kristin: [laughs] A shooting god.
+Jenny: And we get this great—yeah, a shooting god moment. Also, Buffy—before that happens, Buffy takes—is it a crowbar that—
+Kristin: Yeah.
+Jenny: That Glory throws and Buffy takes it basically in the chest to protect Dawn. Which, I'm sure, is helping.
+Kristin: Mmhmm.
+Jenny: Helping Dawn, you know, reconnect with the fact that Buffy and Joyce are her family, regardless of her origins, you know?
+Kristin: Yeah. And it leads us—I wanna say, 'cause this is the last scene here. But I do love—before we leave teleportation—I think that this show, in recent episodes, has had some CGI… oopsie-daisies, if you will. [laughs] And I really love how they did this teleportation of Glory. I think it was done really well. Like, she's all sparkly and then we see the sparkly stripe in the sky. And we see her kind of like reconfigure up there. And I just wanna say, you know, we've given them a lot of shit about their rubber snakes with arms and such. But I like the way that this is done visually. Okay.
+Jenny: Yeah.
+Kristin: So, yeah. Buffy sort of sits up. They're both bleeding. And they have this conversation where Buffy explains, like, I protected you because I love you. Like, I want to protect you. You are m  y sister. And she says, "Your blood is just like mine." And they sort of do this, like, blood sister moment of like, clasping hands together.
+Jenny: When I was a girl—when I was a young girl, I always wished I could have a sister so that we could each smush our respective blood onto our palms and then mash them together after, like, a particularly brutal fight.
+Kristin: Right.
+Jenny: With a hell god.
+Kristin: Right. And I think—you know, not to whatever. But this is—it's also—it's interesting mythologically. Does Dawn have Buffy's blood? Like, is that—if they got blood tests, would they—would their DNA be—like, is that true? And regardless of if it's true, it takes away some of the adoption metaphor that we had been sailing on for the episode. Because then the resolution—part of what helps Buffy resolve to Dawn that she is part of family is that she has the same biological composition as her. That's not the only reason, but you know, just pointing out where some of these things get a little wiggly. 'Cause certainly this show is a champion of chosen family. It doesn't rely on biological connections for family for connection. So Buffy also ends it with a nice quip. "You are my sister because there's no way you could annoy me this much if you weren't."
+Jenny: Uh-huh!
+Kristin: Which I think actually is the most factual statement. [laughs]
+Jenny: Yeah, yeah, that's the most telling of all the data we have so far. [both laugh]
+Kristin: So yeah. And then we talked about it already. We learn that Dawn doesn't remember what happened. She's like, "I know Ben was here. But then I guess he left?" [BEN IS GLORY jingle plays] Ben is Glory! Glory is Ben! Ben is Glory! Glory is Ben! In case you forget, I'll say it again Ben is Glory and Glory is Ben!
+Kristin: That is how the episode ends and I mean, it's just such a doozy of an episode. And I think we mentioned either in Checkpoint or Triangle that, like, oh, we are just going into it now. There is… just no turning around. We have a lot of intensity to move through, and this was one of those intense episodes. So much, so much trauma for Dawn. Somebody wrote in, and I think we talked about it a little bit, that like, this is an episode where Dawn I think becomes more real? Which is hilarious, since, you know, she's learning that she is in fact less real than she thought she was. But her humanity, her vulnerability, her complexity as a character has really started to solidify here in this episode. A lot of stuff.
+Jenny: Yeah.
+Kristin: We're walking into Episode 14 with a hell of a lot of information.
+Jenny: Mmhmm, mmhmm.
+Kristin: And unfortunately those Knights of Hacky Sack.
+Jenny: I—[both laugh] Well! We've reached a point in the episode where it's time to talk about…
+Kristin: [makes sexy music noises]
+Jenny: A little sex. A little tension. A little award. It's the Sexual Tension Awards! [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Kristin: Um, okay, well… we have four choices for you. Don't we, Jenny?
+Jenny: We really do. And I know it's a mistake to split the vote in the way that we've done, but…
+Kristin: No, I think it's great.
+Jenny: It couldn't be avoided.
+Kristin: I think it's great. I think it's gonna really tell us a lot about our listenership.
+Jenny: Yes.
+Kristin: In slot number one, we have Giles and Joyce. You know, because they were at the birthday party together, goshdarnit. And who knows what they did later?
+Jenny: Yeah. Grown-ups at the kid party, they get up to all kinds of nonsense.
+Kristin: Mmhmm!
+Jenny: In the next slot, we've got Glory and her red silk dress!
+Kristin: Oh, hugging all of those curves.
+Jenny: Right? She loves it!
+Kristin: It feels so good! Third up, we have Anya and Xander, the fireman. [makes siren noise]
+Jenny: Hot! Hot, hot, hot—wow! That siren! [Kristin laughs] Okay, and in the fourth slot, you're welcome in advance. You can cast a vote for Anya… and Xander the shepherd. [both make sheep noises]
+Kristin: Nice! [laughs]
+Jenny: So. Please make your voice heard. Democracy works when you participate. [Kristin laughs] Cast your vote on our Twitter poll. You can find us @BufferingCast. The poll will be up for one week, so strike while the iron is…
+Kristin: [starts making siren noises]
+Jenny: Hot. So hot that it might set off a fire! [Kristin laughs] That somebody would have to put out with his big hose. [laughs] Okay! Get me outta here!
+Kristin: Oh! Wow!
+Jenny: Help! [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Kristin: Well, I think we've done it. We've played the Patriarchy jingle. We have discussed sexual tension. We have dug deep into the trauma that is Dawn Summers.
+Jenny: Yep, yep.
+Kristin: We have learned that Glory is Ben and Ben is Glory! We think? I'm not sure. Maybe Ben just got up and left.
+Jenny: I don't really remember what happened. Do you?
+Kristin: You know, it's funny. I don't. [BEN IS GLORY jingle plays] Ben is Glory! Glory is Ben! Ben is Glory! Glory is Ben! In case you forget, I'll say it again Ben is Glory and Glory is Ben!
+Kristin: We'll see what happens next episode, I suppose.
+Jenny: Indeed. Till then… I'm Jenny Owen Youngs! And when I'm not making this podcast, I am writing and recording songs. You can learn more about me at jennyowenyoungs.com. You can give me a shout on Twitter @JennyOwenYoungs. You can listen to my new EP Night Shift, and you can also listen to me talk about another petite blond protagonist over on my podcast, Veronica Mars Investigations.
+Kristin: And I am Kristin Russo. And when I am not talking about Buffy the Vampire Slayer, you can find me talking to a lot of different middle school and high school GSAs these days and doing other work with LGBTQ communities. You can learn all about me and my work at KristinNoeline.com. That's K-R-I-S-T-I-N N-O-E-L-I-N-E. You can also use that spelling to find me on Twitter and on Instagram, places where I post pictures of things like my cats and also, my cats.
+Jenny: Ha! Buffering the Vampire Slayer is on Twitter, Facebook and Instagram @BufferingCast. Or you could drop us an email at bufferingthevampireslayer@gmail.com.
+Kristin: Yes.
+Jenny: You could also leave us a voicemail 216-30-BUFFY.
+Kristin: You can support the work that we do here in a variety of ways. You can go on over to our website, bufferingthevampireslayer.com. Click on Shop and you can find all sorts of fun apparel. Smashing the Demon Lizard Patriarchy, Girl Gang t-shirts. We've got Great Big Snake t-shirts, mugs, we've got stickers, we've got pins, we've got all sorts of fun things over there. You can also click on Patreon from our website and join our Patreon family. We have a lot of different levels of giving. You can get all sorts of fun things. The songs in advance, hang outs with us, live concerts from Jenny, a book club with me. There's just a lot going on over there. Or you can go over to iTunes and rate and review us or our sister pod, Angel on Top.
+Jenny: Hell yeah.
+Kristin: Yeah!
+Jenny: Do all those things. Until next time…
+Kristin and Jenny: Awwwooooooooooooo!
+Jenny: [sings] Woooooo! Yeah! [Jenny performing "Blood Ties" off the album Songs from Season 5 by Buffering the Vampire Slayer]

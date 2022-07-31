@@ -1,0 +1,794 @@
+Buffering the Vampire Slayer
+Episode 5.14: Crush
+Brittany: Hey Laura Zak, quick question for you.
+Laura: What's that, Brittany Ashley?
+Brittany: Do you remember Buffy's ex?
+Laura: Who, Faith?
+Brittany: No, the other one, that soft-spoken broody guy with the dark past?
+Laura: Oh, you mean Angel , the ensouled vampire with a heart of gold on a quest to atone for past sins?
+Brittany: Yeah, that's the one. We should do a rewatch podcast about his aptly-titled spin-off, Angel.
+Laura: Brittany, we already have one. We're in Season 2.
+Brittany: Oh right, hi, we're the hosts of Angel on Top.
+Laura: An Angel rewatch podcast that releases episodes every other Wednesday in tandem with Buffering the Vampire Slayer.
+Brittany: Wait, do you remember the episode in Season 1 where Faith shows up and there's so much sexual tension between the three of them?
+Laura: Hey, you beautiful Scoobs. This is Laura Zak from Angel on Top.
+Brittany: And I'm Brittany Ashley, also from Angel on Top.
+Laura: For the last year or so, it has been our great honor to host a sister podcast to Buffering the Vampire Slayer in which we rewatch every episode of the Buffy spin-off, Angel, in tandem with the equivalent Buffy episodes.
+Brittany: If you've not yet taken the journey from Sunnydale to Los Angeles to brood with us, and even if you've never watched an episode of Angel in your life, we're here to tell you that Season 2 is a magnificent time to join our family.
+Laura: The second season of Angel is jam-packed with objectively good television. And you can expect more of your favorites, like Cordelia coming into her own powers, Wesley battling inner and outer demons, Angel walking his cluttered path to redemption, cameos from Buffy regulars like Faith, Spike and Willow, and—
+Brittany: More Darla, Darla, Darla! Plus you'll get to know new characters who are some of the best in the entire Whedonverse, like Charles Gunn, defender of downtown LA's most vulnerable, and Lorne, the emotionally intelligent demon who runs a karaoke bar.
+Laura: Our Angel on Top community is growing every day and we'd love for you to join us for queer feminist analysis, new jingles and every episode, a new poem from Angel's point of view.
+Brittany: You can find Angel on Top on iTunes, Spotify and Google Play.
+Laura: Until then, see ya at the next crossover.
+Brittany: Ooh!
+NOTES: [CHIME]
+Jenny: Hey everybody! Before we get started, ahhh! We're gonna tell you some stuff.
+Kristin: [laughs] We are.
+Jenny: That's not in the episode. That's right.
+Kristin: Woo!
+Jenny: Uh, yo. Last week, we brought you a special episode where we shared a handful of what is a growing mountain of ways in which you are all giving back. We
+will say it again and again: we are so thankful to be in your ears right now and to feel the warmth of this community. We also began a grassroots campaign to help connect small gifts of money from those in our community who have it, to those in our community who need it.
+Kristin: We have so far been able to donate over $1000 of your donated funds to those who have asked for small gifts to support buying groceries, paying rent, and just, you know, accomplishing other needs. We've also sold over 50 special edition Just Keep Fighting t-shirts from which all of the profits will cycle back into our community in the form of those small—basically, you can request between $25 and $100. They're not real grants but we can call them that. I've been calling them gifts. And so we're just gonna keep that cycle going.
+Jenny: Incredibly, but maybe not surprisingly, the amount that is coming in is nearly exactly what is being requested. One of the small Scooby miracles that will make me get something in my eye if I think about it too hard. You can learn where to give support and where to ask for support at bufferingthevampireslayer.com/JustKeepFighting.
+Kristin: Yes. Um, Jenny, a segment that we have not done in some time that I think might lift everyone's spirits even further from this wonderful exchange of funds here at Buffering the Vampire Slayer, is maybe the next installment of my story, The Death of Old Man Seaver, in Spooky News?
+NOTES: [SPOOKY NEWS jingle plays] Spooky news!
+Kristin: Okay, so we ended the last installment with a mysterious voice— [Jenny
+laughs] singing to the tune of Row, Row, Row Your Boat: "kill, kill, kill the men who took my life away, merrily—"
+Jenny: Right, of course.
+Kristin: "Merrily, merrily take their lives today." That was right after 20 dead bodies had fallen from the ceiling. [laughs]
+Jenny: Sure, right, of course.
+Kristin: So that's where we are, if you're just tuning in to this Spooky News. This is a little podcast-ducken, as we call it. It's a reading of a scary story that I wrote when I was 11. So. We continue.
+Jenny: [laughs] "Scary story," in quotes.
+Kristin: Yeah, yeah. And we'll do—I'll stitch 'em all together once I get to the end so that if you want to listen to it as one story, you may. But for now—
+Jenny: Just a quick refresher slash set-up follow-up question—
+Kristin: Mmhmm.
+Jenny: These 20 dead bodies, they didn't fall out of the attic? They just fell out of the ceiling…?
+Kristin: Pretty sure—
+Jenny: Did they fall out of a hole?
+Kristin: N—it's not clear. They just fell—
+Jenny: Okay, it should be clear to you though, right? [laughs]
+Kristin: Oh no, they didn't feel—they didn't fall through the ceiling. They actually—it just says they fell from the top floor.
+Jenny: Okay. So perhaps down some stairs?
+Kristin: I think perhaps down some stairs and I—that's because I know something that happens later in the story that leads me to—
+Jenny: Oh, okay. [laughs]
+Kristin: Believe that, so I don't wanna spoil—
+Jenny: Spoilers.
+Kristin: I don't wanna spoil anything, okay? So—
+Jenny: [laughing] I like how things lead you to believe. You—like, you don't have certainty.
+Kristin: [laughs] Yes, so—
+Jenny: The story that you have total control over.
+Kristin: [laughs] So—okay, so, right. So a group of girls are telling a story about a house in their neighborhood that this—the narrator now lives in. It's called The Death of Old Man Seaver. We've learned a few things. You can go back to the former episodes and listen to them if you missed it, but this is why you shouldn't miss a single episode. Jenny, are you ready for what happens after that creepy voice sings "merrily, merrily, merrily take their lives today."
+Jenny: I don't know if I'm ready, but I'm trying to be.
+Kristin: Okay. "When the police returned downstairs, they found Mr. Seaver laying dead on the floor." Ah! The titular moment. The Death of Old Man Seaver. [laughs] "His cousin was nowhere to be found. The police left immediately and contacted the hosptial, the firemen, and even more policemen, including the chief of the FBI. They took Old—" [Jenny cackles] "They took—"
+Jenny: Chief?
+Kristin: The chief. The chief of the FBI, so. "They took old Mr. Seaver away, sold the house—" I didn't know police could do that— "and everything was supposedly settled. On every Friday the 21st though, the screams are heard loud and clear as a bell." She ended the story—I believe it was Tanya telling the story. Okay. "'But why Friday the 21st?' everyone asked in unison. 'Ahh,' Tanya said."
+Jenny: Ha!
+Kristin: "'Because that was the day of Old Mr. Seaver's death,' she said in a make-believe spooky voice. 'What's today?' I asked, horrified. 'Uhh, today's Thursday the 13th?' Keisha said, relieved. 'Ahhhh!' Tanya screamed loud enough to shake the whole house. 'Whaaat!' we all screamed at the same time. 'If today is Thursday the 13th, next Thursday will be the 20th, and Friday will be the 21st!' 'Oh my god, you're right. Listen to me, okay? Keisha, Heather and Tanya will sleep over my house on Friday. Marissa and Leah will camp out next to my house, and Freddie, Yasmin and Lisey will stay here, okay?' I said it all in one breath. 'Okay!' they said. And our mission began."
+Jenny: Camp out?
+Kristin: Well, that's like, I mean, I assume that like if something happens to them—I think it's a good pl—like, personally, Jenny? Like, I think it's a great plan.
+Jenny: Oh, yeah. [laughing] Okay.
+Kristin: Because I think probably what the narrator's reasoning is, is if something happens to them inside the house, they have people outside the house who can maybe help, you know? Just saying.
+Jenny: Of course. Yeah, no, that's good. That's good.
+Kristin: Alright, well I'm gonna save the—
+Jenny: Whew!
+Kristin: There's a good amount that happens at the end of the story. And I think I might just save it all for the last installment, just to really drive it home.
+Jenny: Okay.
+Kristin: So—
+Jenny: Sure, back loaded finale.
+Kristin: Yep. I'm gonna leave the chief of the FBI and all of the weekday math that just happened in your brains. I hope you're sufficiently spooked. And that has been today's...Spooky News.
+NOTES: [SPOOKY NEWS jingle plays] Spooky news!
+Jenny: Jesus Christ! [Kristin laughs] Ahem! Well. Speaking of majestic narratives and magical worlds where anything is possible. Uh, it's time for me to remind you that on Saturday, April 4th at 1 PM Pacific slash 4 PM Eastern, I will be going live
+for a hang on Facebook Live to talk about Season 1 of Xena: Warrior Princess.
+Kristin: Mm! So exciting.
+Jenny: I'm so jazzed about it. I've been watching ferociously and noting many, many things that perhaps inspired the people making Buffy from this show. So please join me if that is the kind of thing that you like, and I think it is. If you're one of our Patrons, this is a Patreon all-Patron hang. And I will be tellin' it like it is. Learning from you, I'm sure. And there will be much, much, much to discuss, so please, if you're gonna join me and you don't wanna be spoiled, watch Season 1 of
+Xena: Warrior Princess. Hurray.
+Kristin: Yes. And Jenny, did you say that was on Facebook Live—you might have said it up at the top—
+Jenny: I did.
+Kristin: But I just wanna make sure everyone knows. It is in the secret Facebook group. Something that is—
+Jenny: [in a spooky voice] The secret Facebook group! Sorry.
+Kristin: [laughs] Something that is living inside of our Patreon directly right now is a brand new podcast that I'm doing with Joanna Robinson. [Jenny laughs] It's a podcast called Feels Like the First Time, where I watch movies that I've never seen that pretty much everyone else in the world has seen, for the first time. We do two installments, one where I predict what will happen and then one where I talk about all of the things I was either wrong or correct about.
+Jenny: Great.
+Kristin: The first installment we're about to finish up was Lord of the Rings. Um, I thought The Return of the King was gonna be Frodo's dad. And I just have to say that no one has proved to me yet that Aragorn is not Frodo's dad. So—
+Jenny: Interesting.
+Kristin: We will talk about that in the next episode. You can get that podcast on our Patreon if you're a $2 Patron or higher. And you can also get it if you're a Patron of The Storm, which is Patreon.com/stormspoilers. So those are places you can have fun with that. Also, if you are a supporter of ours at $10 or higher, you're used to getting mailbag episodes? Um, we started a new little series for those humans. Jenny, what is it called?
+Jenny: Uh, it's called [drags out the word] "Re-Watch!" [barks and howls] I'm sorry.
+Kristin: I've asked Jenny to make us an official theme song that is just—
+Jenny: Nope. It's just gonna be that.
+Kristin: That—it's just that!
+Jenny: It's just gonna be that every time. Live.
+Kristin: Right, exactly. So—oh, live every time? Great.
+Jenny: That's right.
+Kristin: Basically, we are going through some of our favorites from season 1, 2, 3 and maybe even 4. [laughs] Which wasn't a dig on Season 4, it's just I feel we just talked about it. [Jenny laughs] So we just talked about Season 3, Episode 14, Bad Girls. That episode will be going up pretty soon for $10+ Patrons. And it was—it was a lot of fun, reliving—
+Jenny: Yeah, it was really nice. And nice to talk about it without, um, you know, having to hold our tongues—
+Kristin: Yeah.
+Jenny: Regarding anything that was yet to come.
+Kristin: Yeah, exactly! We did a lot of Mayor conversation, because we could talk about the whole arc within this episode, so.
+Jenny: Oh, yeah.
+Kristin: That was fun. Yes! Um, listen. Speaking of holding our tongues… [both laugh] do you wanna tell them…
+Jenny: Oh my god. Listen, maybe I should handle the Sexual Tension Award segues.
+Kristin: [laughing] I don't know. I think that was pretty great.
+Jenny: [laughs] Alright, well. I'll take it. Uh… I'm here to tell you that we've got some results, some hot, hot, hot, hot, hot results from Blood Ties! Uh. I can't believe it. I can't—
+Kristin: It's magical.
+Jenny: Believe it!
+Kristin: It's magical.
+Jenny: This is—this is so special. Are you ready? [Kristin laughs] There's one tie and one almost tie. And it's all—it all feels so right. Okay, so. Anya and Xander the Fireman and Anya and Xander the Shepherd… a dead even tie, each claiming 10% of the vote. Which means that Anya and Xander got 20% of the vote, which is not too shabby [Kristin laughs] for a pairing with Xander in it. So proud, so happy for everyone.
+Kristin: You know, you dress him up as somebody else and people are more inclined to vote for him. Oh, I'm just kidding, Xander. We're in Season 5. [laughs]
+Jenny: Oh my goodness. Okay. In I guess second place then but barely, with 39% of the vote, it's Giles and Joyce.
+Kristin: Mmhmm. So close.
+Jenny: A pairing we love to see. And then just nosing out ahead, just leading by one seam, it's Glory and her silk dress with 41% of the vote!
+Kristin: [laughs] Congratulations. We will mail both you, Glory, and your dress your trophies.
+Jenny: Yeah, we're gonna need that dress's mailing address. Also, more good new—
+Kristin: Uh, obviously it's Ben's Locker, JK JK, Sunnydale Hospital— [both laugh]
+Jenny: Right, right, right, of course. That's where we'll be delivering it. Also, more good news about Glory and her love of silk. We will back next week with Kristin's interview with Clare—ahhh!—Kramer! Plus!
+Kristin: Mmhmm!
+Jenny: The week after that, we'll be back with I Was Made to Love You. Plus! The week after that, we'll have a public mailbag for everyone in the main feed. Wow.
+Kristin: Yeah. Oh, so head's up, if you want to send us some emails, now's a great time. Bufferingthevampireslayer@gmail.com. Because we'll be stuffin' 'em in the main feed for that special mailbag episode for all. Also… listen.
+Jenny: Speaking of stuffing 'em into the main feed, it's time for the Sexual Tension Award results! [laughs]
+Kristin: Okay. It isn't, 'cause you already did them. [Jenny laughs harder] And I'm sorry, but if you're not quick enough on the uptake with your transitions, I'm gonna get in there and do some myself, so…
+Jenny: Unbelievable. I must guard my sacred transitions. [both laugh]
+Kristin: Okay, one more thing. I think all of you will be really delighted to hear this. One of our amazing listeners, Clarie—I hope I'm pronouncing that name right. Clarie wrote us with a brilliant idea, saying quote, "I'm a high school senior who will likely not be having a graduation ceremony this year. I imagine a number of your other listeners are also high school or college seniors who are very unlikely to have graduation ceremonies themselves. I was just listening to your episode today and I was wondering if you might think about hosting a watch of Graduation Day about around the time when we'd usually have had graduation. This isn't the biggest problem people are facing right now by far, but a lot of people are struggling with not being able to celebrate the years of work we've done. I'm certainly feeling a little lost. I've been at my school for seven years and graduation is a really big deal for us. Famously, high school is hell and I think we'd all be cheered by a little celebration as we leave it, or college (I'm hoping that's not hell or a tinfoil pit)."
+NOTES: [laughs]
+Jenny: Ha! Uh, and after we sobbed and wept a whole bunch, we of course immediately made some plans! Many of you are missing proms, including ours that was rescheduled for late summer, and graduations. And Buffy—thoughtful, sweet, gentle Buffy—has given us both ceremonies in demonic, wonderful, episodic format. So please, hopeful graduates and prom-goers and everyone else, mark your calendars. Saturday, April 18th at 1 PM Pacific, 4 PM Eastern, we will be watching Buffy Season 3, Episode 20, The Prom! Together.
+Kristin: Woo!
+Jenny: And! Saturday, May 16th, at 11 AM Pacific, 2 PM Eastern, we will be watching Buffy Season 4, Episode 21 and 22, Graduation Day Parts 1 and 2. Together.
+Kristin: Oh, so exciting!
+Jenny: [singsong] That's right!
+Kristin: These will probably be hosted on our Instagram Live, but Jenny and I are gonna work out the best way to coordinate for the largest group of humans possible. Please know that these will both be open to everyone. They're free of charge and we'll put more details up as we have them. We encourage you, if you're participating in either or both, to wear your prom gear to prom, to wear your graduation caps if you have 'em or if you make 'em, to graduation and take lots of selfies. We can all do this together as the community that we are. It's gonna be great. More to come on all of this, but for now, Jenny, I think it's time for a pretty big episode. Season 5, Episode 14. Crush.
+Jenny: Hurray!
+NOTES: [Buffering theme plays]
+Jenny: Hello and welcome to Buffering the Vampire Slayer, a podcast where we are watching and discussing every episode of Buffy the Vampire Slayer, one by one, spoiler free. I'm Jenny Owen Youngs.
+Kristin: And I am Kristin Russo. And holy hell, this week we are talking about Season 5, Episode 14, Crush! Stay tuned at the end of this podcast every other week for an original song written by Jenny, recapping the Buffy episode we are discussing. And listen, if you aren't already listening to our in-tandem Angel watch called Angel On Top, hosted by Brittany Ashley and Laura Zak, now is the time. Today is the day.
+Jenny: Truly, I mean. This episode contains some significant crossover business, and you might not be up to speed—
+Kristin: Mmhmm!
+Jenny: On what exactly is going on if you're not, uh, in with the ladies over there.
+Kristin: 'Tis true.
+Jenny: Crush was written by David Fury, directed by Dan Attias [pronounced:
+et-TEE-us] or perhaps Dan Attias [pronounced: ATT-ee-as] or perhaps some other pronunciation that's not occurring to me. [Kristin laughs] And originally aired on February 13, 2001.
+Kristin: Oh, everybody was getting their valentines all ready to mail or hand out in kindergarten, depending on how old you are. [laughs] But this is the one, according to IMDB, where Buffy learns that Spike has a crush on her, a situation made all the more dangerous by [sings] Drusilla's return to Sunnydale. And if you think you're gonna get that jingle in this episode, you're correct. At least one time.
+Jenny: Hell yeah. Okay, so listen.
+Kristin: Yeah!
+Jenny: A band called Summer Camp is playing at The Bronze. The Bronze—
+Kristin: Oh, I'm so glad that you know the first band, 'cause I know the second band.
+Jenny: Perfect. [Kristin giggles] A great team. The Bronze has done some remodeling post-troll, and they have come up with a terrible new logo.
+Kristin: Terrible. Horrible.
+Jenny: Ugh, so bad.
+Kristin: Somebody needs to talk to The Bronze graphic designer. [laughs]
+Jenny: It's like, exactly—it's exactly the sort of logo that would happen in 2001 when, um, a popular place that was doing everything right already rebranded.
+Kristin: Had to ruin it, yeah. Exactly. It's like, the original Bronze logo is—it's a timeless classic. You don't change that.
+Jenny: Uh-huh.
+Kristin: But you're right. Like, this—the early aughts were all about changing things that need not be changed. [laughs]
+Jenny: And making them worse.
+Kristin: [laughing] And making them worse. Um, I actually forgot why The Bronze had close—like, I was just like, where are we in—like, why did The Bronze close? And so I read a description and was reminded that Olaf, of course, was—
+Jenny: Olaf was here.
+Kristin: Yes. Olaf was—see, that's what they—if they wanted to rebrand, they could have said, like, The Bronze, same logo, colon...Olaf was here. You know? That would've been fun.
+Jenny: [laughs] Yes.
+Kristin: Uh, Anya—listen, everyone has amazing fashion in this episode. So much so that Kate Leth is going to be here later in the episode with quite—I think it's one of her best Fashion Watches of all time. She has so much to talk about.
+Jenny: It's like the Odyssey of Fashion Watches.
+Kristin: [laughing] Truly. And the first note that I had about fashion was actually this pink sequined Anya—I thought it was a shirt, but I think it's actually a dress. It's quite something.
+Jenny: She looks great. She also dances like somebody who was trapped inside a genie's bottle for many years—
+Kristin: Aww.
+Jenny: And then, like, shaken very vigorously and then released.
+Kristin: [laughs] Do you think that, um, when Anya was a vengeance demon, she didn't get to dance so this is kind of like she is genie [sic] that was in a bottle and shaken and released? Like, do you think this is, like, all the dancing—
+Jenny: I think that she probably danced, but not in like a joyful way.
+Kristin: Mm. Okay. The opposite of joy is happening for Spike, who has learned that in addition to the horrible rebranding of The Bronze, they no longer serve his favorite meal, the bloomin' onion. Which I think he calls the flowerin' onion?
+NOTES: [laughs]
+Jenny: He does call the flowering onion, 'cause I think Bloomin' Onion might be…
+Kristin: Copyrighted?
+Jenny: Is it copyrighted? I'm not sure.
+Kristin: It's like an Applebee's term or a Friday's—
+Jenny: Or a, uh… Outback!
+Kristin: Outback! Oh, yes.
+Jenny: We're gonna need to talk about Spike, khaki edition. [Kristin laughs] He… Spike has got—he's got some really great strategy going on in this episode, to my mind. Um. I think he's like—there is part of him that's like, "gotta look nice for Buffy."
+Kristin: Right.
+Jenny: But he's also—there's something going on where he's like, okay. So what I know so far is, Buffy's dated two guys. [Kristin laughs] One of them is a vampire. Already got that on lock.
+Kristin: Check!
+Jenny: The other one wears a lot of earth tones, so why don't I try that? Put the two things together. Uh, everything you want in one place.
+Kristin: Mmhmm.
+Jenny: And then maybe that'll work.
+Kristin: Yeah. I like the idea of like, this being like the modified Ken doll, you know? It's like, Spike—
+Jenny: Yes.
+Kristin: And then it's like, you know, Goofy Spike, that time that Spike had to wear Xander's clothes.
+Jenny: Yeah!
+Kristin: And then this is like, Khaki Spike. [laughs]
+Jenny: The last time, the only other time we'd seen him in earth tones—except, right, one time he wore an Initiative…
+Kristin: Right.
+Jenny: Army guy outfit.
+Kristin: Right. Oh wow, listen. We could do a whole podcast just on this—the fashion of Spike.
+Jenny: Sure.
+Kristin: So other facts we gather at the rebranded Bronze—the re-Bronze, if you will—is that—
+Jenny: Noo! [both laugh]
+Kristin: You will not? You will not.
+Jenny: I will, I will, I will.
+Kristin: Okay. [laughs] Willow is still suffering from headaches from the teleportation of Glory, which makes sense. And we get a great—which I think—I mean, I'm just guessing that we might get some fun play with this Glory/Ben situation for some episodes. And we get something fun here where, um—let's just all call—let's not call her Glory, let's not say the name. We can just call her… and then Buffy spots Ben across the room and is like, "Ben." [both laugh] So in case you—
+Jenny: And we're all like, yes!
+Kristin: In case you've forgotten.
+NOTES: [BEN IS GLORY jingle plays] Ben is Glory! Glory is Ben! Ben is Glory! Glory is Ben! In case you forget, I'll say it again Ben is Glory and Glory is Ben!
+Jenny: So Buffy's talking to Ben, and she's like, "heyy! You have… clothes."
+Kristin: Oh, doing that classic Sarah Michelle Gellar flirty giggle. She's so good at it.
+Jenny: Uh-huh, uh-huh, uh-huh. Very exciting that Ben has non-scrubs clothing. And also, uh, Buffy's like, "my sister told me what happened at the hospital." [Kristin laughs] You see the beads of sweat start to form on Ben's forehead as he begin—his eyes widen and he looks like a deer in headlights.
+Kristin: Mmhmm.
+Jenny: And she's like, "and… thanks! Thanks for taking care of her, thanks a lot." No additional discussion. No, like, hey, did you see a very strong blond woman—
+Kristin: Right, right.
+Jenny: Attacking my sister or anything? No—no follow-up that you would expect. [Kristin laughs] Maybe she's distracted by flirting, unknown.
+Kristin: I think so, and you know who else is across the re-Bronze, distracted by flirting. It is our peroxide pal, Spike, who sees them giggling, laughing, being all wonderful. And he is very u  nhappy.
+Jenny: He's very unhappy. Which is—which is really too bad. Because he was just riding high moments ago when he stole Xander's change [Kristin laughs] off the waitress tray.
+Kristin: That's right.
+Jenny: And uh, now Xander's trying to get his change back. And Spike can't even fully engage with him, he's so distracted by what's going on across The Bronze.
+Kristin: Right. And now, okay. So before we get to the credits, we go to this kind of quick scene. I spent a lot of time rewinding and freeze-framing this scene when we go to the train station, Jenny. And I will tell you why. Because—
+Jenny: Why?
+Kristin: Because I think that the sign on the Sunnydale train station—if you are from Santa Barbara and heaven forbid you were a part of the former mayor's crew of Santa Barbara, who had a binder full of proof that Santa Barbara was Sunnydale, I am so sorry. But I think that there may be some counter evidence on the Sunnydale train station sign. I can't read it clearly, but from what I gather, the sign
+said, "Sunnydale. Elevation: 1,182. Miles to San Francisco: 682." I will tell you what, folks. Santa Barbara is 326 miles away from San Francisco.
+Jenny: Hmm.
+Kristin: The elevation is lower, though I'll give—you know, there's probably places where the elevation is higher, nearby. So I just feel that it's important that we bring this evidence in and if you have the time. Perhaps you're working from home, perhaps you're finding that you have less to do in the evenings. And I'm just saying, if you want to just try to give us some second guesses on what could be 682 miles from San Francisco, very much like Santa Barbara, at an elevation of 1182, please—
+Jenny: Hmm.
+Kristin: Write in to us, bufferingthevampireslayer@gmail.com. The saga continues.
+Jenny: Very interesting.
+Kristin: Thank you.
+Jenny: Okay. [Kristin laughs] So this train rolls into the Sunnydale depot. This is the first time we've ever seen it, if I'm not mistaken.
+Kristin: Yeah.
+Jenny: And… the receiver is, like, really put off by the fact that no one's getting off the train. Usually—it's the last stop on the line. Usually there's a few stragglers.
+Kristin: Mmhmm.
+Jenny: So he climbs up into the car and what—lo, what does he see but dead bodies everywhere.
+Kristin: And it's a mess. And I just wanna say, like, obviously we don't know who we're dealing with right off the bat. Heh-heh, no pun intended. But we do know that it's Dru, by the, you know, middle of the episode, end of the episode. And I just don't think Dru is this messy. She doesn't strike me as, like, just scattering blood everywhere when she eats. I don't know, maybe I'm wrong.
+Jenny: You know, I think she contains multitudes.
+Kristin: That's true. That's actually very true.
+Jenny: I lo-lo-lo- love this—uh, once the receiver catches sight of something on the train and makes a run for it—
+Kristin: Mmhmm.
+Jenny: We get him running down the aisle and then the exterior of the train shot, where he almost makes—this classic—
+Kristin: Ugh!
+Jenny: Horror movie, Jurassic Park yank-back. [Kristin laughs] His hat actually flies off, which I thought was—
+Kristin: Ugh! It does? I don't think I—yeah.
+Jenny: Really beautiful—
+Kristin: That's great.
+Jenny: Really beautiful touch. He just like, gets yanked back in so hard.
+Kristin: You almost think, like—I would imagine that when you watch it for the first time, like, you're definitely not thinking Dru. And you almost are thinking, like, some other kind of animal, right? It's like—
+Jenny: Totally.
+Kristin: Like an octopus or something.
+Jenny: [simultaneously] Beyond vampire.
+Kristin: [laughs] Yeah.
+Jenny: Did you say octopus?
+Kristin: [laughing] I did. I just—
+Jenny: Yeah, that checks out.
+Kristin: Like, tentacles, you know? Like, like—
+Jenny: Mmhmm.
+Kristin: That kind of, um, demon beast. Beastie. Like, a beastie with tentacles, is all I'm saying.
+Jenny: Yeah. 100%, mmhmm.
+Kristin: Okay, so. Cut to Buffy's house where Buffy is wearing a fucking, like, gold lamé coat that I cannot, and I will not—I'm gonna save it, 'cause Kate, I'm sure, will touch on it.
+Jenny: Uh-huh.
+Kristin: But it is quite something. And we get this really great exchange between Joyce and Giles, who sadly did not win [Jenny laughs] the Sexual Tension Awards last time. But I mean, I'm just gonna keep putting them in for an award here.
+Jenny: Yes!
+Kristin: Because it's Joyce, Giles and Dawn hanging out. And Joyce is basically like, "Buffy, [laughing] thank god you're home. I didn't feel safe."
+Jenny: "I was really not feeling safe while you were away." [Kristin laughs] And then there's like, just long enough—just long enough and Buffy's eyes dart over to Giles. [Kristin laughs] And Joyce is like, taking the cue and is just like, oh yeah, yeah, yeah, and then I remembered Rupert was here and I felt much better! [both laugh]
+Kristin: So that's fun. And I love the increase of time being spent between Joyce and Giles.
+Jenny: Love it.
+Kristin: Hoping that things are perhaps on their way to rekindling. And—
+Jenny: Perhaps.
+Kristin: I will say that, um, I watched this episode a couple of times. And it—I didn't—maybe this is so obvious to everyone else. But this scene ends with Buffy being like, "yo, Giles, we're being really easy on Dawn. Should we do that?" And he's like, "no, of course not. Like, the more weird you are around her, the less she's gonna be able to feel normal. Like, be the same big sister to her that you've always been." [laughing] And so, you know, Buffy spins on her fucking heels and she's like, "Dawn!" [both laugh] "Squawk!" And she's like, "you took my clothes, you took my blue cashmere sweater." And what I did not piece together until, like, many times through, was oh, right, Dawn really did not take Buffy's blue cashmere sweater—
+Jenny: No. No, no.
+Kristin: Spike took Buffy's blue cashmere sweater—
+Jenny: Mmhmm.
+Kristin: That we will see in the next scene, perhaps my favorite scene in the episode. Great.
+Jenny: Yes. Here it is, cut to Spike, fondling the sweater. [Kristin giggles] As Harmony asks him to come to bed. And tire her out. [clears throat]
+Kristin: [laughs] Sometimes I pause just to see if you will make it through the sentence and how you will journey through it, so—
+Jenny: Yeah. Well… [Kristin laughs] yeah, so… Spike's not interested. And also, he's so mean to Harmony.
+Kristin: He is. He's hor—he's been really wretched to Harmony. But I think that there's something about the fact that he is trying so hard to be like, a quote "good guy" that makes it so starkly contrasted with how shitty he is to fucking Harmony in this episode.
+Jenny: Yeah.
+Kristin: Because obviously we weren't, like, down with it before. But it felt—it felt more in line with, like, where he was as a character. And so now it's just, like—I think for me, it draws a really thick line underneath, like, obsession versus love.
+Jenny: Uh-huh.
+Kristin: For Spike, right. Because it's so un-volatile and it's so singularly focused. And it's so, like—
+Jenny: Mmhmm.
+Kristin: Kill everybody else if it means I get the girl. Um, kind of energy. So before we get into all of that, though. Jenny, I—so they decide to play—Harmony, to her credit, keeping her relationship healthy, you know? She's like, what can I—what can I do to bring the passion that we need into our dynamic? Maybe we could play a game, Spike. So I would like— [both laugh] um, I would really like to play the roleplaying Harmony—Harmony as Buffy here. [Jenny laughs] What she says to Spike, before Spike tackles her, 'cause it works. Okay. Ready, go.
+NOTES: [Clip from episode plays]
+Harmony: Oh, I'm gonna stake you! I'm coming after you, you bad, evil vampire. And I'm gonna slay you! I'm sneaking up! And I'm gonna stake you so much with my slaying powers that I have because I'm the chosen one— [screams and gets cut off by a tackle] [Spike snarls] Oh, Spike!
+Jenny: Oh my god !
+Kristin: Just… delightful.
+Jenny: Yeah, it's really great. It's really great.
+Kristin: I mean… I like—sometimes I get so over—'cause I watch these episodes by myself, you know? I'm like, taking notes. I'm currently watching at my parents' house so I'm like, watching on my laptop with my headphones in. And I don't really have anybody around me to be like, oh my fucking god. And it takes a lot for me to, like, actually act as though there's someone else in the room with me. And this scene got me there, where I was just like, looking to my left and my right, like, are you seeing this?! [both laugh] This is my favorite thing ever! Okay.
+Jenny: Can we talk about this next frickin' scene?
+Kristin: Yeah. I have some questions.
+Jenny: This is… this is the most—it's like, here's the nail, here is the hammer. Thwap, thwap, thwap. Buffy, Willow and Tara are coming out of class, where they have apparently been assigned to read the Hunchback of Notre Dame. And Willow's like, ah, I wish that Quasimodo could have ended up with Esmerelda. And— [clears throat]
+Kristin: Mmhmm.
+Jenny: Then Tara says, it couldn't end well because all of Quasimodo's actions were selfishly motivated.
+Kristin: Mmhmm.
+Jenny: He had no moral compass, no understanding of right. Everything he did, he did out of love for a woman who'd never be able to love him back. And if that wasn't on the nose enough for you, she adds, "You can tell it won't have a happy ending when the main guy's all bumpy."
+Kristin: Yes, cut to—
+Jenny: All bumpy!
+Kristin: Cut to our vision of bumpy Spike. But—so I have questions about this. 'Cause obviously, yes, this is a true underline—and like, the things that Tara lays out when it comes to overlaying them on Spike, I think are spot on.
+Jenny: Mmhmm.
+Kristin: Spike's motivations are selfish. Spike's face is bumpy.
+Jenny: Mmhmm.
+Kristin: And Buffy is never going to—
+Jenny: He has no moral compass.
+Kristin: Right, he has no moral compass, et cetera et cetera. I have to say that I am not in the perfect state to ask these questions, because I've never read the Hunchback of Notre Dame. I read up on it because I was curious. And I just would love—and Jenny, maybe you have read it and have some more to say here. But to me, I feel confused about the parallel between Quasimodo and Spike. Because Quasimodo, from what I gather, is like, this imprisoned—enslaved, essentially— character, who is, you know, called unlovable because of deformities, amongst other things. And this is why, like, I wish I had read it, because I don't have a critical analysis here. But I have pause, because from what I read, I'm like, is this a parallel? Or is this, like—is Quasimodo in the story of Quasimodo a lot more complicated than we're seeing with Spike. Where it's like, pret—[sighs] Spike's story is complicated. But not when it comes to, like, he won't—he's not lovable because he's deformed or his motivations are compromised because, you know, he's been sort of trapped in a tower. So Jenny, do you have any more on this story—on the actual story of Quasimodo?
+Jenny: I know pretty much nothing. The one thing that is popping into my mind that you didn't say is that… he's imprisoned in the tower, but also I think he's just sort of like, been gaslit his entire…
+Kristin: Yes. Yes.
+Jenny: Life by some man of the cloth.
+Kristin: Mmhmm.
+Jenny: Who has kind of shaped his worldview. But I unfortunately don't know very much at all. So…
+Kristin: Right. And I—
+Jenny: Listeners, dear listeners.
+Kristin: So yeah, so—I would really love to—we have a public mailbag coming up, where we're gonna put a mailbag in the main feed. And so I would love for this to be, like, part of the discussion that we open up a little bit more in the mailbag. Because I gather that Quasimodo is not unlovable in the way that Spike is unlovable. And I mean, I'm using that word kind of like, broad. But it seems to me that the parallel has some problematic aspects.
+Jenny: Mm.
+Kristin: So your hosts are not familiar with the text and perhaps we can look into it a bit more. But we'd love to hear from those of you who are familiar with the text and sort of like, read out those conversations. Because I'm curious. Okay so, Buffy has the newspaper. Giles has not circled it in red marker, a deep disappointment to me. [Jenny laughs] But six people were found dead. On a train.
+Jenny: How do we know if they were found dead if it's not circled in red marker?
+Kristin: [laughs] That's what—exactly.
+Jenny: Uh, you know how the Sunnydale news is just very consistently reporting throat trauma?
+Kristin: Yes. [laughs]
+Jenny: It's so… ludicrous. That's all.
+Kristin: Do you think that there's, like… [sighs] not to get too into the weeds here or the woods, whatever you might want to call them. But like, do you think that there's some of the, like, Ben/Glory forgetfulness with the general vampiric demonic presence in Sunnydale? Because we get mixed messages. It's like, you know, Sunnydale class of '99, they were aware that Buffy was saving them. And we—you know, we get a nod to the fact that people are like, kind of aware, but they're kind of not? And so I just wonder, like, are there people in the town who are like, "I've been telling these guys for years, there's vampires, they just won't listen." And then are there, you know, people who are just like, "I don't know, just a coincidence." Like, what's happening? I want to know more. [laughs]
+Jenny: I get the sense that it's the kinda thing that people are like, on a cellular level, they are aware of it. But there's a lot of, like, willful denial.
+Kristin: Right.
+Jenny: That's the foundation of living in Sunnydale is you have to, like, push that awareness down.
+Kristin: Oh no, is that also like a cornerstone of being a human?
+Jenny: [laughs] Yeah, probably.
+Kristin: Like, you can't look too closely at your demons or the demons surrounding you. Like, 'cause if you—if you really pay attention to them all the time, it's too much to bear, so have to, like—
+Jenny: Uh-huh!
+Kristin: Okay, wow. See, I knew I didn't want—
+Jenny: You have to scroll… scroll… scroll.
+Kristin: [laughs] Refresh, refresh.
+Jenny: Uh-huh.
+Kristin: Okay, great. I knew that I shouldn't go too deep there. Sorry, everyone.
+Jenny: Yeah.
+Kristin: Turning a sharp corner back into a lovely pairing here. We are at Spike's crypt, and Dawn has visited her best bud, and we find out her crush. There's a little crush going in multiple directions here.
+Jenny: Yeah.
+Kristin: 'Cause Dawn has a mini crush on Spike.
+Jenny: Um, and Spike… [clears throat] has found a way to make the Initiative look look hot? [Kristin laughs] Er?
+Kristin: Hotter.
+Jenny: It's—yeah. He's definitely—he definitely went to, um, like, Express Men. And found the, like, faux military sweater that's sort of—has a more European cut and a finer weave.
+Kristin: Right.
+Jenny: And matching pants.
+Kristin: Do you think that Spike did—not storyboard—mood boarding. Do you think he spent—'cause like, we'll get to his shrine.
+Jenny: His Buffy board, yeah.
+Kristin: But like, do you think there's another corner—like, we saw the Buffy corner, [laughing] but do you think there's another corner with like, a bunch of pictures of Angel and a bunch of pictures of Riley. And then like, cutouts from magazines of like, military sweaters and basketballs and hair gel. [laughs]
+Jenny: Definitely. And balls.
+Kristin: [laughing] Balls, yeah. Okay. Um, great.
+Jenny: Um, I just want to point out that in this scene, as Dawn is there to "just hang out," Spike has a cigarette behind his ear. Then takes a cigarette pack out of his pocket, removes a cigarette, lights it, starts smoking it. And then the camera goes away and comes back and there's no longer a cigarette behind his ear.
+Kristin: Whoa! Wow. Catching those inconsistencies.
+Jenny: Just letting you know.
+Kristin: So, um, Spike and Dawn are both getting something in this exchange, of course. Dawn is getting company and time with Spike who she really likes. Because she says—you know, I mean, I think that she feels a kinship with Spike because he is not human and she is, you know, I mean, debatable—
+Jenny: Something.
+Kristin: But essentially not human. And Spike is getting information on the fact that Buffy talks about him sometimes. [laughs] So—
+Jenny: Oh my god. "What else does Buffy say about me?" he says.
+Kristin: Yeah. Um, we do a quick cut to Joyce and Buffy, where they're like, uhh, where's Dawn? And when we get back, I realized, Jenny, that Spike is actually hosting my segment, Spooky News, for Dawn. [Jenny laughs] He's fully—[laughs]
+Jenny: Yeah. He is 100% Spooky News'ing it up. He's telling Dawn murder tales of yesteryore by candlelight! [Kristin laughs] When Buffy busts in, is like, "hey, I need your help"—it's interesting how Buffy just consistently goes to Spike—
+Kristin: Mmhmm…
+Jenny: Whenever she needs help. Interesting. And oh wait, Dawn's already here. Why is Dawn here? What the fuck?
+Kristin: [laughs] So Spike finishes his horror story by being like—the—you know, the story was at a point where he was about to, like, yank a child out of a coal bin and kill the child. Which, like—
+Jenny: Uh-huh.
+Kristin: I mean, maybe consider what you're telling Dawn, but whatever. Um, but he reframes the story for Buffy, of course, [laughing] and says, "So of course I found her in the coal bin and I gave her to a good family." [laughs]
+Jenny: "Who never put her in a coal bin again." [Kristin laughs] It's pretty great.
+Kristin: Okay, so I would like to play just a short sound clip here of Dawn talking about why she likes Spike, following it with the Spike jingle. Because I feel like it really sums up how many of us feel about Spike.
+Jenny: Mmm.
+NOTES: [Clip from episode plays]
+Dawn: It's just… he's got cool hair and he wears cool leather coats and stuff.
+NOTES: [SPIKE jingle plays] Spike! I love you Spike! So dreamy Spike! Your trench coat Spike! I love you Spike! Your black nails Spike! Peroxide
+Kristin: [laughing] So… I mean, right? Like, "so why do you like Spike?" Well… hair, leather, and stuff? I guess? [laughs]
+Jenny: Yeah, yeah. Cool guy.
+Kristin: Cool guy.
+Jenny: Lookin' cool. Uh, Buffy says, "You can't have a crush on something that is dead and evil and a vampire." [Kristin laughs] Interesting take, Buffy!
+Kristin: Yeah, Dawn doesn't miss a beat on that one. She's like, touche, sister, I believe that is exactly the love that you've had in your life.
+Jenny: Yeah.
+Kristin: And then they have this conversation about the soul versus the chip. Dawn's opinion is, same diff. And Buffy disagrees. I'm sure that this will be a conversation we have many times, and I think we've even maybe perhaps even touched on it. But where are we standing here? Soul versus chip. Uh, Jenny.
+Jenny: Uh, I mean. I think Buffy is… pretty much in the right here. Like… that is a restraint.
+Kristin: Mmhmm.
+Jenny: It's not a foundational change.
+Kristin: Mmhmm. And it's like, she says later—or somebody says later—no, she does. Buffy says later, "it's like you're a serial killer in prison." Which I thought was like a really powerful metaphor for—
+Jenny: [laughs] And Spike quickly counters by saying, "women marry them all the time!" [Kristin laughs] True.
+Kristin: It is true, that is true. Um, but probably not Buffy. But yeah, I think, you know, it does get complicated. Because if a soul—if without a soul, we are like, inherently… monsters? Is kind of what Angel—but it's—I guess it's not that. It's that Angel is a monster because he's a vampire, but he has a soul. So like, if he was a human with a—if you were a person but you had no soul, then what would you be? Would you be evil or just dead?
+Jenny: I don't know.
+Kristin: Oh god. I'm just—listen, I've been inside for a lot of days. You can tell.
+Jenny: Yeah. [both laugh]
+Kristin: Normally my commentary is like, Spike's hair, oh LOL! And now I'm like, what is the meaning of life? [both laugh] Okay so, Dawn sees what we've all seen forever. "Spike is totally into you," she says. And Buffy says, "huh?"
+Jenny: Yeah. Typical oblivious Buffy. [both laugh] In terms of this kind of stuff, I mean, her obliviousness.
+Kristin: Well, that's a willful not seeing if I've ever—
+Jenny: Oh, yeah.
+Kristin: Willfully seen something. Gotta go. Okay, so. [both laugh]
+Jenny: So Buffy and Xander go down to Sunnydale depot. And I love this quick exchange where Xander's like, "so what are we looking for?" And Buffy's like, "clues." Great.
+Kristin: [laughs] Right.
+Jenny: Great, great, great, great. So they're examining the train allegedly, but what they're really doing is like, Buffy is on the fucking slow boat to talking to Xander about Dawn saying that Spike has a crush on her.
+Kristin: [laughs] Did we already—I just wanna make sure that I didn't not hear you say about the tape outlines on the train while I was shuffling through my papers. Because—
+Jenny: No, no, no. Didn't get there yet.
+Kristin: [laughing] The tape—the body outlines—
+Jenny: How… for those of you working in the, um, forensic, crime scene field? Could you let us know if people died on a train, if you would outline their bodies in tape? Could you just let us know?
+Kristin: Yeah.
+Jenny: Thank you.
+Kristin: Yeah, I would appreciate that too. So, right. Xander and Buffy, chit-chatting. "Dawn thinks Spike's in love with me." And then—
+Jenny: Xander thinks this is hilarious. 
+Kristin: Which like… I mean, it is kind of hilarious. Except for, it isn't. And we'll get there with, like, Willow and Joyce later making really good points about how it can get dangerous. Xander doesn't understand that bit yet. If the danger is taken away, it is so h  ysterically funny that Spike, with a chip in his head, is pining after Buffy.
+Jenny: But what isn't funny to Xander is that is no longer, ahh, the top of the ladder for Dawn.
+Kristin: Yeah.
+Jenny: 'Cause Dawn has a crush on Spike, and Xander's like, "what about me, big funny Xander?"
+Kristin: [laughs] Xander, get it… together. You have a beautiful partner, who affirms your goodness every day.
+Jenny: Sure, sure, sure, sure, sure.
+Kristin: Why are you still seeking out—it's like a habit for him at this point. Like, it's—before you saw Xander didn't have anybody who was validating him, so he was really seeking it in all these places. Like, man, you've got—you've got the validation, okay? You've got somebody who loves you, she wears beautiful silk pajamas. She just—she's great! She's perfect. She's fucking Anya, so maybe don't get too bent out of shape about this. [laughs] But he does.
+Jenny: Well…
+Kristin: And then… we see what we have been missing for so long. A tiny doll tucked away at the top of the train. [laughs] Wow.
+Jenny: Oh, that doll looks familiar .
+Kristin: [sarcastically] Who could it belong to?
+NOTES: [DRUSILLA jingle plays] Dru… silla You… fill up My heart with dread And still I’m led Right back to you
+Jenny: I feel like we went in here very specifically looking for clues. And nobody looked for this clue.
+Kristin: Nobody looked on top of the shelf. They just looked at the tape outlines. Apparently they didn't look under the seats, above the seats, nothing. So not great detectives.
+Jenny: Dude. I mean, surely these tape outlines only exist so that Buffy can—
+Kristin: Sit—
+Jenny: Slump into one of them.
+Kristin: Into one, yeah. [laughs]
+Jenny: Which also, isn't there like blood everywhere? [laughs] Shouldn't she not be sitting on a crime scene?
+Kristin: Yeah, I don't think she cares.
+Jenny: Also, why is this crime scene completely unattended?
+Kristin: Right. That's the big question is, they literally put down tape and then they were like, I guess that's it.
+Jenny: Yeah.
+Kristin: That's what you do, right? Then you leave? Okay.
+Jenny: It's taped, so uh, yep. Job well done.
+Kristin: So… okay. We go back to Buffy's house. And, like, two of our favorite duos together as a trio. We get Spike and Dawn and Joyce, yukking it the fuck up. They're having the time of their lives.
+Jenny: Oh yeah.
+Kristin: I wanna imagine that they've had hot cocoa before this and that Dawn has given Spike her marshmallows.
+Jenny: Uh-huh.
+Kristin: Because Spike loves 'em and Dawn hates them. It's just so cute. Joyce is making the mommiest of all mom jokes. And Spike is just hilariously laughing. [Jenny laughs] It's beautiful. It's a beautiful, beautiful scene.
+Jenny: Yeah, it's really great. But as soon as Buffy comes in, Spike's like, "well. I gotta—really gotta talk to Buffy. Uh, Buffy, I have a lead on who killed all the people on the train."
+Kristin: Mmhmm.
+Jenny: And Buffy says, why don't you hit on Giles—hit. Up. Giles.
+Kristin: [laughs] Yeah. A little Freudian, Buffian slip.
+Jenny: Uh-huh.
+Kristin: So yeah. And Spike, we think, is gonna, I don't know, lead—when I first watched this episode, 'cause we already have the doll reveal. I was like, oh my god, Spike's gonna, like, bring her to Dru. But no, Spike is just bringing her to a nest simply to spend time with her.
+Jenny: Yes.
+Kristin: Jenny and I just taped a rewatch episode for our patrons where we rewatched Bad Girls. And it was really interesting because Faith also who was after a date with Spike [sic], used the tactic of a day-time jaunt to a vamp den, as a means of getting time with her beloved. So.
+Jenny: I think your deepest desires just crept up from your subconscious because you said that Faith was trying to get a date with Spike.
+Kristin: Oh my god, that is truly—like, I just want them to hang out. I just—I want them to just, like, smoke cigarettes together in an alleyway, and talk about life. And talk about their unrequited love for Buffy.
+Jenny: Yeah!
+Kristin: Give me that show! Give it to me. I deserve it.
+Jenny: Ooh.
+Kristin: I've worked hard. You know?
+Jenny: Ha! [both laugh]
+Kristin: Okay. Listen, Jenny, before we go any further, how about we find out if we have any sponsors?
+Jenny: Let's do it.
+NOTES: [AD BREAK]
+Kristin: So now we go to Buffy and Spike in the car. And Spike is like, [singing] "Twenty-twenty-twenty-four hours ago, I wanna be sedated!"
+Jenny: Oh my god.
+Kristin: Which—
+Jenny: Oh my god.
+Kristin: Jenny, for me, this was really special because as you know, I did a podcast—a short podcast on the journey of My So-Called Life with Joanna Robinson. And one of the more pivotal moments in the series is when Rayanne sings—or tries to sing, [sings] "twenty-twenty-twenty-four hours ago, I wanna be—" and she really—she can't—so it's just like, two of my shows, two of my podcasts, and The Ramones have entered into both worlds.
+Jenny: [laughs] Uh-huh, uh-huh.
+Kristin: And I will say that, like, my crush is Spike, my crush is Rayanne. So there's just some—there's a good diagram to be made here. You know?
+Jenny: Yes.
+Kristin: Perhaps of the Venn variety.
+Jenny: [laughing a little] Uh-huh?
+Kristin: Okay.
+Jenny: Um, but it's just a circle.
+Kristin: [laughs] Yes. Leather, peroxide, likes The Ramones, smoke cigarettes and is bad news bears. [laughs]
+Jenny: Right. Right, right, right, right.
+Kristin: Okay, so we go into the vamp den.
+Jenny: They're making some Jiffy Pop! They're Scream'ing it up.
+Kristin: I love that the—yeah, I love that they're making popcorn.
+Jenny: And they, like, jump up when they see Buffy and they're like, "Slayer!" and you think shit's about to get real. But no, they just run away. [laughs]
+Kristin: They just run away. Spike makes a bit of a homophobic sort of, like—you know, Buffy's like, "oh, they're just nesting." And he's like, "oh, you mean they're like a couple of poofters?" is what he says. Spike, come on, man. Get it together with your toxic masculinity.
+Jenny: Yeah.
+Kristin: Stop calling people poofters.
+Jenny: Yeah.
+Kristin: You're better than that, I know you are. Or perhaps you're not and that's the whole problem.
+Jenny: Worth mentioning, he's wearing a ash gray heather t-shirt. It's almost—he's almost wearing a white fucking t-shirt.
+Kristin: Wow.
+Jenny: Then he opens the door for Buffy. [laughs]
+Kristin: He opens the fucking door for Buffy. I know that the, like, moment of this season with these two is the pat-pat on Buffy's shoulder. But like, this is another level. He doesn't even, like, realize he's done it. And they're both so embarrassed.
+Jenny: [laughs] Yeah, that's the best part. They're both so embarrassed about it.
+Kristin: [laughs] Buffy's like, "what is this to you, like, a fucking date?" And he's like, "no. Uh, but do—do you want it to be?" [both laugh] Listen, if you've ever had a crush on your best friend or like a—you know that this is pretty true to form, where like, you are just going in for any angle. Well, she's joking, but if—this could be the opportunity. Let me take it, should I take the opportunity? It's not going well. And Spike goes full throttle down the truth alley. Right? He's just like, it's not so unusual, two people in the workplace.
+Jenny: Uh-huh.
+Kristin: There's something between us.
+Jenny: Oh, dear.
+Kristin: Buffy makes her prison comment and then he says, "This is real. I love—" and she's like, gotta go! [laughs]
+Jenny: [makes gibberish sound] Yeah, this is—uh, this does not go the way Spike wants. [both laugh] So he goes home.
+Kristin: Mmm.
+Jenny: Defeated.
+Kristin: Mmm.
+Jenny: But who's there, in the dark, waiting for him. It's Drusilla!
+NOTES: [Clip from episode plays]
+Drusilla: A happy memory, pretty Spike. Look who's come to make everything right again.
+Jenny: Then Dru's like… previously, on Angel. [Kristin laughs] Darla was resurrected. Uh, she's human and then I turned her into a vampire and now we're trying to drive Angel mad and I want us to be a family again!
+Kristin: [laughs] This is a fun—it's almost like a little ad if you weren't watching Angel. Like, if you weren't watching Angel and you heard this, you'd be like, uhh… perhaps I should tune in.
+Jenny: Yeah, right?
+Kristin: Darla's back? She was a human and now she's a vampire again? The fuck is happening on Angel? And so perhaps it's a little inset for those of who haven't watched Angel or haven't started to rewatch. It's a good—Season 2 of Angel is fucking great. And listen, Julie Benz is my personal lord and savior. So I think you should—
+Jenny: Mm, mmhmm.
+Kristin: Get on over there if you haven't already, because there's some fun stuff happening on Angel.
+Jenny: Yes, yes, yes! So Dru's got a theory. She's got a theory that Spike can overcome his chip.
+Kristin: Mm.
+Jenny: She says, "Electricity lies. It tells you you're not a bad dog, but you are."
+Kristin: [laughing] I don't believe in science, she says.
+Jenny: [laughs] Er…
+Kristin: Yeah, it's like, we really were behind Dru for like, so much, and then this moment happened. I was like, oh no! [both laugh]
+Jenny: Dru, not now, especially.
+Kristin: Dru, not—yeah, it's really a bad time for that kind of statement. But yeah—
+Jenny: So they're getting all, like, hot and bothered. And then Harmony comes in! And is like, "what the heck is this?!"
+Kristin: [laughs] Yo, Harmony calls Drusilla "Droodsilla" [sic] which is just fantastic.
+Jenny: Love it.
+Kristin: And she's like—basically, she thinks Spike has picked up somebody at a bar for a threesome who looks like Droodsilla. We learn some cool shit about Harmony's guidelines—boundaries on threesomes. It is—they are only allowed to have a threesome if it's boy-boy-girl, which we know that Spike will probably never agree to because he has a lot of masculinity problems, a little homophobia happening in Spike. But his one chance is if he can just get Charlize Theron and then—
+Jenny: Uh-huh!
+Kristin: Harmony will be super there for that. So Jenny, I have a couple of things.
+Jenny: I'm here.
+Kristin: First of all, I immediately looked up what Charlize Theron was up to when this episode came out.
+Jenny: Ah.
+Kristin: Because I thought, like, oh my god, was this around when Monster came out?
+Jenny: Uh-huh.
+Kristin: 'Cause that's, like, you know—and it wasn't. It was before Monster came out, but she had just been in Cider House Rules. Do you know what her character's name is in Cider House Rules?
+Jenny: I do not.
+Kristin: Candy Kendall. As in—
+Jenny: Oh my god.
+Kristin: Harmony and Candy Kendall. I'm just… saying.
+Jenny: Oh! Wow!
+Kristin: Isn't that weird? When I found it, I was like [makes siren noise].
+Jenny: That is weird.
+Kristin: It makes no sense, there's no—there's nothing here. But it just—I had to share it with everyone.
+Jenny: Thank god.
+Kristin: I also wanna talk about—I cannot remember the episode. But the scene that you described between Dru and Spike, where Dru is essentially like, I know who you are. And we'll get more into it because really, it's—Spike starts to believe that he can be himself. He starts to remember himself. It reminded me of the Cordy arc where—I don't remember when it happens. But somebody calls Cordelia a bitch. It's—I think on Angel. Yes it is, it's on Angel. And Cordelia's just feeling, like, down and weak and like she can't make ends meet and whatever. And there's—I won't go through the whole thing, but basically, a character calls her a bitch and it's like, it reminds her that she's like a powerful bitch.
+Jenny: Mm!
+Kristin: And she's like, thank you for that reminder. [both laugh] And I feel like that's like similar to what's happening here with Dru and Spike. And since Spike is our, like, resident Cordelia, you know? Or was brought in for that purpose, I thought it was an interesting parallel. The end of my monologue.
+Jenny: Love it. I love that. I also love— [both laugh]
+Kristin: Yeah.
+Jenny: Uh, I love Harmony, like, telling off Drusilla about all the psychic damage she's done to Spike—
+Kristin: [laughing] Uh-huh.
+Jenny: And how Harmony has had to work so hard to bring down the walls that Drusilla caused her precious boo-boo to erect. [Kristin laughs] And this lean where Drusilla sort of like, leans facing Harmony but Spike's behind her. And like, leans to make eye contact with him and mouth the word "boo-boo." [laughs]
+Kristin: It's like—it might be the best Juliet Landau moment in the entire series.
+Jenny: It's so good.
+Kristin: It is so fucking funny. She's like, just—seriously, dude? [laughs]
+Jenny: Yeah. And then Harmony calls Drusilla "Morticia" which has an extra little layer of tastiness. Because as we all know… Mercedes McNab was in Addams Family Values—
+Kristin: Yeah!
+Jenny: When she was a kid. And uh… then Spike basically is like, "Harm. You gotta go." [Kristin sighs] And she's like, "Why, because she's back?" And he's like, "No, because I am."
+Kristin: Yeah, getting a little—
+Jenny: And it's like, dun-dun-dun!
+Kristin: Taste of his drama back.
+Jenny: [laughing] Yes, exactly.
+Kristin: [laughs] So, yeah. And this is like a—it's a—this is just sad. I don't like the moment when he throws Harmony. It's just shitty. And we'll get, I think, more into it when he's even shittier to Harm later on. But it's stupid. Spike. Ugh! Okay, so Joyce, with the classic "did you lead him on?" Joyce Summers! Madam.
+Jenny: With the Buffy blaming!
+Kristin: Oh my god. But they're talking about Spike. And Buffy has decided to share this information with Willow and with Joyce. And at first, you're kinda like, oh wow, I'm surprised she shared this with Joyce. But it's like—it makes sense because Joyce has developed a friendship with Spike. And also because as we know, Buffy will wind up putting the ward back on the house. So Joyce really does need to know kind of what's going on.
+Jenny: Yeah. Yep, yep.
+Kristin: So, um. Yeah. Willow being Willow is just like, um, danger, danger! This is bad fucking news. This can—this is not going to end well, because Spike is obsessed and it's only going to wind up—
+Jenny: Yeah, if he thinks there's even a sliver of a chance, there's no telling what he'll do. So you have to 100% shut it down completely. I kind of thought that she already did that, but—
+Kristin: Me too, but if—you know, we need her to go after Spike one more time for the plot, so.
+Jenny: Yeah. [laughs]
+Kristin: But yeah. And you cannot be too clear. I mean, I would have maybe chosen to go with, like, a letter, you know? Instead of finding him again in person.
+Jenny: Sure.
+Kristin: But sure. Sure, sure, sure. Okay, so—
+Jenny: So Spike and Dru go hunting at The Bronze. And one feature of their—
+Kristin: It's called The Re-Bronze. Thank you.
+Jenny: Sorry. They go hunting at The Re-Bronze and one feature of the remodel is that they've installed about a thousand more lights. It's very well lit.
+Kristin: Mm.
+Jenny: For two vampires to go hunting. It's so well lit.
+Kristin: [laughs] At first, when they went upstairs, I thought that they were gonna make out with that couple first. Didn't you think—
+Jenny: Mmm.
+Kristin: It just seemed like that would be the play. Like, that they would, you know, be like, do you wanna make out with us? Do a little swapsies, and then they would kill them. But I guess, you know, it's a 40-minute episode of television. You can only include so much. So this is a band called Devics, I believe? And the song that they're singing is called Key, which I think is really funny, since that's the whole—
+Jenny: Ah!
+Kristin: Yeah. And it's also very, like, thematic, the—you know, the lyrics in this song are really underscoring Spike and his newfound love of himself and the Spike that he was with Dru and all of this stuff. So… Dru snaps the necks of these two lovers. And sort of like a mama bird to her baby bird, feeds Spike. This is really sad. Ugh, because you do see—and this is where it's confusing. And this is where the show will continue, I think, to be confusing. Because if we are to believe that Spike is a monster, right? He is a vampire at heart, and the only thing he cannot do is kill. And he is also—like, he was obsessed with Buffy, so that is a motivation. But that's not what we see in James Marsters here. We see, like, genuine hesitation. And I just wanna put a pin in it, because I think that that is confusing, that is what makes me say, like, does he want to be bad? Or is it, like, you know, him trying to heal pa—it gives a humanity to this struggle that I think is confusing!
+Jenny: Yeah. And hey, is watching somebody who doesn't have a soul… and who's on—like, his ideal and like, kind of main food source is human blood—watching him kind of like, struggle with this. Is that a greater struggle than somebody with a soul being like, well, obviously I shouldn't murder someone 'cause that will feel bad—
+Kristin: Yeah. Yeah.
+Jenny: Unless you're, like, a sociopath. It's interesting.
+Kristin: Alright. Buffy gets to Spike's house and—
+Jenny: Oh god, it's your worst nightmare!
+Kristin: Ugh.
+Jenny: It's a wall of photos and sketches of you and a mannequin, wearing your sweater, ahh! [both laugh]
+Kristin: Listen. Okay. Here's a thing I would like for you to let us know who you think is a better sketcher.
+Jenny: Ooh!
+Kristin: If I can, I am going to get some screen grabs of Angel's renderings of Buffy in charcoal, and Spike's renderings of Buffy in charcoal.
+Jenny: Oh my god.
+Kristin: I also—part of me thinks that Spike just straight up ripped off Angel's collection and like, some of these are actually Angel's.
+Jenny: Ha!
+Kristin: But I just wanna know, who's the better obsessive artist? Spike or Angel.
+Jenny: Great question. A question for the ages.
+Kristin: Um, so this is upsetting for our Buff. As it would be.
+Jenny: Yeah, she is shook.
+Kristin: Yeah.
+Jenny: So she starts climbing up the ladder from the nether regions of Spike's crypt.
+Kristin: Also! [laughs] I just wanna point out that there's, like, full skulls down there. And so I wanna know, like, when Spike was a vamp and vamps in general, do you think that they keep, like, some skulls? Like, from their victims as just, like, decor?
+Jenny: I think there just, like, were skulls around. Like, this is a—
+Kristin: 'Cause it's a crypt?
+Jenny: Yeah, exactly.
+Kristin: Okay.
+Jenny: And he was like, ooh, I could use these.
+Kristin: [laughs] I could put a candle in one of these!
+Jenny: Let me just defile one of these remains.
+Kristin: Yeah. [laughs]
+Jenny: Yeah, exactly. Love a candle on top of a skull.
+Kristin: [simultaneously] Okay. So sorry, yes. Spike and Dru are here.
+Jenny: Yeah. And they, uh, they cattle-prod the shit out of Buffy and then plot twist! Spike cattle-prods Dru.
+Kristin: Wow!
+Jenny: What does it all mean? They wake up—okay. [laughs] Sorry.
+Kristin: It means we're gonna go to the basement of Reptile Boy, because it is literally the same chains. Right, that we saw Buffy and Cordy in?
+Jenny: Yeah. So Dru is tied to a pole.
+Kristin: Mmhmm.
+Jenny: But Buffy is just in some wrist shackles, which is interesting because this is like Spike's living area, so we can infer, perhaps—
+Kristin: Mmm.
+Jenny: That those have seen some other types of use, before now.
+Kristin: Those were, like, there for Charlize Theron.
+Jenny: Exactly.
+Kristin: Yeah. [laughs] Yeah, and also, Spike does a horrible job of tying up Dru and chaining up—like, these are not restraints that are meant—which I think supports your Charlize Theron sex play theory.
+Jenny: Right. Right, right.
+Kristin: These are not restraints that are meant to actually restrain, especially a—
+Jenny: These aren't serious s  hackles.
+Kristin: Right. These are for play. So… [laughs] right. Everyone is tied up and Dru is just having so—like, just wonderful, wonderful Dru moments, where she's like, [laughs, imitating Dru] "This is cheating! You've taken my chair and the music hasn't stopped." [both laugh]
+Jenny: This woman!
+Kristin: And then, I think that we should give a moment for Spike's monologue or line or two to Buffy, where he's confessing his feelings.
+NOTES: [Clip from episode plays]
+Spike: I… love you. [Buffy grunts, chains rattle] You're all I bloody think about. Dream about. You're in my gut. My throat. I'm drowning in you, Summers, I'm drowning in you.
+NOTES: [Dru laughs]
+Jenny: Yes! Dru thinks this is as funny as Xander thinks it is. [both laugh] Maybe they should get together!
+Kristin: I mean—and Dru—Dru really has access to laugh at this freely because she doesn't give a shit if it's dangerous.
+Jenny: Yeah.
+Kristin: To her, it is just straight up funny. And I think that also is a testament to—as much as Dru loves—or loved Spike, Dru's motivation here was to bring together the family. It is clear to me from the way that Dru handles the rest of this that she has really moved on from Spike.
+Jenny: Mm.
+Kristin: You know, she loves him, they have a long history. But like, she's not, like, oh no, my heart. She's kind of like, I fucking knew you loved her. I knew it, I told you a million years ago. You're so ridiculous. You know, and it's just—I just like this. I like—when Jenny and I were talking about the song for this week, I was like, so this whole thing with, like—Harm hasn't even arrived yet. But with the three of them, Harmony, Dru and Buffy, despite the fact that like, Dru wants to kill Buffy, Buffy wants to kill Dru, nobody really cares about Harmony. It is kind of like a throw to when women find out that they are all involved in, like, one shitty dude's bullshit. And they all come together to be like, fuck you! [both laugh] And I love it!
+Jenny: And so, Spike announces his situation here, which is that… he's gonna kill Drusilla for Buffy. Unless she refuses to admit that there's something between them, in which case, he'll untie Dru and let her kill Buffy. This is—
+Kristin: Oh god, which is just… yeah. I mean, and this is, again, a deep underline under obsession, not love. Because—
+Jenny: Oh, sure.
+Kristin: Anyone in their right mind would know that if you are getting a declaration of love from someone under duress, that is not a valid—
+Jenny: Yeah.
+Kristin: Declaration. And Buffy, to her—
+Jenny: This reminds me… [laughs]
+Kristin: Yeah.
+Jenny: This reminds me of, um… the baby and King Solomon—
+Kristin: Mm!
+Jenny: Or something, from the bible.
+Kristin: Oh, do you wanna—what do you—
+Jenny: Let me tell you a story.
+Kristin: What do you think happens in that story?
+Jenny: Two—[both laugh] two people claimed a baby. And they were like, it's my baby! [Kristin laughs] And the other person was like, no it's mine . And they were like, let's take this before King… Solomon, and maybe somebody else.
+Kristin: Uh-huh.
+Jenny: I'm so confused about what happens. But basically. The king is like—[laughing] this is actually insane. I think the king is a little trickster, and he's like, okay, we'll just—you both have a claim on the baby. We'll cut it in half. [Kristin laughs] And one of the people is like, nooo! And the other person is like, okay. [Kristin laughs harder] Why would anybody— [laughs] and that's how King Solomon, I think—
+Kristin: Yep.
+Jenny: Tells who the real parent is. But… why would anyone, ever be like, sure, I'll take half a baby, that's good enough for me. Seems fair.
+Kristin: There's probably a reason, right? I don't know, tell us at bufferingthevampireslayer@gmail.com. I actually don't know.
+Jenny: Is this another example of vampires throughout history, hidden in plain sight?
+Kristin: Maybe the baby—maybe the baby had, like, value of some kind, where like, the shitty person who wanted the baby just for the value would have gotten some of the value from the baby's—half of the baby? I don't know. [laughs]
+Jenny: Ugh, blegh, ugh, ugh. Okay.
+Kristin: Um. There's this great exchange where Buffy is like, "you can't love without a soul." And Dru is like, "we can, you know."
+Jenny: Au contraire.
+Kristin: Yeah, "we can love well if not wisely." Which is a play on a line from Othello, who "loved not wisely, but too well."
+Jenny: Mmm.
+Kristin: And we know how Joss Whedon feels about Shakespeare.
+Jenny: Mmhmm.
+Kristin: So that's a fun little nod.
+Jenny: Yep, yep, yep.
+Kristin: Little nod-thello. Heh-heh-heh!
+Jenny: Oh my god.
+Kristin: I'm gonna—[laughs]
+Jenny: Help!
+Kristin: There's also a really fun wordplay, if you can call it that, where—you know, Spike truthfully is like, don't fucking mock this. Like, Dru is the face of my salvation. Blah blah blah blah, but when he says "don't mock this," she says, "go mock yourself." Which is fun. And yeah. Buffy, to her credit, does not—'cause she could have just said, like, Spike, I love you and then been released and fucking killed everybody, but instead—
+Jenny: And then kicked his ass, yeah.
+Kristin: Right. She doesn't. She says, I will literally not even give you fucking that. The only chance you had was when I was unconscious. And—
+Jenny: Blegh!
+Kristin: Yeah. And it makes Spike really mad, but I found it really interesting, like, what he was talking about in his rage. 'Cause he is, like, self aware in the rage, saying like, I know it's wrong, I know it's not right. I just can't get it out of my head. And so I—
+Jenny: That's interesting.
+Kristin: Yeah, I thought that that was, like, at least he's not like, this is real! This is perfect! Like, there is some part of him that obviously is aware of the fact that this is not the way that things are supposed to be. And the chip has prevented him from killing, and I think is like, sort of short-circuiting so many of his other desires and wants and needs.
+Jenny: Mm.
+Kristin: And so that's interesting too.
+Jenny: Yeah. And once Buffy's like, nah! He starts screaming into the heavens. [Kristin laughs] Wondering what the bleeding hell is wrong with you bloody women? Interesting. Interesting.
+Kristin: [laughs] Yeah! Isn't it?
+NOTES: [THE PATRIARCHY jingle plays] The patriarchy! [thunder clap, evil laughter]
+Jenny: He's unraveling, pretty quickly here. And then, oh my god, Harmony crossbows the shit out of him!
+Kristin: Yeah, she nails it!
+Jenny: In a fuzzy maroon vest.
+Kristin: Yes. Oh my god, the vest! That just reminded me. We literally have gotten all the way to Harm's vest without hearing from our dear, dear Kate Leth. So why don't we take a moment before we get to the end here, and hear all that Kate has to say about Crush. [Fashion Watch intro theme plays] It's time for our friend Kate To give you the Buffy fashion update!
+Kate: Welcome back, everyone, to Buffy Fashion Watch, in the strange, strange times we live in. Now, when I sat down to watch, take notes on and then record this episode, I kept thinking to myself, wow, I have no brain right now. Does this matter? Is there a point to this? And then I watched the episode and thought, this is an incredible distraction. And thank the gods, there is so much good fashion in this episode that I could talk about it for an hour. And I won't, but I am going to list everything that happens in this episode on people's bodies—in a… not creepy way? Maybe a little bit creepy—that is incredible. This episode opens with a series of absolute slam dunks. We get Anya's glittery, sparkly sequined halter dress, which shows up in the title sequence, that's how good it is. Willow and Tara wearing incredibly Willow-and-Tara outfits. And Buffy in pleather—or leather, or vinyl? I really can't tell because of the lighting—pants, and this sheer designed top with only the boob part blacked out? [laughs] That is great. But nothing compares to Spike in a black t-shirt, button-down, and regular length, brown instead of black leather jacket, because he's trying to look nice to see Buffy at The Bronze. It's amazing. And the episode continues with hit after hit. I've probably even missed things. Willow and Tara are so Willow-and-Tara-core in this. When we see them walking through college, like, I couldn't even take notes. Willow's patchwork situation, her handmaid messenger bag, and is it crocheted? Jacket, and Tara's shirt with a—is it a griffon? I don't even know. The diagram thing that's going on with the leopard print sleeves is just unreal. So you know, all I can really say about them is… oh, well also, god, who could ignore Willow's felted, embroidered, puppy dog sweater with a blue ribbon on it, for some reason. And a pink velour scarf? Honestly, the scarf game in this episode is off the charts. Drusilla's—oh my god, Drusilla. Drusilla. Mmm. Sorry. I'm getting ahead of myself. I should go back to the fact that Harmony cosplays as Buffy in this episode in her blue cashmere sweater. As we all know, my affection for Buffy in baby blue knows no bounds, so this was really perfect. Although I do have to say, the khaki stretchy pants are definitely something Buffy's worn, but if she really wanted to go authentic, pleather would have been where it's at. You know, obviously this is an episode with Spike's many crushes and many feelings. So yes, obviously, Drusilla. She's back, she's incredible. She's tied in with Angel with a plot line I could barely remember. But she shows up in this brocaded bodice, talking about how science isn't real. Bless her heart, her non-beating, perfect little heart. And this long, rose-patterned black skirt, with this—again, like, beaded scarf. She is unbeatable. Every single scene had something where I was writing down, like, wha—what? What is this? Buffy has a shiny copper trench coat. She's got an unhemmed sheepskin wrap jacket. She's got a burgundy, what looks like crushed velvet jacket?—or I guess more dark purple. I was thinking burgundy because Harmony has a fuzzy burgundy vest she wears at one point. With a crop top and lace-up front bell bottoms? The hits just start and they don't stop coming. Honestly, even though I had been taking frantic notes and was so delighted, I knew the episode was a pinnacle of fashion when I wrote down, "is Buffy wearing a negligee to investigate a mass murder?" [laughs] And she's not. It's just a shirt that looks like a negligee. Although we do see Harmony in a negligee. But that's the kind of episode that it is. It really is top tier. Even for Spike. You know, we get him in his day outfit at The Bronze. But then we also get him in his Riley outfit. I have to believe it's a Riley outfit, because it's this sort of knit sweater, crew neck thing, with cargo pants. Spike. Wears. Cargo pants. The pockets are subtle, but they are there. Everybody else is looking great. Joyce is looking great, Giles is looking great. Dawn is cute and adorable in her little blue denim jacket. Xander… looks nice! Again, I love this season how he sort of transitions into wearing decent sweaters. He doesn't look like a million dollars, but he looks like a couple hundred, and that's… nice. And at the end of the day, like I'm saying, I was glad for the distraction. It's a really weird time right now. I don't know exactly when this episode's gonna be released, but I don't think everything in the world is going to be fixed and happy-ended by then. I just gotta say, I really hope everybody's doing okay. I see a lot of the, you know, wash your hands, be careful outside, keep your social distance, six feet apart. The same sort of advice, and it's all really good advice. But it's not all that simple. And I know that it isn't for me, and I know that it probably isn't for a lot of you. A lot of you are stuck in your houses, maybe with family that you don't get along with. Or with people that you do get along with, but when you see the same person 24 hours a day, it can get rough. Or maybe you're by yourself, and that's really rough too. So… [laughs] from across the internet, from a relative stranger, to you. It's gonna be okay. And it's not gonna be 100% okay, and it's not gonna be easy, and it's not gonna be fast. But it will be, and I—and Kristin and Jenny and I think everyone involved in this podcast who have created this incredible community of support and love—I think that's a really good thing. And so when I sat down and thought, you know, what is the point of this? Does it really matter? It does. It does, I think it does. And it matters to me, and I know that it matters to a lot of you. So be safe out there. Take care of yourselves, physically and mentally. Whatever you need to do. I care about you. We care about you. And if watching Buffy and observing Anya's sparkly pink halter dress [laughs] makes things a little better for a couple of minutes, then I'm really glad. Until next time… I better not fucking see you at the mall! Stay home! [laughs] I love you. [Fashion Watch outro theme plays] That was our friend Kate She gave you the Buffy fashion update!
+Jenny: Thank you, Kate. The face of our salvation.
+Kristin: [laughs] Wow! Nice, Jenny. Yes, thank you, Kate.
+Jenny: For pointing out what a great escape Buffy is, what a soothing balm in these troubled times—
+Kristin: Yes.
+Jenny: This show can be on our hearts.
+Kristin: We're all—oh my god, how thankful are you that you can just dive into Buffy? 'Cause it's been very exciting for me over here.
+Jenny: Yeah, very, very thankful.
+Kristin: Also, I'm staying with my parents right now. And—I'm in upstate New York, and the name of a very famous theme park here in upstate New York is The Great Escape. So that made me think of—
+Jenny: Ahh!
+Kristin: [laughs] That made me think of that. Anyway, thank you, Kate. Always lovely to have your voice inside of our ears. Um, Harmony—so Harmony has nailed the crossbow. And this is fun because the last time—[laughs] the last time we saw Harmony with a crossbow, she was literally just like, misfiring all over the fucking place. [Jenny laughs] During Spike's fake chip removal. So it's nice to know that she's grown. Again. Harmony is like, queen of self growth, you know?
+Jenny: Mmm. Yes.
+Kristin: "I gave you the best bunch of months of my life," she says. [both laugh]
+Jenny: Oh, let this be a lesson, y'all. You can't change your partner!
+Kristin: Yeah, you can't. "Now I see it's you! I'm not the dog, you're the dog."
+Jenny: Nice.
+Kristin: Dru gets out of her fucking ropes during this kerfluffle [sic].
+Jenny: Oh boy.
+Kristin: Fights Buffy, but Buffy rips out of her chains. Oh, no! She doesn't. I'm sorry. Spike—that's—
+Jenny: She does a little gymnast fight choreography. [laughs]
+Kristin: And then Spike—and that's pivotal. Spike undoes her chains.
+Jenny: Yeah.
+Kristin: Very different from her breaking out of them. So maybe those were industry strength chains after all.
+Jenny: [laughing] Yeah, yeah.
+Kristin: [laughs] Okay—
+Jenny: Love Harmony twisting the arrow that's sticking out of Spike. [laughs]
+Kristin: Yeah. And they all have different responses, but essentially the same end. Dru is just like, you are pathet—like, she says, even I can't help you now.
+Jenny: Yeah.
+Kristin: Like, you're fucking done, man. And then. [both laugh] I know we've done—we've done a good amount of sound clips in this episode. But Crush is like, a real special one. And I would love to just get to listen together with you to Harmony's exiting monologue, 'cause it's just—you can't get any more Harm than this. [Clip from episode plays]
+Harmony: Oh, Spikey. And you can say goodbye to this. Because you're not gonna see it anymore. Unless you run into me somewhere and it's me walking away from you. But even then, I'll probably just… you know. Back away.
+Jenny: That's right, Harmony!
+Kristin: Yeah. You tell him, Harm.
+Jenny: And then Buffy's response is just to punch Spike across the crypt. [Kristin laughs] Into, if I'm not mistaken, his little shrine.
+Kristin: Yeah, we all have our ways of dealing with shitty dudes. And they have—they have illustrated three, right here for us.
+Jenny: Yep, yep, yep.
+Kristin: Our trio of ladies.
+Jenny: Three options.
+Kristin: We're super, super here for it. Saying trio of ladies, Jenny, made me think about sexual tension, of course, 'cause I am a person. So—
+Jenny: Right?
+Kristin: How about we go over to our Sexual Tension Awards?
+Jenny: Let's hit it. [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Jenny: Well! Another episode, another set of very compelling couplings and throuplings—
+Kristin: Mmhmm!
+Jenny: Here on the pod. First up, for your—if you wanna correct the mistake you made last week by not voting for Joyce and Giles, you're welcome...[Kristin laughs] to do it for this episode. They have that very fun moment at the top.
+Kristin: They sure do, and they have all of that screen time not shown. Which is where my eyebrows raise.
+Jenny: Yeah, who knows what's going on there?
+Kristin: Yeah.
+Jenny: Dawn falls asleep, you know what I mean?
+Kristin: Mmhmm! When the Key is away, the parents will play. [laughs]
+Jenny: Oh god. In the second slot, we've got Spike and are you ready for roleplay Harmony! [Kristin laughs] "I'm gonna… stake you! I'm gonna stake you so much ! I'm gonna slay you!" [Kristin laughs] Great. In slot three, Spike continues. Uh, but this time we've got him paired with Drusilla, his—let's be real, probably his OTP, his—
+Kristin: Yeah.
+Jenny: The love of his life. Uh, she comes back.
+Kristin: [simultaneously] I mean, think back to that moment when Spike's blood fingers went into Drusilla's mouth?
+Jenny: Excuse me!
+Kristin: I'm just saying, they have a lot of tension.
+Jenny: Okay.
+Kristin: If you're into bloody tension, you got it with these two.
+Jenny: Yeah, yeah, yeah, yeah. And then, in slot number four. [clears throat] Uh, wouldn't be—it wouldn't be right to not have at least one throuple in the running here.
+Kristin: Mmhmm, mmhmm.
+Jenny: If you'd like, you can cast your vote for Harmony and Spike and Charlize Theron.
+Kristin: Yeah, and I—Jenny picked the order here and has her reasons. But I would like to imagine that the actual order here would be, um, Harmony in the middle of Spike and Charlize Theron, so. You know.
+Jenny: The nice thing about a throuple is nobody has to be in the middle. You can have an equilateral triangle of humans—
+Kristin: That's true. [laughs]
+Jenny: Slash undead bodies.
+Kristin: There are your nominees. Follow us over on Twitter @BufferingCast. The poll goes up today, stays up for a week, and you tell us who you think had the most sexual tension.
+Jenny: Please! [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Kristin: Well, Jenny.
+Jenny: Okay, all we have left is for Spike to follow Buffy home.
+Kristin: Mm.
+Jenny: Trying to convince—he's just talking, talking, talking.
+Kristin: Mmhmm.
+Jenny: Trying to convince her that she should give this some more thought. And telling her that he can't just be shut out. But actually! [laughs]
+Kristin: Yeah.
+Jenny: Au contraire, my dude, you have been literally shut out and disinvited from the Summers home.
+Kristin: Fuck yeah. And like, this is… I'm not gonna go too far with this. But I do think that this discussion of firm boundaries and literal boundaries are really important. 'Cause this is not a healthy relationship.
+Jenny: No.
+Kristin: It's one that is dangerous and could get violent.
+Jenny: Yep.
+Kristin: I mean, you know, it is a vampire show, so it has already gotten violent. But if we're just taking it on the love/obsession train. Buffy is drawing very firm, very clear lines, and also very literal lines around what Spike is able to do. And I think that's very powerful, very important.
+Jenny: Mmhmm, mmhmm.
+Kristin: Well advised by Willow. Supported by the Scoobies here. And it's hard, 'cause we have, you know, like the Scoobies, sort of let Spike into our hearts in many ways. And so there's a part, I think, of so many of us viewing this who are like, ooh! Like, it hurts, you know? It does hurt to see him realize that that ward has been put back up. But ultimately, I think the lesson is a really important one.
+Jenny: Mmhmm.
+Kristin: And I guess we will just see… where this goes.
+Jenny: Indeed we shall.
+Kristin: Ooh, boy.
+Jenny: Oof! We-e-e-ell! [Kristin laughs] What an ep.
+Kristin: What an ep, yeah.
+Jenny: That we are now at the end of.
+Kristin: Mmhmm.
+Jenny: Great fun. Having a blast. I'd shelter in place with this episode any day.
+Kristin: Yeah, same. Oh my gosh. We hope that you're all staying safe out there.
+Jenny: Mmhmm!
+Kristin: We're so, again, not to repeat ourselves too much, but it is such a delight to be able to talk about, like, Harmony having a threesome with Charlize Theron—
+Jenny: Yep.
+Kristin: In a time when we have a lot of other things on our mind. So thank you for being here with us.
+Jenny: Yeah!
+Kristin: And this is a pivotal episode. I mean, we are really… whew! We are into Season 5. Holy shit.
+Jenny: Yeah, we are.
+Kristin: It is fucking… not gonna stop.
+Jenny: It's all happening.
+Kristin: Whew!
+Jenny: Yeah.
+Kristin: Anyway, Jenny.
+Jenny: So—
+Kristin: Apart from inside of your home, where can people find you?
+Jenny: Dear beautiful friends! I'm Jenny Owen Youngs. And when I'm not watching Buffy or trapped inside my home by state order, I'm usually writing and recording songs. You can learn more about me and hear some of those songs at jennyowenyoungs.com. You can give me a shout on Twitter. You can check out my new EP, Night Shift, on all streaming platforms.
+Kristin: Mm!
+Jenny: And you can listen to me talk about another petite, blond protagonist on my other podcast, Veronica Mars Investigations.
+Kristin: Hell yeah. A wonderful time to consider supporting musicians that you love. And as a matter of fact, since so many have been impacted by everything that's going on. I know so many people in so many field have been impacted.
+Jenny: Mmhmm.
+Kristin: We told you at the top about the efforts that we are putting in place here to do our part. My name… is Kristin Russo. And when I am not living with my parents in upstate New York—
+Jenny: Ha!
+Kristin: [laughs] I can be found also doing a special Patreon podcast on The Storm's Patreon and on our Buffering Patreon, where I am watching all of the films I have never seen. Lord of the Rings, Indiana Jones, The Fast and the Furious, Bond, the list goes on and on and on. And we're having a great time doing it, so you can check that out. You can also check out the work that I do with LGBTQ communities. My website is KristinNoeline.com, that's K-R-I-S-T-I-N N-O-E-L-I-N-E. You can also use that spelling to find me on Twitter and on Instagram. And maybe even on Facebook, who knows. I don't really use Facebook too much. [laughs]
+Jenny: Heh. Buffering the Vampire Slayer's on Twitter, Facebook and Instagram @BufferingCast. You can drop us an email at bufferingthevampireslayer@gmail.com or leave us a voicemail at 216-30-BUFFY.
+Kristin: Hell yeah. And now is a great time to send us the emails that you have been waiting to send, voicemails that you've been waiting to leave. Because we will be doing a mailbag episode in the main feed very soon. So send us all your thoughts. [singing] Send us all your thoughts on Buffy! [Jenny snorts] 'Cause I'd really like to talk about her!
+Jenny: [laughing] Uh-huh!
+Kristin: You're welcome. You can support this beautiful natural talent, Kristin Russo, and—
+Jenny: Oh my god.
+Kristin: Jenny Owen Youngs, doing a great job as well. [laughs]
+Jenny: [muttering] Oh my god.
+Kristin: And our work here by joining our Patreon. A great time, if you can, to join our Patreon because with everything that's going on, it has become full of just so
+many delights. Jenny is about to do a live hang, talking about Xena: Warrior Princess.
+Jenny: Hell yeah!
+Kristin: We have a book club, we have—we just did a rewatch of Bad Girls from Season 3, so you can hear us talk about that from the vantage point of Season 5, which is fun. A lot going on there, and it helps us, you know, live and do the work.
+Jenny: [singsong] Yes!
+Kristin: So you can find that at patreon.com/bufferingcast or just go to our website, bufferingthevampireslayer.com and click on Patreon. Our store is also still open. We are selling a shirt over there we told you about in the intro, but we're selling a shirt there where all of the proceeds are collecting into a little fund where we redistribute that to our Scoobies who have lost their jobs, who need help with groceries. All of that information can be found at bufferingthevampireslayer.com/JustKeepFighting.
+Jenny: Hell. Yeah. And. Till next time…
+Both: Awwwoooooooooooo! [Jenny performing "Blood Ties" off the album Songs from Season 5 by Buffering the Vampire Slayer] You been wrapped in a fantasy Your brain twisting reality Dreaming you might have a shot with me - please You think you are in love with me I think you don’t know what that means Plus, ICK - stay the hell away from me please I wouldn’t even stake you with a 17-foot pole What makes you think that you could take me home Not if you, you were the last dead man living Not if you, you were the last dead man on Earth Not if you, you were the last dead man living Not if you, you were the last dead man on Earth You show up where I’m hanging out Dressed in green, khaki, blue, and brown Your earth tones got me freaking out I wouldn’t even kill you with somebody else’s hands What makes you think that you could be my man Not if you, you were the last dead man living Not if you, you were the last dead man on Earth Not if you, you were the last dead man living Not if you, you were the last dead man on Earth Just look at your dating history Harm adored you, you were so mean You say you loved Drusilla But were sure ready to kill her You think you are in love with me And you think I’m feeling mutually But SICK is all I can really feel, that’s right Not if you, you were the last dead man living Not if you, you were the last dead man on Earth Not if you, you were the last dead man living Not if you, you were the last dead man on Earth Not if you, you were the last dead man on Earth

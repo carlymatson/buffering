@@ -1,0 +1,2068 @@
+Buffering the Vampire Slayer
+Episode 6.22: Grave
+[CHIME]
+Jenny: Hey, everybody!
+Kristin: Oh, hello! Here we are. The season finale of Season…
+Jenny: No big deal!
+Kristin: Six. No big deal. We’d like to start off today’s episode by acknowledging
+and taking accountability for a recent harmful oversight here in the pod space. In
+our episode for Normal Again that aired just a few weeks ago, we had a brief
+conversation around the indigenous Australian instrument that Andrew was playing.
+We referred to the instrument as a didgeridoo, but that was wrong. It is a yidaki.
+Jenny: I also talked about playing this instrument in college. Had we done a little
+more research, we’d have both known that the name “didgeridoo” was given to the
+instrument by white colonizers and also, that it’s an incredibly sacred instrument
+that is only played by men, except in very rare circumstances.
+Kristin: We are both so sorry to everyone, but especially to our indigenous
+listeners, for discussing the instrument so casually. We should have done further
+research into its origins so that we could have responsibly shared that information
+with you all. We have a pretty large platform here, and so when we speak
+incorrectly and irresponsibly, it has a very harmful impact. It further uplifts the
+settler-colonial narrative of ownership of indigenous cultures.
+Jenny: We’ve removed that part of our conversation from Normal Again, and we
+also have added a few very important resources to our antiracist library for those
+who would like to learn more about the yidaki, its history, and the aboriginal people
+to whom its legacy and creation belongs.
+Kristin: Continuing to engage in this kind of accountability is so important to both
+of us, and we hope to continue learning, unlearning, and showing up to our
+conversations here in informed and responsible ways. A couple of other things that
+we’d like to mention before we roll into the episode with you. One, hey! It’s the last
+episode of the season. And so, Jenny and I are gonna take a short break. We will be
+back at the beginning of November with the final season! Season 7.
+Jenny: Ahhhhhhh!
+
+
+Kristin: What the hell? In that break—during that break—you know us by now. You
+know that we say we’re gonna take breaks but we don’t actually take breaks. We
+just do other things that are not the podcast. And so we’re gonna be doing a few
+things. [Jenny laughs] One, today is the last day—if you are a patron at the $5 level
+or higher, today is the last day to submit. Go on over to the mailbag Patreon post,
+go into the form, send us your thoughts, your questions, all the things you want us
+to read in that mailbag. That’ll be going up for patrons next Wednesday. And on
+October 9th—Saturday, October 9th—Jenny and I are gonna be hanging out with
+patrons at the $10 level and higher. We’re gonna be carving some pumpkins. We’re
+gonna be singing some songs. We’ll probably drink, like, hot cocoa or hot toddies or
+hot something. You know, because we like to roll into the season cozily, goddamnit.
+Jenny: Mmhmm. Mmhmm. Mmhmm!
+Kristin: [laughs] Our production calendar for November will be up in the next
+couple of weeks, but know that we won’t be gone for too long. We’ll just be gone
+for about six weeks, and we’ll see you very soon. While we’re gone, there will be
+episodes coming into the feed. Those will be the Unbury Your Gays episode and the
+special episode that we did with Jess Clark on Seeing Red. Both of those will air in
+the main feed while we’re, quote, off.
+Jenny: Also, a timely reminder. The Bored Meow tee is only up through the end of
+October, so if you want this beautiful shirt, designed by Diana Kresge, to
+commemorate your feelings about Dark Willow, cats, or any combination thereof,
+now you know what your deadline is. Also, the Songs from Season 6 CDs are now
+up—
+Kristin: [makes siren noise]
+Jenny: For preorder, baby. That’s right. You can find them in our shop. They’re
+gonna be pumpkin orange. ‘Tis the season.
+Kristin: They are! They’re orange and black, for festive times.
+Jenny: Yes, and as we enter this blessed autumnal season, at least here in our part
+of the world, sniffing our cinnamon-scented pinecones and sipping our pumpkin
+lattes, enjoying all the spices the season has to offer. [Kristin laughs] Let me
+present to you one other spice, a rarer spice, if you will. It’s the results of the
+penultimate Season 6 Sexual Tension Awards.
+Kristin: Lay it on me.
+
+
+Jenny: Are you ready, Kristin?
+Kristin: That’s what she said.
+Jenny: [exaggerated laughter] That’s what she said! [Kristin laughs] Well, in fourth
+place, of course. ‘Cause nobody wants it. With 3% of the vote, it’s Jonathan and
+Andrew, checking each other’s holes.
+Kristin: Boohoo! [laughs]
+Jenny: In…an alarming result that I can’t make heads or tails of, in third place with
+5% of the vote, it’s Spike and Tanoai Reed, AKA the Rock’s cousin and stunt double,
+[Kristin laughs] AKA the human action figure. All I can say to this disappointing
+result is: more for me.
+Kristin: Fair.
+Jenny: In second place—in second place, with 14% of the vote, power on one side,
+power on the other side, it’s a very balanced teeter-totter. It’s Buffy and Dark
+Willow! Shockingly low for this pairing. But you know why it is, Kristin. You know
+what’s going on! A man has come back from across the sea! In a long black coat
+with LASIK surgery. [Kristin laughs] And a banging skin routine.
+Kristin: [pleased] Ugh. Ugh!
+Jenny: [sim] Here to punish the wicked—
+Kristin: [pleased] Ugh!
+Jenny: It’s Giles and all of us, in first place with a staggering 78% of the vote!
+Kristin: Yes! You all know what’s good. You all know what is good.
+Jenny: Congratulations to Giles and all of us. God bless us, everyone.
+Kristin: Seriously! If you don’t follow us on Twitter, you should go over and check
+out a post we put up within the last week. Somebody shared with us Giles—well.
+Tony Head—talking about all of his romantic and bedroom-related feelings. You
+should…
+Jenny: Good gravy. It’ll make you blush.
+
+
+Kristin: It’ll make you blush. Alright! I’ve got an email for us, before we kick off
+into the finale. Are you ready, Jenny?
+Jenny: So ready.
+Kristin: Because our listeners are experts in literally anything that we ever ask
+about.
+Jenny: [laughs] True!
+Kristin: Of course, we have some wonderful truck drivers, traversing the globe,
+listening to our podcast who answered our question. This email is from Liv, who is
+probably listening to their own email read back to them while they drive their truck.
+Liv said—
+Jenny: Oh my god.
+Kristin: “It’s finally my time to shine as the resident truck driver. My first thought
+rewatching this scene was, how exactly is Willow driving this truck? Assuming, since
+it’s a Peterbilt, that the truck is a manual, is Willow shifting gears? Controlling the
+clutch? Is the reason she’s draining because of the nuances of driving stick? [Jenny
+gasps] Or is she floating gears? Is this a loose callback to Faith’s line about Willow
+not driving stick anymore? [both laugh] Anyway, back to the question. No, this
+driver was doing some seriously dramatic steering, which is what led to the truck
+jack-knifing at the end. Honestly, Willow was keeping the truck in a straight path.
+All he had to do was feather the brakes to stop. But proper driving makes for way
+less entertaining television. Anyway, best of luck as you close out the season and
+thanks for keeping me awake during those long night drives.”
+Jenny: Wow. Thank you so much, Liv. We’re sending you so many good vibes and
+also, I hope your truck is never, ever commandeered [Kristin laughs] by a very
+angry vengeful witch. And I hope you never have to do that thing where you grab
+the steering wheel really tight, and look really concerned, and then ultimately just,
+like, let the steering wheel go and throw your hands up! Giving up! Giving over
+control to whoever is controlling your truck now! Hope that never happens to you,
+buddy.
+Kristin: I hope the same. And I hope, for everyone’s sake, that we can get into the
+episode now.
+Jenny: Let’s do it!
+
+
+[Buffering theme plays]
+Jenny: Oh! Hello. A-a-a-and welcome! To Buffering the Vampire Slayer, a podcast
+where we are watching and discussing every episode of Buffy the Vampire Slayer,
+one by one, spoiler free, in tandem with those low-down, no-good, dirty [bleeped
+out], Angel On Top. Ughhh, they really grind my gears! [Kristin laughs] I’m Jenny
+Owen Youngs.
+Kristin: And I am Kristin Russo. Cackling right at the top. This week, we are talking
+about the season finale of Season motherfuckin’ 6! It is called Grave and we’re
+coming out the other side of this season. Woo! Stay tuned—
+Jenny: They said it couldn’t be done!
+Kristin: [laughs] But we have done it! Stay tuned at the end of this podcast every
+other week—although. Mmm. For the season finale, you got two in a row, one week
+to the next. How are you doing, Jenny Owen Youngs, writing two songs in two
+weeks?
+Jenny: Uh. Badda-bing.
+Kristin: Mmhmm.
+Jenny: Badda-boom.
+Kristin: Mmhmm, I’ve heard of it.
+Jenny: Actually.
+Kristin: So yeah. Stay tuned at the end of the podcast for an original song written
+by Jenny. It’s gonna recap the Buffy episode that we are discussing.
+Jenny: Grave was written by David Fury and directed by James A. Contner. And
+originally aired on May 21st, 2002, immediately following Two to Go.
+Kristin: Mmhmm. Do you know, Jenny Owen Youngs, that this is the only season
+finale of all seven seasons of Buffy the Vampire Slayer that is not written by Joss
+Whedon.
+Jenny: Yeah.
+
+
+Kristin: This cheese stands alone. And hey—
+Jenny: [laughs] One lonely cheese.
+Kristin: According to TV Guide—love—TV Guide, just trying to keep it close to the
+chest. TV Guide says this is the one where, “in the conclusion of the sixth season
+finale, a magical friend helps the Scooby gang try to stop [Jenny laughs] a
+sorceress! But the witch still has a few tricks—”
+Jenny: A sorceress.
+Kristin: “Up her sleeve, and an unwilling—”
+Jenny: A sorceress.
+Kristin: “Assistant.” [laughs]
+Jenny: A sorceress.
+Kristin: A sorceress! Wait. Also, last sentence from TV Guide, “Also, Spike’s African
+sojourn comes to a climax.” [Jenny snorts] Whew! Sir. Who are you? Who are you?
+Who wrote this?
+Jenny: [sim] Okay. Wait. So who is—who is Willow’s unwilling assistant? Is it Anya,
+for getting mind controlled? [Kristin laughs] Is it Giles for giving her a bunch of
+power?
+Kristin: [sim] I mean, literally everyone who assists Willow in this is unwilling.
+Jenny: We are all of us—
+Kristin: [laughing] We are all unwilling.
+Jenny: [sim] Willow’s unwilling assistants. Cool! Here we go.
+Kristin: I have a question. I have a question right at the top about the Previously
+Ons, because we talked—
+Jenny: Yes?
+Kristin: In Two to Go, obviously, about how we got this, like, season recap of
+everything we never wanted to see again. But on Hulu, which is where I watch and
+
+
+where you watch, Jenny, there’s a Previously On for Grave. And so—this is really
+a—you know, this is a question for pod nemesis, LaToya Ferguson, ‘cause I’m sure
+she would know.
+Jenny: [grumbles]
+Kristin: [laughs] But how did this Previously On come to be? Is it because, like,
+internationally, they didn’t air together maybe? Or is it because on Hulu, they’re
+separate, and so they made one—like, when did this Previously On get made? A
+question I pose to the universe.
+Jenny: AKA LaToya.
+Kristin: [laughs] Yeah. So LaToya, if you’re—
+Jenny: Our universe.
+Kristin: If we’re still on speaking terms, let us know.
+Jenny: Well! [sighs]
+Kristin: Remember how Giles threw open the fucking door, wearing nary one
+spectacle on his eyeballs?
+Jenny: Mmm!
+Kristin: Looking like the hottest man I have ever, ever put my eyes upon?
+Jenny: [sim] Yeah. Yeah, he went coat shopping with Angel. [Kristin laughs] And
+picked up a duster of his own, but it’s woolen because he lives in England now.
+Kristin: [sim] Oh! Ugh! I’m sorry. Giles has never been hotter than this moment.
+Jenny: Yeah, Giles is very hot.
+Kristin: Good thing we have a jingle for that.
+[MAD DAD jingle plays]
+Giles! Dad’s mad!
+The witches told him you did real bad
+So pissed that he took off his glasses
+You better watch what you say!
+
+
+Dad is mad!
+Jenny: You know what I think it is? I think Tony Head got to go fucking home for a
+minute. [Kristin laughs] See his loved ones. Sleep on a regular—like, reassume a
+human circadian rhythm.
+Kristin: Mmm.
+Jenny: He looks well rested.
+Kristin: [pleased] Ugh!
+Jenny: He looks, like, fit. Like, he looks hot—he looks like he’s just feeling a lot
+better than I imagine you feel after filming—
+Kristin: Mmhmm.
+Jenny: This television show—
+Kristin: Mmhmm.
+Jenny: On this television show’s schedule for six years. [laughs]
+Kristin: Yeah. Yeah. Good job taking a nap, Dad. Good job. It—so we—you know, if
+you watched this in real time, you sort of saw him walk in. And then you continued
+on into this scene that we enter in for Grave. Let’s walk into this scene, hearing
+what Willow has to say—what Dark Willow has to say about the arrival, the return,
+of the prodigal Giles.
+[Clip from episode plays]
+Dark Willow: Huh-oh! Daddy’s home. I’m in wicked trouble now.
+Giles: You have no idea.
+Jenny: Somewhere! Somewhere, Faith Lehane’s ears just pricked up. She caught a
+scent in the wind of someone saying “wicked” in Sunnydale!
+Kristin: [laughs] Yo, Faith would be having the time—
+Jenny: [sim] She’s sitting, probably, in a—
+
+
+Kristin: Faith would be, like, eating a giant bucket of popcorn, watching this shit go
+down. [laughing] Faith would be so fucking into this, in a finale. So into it.
+Jenny: Yeah. She’s, like, you know, sitting alone in her Spartan [pronounced
+“spa-tin”] cell somewhere. That’s all I got. I just wanted to say “spa-tin.”
+Kristin: [laughs] [sim] God. Give her the VHS tape. Somebody mail Faith Lehane
+the VHS tape recording you have of the Season 6 finale, because…
+Jenny: Yeah.
+Kristin: Whew! She would be like, “Buffy’s looking good—my girlfriend—”
+Jenny: [sim] Yeah, she’s watching the Season 6 finale.
+Kristin: Yeah.
+Jenny: Then she’s watching The Departed [pronounced “dep-ah-ted”]. [Kristin
+laughs] Then she’s watching a movie I just learned about while visiting Fenway Park
+called The Town. Which is apparently some kind of, like, heist movie where some
+guys try to steal the fortune in the safe at Fenway. [both laugh] Because Ben
+Affleck decided he wanted to write, direct and star in a movie that would allow him
+to just spend a lot of time at Fenway.
+Kristin: Did anyone know that Ben Affleck and Matt Damon are from Boston? Did
+anyone know that?
+Jenny: [laughs] Yeah. [Kristin laughs] It’s about time that we uncover this truth
+long obscured by the sands and dusts and winds of time.
+Kristin: [laughs] Ahh.
+Jenny: Bostonian, they are!
+Kristin: God. So, yeah. Giles is like, “I’m not finished yet,” and Willow’s like,
+“Neither am I.” And then Giles says, “Stay down.”
+Jenny: Ahhhh!
+Kristin: Hot, hot, hot, hot, hot. You can tell me to stay down any time, Giles. I’m
+sorry, gotta go, gotta go!
+
+
+Jenny: Ah. [clears throat]
+Kristin: “I can kill a couple of geeks all by myself,” says Willow. [clears throat] And
+then she starts ragging on Giles. [laughs] Which, I mean, you know. It’s a
+good—it’s a good—she drags on him pretty good, right? “You can watch. Isn’t that
+what Watchers do?”
+Jenny: Oh my god.
+Kristin: “Butting in on things that don’t concern you?” [laughs]
+Jenny: Never have I been so bummed as having to endure yet another line reading
+of someone saying, “amateur” [pronounced “am-a-tyoor”]—
+Kristin: [laughing] I know, I know—
+Jenny: In Sunnydale, California. [both laugh]
+Kristin: Before she del—before her voice drops three octaves, which we’re gonna
+listen to together as a family. [both laugh] But before that happens. There’s just a
+couple of, like, moments in this episode where, even before she sucks the essence
+of magic out of Giles’ beating heart, there’s this glimmer of, like, something that is
+not only evil in Dark Willow. And this is, like, one of those moments, because Giles
+says, “You’ll wind up dead.” And she doesn’t have a retort. Like, she just sort of,
+like—[laughs] she takes a minute, has a beat. So just pointing that out. But then,
+yeah, let’s hear her say “amateur.” And—[laughs] hear what that dark, vengeance-y
+magic does to the vocal chords of one Willow Rosenberg.
+[Clip from episode plays]
+Dark Willow: You called me a rank, arrogant amateur. Well, buckle up,
+Rupert. [deeper voice] ‘Cause I’ve turned pro.
+Jenny: Well! This is just simply not what I want out of life. There’s a few instances
+of this for-dramatic-purpose voice dropping. And I don’t know about it. [laughs]
+Kristin: Yeah. Yeah, I mean, you know, there’s a—Dark Willow is really campy. So I
+allow it, I’ll allow it. I think it’s—you know, it’s like, fun in the campy way. Like,
+later, when she’s like, “Fly, my pretty!” Like—[laughs] you know, it’s kind of—it’s
+kind of ridiculous. [Jenny laughs] But it’s like, kinda her deal, so. I’m good with it. I
+think—
+
+
+Jenny: Alright. Alright.
+Kristin: Important to note, of course, because when we ended Two to Go, we saw
+Giles enter. But we did not realize until this scene that Giles is wielding some
+serious fucking power. Anya is like, “How did he—what? What just happened?
+[laughs] Wasn’t this man supposed to be a Watcher and he just, like, knocked this
+powerful witch down?” He has—I mean, in this episode, Giles is also a witch.
+Motherfuckers!
+Jenny: Mmm. Mmhmm.
+Kristin: He uses his witchcraft to create what I refer in my notes as a stasis blob.
+Do you think that’s the technical term?
+Jenny: Wow, I called it a little nap donut.
+Kristin: [laughing] Awww! That’s cute!
+Jenny: I’m like, where can I get a little nap donut? [Kristin laughs] I would like to
+float and sleep.
+Kristin: Oh, you could play L.A. Exes’ Temporary Goodbye over the image of you—
+Jenny: [laughing] Yes, exactly.
+Kristin: [sim] Inside of your nap donut.
+Jenny: Thank you.
+Kristin: This, of course—this nap donut—is how Giles gets Willow to, like, sit in
+time out for a second. [laughs]
+Jenny: Mmhmm.
+Kristin: He sort of wraps her in this thing. And she’s, like, awake and can hear, but
+can’t use her magic. It’s very temporary. Speaking of temporary goodbyes.
+And—but we get—this little pause gives us a very sweet moment.
+Jenny: Giles notices that Buffy cut her hair. And they hug.
+Kristin: And then! Anya! Anya, like the little sister, is like, “My hair’s different. Dad.
+Dad?” [both laugh]
+
+
+Jenny: She would also like a hug!
+Kristin: Ohh. And then Giles, like, holds both of them against his big Giles chest
+and it’s lovely.
+Jenny: It’s very nice. It’s very sweet.
+Kristin: He then—he also walks over to donut Willow and says, “I’m very sorry
+about Tara,” because he knows that she can hear him. And of course she does not
+care and says, “This won’t hold me forever.” Oh my god!
+Jenny: Okay, now…I have a bone…
+Kristin: Mmm.
+Jenny: To pick—[laughs]
+Kristin: Is it a magic bone? [laughs]
+Jenny: A magic bone to pick, sure! Giles just put Willow in a little nap donut. Why
+in the flipping god-mother-flip—faaahhh! Why—
+Kristin: [laughs, makes beep noise]
+Jenny: Yeah. Why in the hell would you leave Anya alone in the room with Willow
+[Kristin sighs] so you can go in the back and have a little catch-up—
+Kristin: Well—
+Jenny: With the straw dummy and the—the gymnastic horse. Or whatever that
+thing is called.
+Kristin: Yeah, you wouldn’t. Except for if you’re writing a television show and you—
+Jenny: Sure.
+Kristin: Absolutely need for Buffy and Giles to get this moment. And I am here for
+it. I will sacrifice—I will buy into plausible—what a—you know what I mean? I’ma
+buy—I’m gonna—
+Jenny: Okay. Yes.
+
+
+Kristin: Yeah.
+Jenny: You’re suspending your disbelief.
+Kristin: There it is. [laughs] I’m suspending my disbelief so I can get this—
+Jenny: Into a nap donut.
+Kristin: [laughs] This scene. This is…one of my favorite scenes. I’m sure many of
+you feel the same. This is one of my favorite scenes in the series of this show. Like,
+all 144 fucking episodes and, like, this is up there. But before we get there and we
+all get to laugh together, we get some information. A., Giles agrees with all of us,
+the Council is a bunch of dingdongs. Great. B., there’s an extremely powerful coven
+in Devon. I looked up Devon—Devon, England—and it’s very beautiful. If you live
+there, congratulations.
+Jenny: Congrats!
+Kristin: Like, fucking gorgeous beaches and—it was really nice. If I were—
+Jenny: Ohh.
+Kristin: In a witch coven, I would also set up camp there.
+Jenny: Sure.
+Kristin: And we learn that that is how Giles has become the witch that he is now.
+He has been imbued with the powers of the coven, to battle this dark force fueled
+by grief that they were aware of, while the Council was, like, fucking filing their
+nails.
+Jenny: [laughs] So…just to refresh your memories [Kristin laughs] from a little bit
+ago. Buffy’s like—
+[Clip from episode plays]
+Buffy: Giles, everything’s just been so…Xander left Anya at the altar, and
+Anya’s a vengeance demon again. Dawn’s a total klepto. Money’s been so
+tight that I’ve been slinging burgers at the Doublemeat Palace. And I’ve been
+sleeping with Spike.
+
+
+[pause]
+[Giles starts laughing]
+Giles: I’m sorry. [laughs] I’m sor—[laughs harder]
+[Buffy starts laughing with him]
+Kristin: An Emmy. An Emmy! An Emmy for Tony Head. An Emmy! For Tony Head.
+This is incredible. His little fucking Giels hand comes up over his still non-spectacled
+face. And he loses it. And so now, if you have finally gotten to this episode, you
+know that every time we put that fucking GIF up—’cause this is a big one. It’s a big
+GIF moment for Giles. [both laugh] This is what he’s laughing at. He’s like, you
+have to be kidding me. I love this! I know that, like, I don’t need to say it 50 times.
+It’s just…you know, the…I think sometimes shows can just go too hard in, like, the
+drama direction. Because it’s not accurate to real life, right? Like, when really
+horrible things are happening, it—those are also the moments when you laugh the
+hardest.
+Jenny: Mmm.
+Kristin: It’s like, the closer you get to total destruction, [Jenny laughs] also the
+closer you get to, like, being able to feel just complete and utter joy and laughter.
+And like, that is the moment that they’re sharing here. And it is done—ugh! Chef’s
+mwah, you know?
+Jenny: [laughs] Yes.
+Kristin: Meanwhile. [clears throat] Back in the front room of the Magic Box, of
+course. Willow is controlling Anya’s mind.
+Jenny: [cackles] It’s good.
+Kristin: [sim] “Anya?” I love—like, I think that the amount of times they use
+people speaking from the inside of their brain is the right amount of times. Like,
+because it always has—
+Jenny: Yeah.
+Kristin: An impact on me. You know, like, you could overdo that—
+Jenny: Yeah.
+
+
+Kristin: And they don’t. [laughs] So—
+Jenny: No, it’s very good.
+Kristin: Anya’s like, “You can’t control me, I’m a vengeance demon.” And Willow’s
+like, go do this thing. She’s like, okay, mm, okay. [both laugh] Okay, no, sure, sure,
+sure, sure, sure.
+Jenny: No!
+Kristin: So—but we cut back to the training room. They are still laughing. And—
+Jenny: Oh my god, pissing themselves.
+Kristin: Just dying. Just—you need this, you need this. You know, we’ve all earned
+it. So feel free, take a laugh. And [laughs] Giles is like, “I should never have left,”
+and all of us shout from behind our television screens, damn right! [Jenny laughs]
+Meanwhile, Buffy’s like, “No, you really—it’s totally fine. You absolutely should have.
+Everything that you thought would happen happened and I, like, whatever.” Mmm,
+debatable, but—
+Jenny: [unconvinced] Mmm.
+Kristin: There’s too much to talk about in this episode to go too deep into that.
+[laughs]
+Jenny: And Giles says, “Sometimes the most adult thing you can do is ask for
+help.” And Buffy and all of us in unison scream, now you tell me!
+Kristin: Right. [Jenny sighs] It is a valuable little nugget there, though. Like, that’s
+a good—that is true. That is true. Being able to ask for help is probably one of the
+hardest lessons for many of us to learn, so—
+Jenny: Mmhmm, mmhmm, mmhmm.
+Kristin: Hey here’s your little Kristin on your shoulder saying, hey, if it feels like
+perhaps you’re in a place where you should ask for some help to do the thing you
+need to do or to get—just ask. Ask.
+Jenny: Mmhmm, mmhmm.
+
+
+Kristin: I have a lot of trouble asking when I need help, so. [Jenny laughs] This is
+me telling you. You and I, we’ll do it together, we’ll ask for help. Jenny, help!
+[laughs]
+Jenny: He…hello.
+Kristin: [sighs] So. We get, like—I will say this. I really—there’s a lot about this
+episode and, like, what it does that I really, really love. And a lot about this episode
+that I don’t really love. So I want you to just know that when I’m talking about
+something I love, there are other things—and when I’m talking about things I don’t
+love, okay, that’s not my whole feeling on it. I have—I can hold two things at once.
+This is something that I love. It’s the first sort of glimpse we get into, like, Buffy’s
+emotional place and how that’s changing here, moving forward here, taking a step
+forward. And what I like is that in this scene, she says to Giles, like, “It took a really
+long time for the feeling to go away that I wasn’t really here.” Right?
+Jenny: Mmhmm.
+Kristin: And so she’s acknowledging that, like, something has shifted in her. She
+doesn’t feel sort of, like, as…out of herself as she did before. And then she says,
+though, “I don’t understand why I’m back, though.” And I just, like—I love that
+these two things exist together. That, like, it isn’t just a story of, like, Buffy’s better
+now. It isn’t. It’s like, Buffy still has questions. Buffy still has things that she has to
+struggle with and deal with and work through and move through. There’s
+no—there’s not, like, a bow. And so, like, when we get later on in the show, I just
+wanna remember this as well, that like—
+Jenny: Mmhmm, mmhmm, mmhmm.
+Kristin: There is not just, like, a happy smiley face on Buffy here.
+Jenny: Right.
+Kristin: All that has happened is that she has found some hope and also found
+some healing. She has healed a bit through this season.
+Jenny: Yeah, and Giles says, “Oh, you know, you’re back because of your calling.”
+And Buffy says, “It was my time. Someone would have taken my place.”
+Kristin: Mmhmm.
+Jenny: Okay, so…what?
+
+
+Kristin: Faith—
+Jenny: [sim] Because you were dead for two months, three months, five months?
+Kristin: Right, and nobody did.
+Jenny: A number of months. Nobody did.
+Kristin: But that’s because the Slayer’s in…jail.
+Jenny: [sim] We all agreed upon—we agreed upon the idea that—right—that—
+Kristin: You only get one replacement.
+Jenny: Buffy begot Kendra. Kendra begot—
+Kristin: [sim] Kendra begot Faith.
+Jenny: Faith. Now if that’s not true, [laughing] what happened in all these months,
+that no one was called to replace Buffy? It’s funny. A funny bit of logic.
+Kristin: [sim] Well, and also, like—I mean. Speaking of the Council being a bunch
+of fucking dingdongs, like, what were they doing that whole time? [Jenny laughs]
+Because—I mean, I would imagine that, like, they would have either dealt with
+Faith—and by “dealt with” I mean killed Faith so that they would have a new Slayer.
+Jenny: Mmm.
+Kristin: Or they would have at least fucking called up their friends and been like,
+“Can you let her out of jail?” You know, because you know they’re friends.
+Jenny: Please? Yeah.
+Kristin: You know the Council is friends with the—yeah. So—but none of that
+happened, right. Anyway. This is also when we learn that the coven’s plan—really
+hoping that we get to meet this coven. Because you know, they’re just, like, sitting
+at the beach. I love that they just sent Giles to do it. They’re like, you know, you
+just take our power. How about you take it and you go do it?
+Jenny: [laughs] Yeah, so weird.
+
+
+Kristin: We’re chilling.
+Jenny: We’re gonna give you the keys to the ‘vette, old man. [Kristin laughs] Have
+a lovely drive.
+Kristin: Have—yeah, have a good time. It’s a nice day here. We’re gonna get tan.
+So—
+Jenny: This is where Giles says, you know, be prepared because Willow, even if she
+does survive, she might not be the same Willow. She’s killed a human being. Right?
+And pause, because—
+Kristin: I know, you’re mad about it.
+Jenny: Am I? Well—
+Kristin: [sim] Oh, I don’t know—last episode—
+Jenny: [sim] She also killed Rack. What is Rack?
+Kristin: Right, we don’t know. We don’t know.
+Jenny: So Rack doesn’t count, I guess, because he was a creepy magic guy.
+Slash—
+Kristin: He’s a sorcerer.
+Jenny: [sim] A dealer? [laughs]
+Kristin: I don’t know.
+Jenny: Mm, okay. [laughs] And then he’s like, “How’s she going to live with
+herself?” Cut to [Kristin laughs] the doorway into the workout room, where Anya is
+floating and seemingly unconscious with her neck at an odd angle. [laughs] And
+from behind her comes Willow’s voice saying, “I wouldn’t worry about that. [yells]
+Willow doesn’t live here anymore!” Smoke bomb, pyrotechnics. Freaking—
+Kristin: It’s good.
+Jenny: Those really fast, noisy flash cuts they do in Angel between scenes. [both
+laugh]
+
+
+Kristin: [sings Angel theme]
+Jenny: [makes flash cut sound effect]
+Kristin: [laughs] So. Yeah. The thought that I had that, like, isn’t even worthy of
+making the joke. But I had it and so I’m me. Was when you said that Anya was
+floating and her neck was bent at a weird angle?
+Jenny: Mmhmm.
+Kristin: My brain said to me: Anya walked so that the bent-neck lady could run.
+So.
+Jenny: Oh my god.
+Kristin: You’re all welcome, you know? I just—I can’t hold these things for myself.
+Jenny: Anya floated so that the bent-neck lady—
+Kristin: [laughs] Yeah, that’s better.
+Jenny: [sim] Could float from a higher, creepier angle.
+Kristin: [laughs] So…
+Jenny: Willow—okay. This is…mmm, is this my favorite thing that Alyson
+Hannigan—like, my favorite Alyson Hannigan choice, as Dark Willow? She says,
+“Fool me once, shame on you” and waggles her finger in such a—[shudders] kind of
+way.
+Kristin: Mmhmm.
+Jenny: I really, really like this choice. Not all Dark Willow choices—[laughs]
+Kristin: Yeah.
+Jenny: Work for me personally.
+Kristin: Mmhmm.
+Jenny: But I think this one is great. It’s menacing and it’s just, like, a tiny little bit
+silly, without being, like, overtly silly, you know?
+
+
+Kristin: Yeah. Yeah, yeah. Alyson Hannigan—
+Jenny: And then she throws a bunch of knives at Giles without her hands. But
+thankfully, he moves one of the workout dummies—
+Kristin: There’s just one.
+Jenny: Oh. [laughs] He moves the workout dummy in front of him.
+Kristin: [sim] It is the workout dummy. And like, just because, you know, we’re
+talking about the workout dummy, I would just like to say that when we first cut
+into the training room, [laughs] Giles is, like, fingering the denim, uhh—the
+chambray shirt that the dummy is wearing. It’s as though he’s, like, also saying,
+like, “hey, bud. [laughs] I’m sorry I left you too.” You know?
+Jenny: He’s about to just, like, pop the collar back, to be like, oh. Is this from J.
+Crew? [Kristin laughs] Is this from Brooks Brothers? Is this—
+Kristin: Whose shirt is this? Did they take my shirt to put on the dummy? [both
+laugh]
+Jenny: And then they start to fight!
+Kristin: Yeah. So Willow, when she throws the knives at Giles and he blocks them
+with the dummy, like, they all kind of spin. But the one on the—like, the furthest ax
+does, like, 40 spins. It’s, like, the show-off ax. It reminds me of the—
+Jenny: Yeah.
+Kristin: The bell—you know the Christmas commercial with the Hershey Kisses,
+where they all ring and then the last bell is, like—just keeps on ringing?
+Jenny: Ring-a-ding-a-ding-a-ding-a-ding…
+Kristin: Yeah, that’s this ax. It’s like, look at me!
+Jenny: Mmm. Yeah.
+Kristin: So outside, shut up, Xander!
+Jenny: Wait—
+
+
+Kristin: Shut the fuck up. Shut up, Xander. Oh, sorry, they fight. [Jenny laughs]
+Fucking Giles throws Willow through, like, 40 walls and we cut.
+Jenny: Oh, yeah. So Xander is leading the escape brigade. And this has to be the
+most leisurely pace an escape brigade has ever taken.
+Kristin: [whiny] “Mom!”
+Jenny: They are strolling. Which I know, they have to do so that they can have this
+very annoying conversation. [laughs]
+Kristin: [whiny] “Mom!”
+Jenny: But. [laughs]
+Kristin: Remember when Dark Willow said to Dawn, “Mom!” This is actually who
+she should have—
+Jenny: Yeah.
+Kristin: Been talking to. To Xander. [Jenny laughs] [whiny] “I can’t do anything!”
+Jenny: Oh.
+Kristin: [whiny] “Nobody needs me!”
+Jenny: Yeah.
+Kristin: “I’m Xander!” And then Dawn—I told you. I’m a fucking Dawn fan.
+Top—number one. A, number one, Dawn fan, Kristin Noeline Russo. Dawn’s like,
+“Um. Feeling sorry for yourself isn’t helping either.” You fucking dumbass. [laughs]
+Jenny: Yeah. Xander—I mean. It’s clear what they’re, like, trying to do. You know,
+they’re trying to…show that Xander feels like he, you know—he’s just feeling like a
+real failure by the end of this season. He’s not—all of his friends have powers. He
+left his very hot wife at the altar. He’s just kind of a wreck. And he’s really focused
+on that right now, for some reason, instead of…focusing not on that. He also—right,
+he’s also, like, watching his best friend be—like, turn evil. And like, is power—feels
+powerless to stop it. He is, like, feeling…you know, max powerless, I guess.
+Kristin: Is that, like, the—the…
+
+
+Jenny: No. [laughs]
+Kristin: [sim] Lesser brother of Max Headroom? [laughs]
+Jenny: No. That’s not how naming conventions work, Kristin.
+Kristin: Yeah. So this is…this is where I struggle with this episode, right? And I’m
+also, like, giving a little bit of a voice to—I don’t know if you remember my
+conversation with Emma when we talked about the loss of Tara and, like, that whole
+journey. But Emma, and a lot of the sort of Kitten Board fury, [laughs] about this
+and the way that this episode goes is like, so. Willow is in this relationship with her
+partner, Tara. Tara dies. She’s full of grief and rage and the person who saves her is
+this fucking dude, who talks about a crayon? Like, that was the very painted with
+broad brushstrokes, like, are you fucking kidding? I have, like—I have space for—I
+like—and we can, you know, go deeper in when we get to the actual ending, right?
+But like, I have space for, like, love and humanity being something that is important
+to focus on. But this shit? Like, the fact that we have seen Xander, like, stomp his
+adult man way through the last several episodes. And like, just be so focused on
+himself, because he’s so upset that he can’t save the world and he doesn’t have
+powers or whatever. And then at the end, he is the hero? Given the fact that this is
+a show, an arc, created by a certain problematic man is—does a lot of things to me
+that I do not like. So I’m just saying that here, and remember—remember Kristin
+of—ghost of Kristin past said she’s not gonna like everything. But she likes some
+things, so this is just me liking not something. I will like other things. And I’m
+gonna talk about it more when we get to the end, but I just—
+Jenny: Yeah. I mean, it’s especially difficult because he has some very poor
+moments in this very episode. Like right here, when Dawn says—
+Kristin: Yeah.
+Jenny: “If Spike were here, he’d go back and fight.” And Xander says, to Dawn, the
+16-year-old sister of his friend who has been assaulted, “Sure, if he wasn’t too busy
+trying to rape your sister.”
+Kristin: Yeah.
+Jenny: My dude!
+Kristin: Yeah.
+
+
+Jenny: The ways in which this is deeply inappropriate—
+Kristin: This is—
+Jenny: And so very much not your thing—
+Kristin: No.
+Jenny: To tell a—like, legally a child about.
+Kristin: Well, and it’s not even—it doesn’t even matter—like, I mean, it does. Like,
+that is valid and true.
+Jenny: Sure. Yes.
+Kristin: But you should—like, that is not—it is not his place to tell—to talk about
+Buffy’s trauma to anyone else.
+Jenny: Mmhmm.
+Kristin: That’s her decision to make. But also, on top of talking about this thing
+that is not his to talk about, he literally weaponizes her fucking trauma for himself!
+The only reason he fucking says this is because he needs Dawn to know that he
+wouldn’t do this. And he is a good guy and nobody knows that he’s a good guy.
+That is using your best friend’s fucking trauma so that you can feel better, you
+motherfucker! Ughhh! [clears throat] Thank you.
+Jenny: Yeah. Yeah. [Kristin laughs] Well, anyway.
+Kristin: Well, anyway! Let’s get a scene with Spike.
+Jenny: [sim] In more shirtless locations—
+Kristin: How great. [laughs]
+Jenny: Mmm! Here’s Spike at the demon cave.
+Kristin: Oh, god.
+Jenny: Shirtless, looking destroyed. And he says…[Kristin sighs] now, listen to
+these interesting words.
+
+
+Kristin: Yeah.
+Jenny: I’m gonna read them as neutrally as I can. [Kristin laughs] “I’ll take
+anything you can throw at me if it’ll get what I need to take care of the Slayer. Give
+her what’s coming to her.” Now. The way that I just read those lines, you know,
+they could mean, um…they could mean something positive. The way that they are
+performed, they do not [laughs] feel in any way positive. They feel—
+Kristin: I don’t even agree with that. I don’t even agree—
+Jenny: Oh, really?
+Kristin: No, I don’t.
+Jenny: Really?
+Kristin: I actually do not understand how “give her what’s coming to her” could—I
+mean, you’d have to really bend—
+Jenny: [sim] Oh, you’re like, he—
+Kristin: The energy in that—
+Jenny: Yeah.
+Kristin: To make it positive.
+Jenny: Yeah. Yeah, it’s almost as if he’s saying, “Bitch is gonna see a change” right
+here. [laughs]
+Kristin: Right. I mean, right. Like, this is—
+Jenny: Yeah, okay, cool.
+Kristin: [sighs]
+Jenny: [cackles]
+Kristin: I mean, I just, like…[Jenny cackles more] here’s what I wanna know.
+Because last—
+Jenny: Mmhmm.
+
+
+Kristin: Last episode or the episode be—I think it was last episode. I talked a little
+bit about, like, James Marsters sort of—and I couldn’t find the information that I
+wanted to find. And that is not because it isn’t there, it’s just because of, like,
+limited resources and time to devote to certain areas of research. But what I found
+led me to believe that James Marsters was not told about the final scene of this
+episode until he had basically done all of these other scenes.
+Jenny: Mmhmm.
+Kristin: And so I would love if you know—if you, like, have the proof. [laughs] If
+you have the receipts about that—
+Jenny: If you have the receipts? Mmhmm.
+Kristin: Yeah, then please email us at bufferingthevampireslayer@gmail.com.
+Because I’m pretty sure that that’s the case, but I can’t say it with 100%
+confidence. But I just…we know that he—right, he gets his soul, at the end of the
+fucking episode. We know that.
+Jenny: We know that he gets his soul at the end of the episode. And you
+know…that’s interesting.
+Kristin: Mmhmm.
+Jenny: It’s very interesting.
+Kristin: [sim] But why fuck with us? Why fuck with us?
+Jenny: Well, why fuck with us and also why give us a performance that—
+Kristin: Yeah. Well, and I blame that on—
+Jenny: [sim] [laughs] That leans so far in the other direction. It’s not—it doesn’t
+feel ambiguous.
+Kristin: [sim] Because James Marsters—James Marsters is an incredible actor. And
+like—and I’m gonna get mad about this in advance, and maybe I’m wrong. But if
+this man did not know the last scene, he was not given the fucking tools that he
+deserved to give us the performance that would have actually maybe been a little
+bit better than this. My firm opinion is, don’t fuck with us on this. Like, don’t. Like,
+
+
+if you want your character to go get his fucking soul back. If that’s the journey after
+the scene—
+Jenny: Mmhmm.
+Kristin: That you showed us in Seeing Red. If that’s where he’s going, then make
+him go there. Let us see him go there. Don’t fucking play with our minds after
+you’ve done something like that. It’s—to me, that is, like, not okay. But at the very
+fucking least, tell the man who plays this character—
+Jenny: Yes.
+Kristin: Who is obviously an incredibly skilled actor—
+Jenny: Mmhmm.
+Kristin: What the deal is so that we can, at the very least, get the nuance. And I
+don’t think that that happened here, and I’m not okay with it. Neither is Jenny, so.
+[laughs]
+Jenny: Indeed. I have more to add to this when we get to the end—
+Kristin: [sim] Yeah. Yeah.
+Jenny: Of our conversation about this episode.
+Kristin: It’s almost like it’s a finale.
+Jenny: Almost! You know what else happens in finales, usually, Kristin?
+Kristin: Mm?
+Jenny: There’s almost always huge CGI beetles. Everyone knows the most
+fearsome challenge in any physical trial is huge CGI beetles crawling up your nose.
+Of course!
+Kristin: Just one. Just one. It’s the special beetle—
+Jenny: And he doesn’t do anything!
+Kristin: [sim] It’s like the sperm that meets the egg. It’s like that one beetle.
+[laughs]
+
+
+Jenny: [sim] He just—he just sits there! He just sits there and screams. He’s not,
+like, fighting the beetle—is the challenge, like, letting them crawl into your nose?
+Like—
+Kristin: Yeah, what does he have to do?
+Jenny: This demon really needs to work on its communication. [Kristin laughs] It
+needs—I mean, it’s got the nails. It’s got the look.
+Kristin: Yeah.
+Jenny: [laughing] But it really is not communicating.
+Kristin: The—
+Jenny: I love that we get another closeup of his little claws clacking together.
+That’s, like, how he expresses.
+Kristin: [sim] In this challenge: beetles. [laughs]
+Jenny: Yeah.
+Kristin: For this challenge…bugs.
+Jenny: Mmhmm.
+Kristin: Yes. So, anyway. While Spike is being beetle’d, the Magic Box is fucked up.
+The Magic Box is looking like Lorne’s karaoke lounge up in here. Fucking—
+Jenny: [both laughing] Oh my god, yes. Caritas part two.
+Kristin: It’s actually, I think, Caritas part three. I think Caritas has already been
+destroyed twice. [laughs]
+Jenny: Right, right, right. Willow—
+Kristin: Yeah, it’s burning. The books are burning.
+Jenny: Yeah, whew! Some things are on fire. Willow looks like she’s got the upper
+hand. And she says, “That all ya got, Jeeves?” [both laughing] How dare. What a
+rank, arrogant amateur.
+
+
+Kristin: [laughing] Jeeves. “I can go ten more rounds. Nothing can hurt me now.
+This,” and she, like, waves her hand in front of her face, “is nothing.” And then she
+gets real serious for a second, and she says, “It’s all nothing.” And we’re like—all of
+us watching from the year 2021 are like, uh-huh. [laughs]
+Jenny: And then. Buckle up, because Giles says, “If you lose someone you love,
+the other people in your life who care about you become meaningless? I wonder
+what Tara would say about that.”
+Kristin: Ooooh!
+Jenny: Ahem!
+Kristin: That’s my note. My literal note is 47 O’s with an H. Oooh! Like, oh shit, no
+you didn’t, Giles! No, you did not.
+Jenny: Then Willow says, “You can ask her yourself.” [Kristin laughs] And shoots a
+little zappy bolt at him. Oh…my god!
+Kristin: So many, like, zappy bolts and glowing orbs that come from various
+orifices of these witches’ bodies [laughing] in this episode. Just like—
+Jenny: Orifices.
+Kristin: Opening palms and mouths and fucking, just orbs of magic flying.
+Jenny: Luckily, Buffy pushes him out of the way. And then Willow’s like, “You’re
+kinda—you’re always saving everyone. It’s kinda pesky.” [both laughing] And she
+comes up with a scheme, an incredible plan! Oh my god!
+Kristin: Yes. This plan—this plan actually has a theme song, are you ready?
+[“Fireball” by Pitbull starts playing]
+Baby, I’m a fireball
+[Kristin clears throat]
+Jenny: Waaaaaah! Yeah, Willow’s like, [dramatically] “I’m gonna—mmm, I’m gonna
+send this fireball to bury Jonathan and Andrew and anyone helping them. Unless
+somebody can get there in time to save them!” [Kristin laughs] And she throws the
+
+
+fireball through the ceiling. And it’s off. And Buffy’s like, fuck. And Giles is like,
+“Just…go.”
+Kristin: I mean, Giles is, like—knows he’s maybe gonna die. And he’s still like,
+god-fucking-damnit. Like, his face is just like, come—come on, man!
+Jenny: [laughs] This bitch!
+Kristin: Also. Like, before we even leave this scene. So—so right. So Willow’s like,
+boom, throws the fireball. Giles is like, god-fucking-damnit. Buffy’s like,
+god-fucking-damnit. And so then Buffy runs out of the Magic Box after the fireball.
+[laughing] The way…it takes her seven hours to get to the door. It’s, like—I don’t
+understand why they let us see this run. [Jenny laughs] It’s, like—it’s not her fault,
+because—[Jenny cackles] believe it or not, Sarah Michelle Gellar is just a human
+person. But, like—
+Jenny: No!
+Kristin: The fireball’s, like, thrown to the heavens and Buffy’s like…[makes little
+tapping sound] [both laugh] It’s funny.
+Jenny: Yes. Well. Shit.
+Kristin: “Thought she’d never leave,” says Dark Willow. “Now I have you all to
+myself.” So. Buffy made it outside. Four hours have passed, she’s on the streets of
+Sunnydale. [both laugh] We get a shot of the—[Jenny gasps] Big U. The U. [Jenny
+gasps] Faith’s U?
+Jenny: What big U? Who’s been up there?
+Kristin: [laughs] Literally can never see that U without being like, Faith is back
+there with her arrows, right? Her little poison darts. Ready to shoot somebody.
+Jenny: [sim] Yeah, her little compound bow.
+Kristin: If only she was, she could have caught what Buffy sees in the sky! What is
+it?
+[“Fireball” by Pitbull starts playing]
+I’m a fireball
+Woo-woo!
+
+
+Jenny: Well, she’s off, after the [quietly] fireball. [Kristin laughs] Now, Willow,
+being evil and all—
+Kristin: Mmhmm.
+Jenny: Has to monologue while she does things.
+Kristin: Mmhmm.
+Jenny: That’s the rule.
+Kristin: Yes, it is.
+Jenny: She’s thwapping Giles against the ceiling and against the floor and against
+the ceiling and against the floor. [Kristin laughs] And then, rude. She takes his
+frigging power. And then, oh no, Kristin. [both laughing] After she takes his power,
+the world gets a little hazy and spinny—
+Kristin: [singing] “Oh, in my naked eye, I saw—”
+Jenny: Yes.
+Kristin: [sings tune]
+[both laugh]
+Jenny: And she begins to say things like, “Whoa, head rush” and “who’s your
+supplier?” And then, oh no. “I’m so juiced.”
+Kristin: Guys.
+Jenny: Eugh!
+Kristin: Guys. Guys.
+Jenny: Okay.
+Kristin: It is still 2002. This is what all young people were led to believe being high
+on drugs felt like. We got a lot of this—many, many echoes of a person, [laughs]
+trailing.
+Jenny: Yes. Yes.
+
+
+Kristin: They really went hard on the trails, you know? Like—
+Jenny: Yes.
+Kristin: Your hand would trail or your face would trail.
+Jenny: I wanna see—[both laugh] I wanna see Willow—[both laugh] I wanna see
+Willow diving into a bar bathroom toilet to retrieve some herbs. Some magical
+weed. [laughs]
+Kristin: Oh, god. I thought you were gonna say, I wanna see Willow diving into an
+empty pool, which was, like, that fucking “don’t do drugs” com—you remember that
+fucking commercial?
+Jenny: Ohh. I was thinking of Trainspotting. But also—
+Kristin: [sim] That’s how they tried to get us not to do—
+Jenny: [sim] Also cautionary. [laughs]
+Kristin: Not to do drugs. They were like—
+Jenny: Yeah.
+Kristin: “This girl smoked a joint and then she thought there was water in the
+pool.”
+Jenny: [sim] [laughing] She jumped into an empty pool.
+Kristin: What?! [laughs] Get outta town!
+Jenny: This is your brain. [Kristin laughs] And a literal chicken egg. This is your
+brain on drugs: a literal chicken egg frying in a pan.
+Kristin: Guys, that’s not science. But—
+Jenny: It is memorable.
+Kristin: [laughing] It is. I mean, we literally remember, like, a shot-for-shot of
+those commercials, so. Anyway.
+
+
+Jenny: Willow is experiencing something new. And she says—you know, she’s
+saying she’s feeling extremely powerful and connected to everything and everyone.
+Kristin: Mmhmm.
+Jenny: That she can feel everyone’s feelings, which sounds like a total nightmare.
+Kristin: Yeah. This is what happened to Cordelia, remember?
+Jenny: I only feel my own feelings and I’m ready to retreat into a distant mountain
+cave and never return. You know what I mean? [laughs]
+Kristin: I mean, I do. I just—like, sorry, I just had a Cordelia thought that then,
+like, took a couple steps on its own here, in real time. Which is just, like—’cause
+this is essentially what happens to Cordelia in Angel, right? She has this moment
+where she—her visions overtake her so much that she feels all the pain in the
+world, all at once, and it’s slowly killing her. And the reason that my brain took a
+couple more steps is ‘cause I was like, oh, that’s interesting that, like, Cordelia’s
+character is essentially like, I will carry it. Like, I will just carry it until I die. Like,
+that’s how I will sort of try to do my best.
+Jenny: Mmhmm.
+Kristin: And Willow is like, I will deal with it by ending the world, which is—I mean,
+that is—
+Jenny: [laughs] “I’ve got a whole other plan.”
+Kristin: Yeah, I got another way of dealing with this. But it is—we’ve talked,
+obviously—I mean, we’ve done big deep dives into Willow’s addiction arc and, like,
+all of this stuff. So like, we’ve had some conversations that tie in here, which is just
+that Willow’s big thing for this whole season has been, like, she doesn’t wanna feel
+pain. And so, instead of, like, facing that pain, she wants the pain to go away. She
+wants to make it go away. So this is, like, really in keeping with that. Like, this is
+the biggest manifestation of that, you know? Like, now she sees all the pain—
+Jenny: Yeah.
+Kristin: So she’s like, I will make it all go away. That is the only way to solve this.
+Jenny: So. Willow is so disturbed by feeling all these feelings—
+
+
+Kristin: Mmhmm.
+Jenny: And everyone’s pain that she hatches a little plan to bring about the end of
+the world. And you know whenever you’re planning to bring about the end of the
+world, your voice naturally deepens again—
+Kristin: Mmhmm.
+Jenny: Two to three octaves—
+Kristin: Mmhmm.
+Jenny: And she says, “Oh, you poor bastards. [deep voice] Your suffering has to
+end.”
+Kristin: [laughs] And then—and then she poofs!
+Jenny: [sim] And then she poofs away.
+Kristin: And we already know that that also is not an efficient way to travel. So
+we’ve had Buffy just slowly meander out [Jenny laughs] after the fireball. Then
+we’ve got Willow, off to end the world slowly, in a flash away.
+Jenny: We’ve got Xander’s Sunday stroll escape. [both laugh] From sure death.
+Kristin: Fucking Season 6, Episode 22, colon, Strollin’. [both laugh]
+Jenny: So speaking of Xander. He’s in the cemetery, kicking very ineffectively at a
+door to a crypt.
+Kristin: It’s not just a crypt. It’s the crypt of Richard Alpert, a character you might
+know from the television show, Lost. [laughs]
+Jenny: Well, and also, Richard Alpert, a real guy?
+Kristin: Hmmm.
+Jenny: Who was a spiritual teacher and psychologist and author.
+Kristin: Hmmm.
+
+
+Jenny: Who went on eventually to be known more readily as Ram Dass? Or Baba
+Ram Dass?
+Kristin: I, uh—
+Jenny: Who the character on Lost of Richard Alpert is named after. [laughs]
+Kristin: I tweeted about this grave—or not grave. Mausoleum, I guess—a while
+back. And I was like, look, it’s Richard Alpert’s—it’s, like, Richard Alpert’s ancestors
+who are buried in the Sunnydale cemetery. And a lot of very astute Lost [laughing]
+fans said, “Well, I mean, technically it could be his—you know, his kids. Or it could
+be—” [both laugh] any of the Alperts could be there.
+Jenny: [sim] Anybody from the timeline.
+Kristin: Literally. [laughs] So. So yeah, they’re trying to get into a mausoleum, to
+hide? This doesn’t—
+Jenny: I guess so. Why don’t they just go to Spike’s place?
+Kristin: I mean, literally, so many times, I have that question. Like, later, when
+we’re in the earth, but I’ll ask it then. [both laugh] So yeah. Go to Spike’s. If that’s
+your plan, then go to the one you know that is open, where Clem’s probably just
+hanging out, eating Doritos.
+Jenny: [sim] With snacks.
+Kristin: Yes. So. [laughs] Don’t worry, everyone. Buffy is here and she’s made it in
+time for Dawn to look at the sky and say—
+[Clip from episode plays]
+Dawn: Xander?
+Xander: What?
+Dawn: What is that?
+[“Fireball” by Pitbull starts playing]
+I’m a fireball
+Woo-woo!
+
+
+Kristin: [laughs] It’s the last time I’m playing it, okay? [Jenny laughs] Comedy
+comes in threes, everybody. So there’s my joke, that’s my standup routine
+[laughing] for the season finale of Buffy the Vampire Slayer, Season 6.
+Jenny: Good job. I salute you.
+Kristin: Thank you. Thank you so much.
+Jenny: Um. Yeah, unfortunately…[laughs]
+Kristin: Ugh. Fucking Xander.
+Jenny: This is not a great episode for Xander in a number of ways, and this scene
+is no exception. He uses ableist language.
+Kristin: Why? Just why, man? Like, it—and I mean, it’s not the first time. This
+season has been riddled with a lot of—I mean, the series has a lot of ableist
+language and moments in it. But certainly, Season 6, 2002. There’s a—there was a
+lot, in this season—a lot of times that we’ve heard language like this. And it’s just
+unnecessary.
+Jenny: Yeah.
+Kristin: It’s unnecessary! And also harmful. So, Xander.
+Jenny: And for some reason—
+Kristin: Shut up.
+Jenny: In spite of this, Buffy still saves Xander’s life. [Kristin laughs] She ran all
+the way across town, Kristin, to push a couple people, like, three feet.
+Kristin: [laughing] Three feet.
+Jenny: They—it was a real big fireball. I think they saw it coming.
+Kristin: [sim] Also, that fireball—that fireball stopped at the Espresso Pump for a
+fucking coffee on the way.
+Jenny: Yeah. [laughs]
+
+
+Kristin: You know what I’m saying? What happened here? What is going on?
+[laughs]
+Jenny: That fireball stopped to pick up some tinder, you know what I mean? [both
+laugh] It’s pretty silly, but—
+Kristin: Silly.
+Jenny: I guess we needed to get Buffy out of the Magic Box and with Dawn—
+Kristin: [sim] And a hole in the ground.
+Jenny: [sim] So that they could fall—
+Kristin: Yeah.
+Jenny: Into a big grave-y pit! Followed by not one, but two swords. Exactly the
+number of swords as there are the number of Summers in that hole.
+Kristin: Where do these swords—where do these swords come from? The boys—?
+Jenny: Were they the swords that Andrew and Jonathan were holding?
+Kristin: That’s what—my brain did that loop and I never confirmed it, ‘cause I’m
+like, I think it would be a little on the nose for just two swords to fall out of, like,
+random places in the earth for them. And they did—
+Jenny: Yeah.
+Kristin: They pulled those swords off of the wall in the Magic Box, so I guess it was
+theirs? But yeah, down they go.
+Jenny: Down they go—
+Kristin: Xander hits his head.
+Jenny: And is knocked out. Andrew and Jonathan look into each other’s eyes.
+[Kristin laughs] Clock the situation. Jonathan says, “Mexico, huh?” And they run off
+into the night together.
+Kristin: They run off at the same exact mile per hour speed as both the fireball and
+Buffy. [both laugh] [singing] “Strollin’! On a Sunday afternoon!”
+
+
+Jenny: [sim] Look, Sunnydale has a very strict 35 mile-per-hour town speed limit.
+[both laugh]
+Kristin: Back at the Magic Box, we get a lot of Anya/Giles time in this episode, and
+I’m literally always here for it.
+Jenny: Yes.
+Kristin: Anya’s like, “Are you okay?” [laughing] and Giles says… “I can see.” And
+Anya goes, [Jenny laughs] “Oh. Uh, it’s a miracle.” [both laugh] I love you, Anya. I
+love you.
+Jenny: But look. He can see Willow. He knows where she is, he knows what she’s
+up to.
+Kristin: [laughing] Yes.
+Jenny: He tells Anya that he’s dying.
+Kristin: Silly girl.
+Jenny: And she says—
+Kristin: Tricks are for kids. [laughs]
+Jenny: “No, you’re not. No, you’re not!”
+Kristin: Oh, he says it was the only way. So we are to understand, I think—please
+correct me if I’m wrong, ‘cause sometimes my brain gets a little confused. But that
+Giles knew when he took this magic that he was likely gonna die from—
+Jenny: Yeah.
+Kristin: This journey. Like, he—this was, like, a self-sacrifice on Giles’ part. And
+maybe also why the witches were like, “Here you go.” [both laugh]
+Jenny: Have fun!
+Kristin: Not us, man. This shit’s on you.
+Jenny: Storming the castle.
+
+
+Kristin: You left. [laughs] We told you not to fucking leave, so. But yeah, I mean,
+joking aside, it’s a really—I think it really heightens the story and, like, adds to the
+whole thing when you know that Giles not only came back, but came back to
+sacrifice himself so that Willow might not have to either die or live forever with
+interminable grief and guilt. You know? He tells Anya, “She’s gonna finish it.” Anya’s
+like, “Hmm?” and he’s like, “The world.” And we get—we never get this, in Buffy the
+Vampire Slayer. A beautiful sunrise shot. Some B-roll of the sunrise. [Jenny laughs]
+I’ll take it.
+Jenny: Is it just me or is time passing very quickly?
+Kristin: [laughs] The sun strolls onto the horizon.
+Jenny: Yeah. [both laugh] So—now this is important to note. Buffy is trying to
+climb out of the hole in the ground.
+Kristin: Mmhmm.
+Jenny: And she cannot.
+Kristin: Mmhmm.
+Jenny: She—it’s—she’s not able to climb out of the hole in the ground.
+Kristin: Mmhmm.
+Jenny: Yet. [laughing] She is totally unable. There’s no way. She’s trying to stack
+coffins on each other. It’s not working out. Please note that Buffy cannot climb out
+of this hole.
+Kristin: She cannot climb out of the coffin—I do—I would like to give her props for
+trying to stack—I think stacking coffins is a fun idea. That’s a good—
+Jenny: Totally.
+Kristin: That’s some good problem-solving. Hey, Hellmathians, how many coffins
+do you have to stack to get out of a…what do you think, it’s like—
+Jenny: [sim] Hole. [laughs]
+
+
+Kristin: What do you think, it’s like, two feet? A coffin? Two feet high? Probably like
+a—we got, like, a 15-foot hole here. Seven coffins.
+[HELLMATH jingle plays]
+Hellmath!
+Kristin: Probably gotta open the coffins, so that they—you can’t stack a coffin on
+top of a closed coffin, ‘cause it’s usually got a curved top—
+Jenny: Rounded on top, yeah.
+Kristin: Rounded on top, you gotta open it and then stack it and then open that
+one and stack it.
+Jenny: Mmhmm, mmhmm.
+Kristin: Satisfying. I think this would be satisfying to see. So. [laughs] We don’t
+see that, though. And this is where I’m still—this is where I get real mad about
+Spike—like, ‘cause I know—I understand, writers, that we needed something to get
+Dawn to say what she says about Spike and for them to have this exchange. But
+the problem with it is that Dawn is making a valid point. “Hey, we’re down in these
+tunnels, I recognize them because Spike uses them to get to the literal place that
+exits this place.” And Buffy’s like, “Obviously, we’re not going to Spike’s. We need to
+get out of here.” And I’m like, but ma’am. [laughs] She’s literally told you—
+Jenny: [sim] [laughs] It’s very weird. There’s a, like, ladder—
+Kristin: [sim] There’s a clear way. Yeah. [laughs]
+Jenny: Or something there. You could just hop right up. He’s not in town!
+Kristin: He’s not—and yeah. Right, again, like, I know, I get it. Like, we had to get
+here, but I just feel—some of these writing moments, I’m a little frustrated with.
+Because I do think that there were ways that we could have gotten to some of
+these places that would have been more plausible and more believable—
+Jenny: Yeah.
+Kristin: And would have left us not being like, what?
+Jenny: Wouldn’t have felt so loop-holey.
+
+
+Kristin: Yeah, exactly.
+Jenny: Dawn confronts Buffy about the assault.
+Kristin: Mmhmm.
+Jenny: And Buffy’s like, [sighs] Xander. And we’re all like, [sighs] Xander.
+Kristin: [sim] Ugh, Xander. [laughs]
+Jenny: And Buffy says, “Now is not the time.” And Dawn is like, “It is always the
+time when I wanna know stuff.”
+Kristin: Yeah, Dawn is like, “I don’t know if you’ve met my character, but.” [both
+laugh]
+Jenny: Yeah.
+[Clip from episode plays]
+Buffy: Dawn. You might not have noticed. We are in really big trouble here.
+This is not—
+Dawn: Why did you not tell me?
+Buffy: Because you didn’t need to know.
+Dawn: Yes, I do. I need to know. I’m not a kid anymore.
+Buffy: Dawn, I’m trying to protect you!
+Dawn: Well, you can’t! Look around, Buffy. We’re trapped in here. Willow’s
+killing and people I love keep dying. You cannot protect me from that.
+Kristin: So this—I feel differently about this exchange, obviously, than I do about
+the way Xander weaponized Buffy’s assault. I think that…I don’t think that Dawn
+needed to know. I think that—the way it’s phrased is not on. But I think—I
+think—maybe I’m giving Dawn too much room here. But I think that what Dawn is
+meaning to say is you could have told me. Right? Like, that I—’cause the core of
+this is like, I am an adult too. I mean, not an adult. But I’m—I’m here and I’m able
+to receive information. And honestly, I think that, like—I think that Dawn is able to
+receive this information in a way that Xander certainly has not and cannot. Like, I
+
+
+think that Dawn not only could receive the information, but could receive it in a way
+that is complex. And a way that, you know, Buffy is trying to tell it, that it isn’t just
+black and white. It isn’t just one thing, it’s multiple things. So the phrasing is a little
+off to me, but—
+Jenny: Mmhmm.
+Kristin: If we’re to read this as, “you could have told me. I was able to receive
+this,” I like this.
+Jenny: Yeah. Yeah. Dawn is, you know, Buffy’s charge. Like—
+Kristin: Mmhmm.
+Jenny: Buffy is now, you know, her parent-ish.
+Kristin: Mmhmm.
+Jenny: Guardian. But Buffy doesn’t live a life that is within the bounds of regular,
+mortal life. And Dawn is gonna be a part of that and Dawn has only been a mortal
+herself for, like, a year or two. [laughs]
+Kristin: Yeah. And Dawn has—I mean, I think—I really think Dawn in a lot of ways
+has proved her capabilities. Obviously, we’re gonna get that, like, really driven
+home in this episode. But I do think that, like, she—she has made a good case for
+herself as somebody who can hold her own, and also, like, receive information that
+is difficult to receive, in all capacities. I’m not just talking about this. You know,
+like—
+Jenny: Yeah.
+Kristin: She’s been through a lot of trauma, just like the rest of them. She’s part of
+the crew here. She’s part of the gang.
+Jenny: Yeah.
+[AD BREAK]
+Kristin: Meanwhile. Xander, go get some fucking rope, man!
+Jenny: [laughs] Yeah.
+
+
+Kristin: [laughing] Anya—Anya appears and I guess the way of vengeance demons
+is they just are like, “take me to this person.” But they don’t realize, like, where
+that—they will be until they’re there.
+Jenny: [laughs] Yeah.
+Kristin: [laughing] ‘Cause she, like, arrives and she just says, “Holy frijole!” [both
+laugh] She’s down underground and it’s so good!
+Jenny: Yeah.
+Kristin: Emma Caulfield is so fucking good.
+Jenny: Yeah, yeah. She’s great.
+Kristin: Tiny—like, the tiniest sidebar, ‘cause I know that this is a finale episode
+and it’s long. But I—I’m, like, four episodes into Wandavision. And just fucking
+delighting in the Emma Caulfield of it all as well there. Like, she just is so good.
+She’s so fucking good. Okay.
+Jenny: Mmhmm, mmhmm, mmhmm. Anya—you know, she’s like, “I was just with
+Giles.” And Dawn is immediately like, “Ugh! You didn’t tell me Giles was back.”
+Dawn.
+Kristin: Okay, yeah, that’s too much, Dawn. [laughs]
+Jenny: You’ve been—she just found out! [laughing] Just hang on! And then Anya
+says that Willow is headed for a Satanic temple on Kingman’s Bluff.
+Kristin: Heard of it? Do you know what this bluff is, Jenny?
+Jenny: Tell me all about it.
+Kristin: Well, we’ve been here once before. And it was when the big snowstorm of
+1998 happened! [laughs]
+Jenny: [whispers] Oh my god.
+Kristin: This is the same bluff.
+Jenny: Oh—
+
+
+Kristin: The same—
+Jenny: You’re telling me this is the bluff where someone said, “Am I righteous
+man?”
+Kristin: [laughs] I am.
+Jenny: “Am I a thing worth saving?”
+Kristin: I am! Same fucking bluff.
+Jenny: [sim] Oh. My. God.
+Kristin: So everybody’s welcome that we get to think back to the epic snowstorm,
+the Christmas—Christmas Eve, 1998. The episode was Amends. And that whole
+time—that whole scene, he was standing on top of a Satanic temple. Who knew?
+Now we can go back with that knowledge.
+Jenny: Do you think he was drawn there, like, subconsciously?
+Kristin: [laughs] Maybe. I also—so just, like, a quick Angel to Buffy thing. Because
+this—so this episode aired on the 21st and the Angel season finale aired on the
+20th, the day before. And this finale ends on Kingman’s Bluff, like, overlooking the
+sea. And the Angel Season 3 finale ends at Point Dume, I believe it’s called, which
+is also a bluffy beach ending. So everybody’s—everybody’s going to the beach.
+[both laugh] For bad things. Bad things at the beach, but—
+Jenny: Mmm. Bad beach.
+Kristin: Anyway.
+Jenny: So you know, cut to Kingman’s Bluff. Willow is using her incredible power to
+raise the temple up out of the earth, ‘cause it was buried, right, in an earthquake.
+Here’s the thing, though. She only—she only raises it up enough so that the
+element that she needs is exposed. Most of the temple is still underground and
+she’s like, that’s good enough.
+Kristin: That’ll do.
+Jenny: You know, the budget is pretty much up. So.
+
+
+Kristin: [laughs] Also, like, no offense to Willow’s power, but it was her power and
+also some wires, which are very visible in one of the shots.
+Jenny: Oh my god. [both laugh] Well, no, maybe that’s—maybe she created those
+wires with her powers.
+Kristin: That’s actually—yeah. I like that. I like that, we’ll build it in. So this is the
+temple with the effigy of Proserpexa. That is a lot.
+Jenny: Proserpexa
+Kristin: When you put “effigy” before it, it’s hard to say it all.
+Jenny: Effigy of Proserpexa.
+Kristin: There you go. A…she-demon—referred to as a she-demon, who—
+Jenny: Classic.
+Kristin: Hot! [laughs] Followers of Proserpexa were going to use this effigy in 1932
+to destroy the world, but then the earth was like, mm-mm-mm! The earth wagged
+its finger like fucking Dark Willow. [both laugh] Don’t think so! And then swallowed
+the temple.
+Jenny: It’s just like, why everybody wanna end the world all the time?
+Kristin: And was this their plan too? Because Willow’s plan is kind of cool. Like, her
+plan is to take, like, the energy of humanity and, like, funnel it through the effigy.
+And then that will become the thing that burns the earth? It’s like—
+Jenny: Yeah.
+Kristin: Using people to destroy themselves—it’s like people destroying
+themselves, which is kind of—
+Jenny: It’s—
+Kristin: Maybe she did it and it’s just happening slowly. You know?
+Jenny: Oh, yeah. And we’re still feeling its effects today.
+Kristin: Yeah, yeah. [laughs]
+
+
+Jenny: It’s definitely a very energy efficient way to go about destroying the world.
+Kristin: Yeah.
+Jenny: So hats off to that.
+Kristin: She doesn’t have to burn any coal or do any fracking for this.
+Jenny: No. [both laughing] No fossil fuels of any kind were used in the funneling of
+this life force and the cinderification of our planet. So Anya also says that Giles said
+no magic or supernatural force can stop Willow.
+Kristin: How convenient. [laughs]
+Jenny: How—A., how convenient. B., I’m really starting to wonder what the writer
+of this episode—like, what else he had going on this week. [both laugh]
+Kristin: Ohh.
+Jenny: [laughing] I just feel like—
+Kristin: No, I know.
+Jenny: There is just, like—it’s—whew! It’s really just, swoop, cobbled together.
+Kristin: [sim] There’s just a lot—we could have tidied it up a little.
+Jenny: Yeah.
+Kristin: We coulda made it a little nicer around the tree. [laughing] As I like to say.
+Jenny: Yeah, yeah. And then Anya’s like, “I really should—”
+Kristin: [sim] Around the effigy. Make it nice around the effigy.
+Jenny: Yeah.
+Kristin: Okay.
+Jenny: Yeah. [both laugh] ‘Tis the season. So, Anya’s then like, “Okay, you have all
+the information that you need to finish this episode. I should get back to Giles. He
+
+
+is alone and I don’t think he has a lot of time left.” Nooo! And Anya poofs back
+away. Then Willow starts talking in Buffy’s brain.
+Kristin: Yes.
+Jenny: [snorts] Just one more talking-in-the-brain time.
+Kristin: Yeah, there’s this back and forth. First, she starts her thing—Dark
+Willow—she’s like, “From the pit of forgotten shadows!” And then she’s like,
+“goddamnit.” [both laugh]
+Jenny: The drama!
+Kristin: [laughs] Always the Slayer, never the slain. She doesn’t say that, but—
+Jenny: She doesn’t.
+Kristin: I was just trying to play on “always a bridesmaid, never the bride.” Always
+a Slayer trying to save the world, but I’m the only one who can.” Everybody’s like,
+“By killing us?” She’s like, “Yeah. It’s the only—”
+Jenny: Yeah, correct.
+Kristin: That’s the only way. To stop this pain. That’s the only way.
+Jenny: Yeah.
+Kristin: Giles—we’re seeing that Giles is seeing this, as well. Like, everybody is
+kind of, like—it’s almost like Primeval-ish. Minus Xan—like, they’re very—Giles and
+Buffy and Willow are very connected in a Primeval-ish way.
+Jenny: Mmm.
+Kristin: Which is kind of interesting, actually, to think about, given, like—
+Jenny: Yeah.
+Kristin: Where Xander—how Xander shows up in the end and what have you. But
+Willow is sort of like, you should get to go out fighting. That seems like a good plan.
+You love to fight. You’re, like, a warrior, whatever the fuck. I—
+
+
+Jenny: Yeah, Willow’s like, “I’ve cooked up a special treat worthy of ending a great
+warrior. I call it—[cackles] I call it, crab-handed swamp thing root monsters. What
+do you think?!”
+Kristin: Why do they have to have fucking lobster claws? Why?
+Jenny: [cackles] I don’t fucking know. These are goofy guys, but I’m happy to see
+them. [laughs]
+Kristin: I guess they had to be demons and not just, like, the earth falling on
+them, because Dawn had to, like, fight. So, fair.
+Jenny: Right. Right.
+Kristin: But I like them too. We’ve had a lot of—there’s a lot of earth demons.
+Earth—lot a little—these are like little evil Groots. [laughs]
+Jenny: [whispers] Evil groots. [laughs] Oh boy.
+Kristin: [laughs] So Willow also, I think, is very proud of herself. Because she gets
+to deliver—she—you know, she’s been around Buffy for six seasons. So she’s like,
+this is my time to shine with my own jokes.
+Jenny: Uh-huh. Uh-huh!
+Kristin: And she’s like—[laughs] she’s like, “It was me who took you out of this
+earth. And now the earth wants you back.” A little play on “I put you into this world
+and I can take you out.” And—
+Jenny: Oh, yeah.
+Kristin: Buffy is like, I can’t—I actually can’t do this by myself. And you know, shit.
+Dawn’s the only fucking person here, so I guess I’ll give her a sword. No. She’s
+very—
+Jenny: Yeah.
+Kristin: It’s a very nice moment. [both laugh]
+Jenny: No, she’s like, “Help me with this sword!” And Dawn’s like, “I got your
+back.” And Buffy’s like, “Cool, the worst thing that could happen is you’ll get
+snipped by some root monster crab hands.” [both laugh]
+
+
+Kristin: Pinch! Pinch-pinch!
+Jenny: Yeah. [both laughing] They’re just gonna pinch Dawn to death.
+Kristin: Oh, god.
+Jenny: Good. It is good.
+Kristin: So the world starts shaking and Buffy’s like, fuck, it’s Willow. We cut to the
+Magic Box and Anya—Anya, classic, like—these are not Anya’s last words. But like,
+if this were the end of the world, this is a classic way for Anya to go out.
+[Clip from episode plays]
+Anya: It was good of you to teleport all this way. [earth shaking sounds]
+Though in retrospect, it probably would have been better if you hadn’t come
+and given Willow all that magic that made her, like, ten times more powerful.
+That woulda been a plus.
+[both laugh]
+Kristin: You know? Yeah. She doesn’t have tact. She doesn’t need tact, you know?
+Fuck tact.
+Jenny: Yeah.
+Kristin: Okay. Here we go.
+Jenny: So Willow’s, you know, well engaged with her Satanic earth syphon, when
+some human flesh interrupts it. It’s Xander. Here’s Xander.
+Kristin: “Hey, black-eyed girl.”
+Jenny: [sim] And Willow’s like, zaaaap! Huh?
+Kristin: Yeah. And he blocks the zap with his body. And—
+Jenny: Yep. Yep, yep, yep, yep.
+Kristin: [sim] She’s like, “Xander, get out of my way.” And like…what are we gonna
+do here? What’s the plan of attack? Are we gonna talk about the fighting of Dawn
+
+
+and Buffy? Or are we gonna go full on in for fucking Xander and Willow here? I can’t
+jump back and forth. It’s too—there’s too much emotion in both.
+Jenny: Alright. Let’s talk about Dawn and Buffy sword fighting the root monsters.
+Kristin: Great. Well, Dawn does a good job! She cuts their head off!
+Jenny: She does a great job. Do you think that there’s any part of Dawn—Dawn’s,
+like, swordplay skill—that’s coming from some sort of preternatural—
+Kristin: Mmm.
+Jenny: Made from the rib of a Slayer [Kristin laughs] kind of deal? You know?
+Kristin: Maybe. I like that, I like that. And I also like her—her explanation, which is
+like, “What, you think I’ve never watched you?” I’ve been watching you and I
+wanna be like—you know, like, there’s a lot about you that I like and that I wanna
+be like, too. It’s really sweet. And what’s also really sweet is that the lobster claw
+trees give them this moment. You know? [Jenny laughs] They’re quiet for a second.
+Just one second. [both sigh]
+Jenny: They’re like, oh. I have something in my eye. [Kristin laughs] Oh, it’s good.
+It’s good!
+Kristin: It’s really good. Okay, so now let’s get on in to the muck here with Xander
+and Willow. Xander’s whole thing is like, “If you’re gonna end the world, I wanna be
+with you ‘cause you’re my best friend. And you’re my best friend no matter who
+you are.” Yes, Jenny? Jenny held up one finger. It was not a waggle finger, it was a
+“hold that thought, Kristin. I got some shit to say.” What do you got?
+Jenny: I just wanna say. Something to keep in mind, while all of this is going on, is
+that right now, Buffy believes Xander is going to get her some rope. [Kristin laughs]
+Buffy’s like, “where is the rope?” right now. Just so you know.
+Kristin: Also, how did Xander get to this temple so quick, like—
+Jenny: I’m—
+Kristin: He just ran up the bluff? Like—
+Jenny: I guess he just ran. I mean, he heard—did he hear—?
+
+
+Kristin: I guess it’s—
+Jenny: He was hearing Anya talk about what was going on, right?
+Kristin: Right, right, and he just went.
+Jenny: And he was like, Kingman’s Bluff? No supernatural power can stop her? I’m
+not in the least supernatural. I should trot over there.
+Kristin: You think he knew? You think he knew?
+Jenny: I don’t know.
+Kristin: That’s a good—no, that’s a really good—like, ‘cause I didn’t even think
+about that. Like, right, did he hear that and think, like, maybe I can help?
+Jenny: Maybe. We don’t see him hear that.
+Kristin: ‘Cause that would change it a little bit for me. I don’t even know how I
+would feel about it, but he—regardless, he can help. And the way he—I mean,
+and…this is what I love, right? I do love the idea that “I love you as—” you know,
+he tells this yellow—the infamous yellow crayon story. That he remembers being
+teenie-tiny Xander with teenie-tiny Willow, and Willow broke the yellow crayon and
+she was very upset. She didn’t want anybody to know that she had broken the
+yellow crayon, because she’s Willow and whatever. Fine. And the, like, core—the
+little core of it, of like, I loved you when you were this kid and you were worried
+about doing the wrong thing. And I love you as this grief-stricken person who is,
+like, really just not okay. I love all the versions of you, and that love will help bring
+you back to yourself.
+Jenny: Mmhmm.
+Kristin: Like, I do think that that is powerful and beautiful. If it wasn’t in the vessel
+that is Xander and that has been Xander for these last few episodes, it would be a
+lot easier for me to be like, wow, that is incredibly—that’s a really incredible thing.
+It’s just that it—it’s just that, like—it really is just the Xander and Joss of it all that
+kind of fucks me up with the narrative, you know?
+Jenny: I think the idea—the raw material—
+Kristin: Yeah.
+
+
+Jenny: Is good and powerful. I think that we’ve just, like, lost the thread a little
+bit. Especially since, like, the wedding, maybe?
+Kristin: Yeah. Yeah.
+Jenny: You know, since the wedding, it’s been kinda…
+Kristin: Yeah.
+Jenny: Kinda tough. It’s felt a little, like, regressive-y?
+Kristin: Yeah, and like, I wish—you know, in a many-episode way, I really wish that
+that hadn’t been the case for the character of Xander. Because we had been really,
+like, on board for growing with Xander. And I think that, like, he could have been
+traumatized by his own observations of, like, partnership and marriage and have
+left Anya, perhaps not at the altar. I don’t—like, a lot about this season, like, I just
+don’t know that it had to be as dramatized as it was made to get across the points
+that it needed to get across. You know, like, I don’t think that Anya needed to be
+left at the altar for us to get where we are. And if that didn’t happen that way, I
+also don’t think that Xander needed to go as far as he went. I think that this could
+have been a really beautiful story if Xander realized his trauma, had to leave Anya.
+Anya was devastated by that, became a vengeance demon. You know, like, all of
+this story, I think, could have been told in a way that was just…better. [laughs] The
+girls on Angel On Top asked me, with no warning, if I liked Season 3 of Angel better
+than Season 6 of Buffy. [pause] And I said I did. I’m just confessing my sins.
+Jenny: [sim] Even with Justine?! [both laugh]
+Kristin: Yeah, I mean. But—and I think this is the reason why. Like, I think
+this—that’s what brought it up for me in my brain, is like—’cause there’s a lot of
+incredible stuff in Season 6 of Buffy that I love. And I really appreciate the season
+for many reasons. There’s a whole podcast, you can go back and listen to all of the
+reasons. [both laugh] But in terms of, like, telling a story, I just think that they—I
+just think they went too hard in these places where they didn’t need to. And that it
+would have been much better as a big arc if they hadn’t—
+Jenny: Mmm.
+Kristin: And more powerful if Xander had not—if they hadn’t made him, like, fall off
+the shitty fucking cliff that he fell off of over the last few episodes. ‘Cause we were
+there with him. And we would have—I think we would have rooted for him even
+more to be this person for Willow in this moment, if they hadn’t done that.
+
+
+Jenny: Yeah. Yeah, I agree. I know too that this scene is, like, very beloved to a lot
+of folks, especially—I think—especially because the member of the group who is not
+powered in any way—
+Kristin: Yeah. Yeah.
+Jenny: You know, is the person to save the world. And of course, that is a very
+powerful idea, that—
+Kristin: Yes.
+Jenny: I think, that we are super into. I think that just the—definitely the lead-up.
+Like, the characterization—like, Xander’s kind of backslide. And just the way that
+this episode is put together…I don’t…I don’t know if it’s the writing, the
+performance, or if the writing and performance would feel better if the lead-up was
+different.
+Kristin: Yeah, I don’t think it’s the performance. I really don’t. I think that for the
+most part, the performances are really solid. I think there’s—I think, you know,
+it’s—and it’s not—like, I don’t think it’s just the writing of this episode alone. You
+know, it’s like, everything has to be taken in the context that it came from. And so,
+we have a lot of—we have a lot of, like, wobbly metaphors and moments in this
+season. And so it’s hard to, like, have it all land precisely. But I agree and I know
+you said—you used “we,” saying that, like, we appreciate this. And I just wanna
+echo that, like, I do too. Like, I do think that there’s something really powerful
+about the person without the magical abilities, without the super strength, being
+able to, like—
+Jenny: Mmhmm.
+Kristin: Use their love for a person to save the world. That’s rad.
+Jenny: Yeah. Yeah, I mean—yeah, what a…what a…what a strong and beautiful
+idea.
+Kristin: Yeah.
+Jenny: That maybe just doesn’t quite land as solidly here as it could have.
+Kristin: Mmhmm.
+
+
+Jenny: But we still appreciate it.
+Kristin: Yeah. We get this—like, the back—I think the—I mean, this—it’s
+devastating, right? Like, the way that the scene unfolds, too. At least I think. When
+he’s like, “I love you,” and she’s like, “Shut up.” “I love you.” “Stop.” “I love you.”
+And you see—you see—what we learn from Giles is happening, later on—you see
+this humanity in her just, like, crumbling the exterior.
+Jenny: Mmhmm.
+Kristin: And Alyson Hannigan, you know, you can—[laughs] we’ve all become
+intimately familiar with what it looks like when Willow cries. And so we know.
+[Jenny laughs] It’s kinda like when Angela Chase’s lip quivers, you’re like, oh boy!
+Here we go. [both laugh]
+Jenny: Here it comes.
+Kristin: Here—or chin—her chin wobbles, I should say. And this is that for Willow,
+that like, we see the—we can see the sobs in her body before they get to the
+surface of her face. Which is—man, if that’s not acting, I don’t know what is.
+Jenny: Yeah.
+Kristin: But she falls to the ground and Xander’s holding her. And it’s beautifully—I
+mean, I think it’s a—
+Jenny: Yeah.
+Kristin: Beautifully shot moment, where like, we see just Xander’s back and his
+large frame sort of, like, holding her.
+Jenny: Yeah!
+Kristin: And her hair changes back from black to red.
+Jenny: Yeah!
+Kristin: And—it’s—yeah! Jenny has something in her eye. And I think—
+Jenny: I do.
+
+
+Kristin: I think we do. And we’re not even done yet! We’re not even done. [Jenny
+laughs] Like, this is—I mean, fucking—this moment is so powerful that Sarah
+McLachlan’s over in the green room, warming up, man.
+Jenny: Yeah.
+Kristin: She’s fucking, like—
+Jenny: Doing her ovular trills.
+Kristin: [sim] This seems like it calls for a—[laughing] music by me and me alone.
+[both laugh]
+Jenny: Back at the Magic Box. Anya’s like, “Hey! We’re not dead.”
+Kristin: [laughs] “You’re not dead.”
+Jenny: [sim] And Giles—[laughs] Giles reveals that the—that the magic that Willow
+took from him was the true essence of magic. Versus Willow’s magic, which came
+from rage and power. [laughs] And Anya’s like, “And vengeance! Don’t forget
+vengeance!”
+Kristin: [sim] Don’t forget. Yeah. [both laugh]
+Jenny: And like you said, that magic tapped into the spark of humanity that she
+had left.
+Kristin: Mmhmm.
+Jenny: And helped her feel again and gave Xander the opportunity to reach her.
+Kristin: Yeah.
+Jenny: And Anya’s like, “My Xander?” [Kristin laughs] And Giles is like, “He saved
+us all.”
+Kristin: Yeah. Yeah. So Giles knew what the fuck was up, this whole time, man.
+Jenny: Yep.
+
+
+Kristin: He knew that she would take it. He knew that it would—I mean, I don’t
+think he knew that it was gonna end well. But he knew there was a—it was the only
+chance.
+Jenny: Yeah.
+Kristin: [sighs] And then we get this scene down in the hole, that certainly no one
+can climb out of.
+Jenny: [laughing] Definitely not.
+Kristin: Between Buffy and Dawn.
+Jenny: Yeah, yeah. Dawn’s like, “I think it’s over. We’re still here.” And Buffy’s
+crying. And Dawn…salty teen! Is immediately like, “Oh, sorry to disappoint you.”
+[Kristin laughs] But then is like, oh, wait. [laughing] Are you happy crying?
+Kristin: What’s going on? Yeah. She’s like, I’m not yet a girl—not yet a woman.
+Jenny: [laughs] I’m simply not yet a woman.
+Kristin: Yeah, but. [laughs]
+Jenny: Yeah, and Buffy’s like, “No, I didn’t want the world to end, you
+friggin’…nuh!” [laughs] And she’s like, “I know things have sucked, but that’s gonna
+change. And I wanna be there when it does.”
+Kristin: Mmm!
+Jenny: And she wants to see Dawn grow up, [high-pitched] ‘cause she’s gonna be
+beautiful and powerful!
+Kristin: Yeah.
+Jenny: [high-pitched] And she’s like, “I got it so wrong. I don’t wanna protect you
+from the world, I just wanna show it to you! And there’s so much I wanna show
+you!” [normal] And then Sarah McLachlan is like—
+Kristin: [sim] And then Sarah McLachlan is like—
+Jenny: [sings a note] [both laugh]
+
+
+Kristin: I tweeted this today, like, right before we started recording here, that like,
+I—you know, I came to the finale, like—well, I got a lot of feelings, okay? But I’m
+not so sure about this and that and the other thing. And then, like, this starts
+happening and, like, Willow’s crying and Xander’s holding her. And like, I care about
+them, because they feel like my family! And then Buffy and Dawn are, like—
+Jenny: Mmhmm, mmhmm.
+Kristin: Getting along. And then Sarah McLachlan plays and I’m just like, that’s it. I
+love everything, this is a perfect episode of television. [laughs]
+Jenny: Yeah. Yeah. So, while Sarah McLachlan croons—
+[“Prayer of St. Francis” by Sarah McLachlan starts playing]
+Lord make me an instrument of your peace…
+[continues playing in background; gradually fades out as Jenny speaks]
+Jenny: We see Buffy and Dawn, climbing out of the hole. And we’re like, oh, did
+Xander come back with the rope? [Kristin laughs] So that they could finally climb
+out of the hole somehow?
+[“Prayer of St. Francis” by Sarah McLachlan starts playing again]
+Where there is injury, pardon…
+[continues playing in background; gradually fades out as Jenny speaks]
+Jenny: No, the next scene is Xander still holding Willow, who is still crying. [Kristin
+laughs] Oh, um. Did Anya maybe poof back with some rope?
+[“Prayer of St. Francis” by Sarah McLachlan starts playing again]
+Where there is darkness, light…
+[song stops]
+Jenny: No. No, Anya is helping Giles out of the rubble at the Magic Box. She is
+busy!
+[“Prayer of St. Francis” by Sarah McLachlan starts playing again]
+
+
+And where there is sadness, joy…
+[song stops]
+Kristin: Here’s the image. No, here’s the image, this is what happened.
+Jenny: [sim] Okay.
+Kristin: In a scene we didn’t see, ‘cause Anya is at the Magic Box. But she left for a
+minute. [Jenny snorts] She poofed back. She stood underneath the hole. Then
+Dawn stood on Anya’s shoulders. Then Buffy stood on Dawn’s shoulders. And that is
+how she got out of the hole.
+Jenny: Still not tall enough. I have no choice but to conclude that is upon—
+Kristin: [sim] We called it 15 feet.
+Jenny: The wings of Sarah McLachlan’s beautiful, angelic voice that Buffy and
+Dawn have been lifted—
+Kristin: [sim] Would you say it was on the arms—the arms of…
+Jenny: Of an angelic voice? [laughs] No, get out of here. Get the fuck out of here.
+Kristin: Was it on the [singing] “arms of…”
+Jenny: [sim] Okay.
+Kristin: [singing] “The angels. [Jenny sighs] I will carry you out of the hole.” This
+is—this is important. This is a nice, circular—let the circle be closed. Of course, the
+reason that the writers said, eh, fuck it, let her crawl out of the hole is because we
+very clearly get the same shot that we got in the beginning of this season. With
+Buffy’s hand reaching out of the grave—
+Jenny: Oh, yeah.
+Kristin: And pulling herself up. Which of course—
+Jenny: Oh, yeah.
+Kristin: Right? It’s there to tell us that, like, this season has been a lot.
+
+
+Jenny: Mmhmm.
+Kristin: And perhaps she physically crawled out of that grave in Episode 1, 2?
+[laughs] But she didn’t actually crawl out of that grave until now.
+Jenny: Yeah.
+Kristin: She has moved through. We have moved through. [laughs]
+Jenny: Wow.
+Kristin: All of our little hands [laughing] are shakily reaching up the earth right
+now.
+Jenny: [sim] Yes. Scrabble through the dirt. [both laugh] Yeah.
+Kristin: We get a mont—a Sarah McLachlan montage, are you kidding me? Yes,
+please. Any day of the week, I’ll take one. Buffy and Dawn. Xander’s holding Willow.
+Anya’s with Giles. [laughing] We even get Jonathan and Andrew in a truck, on their
+way to Mexico. [sighs] And we’re like, wow. We did it. Wait! Wait!
+Jenny: Wait. [brakes squealing noise]
+Kristin: [brakes squealing noise] We’ve forgotten…[laughs]
+Jenny: We forgot about one dude.
+Kristin: [sim] The last trial of Spike’s, you didn’t see it. But it was actually him at
+the hair salon, getting his hair redone. ‘Cause it is platinum in this scene. It is
+redone. [both laugh]
+Jenny: He had roots previously? At the demon cave?
+Kristin: I mean, I don’t—it just looks blonder. I just feel like—
+Jenny: Yeah.
+Kristin: The manicure demon was like, you know what, man? You did a good job.
+I’m taking you to my salon, it’s right down the street, okay.
+
+
+Jenny: No, I like—I wanna see the demon put the plastic [Kristin laughs] home
+bleach gloves on over his long, long nails. And massage the lightening agent
+directly into—
+Kristin: Oooh.
+Jenny: Spike’s scalp himself. I…
+Kristin: That sounds nice.
+Jenny: That’s my head canon. So listen.
+Kristin: Yeah.
+Jenny: [sighs] Spike has endured the required trials.
+Kristin: Yes.
+Jenny: Can you believe it? And Spike says—I’m gonna say very neutrally, once
+again. [Kristin laughs] I think this text is more compelling—
+Kristin: Yes.
+Jenny: More arguable.
+Kristin: Yes.
+Jenny: So—
+Kristin: But everyone knows what we’re doing now.
+Jenny: I know. “So you give me what I want, make me what I was, so Buffy can
+get what she deserves.”
+Kristin: Mmhmm.
+Jenny: Okay. And then—
+Kristin: Now that is text that can go both ways.
+Jenny: Yes. And Cave Demon says, “Very well! We will—” we? [laughs] Is this
+demon speaking in the royal we? [both laugh] “We will return…” dot-dot-dot, “your
+
+
+soul!” [Kristin laughs] And then he puts his clawed hand on Spike’s chest. And
+Spike’s eyes fucking are aflame as he is re-ensouled. And now—now we gotta talk
+about this for a second.
+Kristin: Oh, yeah, we do.
+Jenny: Because again, uhh, you know.
+Kristin: Yeah. I do.
+Jenny: There is a divide.
+Kristin: Honestly—I think—
+Jenny: There is a divide.
+Kristin: Before—
+Jenny: In the viewership.
+Kristin: We even—
+Jenny: About intent.
+Kristin: Yeah.
+Jenny: Sorry.
+Kristin: No, no, I want you to get into it. I just wanted to say, before we even
+started this podcast, I remember you talking to me about this. Like, this has
+been—this has been in your little hoof for a long time. [laughs]
+Jenny: Yeah. Well, it’s just very interesting. Because if what we believe happened
+happened, which is that James Marsters was working without full knowledge of
+where this was headed—
+Kristin: Mmhmm.
+Jenny: That again, like, took away the tools that he would have needed to render a
+more nuanced performance, where there was a little more room for interpretation.
+Rather than, like, what to me feels very, like—very ham handed? Or no, it feels…it
+
+
+doesn’t feel like there’s room in what we’ve seen up to this point for us to go back
+and be like, ohhh! You got us!
+Kristin: Yes!
+Jenny: That’s not what it feels like. But.
+Kristin: Agree.
+Jenny: I was reading some tweets.
+Kristin: Mmhmm.
+Jenny: The source of which has left my brain, I’m so sorry. But I read some
+interesting things on Twitter, if you can believe it. Someone put forth the idea that
+Spike went to see this demon with the intention—
+Kristin: Mmm.
+Jenny: With the conscious intention—
+Kristin: Mmhmm.
+Jenny: Of getting the chip out of his head so he could become Spike the regular
+vampire again.
+Kristin: Mmhmm.
+Jenny: But his truest desire was actually to try to become a better man.
+Kristin: Mmm.
+Jenny: And thus, what the demon is responding to, wish-wise—
+Kristin: Mmhmm.
+Jenny: Is Spike’s heart’s desire—
+Kristin: Mmhmm.
+Jenny: Rather than his conscious, sort of like, vampire-brain desire.
+
+
+Kristin: Mmhmm. Okay.
+Jenny: Which, you know, is interesting.
+Kristin: Yeah. It’s—I mean, that is compelling and interesting to me. I—I—
+Jenny: But, alternatively.
+Kristin: [sim] But I also—yeah.
+Jenny: Oh, sorry.
+Kristin: I just don’t wanna give the credit to—’cause I don’t—like, I think that
+would have been cool if that was the intention. But I don’t think it was. And I—we
+can make it in our brains whatever we want it to be—
+Jenny: Sure.
+Kristin: And I like that read.
+Jenny: Sure. I’m—I mean, I’m interested in, like, what were they trying to do?
+What were they genuinely trying to do? Of course, we can’t really, truly know. We
+can only kind of, like, surmise and take—
+Kristin: But we do know, right? Like, it is a known thing that the—that Marti and
+Joss knew from when he left town how they were ending the season. Like, they did
+know that he was getting his soul back at the end.
+Jenny: One other thing that was said in this thread that I was reading
+was…that…[Kristin sighs] what?
+Kristin: I just sighed ‘cause I just was imagining James Marsters giving us the
+performance of the Spike who, in his head, thinks what he wants is the chip out,
+but in his heart, actually wishes to be a better man. And like, just—think about,
+like, how that actor would have taken that direction.
+Jenny: Yeah.
+Kristin: Like, if that had been the deal. It would have been so fucking good.
+Jenny: Think about what we would have seen in that scene—
+
+
+Kristin: Yes.
+Jenny: In his crypt with Clem when he was like, “Oh, things can change if you
+make them.”
+Kristin: Yes. Yes.
+Jenny: Think about the depth and complexity we could have seen in the
+performance, instead of…the sort of, like, “meh! I’m an evil guy” kind of look to the
+camera.
+Kristin: [sim] And like, you know—I think we would be frustrated about it
+regardless. But also, when you know what it is attached to—like, when we’re talking
+about—when we have this entire episode of conversation around restorative—like,
+how do we enact accountability? How do we enact, like, restorative justice? How do
+we heal? How do we—like, all of these questions. These are the questions that sat
+upon the decision of what we did here with this writing, which is why, like, it would
+have been frustrating no matter what. But knowing the, like, stakes of this? It’s
+just—yeah. A bummer.
+Jenny: One other thing that was said in this thread was that—asking the question,
+like, why would Spike, you know, travel to another continent to endure terrible
+physical trials, with a demon, to get a chip out of his brain that could, in theory—if
+he could just get one competent surgeon on his side. All he would have to do is turn
+a surgeon. A brain surgeon.
+Kristin: Mmhmm.
+Jenny: He would just have to make a vampire neurosurgeon—
+Kristin: Mmhmm.
+Jenny: And then, he would have somebody he could trust to remove the chip.
+Kristin: Yeah.
+Jenny: Right?
+Kristin: Yeah.
+
+
+Jenny: Of course, he hasn’t had that idea yet. Because…Spike. But that is, I think,
+a point in the general direction of, like, oh yeah, no, it’s less believable that he
+would travel to another continent and—
+Kristin: Yeah…
+Jenny: Do a bunch of trials to get a piece of computer equipment out of his brain.
+Kristin: Right, right. And I, like—I guess, like, there was a part of me that also
+thought that, like, what he was after—like, that he had just kind of accepted the
+fact that he could never get the chip out of him. And so what he wanted was to
+just, like, find his inner evil—you know what I mean? Like, the way that it was
+delivered to us was like, I have this chip and it’s fucking me up. And I need to go
+back to the evil that I was. Like, that it was, like—he had given up on taking the
+physical thing out of his brain and instead was, like, after just getting—being able
+to be evil Spike—
+Jenny: Mmhmm, mmhmm.
+Kristin: With the chip.
+Jenny: Right. Right, right, right, right.
+Kristin: But we’ll never have answers to these questions. So…
+Jenny: We won’t.
+Kristin: We can just fucking sit here and ask them, for days on end.
+Jenny: Yep. Yep, yep, yep. Well.
+Kristin: Do you think that wherever—[laughs] I actually know exactly where Angel
+is right now. But do you think, wherever Angel is, his soul was like, aw, fucking hell!
+[both laugh]
+Jenny: Yeah. Quite possibly.
+Kristin: Not room in this town for the both of us, sir! I am the vampire with a soul.
+That is my gig! [laughs]
+Jenny: Mmhmm, mmhmm, mmhmm. Surely not two in Southern California?
+
+
+Kristin: Surely not. [laughs]
+Jenny: [sighs] Well. Where does this leave us, Kristin?
+Kristin: Well, I for one would like to get sexy.
+[SEXUAL TENSION AWARD jingle plays]
+Sexual tension award!
+Jenny: Well! Welcome back to the final installment of the Sexual Tension Awards
+for Season 6!
+Kristin: Activate Emily McLongstreet. [both laugh] If you’re new—if you’re newer to
+the pod, just so you know the way that this rolls, that every season, we do a—now,
+we do a vote off for the winner of every episode. And that at the end of the season,
+Emily McLongstreet, champion of Sexual Tension Award brackets—
+Jenny: Mmhmm!
+Kristin: Will lead us fearlessly through voting for the winner of the whole season.
+And my friends, we are only one season away from having all seven winners
+compete against each other! [laughs]
+Jenny: [sim] Oh…my god! Well! The only way we can get to Bracket Town is for me
+to deliver unto you—
+Kristin: Mmhmm.
+Jenny: This episode’s noms and their various slots—
+Kristin: Mmhmm.
+Jenny: And then for you to vote on them, so let’s get down to business. In slot
+number one. He’s sweaty and shirtless, and he [Kristin laughs] needs a demonic
+manicure. It’s Spike and the Cave Demon, battling it out through a series of friggin’
+physical trials that are testing Spike’s metal. While Cave Demon, who
+apparently—this is what he’s into—just watches.
+Kristin: Oooh! He’s like, here, have some beetles.
+Jenny: Clickity-clack.
+
+
+Kristin: [sim] Hmm let’s do your hair. [laughs]
+Jenny: Yeah, yeah, yeah, yeah, yeah, yeah. In slot number two, your noms, well!
+[fake laughs] One of them is wearing full eye black contacts and has little blue
+veins all over her face, and one of them is just power. It’s Dark Willow and Power!
+She can’t get enough of it, she’s in constant pursuit of it. She is…after it.
+Kristin: She’s slurpin’ it right out of the bodies of—
+Jenny: Yes.
+Kristin: Humans. Just slurpin’ it right up.
+Jenny: [sim] Slurp. Slurp. In slot number three. Long has she waited to wield a
+weapon worthy of her frail little wrists. It’s—
+Kristin: [singing] “She’s not a girl. Not yet a woman!”
+Jenny: [sim] She’s not a girl. Not yet a woman. It’s Dawn and Sword Fighting! The
+thing she has longed for, this whole time. All she wants to do is help with the sword
+fighting! [takes deep breath] And in slot number four, the absolute slot for me to
+announce for Season 6.
+Kristin: Wow.
+Jenny: Are you ready?
+Kristin: I’m ready.
+Jenny: Perhaps it’s been said, they always were fated to end up together.
+Kristin: They keep trying.
+Jenny: They keep trying. It’s the Life Force of Humanity…[Kristin laughs] and the
+Effigy of Proserpexa!
+Kristin: Woo!
+Jenny: Woo, woo, woo, woo, woo!
+Kristin: [sim] 1932. 2002.
+
+
+Jenny: It’s a love that will not die, actually.
+Kristin: [sim] Guess we’ll see you again in 20…72.
+Jenny: The desire has been building for decades upon decades. [Kristin laughs]
+And here it came close to coming to a head.
+Kristin: Mm. They got so close.
+Jenny: If you wanna cast your vote and make your voice heard in our Sexual
+Tension Awards democracy, please find the poll on our Twitter, @BufferingCast. The
+poll will be up for one week from today. So…choose well. Choose wisely.
+Kristin: Mmhmm.
+Jenny: Stay sexy.
+Kristin: [laughs] Also, before we jingle on out to the other side of this segment.
+Just so you know, if you want to be a part of the bracket—right, ‘cause we’re not
+gonna have—
+Jenny: Yes.
+Kristin: Necessarily episodes rolling into your ears for a little while, ‘cause this is
+when we get to take a lil’ nap. We don’t actually do that, but—
+Jenny: [clears throat] Hello.
+Kristin: You can pretend we do. [laughs]
+Jenny: A donut nap.
+Kristin: [sim] You should follow us somewhere. Because the bracket will be posted
+on Instagram, on Twitter, and on Facebook. We’re BufferingCast in all those places,
+so if you wanna be in on those bracket votes, go there. That is where we will let
+you know when each new round begins and you can cast your votes.
+[SEXUAL TENSION AWARD jingle plays]
+Sexual tension award!
+Kristin: Well.
+
+
+Jenny: Well, well, well.
+Kristin: Jenny, how are you feeling? How are you feeling about this season?
+Jenny: Uh…you know. I’m kind of, like…feeling a little relieved [Kristin laughs] that
+it’s over. Is that okay? [both laugh]
+Kristin: Yeah. It is. It is. It’s been, um—it’s been a real season. And I love—you
+know, like, what I love about the ending we get is I feel like we are—I know I
+reference Bastian and Atreyu and their story to reality connection in The
+Neverending Story. But this really feels like we, too, are in this montage, you know?
+Like, I would like you to play the Sarah McLachlan song and in your mind, you see
+the scenes of…Anya and Giles. You see Xander and Willow. You see Buffy and Dawn.
+You see the duo on their way to Mexico. You see—and then you see Jenny and I,
+talking into microphones.
+Jenny: Mmm.
+Kristin: And you see Alba, you see Mack, you see LaToya. You see yourself. You see
+us—you go into the store, you’re buying a mask for the first time, putting it on your
+face ‘cause you’re like, what’s this thing? This is nuts. Oh my god. [Jenny laughs]
+You’re going—you know what I mean? Like, you’re just—give yourself the montage
+you deserve, because—
+Jenny: Wow.
+Kristin: It’s been a fucking season! Okay?! [laughing] It’s been a season.
+Jenny: Truly. It’s been a lot.
+Kristin: It’s been a lot, guys! And we’re fucking still here, and we’re still talking
+about Buffy the Vampire Slayer. [sighs] But like…thank you. For journeying with us.
+Jenny: Yes. What a pleasure it has been. Well! What a time it has been—
+Kristin: A time.
+Jenny: [laughing] At times, pleasurable. And times difficult, but the whole time—
+Kristin: [sim] Like I said—
+Jenny: We’ve been together.
+
+
+Kristin: The line between, you know, experiencing deep trauma and deep joy is
+usually quite thin. So we’ve had both.
+Jenny: Oh my god.
+Kristin: [laughing] We’ve had both, all of us in different ways. But we did it, we got
+to the end of this season. You should know—and I’m sure that we mentioned this
+up in the intro as well—that while we are on a break—and you can always follow our
+schedule on bufferingthevampireslayer.com. Just go to the calendar. There are two
+calendars, but when you click on “calendar” it’ll take you to our production calendar
+and you’ll see all the things that are happening and what have you. The other
+calendar is our antiracism calendar, which has, like, incredible events of all different
+genres, all different kinds of activities and things to participate in over there. But in
+this break, for us, we will be re-airing some of the episodes that were over on the
+Patreon feed, ‘cause we had some—we had so many episodes this season that we
+didn’t put them all in the main feed. And so, we will be putting the conversation
+that we had with Jess Clark, about assault and the scene specifically between Spike
+and Buffy in Seeing Red, in the main feed. We’ll also be putting the Unbury Your
+Gays episode in the main feed, so there will be some stuff rolling into your ears, if
+you haven’t gone over to Patreon to hear it there.
+Jenny: Yes! [sighs]
+Kristin: Jenny.
+Jenny: Yes?
+Kristin: Thank you [Jenny gasps] for sitting across the virtual table from me, for
+the last near-to year.
+Jenny: My pleasure.
+Kristin: And journeying through this season with me. I care about you very much.
+Jenny: [sim] Thank you as well. Likewise.
+Kristin: Thank you so much. I kinda forced your hand there. She had to say that,
+you know what I mean? [both laugh] I care about you very much. Kristin looks
+through the ether at Jenny. And you?! [both laugh]
+Jenny: Mmm.
+
+
+Kristin: Yeah. So we’ll see you. We’ll see you back here for the—whew!—seventh
+and final season, when we come back.
+Jenny: Wow. Huge deal.
+Kristin: How’s that possible? It’s like the Oregon Trail up in here. We’re like a whole
+different set of people by the time we get to the end of this fucking thing.
+Jenny: Yeah. Yeah, yeah, and I have a long, gray beard. [Kristin laughs] Now.
+We’ve changed so much since Season 1. Okay. But we haven’t changed all that
+much because I’m still Jenny Owen Youngs! And when I’m not making this podcast,
+well, I’m doing a bunch of other stuff. I make another podcast called Veronica Mars
+Investigations with my pal, Helen Zaltzman. We’ve come nearly to the end of our
+Veronica Mars journey, but we’re gonna be talking about other stuff still over there.
+So if you wanna hear more of my speaking voice, that’s a place you can do it. You
+can also hear a whole lot of my singing voice, and I’ll tell you where! You can find
+my music by searching my name, Jenny Owen Youngs, on your favorite digital
+music platform. You can also give me a shout on Twitter @JennyOwenYoungs. You
+can join me for livestreams on Twitch, on pretty much a weekly basis. In fact, I’ll be
+doing a stream this very evening, 5 PM to 7 PM Eastern, on my Twitch channel. You
+can find me over there and in the weeks to come as well. And hey, one other thing.
+I’m in a band now called L.A. Exes and our debut album Get Some is out now on all
+digital platforms. It’s pretty fun and it’s fairly gay, which—
+Kristin: Mmm.
+Jenny: Seems like it might be up your alley. [laughing] Fans of Buffering the
+Vampire Slayer may enjoy musical bouts of homosexuality.
+Kristin: [sim] I like gay shit. Yeah.
+Jenny: Yeah.
+Kristin: I like it. Give me that gay shit, you know?
+Jenny: That’s where you can find—those are the places you can find me.
+Kristin: Yes.
+Jenny: And hear me, in the break.
+
+
+Kristin: Yes. And if you go to gimmethatgayshit.com, you will find out more [Jenny
+snorts] about me. [laughs] Just kidding! I wish! I wish I owned that URL. I don’t.
+You can learn more about me and my gay shit on my website, kristinnoeline.com.
+We haven’t played the beautiful jingle that you have written for people to know how
+to spell my name in a while. So let’s hit that.
+Jenny: Hit it, me!
+[KRISTIN NOELINE jingle plays]
+Kristin with an I
+N-O-E-L-I-N-E
+Kristin: And you can use that spelling of my name to find me on Twitter and on
+Instagram. I got some stuff going on. Honestly, the biggest thing that I have been
+doing recently is different events, virtual events, at workplaces and also with, like,
+high school GSAs and library groups and things like that. I do a lot of talks for
+parent groups at workplaces. I also do a fun podcast with Joanna Robinson. It’s on
+our Patreon here—
+Jenny: Oh, yeah.
+Kristin: Buffering the Vampire Slayer and on The Storm’s Patreon. And it’s called
+Feels Like the First Time. I’m running out of movies. I’m just a regular fucking
+cinema afficienado these days. I have watched, like [Jenny snorts] literally four
+million MCU movies.
+Jenny: Mmm.
+Kristin: I have so many feelings. The episode on my feelings about Marvel went up
+last week. Anyway, you can listen to me talk more about that on Feels Like the First
+Time. And Jenny. In case anybody missed it, who are we?
+Jenny: Oh my gosh! We are Buffering the Vampire Slayer. We’re on Twitter,
+Facebook and Instagram, @BufferingCast. Or you can drop us an email at
+bufferingthevampireslayer@gmail.com.
+Kristin: It’s true, you can. And you can support the work that we do here. Biggest
+and best way to support this work is by becoming a patron of ours.
+Patreon.com/bufferingcast, or you can find any and all of the things that we talk
+about here on the website, bufferingthevampireslayer.com. You can also go over
+and scoop up some of our merch. We’ve got so many new, fun things in the
+store—both stores, both the UK/EU store and the store here in the States. You can
+
+
+rate and review us, if you care to. Or you can just, like, feel a lot of love in your
+heart.
+Jenny: Oh, yeah.
+Kristin: And we’ll get it.
+Jenny: We’ll hear your voice in our heads, like everyone who knows Willow.
+Kristin: Yeah. [laughs]
+Jenny: May have to at any time.
+Kristin: You can play Sarah McLachlan, you know, for us.
+Jenny: We’ll feel it.
+Kristin: As we reach our little wobbly hands out of the earth. [laughs]
+Jenny: Yes, correct. Well. You’re all beautiful. And till next…season?
+Both: Awwwooooooooooooooooo!
+[Jenny Owen Youngs performing “Grave” off the album “Songs from Season
+Six” by Buffering the Vampire Slayer]
+
+

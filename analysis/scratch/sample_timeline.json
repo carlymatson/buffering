@@ -1,0 +1,31 @@
+{
+    "events": [
+        {
+            "start_date": {
+                "year": 2019,
+                "month": 10,
+                "day": 21
+            },
+            "text": {
+                "text": "An event"
+            },
+            "group": "Angel on Top"
+        },
+        {
+            "start_date": {
+                "year": 2019,
+                "month": 11,
+                "day": 21
+            },
+            "end_date": {
+                "year": 2019,
+                "month": 12,
+                "day": 25
+            },
+            "text": {
+                "text": "Another event"
+            },
+            "group": "Buffering the Vampire Slayer"
+        }
+    ]
+}

@@ -1,0 +1,923 @@
+Buffering the Vampire Slayer 
+Episode 6.04: Flooded
+[CHIME] 
+Jenny: Hey, everybody.
+Kristin: Hey! So this year, as we round the bend to American Thanksgiving, or as Willow aptly says, the sham with yams, we are beginning the podcast with a land acknowledgement to bring light and celebration to the indigenous peoples that we live alongside and to their land that we occupy. Also, to bring awareness around the impact of colonization and the importance of continued learning and continued work. We acknowledge that we and our team here at Buffering the Vampire Slayer are occupying unceded and stolen lands and territories. I occupy the Lenape territories of the Esopus Lenape Peoples.
+Jenny: I occupy the Wabanahkik territory of the Abenaki and Pennacook Peoples.
+Alba occupies Tiohtià:ke of the Kanyen'kehà:ka Nation.
+Kristin: Mack, LaToya and our editor, John Mark, occupy the lands of the Kizh Peoples.
+Jenny: Land acknowledgements exist to celebrate the indigenous peoples who are the rightful guardians of the land or territory that we, as colonizers, are inhabiting. A land acknowledgement also encourages non-indigenous people that they are on stolen and unceded indigenous land, and to directly engage with that knowledge in meaningful and impactful ways. It's important for us to understand the longstanding history that has brought us to reside on the land where we are producing and recording this podcast, and to seek to understand our place within that history. There are countless indigenous people who were and continue to be forcibly removed from their rightful land, and the version of history that we are most commonly taught in schools and in popular media was written and continues to be told by the colonizers of the Americas. Colonialism is a current, ongoing process and we need to bring mindfulness around our present participation.
+Kristin: Yeah. Colonialism is threaded through many other injustices. It's a root cause of racism. It's a root cause of the exploitation of the working class. And it also imposed a strict Christianity-backed patriarchy that created and continues to enforce gender roles and gender binaries with the use of sexual violence, transphobia, and homophobia. Colonization by white Europeans imported and amplified a culture of greed and economy of capitalism that led to the enslavement of Africans and continues to underpin the prison industrial complex. We acknowledge that we are able to live off of and thrive within the colonial system as two white cisgender women.
+Jenny: We further recognize that we are not just living and working on stolen land, but that we are benefitting from a story that is set on stolen land, one that superimposes a Christian-based Hellmouth and epic battle for humanity on land where there was an actual genocide of the Chumash people. If this is your first time hearing a land acknowledgement, or if you'd like to learn more about the importance of this process, you can find resources today in our show notes and moving forward, in our ever-growing antiracist library found at bufferingthevampireslayer.com/antiracist-library. That link will be in our show notes for every episode.
+Kristin: Today, we also have a list of indigenous-owned businesses, authors and artists in our show notes. And we have linked to the Metis In Space podcast discussion on Buffy's Season 4 episode, Pangs. Metis In Space is an indigenous-led podcast and you can learn more about their work at metisinspace.com. That's M-E-T-I-S-I-N-S-P-A-C-E dot com. We've also linked to our discussion on Pangs, which features a conversation with Coya White Hat-Artichoker. Coya is a proud enrolled member of the Rosebud Sioux Tribe and was a founding member of the First Nations Two Spirit Collective, which is a collective working to build a stronger political presence for Two Spirit people within the national dialogue on queer rights. We're also in conversation now with the Santa Ynez Band of Chumash Indians, which is an organization running programs that are dedicated to strengthening the shared heritage of the Chumash Peoples and a passion for Chumash culture, with hopes of hosting an Instagram live event together as a community in the coming months.
+Jenny: As is the case for much of this work here in the Buffering space, this is one of our first steps, acknowledgement, which will be followed by continued, evolving practical steps toward continued change.
+NOTES: [Buffering theme song plays]
+Jenny: Hello! And welcome to Buffering the Vampire Slayer! A podcast where we're watching and discussing every episode of Buffy the Vampire Slayer, one by one, spoiler free. I am Jenny Owen Youngs.
+Kristin: And I am Kristin Russo. And hey, this week—we're still moving. We're still moving forward. We're talking about Season 6, Episode 4, Flooded. Check your basements, check your pipes. Stay tuned at the end of this podcast every other week for an original song written by Jenny, recapping the Buffy episode that we are discussing.
+Jenny: Flooded was written by Jane Espenson and Doug Petrie and directed by that very same Doug Petrie—we think—[Kristin laughs] and originally aired on October 16th, 2001.
+Kristin: This is the one where, while trying to get a loan, Buffy runs afoul of three deadbeat sorcerers who are using the otherworldly powers of a demon to rob a bank. That's the IMDB description.
+Jenny: Blegh.
+Kristin: So, you know what's really interesting, Jenny—
+Jenny: Mmm.
+Kristin: Is that I read the IMDB description and I thought, deadbeat, that's a word. Like, I—you know, I'm really examining some of the word choices that we have, words that we've used in the past that we didn't say, like, where does this word come from? And I thought, is deadbeat, like, a bad—
+Jenny: Hmm.
+Kristin: Is it a bad word to say? 'Cause you associate it, right, with like, a deadbeat dad. Hank Summers, for example.
+Jenny: Right.
+Kristin: So I looked up—
+Jenny: A great example.
+Kristin: [laughs] I looked up the word deadbeat and what I found, I thought was really interesting. Because the word was first used at the turn of the 19th century to mean somebody who was really tired. And then the word use—
+Jenny: [laughs] I am both dead and beat.
+Kristin: Exactly! And then the—like, the use of that word "deadbeat" changed in the mid-1800s to mean "an idler or a lazy person who shirked his work and duty." And I just, you know, think there's maybe a connection that should be spelled out between, like, the way that we perhaps call people lazy and what—when actually they may be exhausted by the tasks put forth by society around them and the things that they have to lift. So like, I don't know. I don't know the entire journey of this word, but I just said, hmm. That's something to think about. But we can—we can agree on one thing, which is that the fucking three of these dudes are lazy motherfuckers. [laughs]
+Jenny: So, my main takeaway from what you just said is that "shirking his work and his duty" sounds like the second line of a limerick.
+Kristin: [laughs] Are you gonna be—
+Jenny: If anyone wants to—I'm—
+Kristin: Half here for the rest of the taping, just trying to think of the first line of the limerick?
+Jenny: No, I'm gonna charge our beautiful listenership with the very important task of finishing the first, third, fourth and fifth lines of the limerick. Thank you.
+Kristin: "Shirking his work and his duty."
+Jenny: Mmhmm.
+Kristin: Great.
+Jenny: That's line two, baby!
+Kristin: Alright.
+Jenny: "There once was a Principal Flutie…"
+Kristin: [laughs] I knew that you—I knew that you could not help yourself. Like, there was no reality—
+Jenny: Yeah.
+Kristin: In which you didn't at least deliver one line. I could see—I could see, Jenny—
+Jenny: [makes "da-da-da" sounds to imply parts of the limerick] "But at least he's not Principal Flutie!" [Kristin laughs] You know?
+Kristin: Yeah.
+Jenny: You could put Flutie at the top or the bottom, whatever you like. Or not at all.
+Kristin: Which is also what she said.
+Jenny: She did say that.
+Kristin: So, um… the Previously On in this episode, to me, Jenny, felt like 2020.
+Jenny: I felt attacked! 'Cause I had to, like, pause—I had to pause it both times I started my watches. And I paused on Joyce both times and… [Kristin laughs] I had to, like, make some notes, I had to do some stuff. And every time I looked back at the TV, it was just like, Joyce! Joyce! Joyce! And first of all, how dare they?
+Kristin: [simultaneously] Ugh. It just was, like, a lot—it was like, here's—like, you know, the Previously On is structured so that you as the viewer are reminded of certain things. It's—there's a lot going on, you know, just so you know—
+Jenny: Yeah.
+Kristin: This is what we're referencing. [laughing] But like, at this point in the series, they're like, okay, so. Her mom died and then she sacrificed herself to save the world but then she was brought back to life, but also, Spike—but also. It's—there's so—it literally is like, if I look back—
+Jenny: It's legit like...they're like, oh, you guys like trauma? Get a load of this shit. [Kristin laughs] Blam!
+Kristin: So yeah, a lot has happened in Buffy's last, you know, handful of episodes. This episode is really—well, it does a couple of things. I think, you know, we get out of the Previously On and we open—I love a good misdirect. I love—like, I'll take as many as they wanna give me for the opening of a show like this—
+Jenny: Sure.
+Kristin: You know?
+Jenny: Sure, sure.
+Kristin: She's in the basement, it's dark.
+Jenny: [spooky voice] Ooh, it's so scary!
+Kristin: There's obviously a demon there. But no, the real demon—and I think—
+Jenny: An enemy of a different sort!
+Kristin: But I think, you know, Jenny—what I think is really interesting and important about this season, at least as we know so far, is that we start Season 1 of Buffy the Vampire Slayer. And the whole purpose of the metaphor of demons is to say, like, high school is really rough. So here's a manifestation of a demon to show you how hard high school can be! And now, we're like, in adult life. And they're like, you know… we don't really need to lean on demons too much anymore, 'cause life is fucking hard. [laughing] And your pipes are gonna burst and you're gonna have to pay your bills and you're gonna have to sort your shit.
+Jenny: This is a thing. A lot of supernatural shows don't bother with this kind of stuff. But you know, there's—as we just saw on the Previously On, you know, Buffy's life is difficult, complicated, painful, traumatic. But that doesn't mean that she gets a get out of jail free card to escape the horrific mundanity and incessant attack on your fucking will to live of life!
+Kristin: Yeah, yeah.
+Jenny: You know?
+Kristin: Yeah, and she's getting—I mean, we're gonna obviously go into this a lot. 'Cause she's getting hit, I think, a bit harder than she should ever be getting hit at this particular juncture and where she is in her life. But that aside, you know, I think many of us can relate to how demonic taking care of household goods and items and tasks and dealing with the day to the day can be and can feel.
+Jenny: Yes.
+Kristin: And then the other side of this, of course, is like, the larger metaphor of—we see—okay. So it's not a demon, it's a pipe, a leaky pipe. "Mr. Drippy," which I wanna believe is just a little heart—a little heart-soft spot for Kendra and Mr. Pointy. [Jenny laughs] I would love—love a little story about Mr. Drippy and Mr. Pointy. [laughs] And how they relate to each other. And Buffy—Dawn comes down. You know, another—[sighs]. Just keep giving this kid points, man. Dawn—"maybe we should call the plumber," she says. And Buffy's like, fuck it, no, I got it, I got this. And then—[laughs] I believe what we see here is impossible. But if we have any plumbers—[laughs]
+Jenny: Yeah—yeah. To our vast listenership involved in the plumbing arts… is this pipe explosion realistic? And also, are people out there still doing full copper re-pipes? [Kristin laughs] Do write in and let us know, bufferingthevampireslayer@gmail.com. Also, am I high or is Buffy doing lefty-loosey here?
+Kristin: I—
+Jenny: I feel like she's going the wrong way.
+Kristin: [simultaneously] The wrong way? Maybe. But the—the pipes burst—it's like, every pipe in the entire basement cracks at the same moment and is just spewing water everywhere. And plumbing wise, I think this is a bit unrealistic. Mm, I also think Joyce would have maybe taken a little bit better care of her pipes down in the basement. But that's another story—
+Jenny: Yeah.
+Kristin: For another day. But metaphorically, of course, this lines up with the "if you say everything is okay when everything is not okay, it's not going to be okay."
+Jenny: Yeah.
+Kristin: The larger lesson here. And we see it all over the place, right. Obviously, Buffy is like, the central focal point for that, that she is really trying to pretend, for her friends, that she's alright—for her friends and her family. But we see the same thing with Willow, you know, really trying to just pretend—just putting a little patch on the hole and saying, "that seems to be fine." And then, you know…
+Jenny: Yeah. It's not.
+Kristin: This is what results.
+Jenny: Yeah.
+Kristin: A flood. A flood. So—
+Jenny: A flood.
+Kristin: Anyhow.
+Jenny: We get some credits.
+Kristin: We get some credits.
+Jenny: You know.
+Kristin: And then! Listen, I'm—I promise I won't keep harping on the plumbing. But you can tell that this podcast is hosted by two 39-year-olds. Because—
+Jenny: I'm not yet. Today, I'm 38.
+Kristin: [laughs] Buffy is—by the time of this airing, we will both be 39. Buffy is looking at the faucet running in the kitchen, while—
+Jenny: Yes. Relatable content. [laughs]
+Kristin: Yes. And we'll get to the emotional impact. But like, when the plumber is working on your pipes and you have a flooded basement, let me tell you what you're not doing, is running the water in the kitchen. [laughs]
+Jenny: Yeah. You're holding very still.
+Kristin: Yeah, you're not—
+Jenny: And saying a prayer.
+Kristin: Not using any—but—
+Jenny: Buffy says, "You should eat breakfast at least three times a day." And I say, spot the lie. Breakfast rips.
+Kristin: [laughs] I mean, hobbits would agree with her, at the very least.
+Jenny: Yeah.
+Kristin: She is, um… struggling. Deeply. I think this is—so Jenny and I are working with Alba and Mack and our team on some deeper dive episodes. We tweeted about it a couple of weeks ago, but I just wanna point that out here. Because we're starting to really get into Buffy really exhibiting signs of depression… signs of PTSD, as she's talking to Giles later in the episode. And without spoiling, we are gonna be kind of going into these topics. And so we're gonna be doing deeper dives, where we get to talk about, you know, Buffy looking at the faucet and this journey in a more nuanced way. So I just want everybody to know that, as we start getting into it episodically, that the plan is also to go deeper, in a way that I don't think we can do in an episodic discussion.
+Jenny: Mmhmm, mmhmm, mmhmm.
+Kristin: But yeah, she's struggling.
+Jenny: Speaking of going deeper.
+Kristin: Ohh, boy. I really set you up for that fucking transition.
+Jenny: Tito the amazing plumber extraordinaire is here, and Xander did a little "haggling." [Kristin laughs] 'Cause that's what they're calling it these days. Sturdy plumber gives broad-shouldered contractor a full copper re-pipe job, 1080P HD!
+Kristin: [laughs] Yeah, also wrote down—
+Jenny: Also—
+Kristin: The haggling quote. It's a good—it's a good.
+Jenny: Um, I just wanted to mention a little off-air exchange that we had, in which—because you just hear me say it all the time, instead of seeing it written out. I believe you were hearing me say "1080 PhD," as in, Professor Youngs, reporning for duty. And—
+Kristin: Wow…
+Jenny: I just wanted everyone to know [laughing] what we talk about when we're not making the podcast. It's pretty much just more of this.
+Kristin: Reporning… for duty.
+Jenny: That's right. I'm here—
+Kristin: I just picture you, like—
+Jenny: To title things.
+Kristin: I picture you, like, in your bed at night, like, lit by candelight. Just like, with a tiny little notebook, you know? Just like, writing your jokes.
+Jenny: Uh-huh.
+Kristin: Just like, "ah-ha! I have it!"
+Jenny: What the hell?
+Kristin: "It's reporning!" [laughs]
+Jenny: Listen.
+Kristin: Yeah, so [sings] T-T-T-Tito and the Xand!
+Jenny: You can… yes. Tito and the Xand.
+Kristin: You know… they're—
+Jenny: T-t-together at last.
+Kristin: Yeah, thank god. I mean, you know, we can go into Xander as a wiener dog and all of his nonsense. But maybe some of his hesitation in announcing his engagement has to do with his full copper—
+Jenny: Ooh-hoo-hoo-hoo!
+Kristin: Repiping happening on the side! Just a theory.
+Jenny: Yes!
+Kristin: A theory. [laughs] So we move, now, into the living room of financial hell.
+Jenny: Mmhmm.
+Kristin: There's a lot to talk about here. And I think we're gonna have probably more conversations about this in future episodes. Because Buffy and her finances is a theme that is not going to end here. But Jenny, we have—
+Jenny: Just like… try, for a second, to imagine the experience of insult being piled atop injury when you've been ripped out of heaven by your friends, who then tell you, while you were dead, you became broke.
+Kristin: [laughs] I mean… again, I really feel like people could have done a better job—people meaning Willow, Xander—Anya, I think, is doing great. I think Anya's really shining. This is her element.
+Jenny: Mmhmm.
+Kristin: But telling Buffy—first of all, telling Buffy that she's hemorrhaging money—that is an Anya-ism—in the living room where her mother died seems—
+Jenny: Rude.
+Kristin: Very rude.
+Jenny: Uncalled for. Insensitive.
+Kristin: Buffy has a fun little line here, as she's, like—she makes the joke, like, "What if I burn the house down and collect the insurance?" Which, everybody in the show says in surance. So, like, let me know what—how do you all say it? 'Cause I… ins  urance. In surance? In sur ance! Sure. In-sure-ance.
+Jenny: Hmm.
+Kristin: How do you say it, Jenny?
+Jenny: Say it a few more times.
+Kristin: In sura  nce.
+Jenny: In sur ance. I say insurance. But—
+Kristin: Right. Ins  urance.
+Jenny: Now that we're talking about it, first of all, it doesn't even sound like a word anymore. [Kristin laughs] And second of all. I'm feeling myself drawn to in surance.
+Kristin: Anyway. Buffy says, like, "We'll burn the house down, we'll collect the ins  urance." And then she says, "you know, I'm joking." But before she says that, she has a great throwback line to… Beer Bad, where she says, "Plus, fire. Pretty."
+Jenny: It is.
+Kristin: Thanks, Jane.
+Jenny: Fire is pretty.
+Kristin: Fire is pretty. But Jenny, we—listen, we're all mad. We're all mad in the same vein that Anya is fucking mad. Because Anya is—Anya is essentially like, "yo, I have a fucking idea and it's, you work all the time. You should get paid for the work you do."
+Jenny: What a concept.
+Kristin: And everybody in the room responds as though Anya has said something—
+Jenny: In horror!
+Kristin: How dare you? How dare you suggest that the thing that takes up all of my time, thereby making it impossible for me to do my job—I mean—
+Jenny: And which has saddled me with potentially a very early death sentence. I fucking risk my life every day for other people.
+Kristin: So Anya, yes, you are correct. This is not a reasonable financial situation. There should be a better arrangement. We thought—you know, we know a little bit about financial things. But we happen to know somebody who knows a little more than us about the ways of financial meanderings. Who is it, Jenny?
+Jenny: We know a guy. And that guy's name… is Gaby Dunn!
+Kristin: Oh, shit!
+NOTES: [GABY DUNN jingle plays] She loves being mentioned Ooh, that Gaby Dunn!
+Kristin: Holy shit! Gaby Dunn. Where the hell have you been?
+Gaby: Where have I been.
+Jenny: Where have you been?
+Kristin: I mean, I think the last time that we spoke with you, we were all in California.
+Gaby: Yeah.
+Kristin: And now…
+Jenny: Seems right.
+Kristin: You are in Florida and I am in upstate New York and Jenny, you are newly—freshly in Maine. So we're all in the same time zone!
+Jenny: As fresh—
+Kristin: Woo!
+Jenny: As a lobster in a trap that you just hauled up onto the deck of your lobstering boat. [Kristin laughs]
+Gaby: Nice.
+Kristin: Gaby, you know, times have been really trying in 2020. And so I just wonder if you have any updates from Patrol Cat, because the people always want to know. They really wanted to know where the hell you've been, why we have not had you on the podcast, and also, what the hell is going on with Patrol Cat?
+NOTES: [laughs]
+Gaby: Uh, Patrol Cat moved to North Hollywood. [Kristin laughs]
+Jenny: Mm!
+Gaby: And…
+Jenny: Congrats to Patrol Cat.
+Gaby: Yeah. And is in Mal's garden, pissing on Mal's plants. [Kristin laughs] And eating all of Mal's plants. And so Mal had to put a bunch of vinegar around the garden, in—
+Jenny: Mmm.
+Gaby: So that Patrol Cat wouldn't be attracted to it or come poop and pee in Mal's garden.
+Kristin: Wow.
+Gaby: However, there's a patrol—
+Kristin: It's like, I don't really know where the metaphor ends and the reality begins. [laughs]
+Jenny: [laughing] Yeah.
+Gaby: I know. And Patrol Cat—so Mal—I think Patrol Cat's—well. I personally find her cute, myself. [Kristin laughs] But my partner is mad every time I'm in the backyard. Because—
+Kristin: Mmm.
+Gaby: I apparently use their very hard-earned garden as a litter box and I also eat all the plants in the garden. [Kristin laughs] So…
+Jenny: Oh my god.
+Kristin: Well, I mean—
+Gaby: It's a bit of a conflict.
+Jenny: Mmhmm, mmhmm, mmhmm.
+Gaby: Also, I apparently have found a cat boyfriend who is also ruining Mal's garden. So, you know.
+Kristin: [laughs] From the reports, it sounds like Mal is struggling, Patrol Cat is thriving.
+Gaby: Yep. Yep. Yep.
+Jenny: Mmm.
+Kristin: Yeah. [laughs]
+Gaby: Yep.
+Kristin: Great.
+Gaby: I also—by the way. I say this every time, but the—I get recognized, like, the most as, like, some character from this podcast than from, like—[Kristin laughs]
+Jenny: Hell yeah.
+Gaby: Anything else. Like, when I do meet and greets or whatever, people are like, "I first heard about you as Patrol Cat." And I'm like, do you—[Jenny laughs] I've, like, done other—like, what?
+Kristin: [laughs] It's incredible. I mean, you have, like, a genuine staying power, too. Like, it really has been a long time since we've had you inside the pod. And I—
+Gaby: Mmhmm.
+Kristin: When I tweeted—I tweeted, like, not your name. Just like, a reference to your jingle, and whatever. And people were like, "Fucking yeah!" [everyone laughs] "Gaby's back!"
+Gaby: Like, nobody's nicer to me—nobody's nicer to me than the Buffering fans. It's wild.
+Kristin: Ugh.
+Jenny: Hell yeah.
+Kristin: Nobody's nicer than the Buffering—I mean, they truly are the nicest—
+Jenny: It's true.
+Kristin: People in the universe.
+Gaby: Yeah, it's wild.
+Kristin: So, Gaby—
+Gaby: Mmhmm.
+Kristin: When we watched this episode—
+Gaby: Yeah.
+Kristin: Flooded, we were, you might say, flooded with many feelings of anger. But also, it's really—there's a lot of money stuff in it. And so we thought—
+Gaby: Mmhmm.
+Kristin: We know somebody who, like, talks about money sometimes, really likes Buffy—
+Gaby: Mmhmm, mmhmm.
+Kristin: And you know—
+Jenny: Mmhmm, mmhmm.
+Kristin: Is just, like, a pretty famous millennial. So…
+Gaby: Yeah. Uh-huh.
+Kristin: We have some talking points, but do you wanna—do you wanna start us off with some of your thoughts on, like, Buffy and money and this shit?
+Gaby: Yeah. So I do a podcast called Bad with Money, which is how I'm qualified, in case you people think I'm here shooting my mouth off. [Kristin laughs] Which I would be anyway, because I love to do it. [Jenny and Kristin laugh] But I can't believe that this is—we're just now addressing that she doesn't get paid. First of all, there's an entity that provides a salary to other—to Giles, to other people. So it's not like—
+Jenny: To tons and tons and tons of different Watchers.
+Gaby: Like, it's not—
+Jenny: There's only one Slayer.
+Gaby: Yeah.
+Jenny: It would just be one more salary. [Kristin laughs]
+Gaby: Like, it's not like she is, like, a vigilante that nobody knows what she's doing. There's, like, an organization that—
+Kristin: Mmhmm.
+Jenny: Mmhmm.
+Gaby: That could be providing compensation. And this is, like—also very interesting that this is the first time that, I assume, we're thinking of it, as the audience. And I also really appreciated that it was about, like, the death of a parent. And so, like, you're—in some ways, like, what do you do when you don't have the person who normally does this?
+Kristin: Mmhmm.
+Jenny: Mmhmm.
+Gaby: Which I think is relatable to a lot—I hear a lot from people who—whose, like, guardian has passed away. And they're like, "I'm in charge of all of this now and I don't know what you're supposed to do." And that the paperwork regarding that is—needs to be a lot easier for people dealing with grief. Because as of right now, it's like, also a slap in the face. Like, if you—
+Jenny: Mm.
+Gaby: From people I've heard from who, their parents have died, it—the entities, like, the government and the bank and all that, they don't—credit card companies—they're not nice to you. They don't make it easy for you. They don't, like, take into account what else is going on. They're just, like—just as mean as before. [laughs]
+Kristin: And I would imagine it's like a—
+Jenny: [quietly] Dude.
+Kristin: It's like a two-sided situation too, right? Because you have, like, the fact that the banks and credit card companies and all of these places are not set up with any kind of experience or guidelines to deal with somebody who is grieving.
+Gaby: Mmhmm.
+Kristin: But also, I don't think that, as humans, we're really set up at all to think about the logistical side of losing a guardian. Or a parent. I mean, even if they're not your guardian anymore, right?
+Gaby: Yeah.
+Kristin: Like, that—there is an entire emotional side, but there's this massively practical side—
+Gaby: Yeah.
+Kristin: That starts right away. It doesn't wait.
+Gaby: No. And you end up making decisions that you wouldn't normally make. So like, friends of mine have been like, "you know, normally I would negotiate this. But I was so tired from my dad dying that I just, like, paid $5000 'cause I was like, whatever."
+Kristin: Yeah.
+Gaby: [singsong] Which they take advantage of on purpose! [Kristin groans] There's also funeral cost—funerals cost, like, $12,000, for—at the bare minimum. You know, so that was an interesting thing for them to touch on. 'Cause I—sometimes this show goes cuckoo bananas, and sometimes this show's, like, so grounded in reality—
+Kristin: Mmhmm.
+Gaby: That you're like, I am triggered. This is one of those grounded in reality episodes, which is funny to say in an episode where someone was literally risen from the dead. But… [Jenny and Kristin laugh] but I—yeah, I think that she deserves a salary. How can you hold down a job? Like, if you work at a restaurant and you're like—call in, you're like, "Sorry, I can't do my shift. I have to go murder a bunch of vampires."
+Jenny: Also, I mean, just consider, like, what's going—first of all. Where the fuck is the funding coming from for—
+Kristin: Somebody asked that question.
+Jenny: For the Watchers' Council. Are they just—
+Gaby: I imagine—
+Jenny: Warlocking gold into existence? And then, we've see Quentin Travers—
+Gaby: [simultaneously] No, I think the Watchers are family wealth.
+Jenny: Okay. Well, we've got—
+Kristin: Believable.
+Jenny: Quentin Travers, the three—four goons that were with him on the—the "Glory is a god" episode.
+Gaby: Mmhmm.
+Jenny: Formerly Wesley Wyndam-Pryce, reinstated Giles. So there are at least seven people—and they have annual horseback riding retreats—
+Gaby: That's what I'm saying. I think that they're—I think that they come from, like, old money.
+Kristin: So a couple of things. First of all, this is maybe the first time we've thought about the fact—like, meaning, the first time the show has spelled out the fact that Buffy isn't paid. But in Checkpoint, that episode, Buffy negotiates to get Giles backpay. So there's been a lot of conversation—
+Jenny: No, no, no, no. No, no, no, no, no.
+Kristin: Right. [Gaby laughs] And so—and he gets it. A lot of our listeners have been talking about Giles. And like, you know—
+Gaby: Mmhmm.
+Kristin: We love—we love and respect Giles. We care about Giles. But a lot of people have posited the theory that, like, the Council's salary to Giles is not intended to be just for Giles. That—[Gaby gasps]
+Jenny: Mmm.
+Kristin: Buffy—or the—you know, the Watcher is the caretaker of the Slayer.
+Gaby: Yeah!
+Kristin: So like, part of that salary should be going to the Slayer.
+Jenny: Also, at some point, he was like, double-dipping too. He was getting librarian salary—
+Kristin: Ugh!
+Jenny: And Watcher Council salary on top.
+Gaby: Oh my god, you're right. You're right!
+Kristin: Right!
+Jenny: Pay the fucking Slayer a living wage! Plus. Specialized skill.
+Kristin: [simultaneously] Like, just—you know, buy a couple less tweeds. Sir. You know? [laughs]
+Jenny: Uh-huh.
+Gaby: I think—I think he's—in his mind, he's like, I'm using it to take care of her. But he's not, like, providing her…
+Kristin: Right.
+Gaby: With money to—like, but also, Giles is—has limits, you know? If he comes from old money, if he comes from, you know, a certain, like, background—
+Kristin: Yeah.
+Gaby: He might have this "pull yourself up by your bootstraps" mentality that seemingly only people who have come from wealth maintain—
+Kristin: Totally. [Jenny laughs]
+Gaby: When they've, I don't think, ever seen a bootstrap, so. [Jenny and Kristin laugh] I mean, okay. So some people are getting a salary, right? Because they work at the magic shop.
+Kristin: Right. Like, Anya has a salary—
+Gaby: Mmhmm.
+Kristin: For working at the magic shop. Which she, I think, like, now owns or at least is partner in.
+Gaby: Mmhmm.
+Jenny: Yeah.
+Kristin: Xander has—is getting—
+Jenny: Oh! So Giles is still collecting two sources of income. [laughs]
+Kristin: Yes. Exactly. Xander has a salary because he has moved up in his construction—
+Gaby: Mmhmm.
+Kristin: You know, he's working with Tito.
+Jenny: Mmhmm, mmhmm.
+Kristin: He's doing decent for himself. There's been a lot of—speaking of Scoobies and income and, like, how they're all using money now that we're all adults and Joyce is gone. There's been a lot of, like, backlash against Willow and Tara, specifically because they're living in the house and they're going to school. So they're paying, you know, ostensibly—
+Gaby: Mmhmm.
+Kristin: Tuition. But they're not contributing financially to the household. I have a little—I have a little pushback on that, 'cause I do think, like, caretaking for Dawn and also essentially taking the role of the Slayer for the last five months counts for something.
+Gaby: Totally.
+Jenny: Yeah.
+Gaby: Yeah, and they are, like, Dawn's parents right now. Who owns that house? Buffy now?
+Kristin: Yeah. I would assume Buffy owns the house.
+Gaby: So she has an asset.
+Kristin: Yeah, the bank in Sunnydale said "property values have just never been competitive in Sunnydale, not sure why." [Jenny and Kristin laugh]
+Gaby: Yeah, that was very funny to me.
+Kristin: I wonder at what point in the house purchasing process do the vampire wards reset. Like, is it at closing? Do they—
+Jenny: Oh, true.
+Gaby: Right.
+Kristin: You know what I mean? Like, when does the—
+Gaby: Uh-huh.
+Kristin: When can Spike no longer enter that home if Buffy sells that house—
+Gaby: Right.
+Kristin: And how does that work? [laughs]
+Gaby: So the problem is, is like, Buffy could sell the house. It does have sentimental value, people are living there.
+Jenny: Oh wait, but he said that it hasn't been fully leveraged. Does anybody know what that means?
+Gaby: Which means that the house is, I think, depreciating.
+Kristin: Right, like the—she doesn't—she doesn't owe anything to the bank on the mortgage. But the house is worth less than it was worth when she bought it. Essentially.
+Gaby: Yeah. It's worth less—it's worth less basically every day. I also can see why they wouldn't give her a loan, because does Buffy have credit? Has Buffy ever had a credit card?
+Kristin: No.
+Gaby: Does she have—has she built credit? How would she—
+Kristin: No, she doesn't have anything—I mean, maybe her beeper bill.
+Gaby: As your financial adviser, there's a lot of red flags here. [Jenny and Kristin laugh] What happens is, you should have building credit, starting at 18, Buffy.
+Kristin: Mmm.
+Gaby: You should have at least gotten, like, a department store credit card. You could have gotten, like, a—you know, some sort of, like, starter card that you only put a certain amount of money on. Like, there's a—do you have a debit card, Buffy? Like, there's just a lot happening here.
+Kristin: Yeah, it's true. And you know, it seems like actually now, thinking back, you know who probably was establishing credit quite well was—
+Gaby: Xander.
+Kristin: Cordelia, after—
+Gaby: Ohhh.
+Kristin: Oh, Xander, for sure.
+Gaby: Yeah.
+Kristin: I mean, this is—so to, like, take this hypothetical into reality a little bit. And we were talking about it with Giles and, like, the fact that part of Giles's problem, perhaps, is that he is from wealth and so he doesn't understand anything like this, right. Building credit, I'm sure, is not something on Giles's radar.
+Gaby: Yeah.
+Jenny: Mmhmm.
+Kristin: And also, somebody wrote it and asked about Faith, specifically.
+Gaby: Yeah.
+Kristin: Like, what—what would it have been like—
+Gaby: Working class.
+Kristin: Right—if Faith was here, she would literally know all of this shit. Because she does not come from wealth of any kind and has had to really learn these lessons already.
+Gaby: Or… is Faith just scrappy? Like, does Faith understand credit, does Faith understand that kind of stuff? Or is she just kind of scrappy? Where, like, she can get by, she can figure out how to get 50 bucks. Which, like, used to be my deal, is like—
+Kristin: Mmhmm.
+Jenny: Yeah.
+Gaby: She knows—[laughs] she knows to go into a hotel, say you lost your charger even though you never stayed at that hotel, go into the lost and found, [Kristin laughs] take all the chargers and resell them on eBay.
+Jenny: Ha!
+Kristin: [laughs] Suddenly, we're on Scam Goddess. [laughs]
+Jenny: Wow.
+Kristin: Oh my god. That's amazing. But you're right, you're right. Sorry, I think that I framed that incorrectly. You're right. Faith would not know about building credit. But Faith would have a plan here.
+Gaby: Yes.
+Kristin: If it was a scrappy plan or not, like, she would definitely have a plan. And I think that Faith, scrappy or not, would have demanded, at this point, that she be paid or that Buffy be paid.
+Gaby: Mmhmm.
+Kristin: Like, I think she would have connected those dots, whereas it does not seem—
+Jenny: Yeah.
+Kristin: That Buffy is connecting those dots. Buffy even, like, makes this—it sort of seems like a dig at the series Angel. Because she's like, [laughing] "what, so we should charge people money for saving their lives?" And I'm like, that's literally what they're doing in LA.
+Gaby: Yes! Like, I think—I think yes. But the problem is, is like, it's—you know, the capitalism of it all is hard to swallow. Like, I think, like, Willow should be charging people for doing spells for them. I mean—
+Kristin: Willow has, like, a full job awaiting her, even without her witchcraft. She's incredible at everything tech. There should just be a household conversation about money, where everybody understands that we need to contribute, how are we all going to make this work? Instead of the way that it's sort of pushed now, which is like, Buffy, how are you gonna pay for all this? [laughs]
+Jenny: [laughs] Yeah!
+Gaby: Yeah. Well, also—but they don't—I just read something that was interesting to me on the Reddit. Which is that Dawn qualifies for survivor's benefits, and so Dawn qualifies for Social Security because of Joyce's death, which I didn't realize.
+Jenny: Oh.
+Gaby: Let me say something to your audience of social justice people. Okay? There is—and the social justice people probably know this. So let me speak to the audience of people who have quote-unquote "pride." And not gay pride, regular pride. You—[Kristin laughs] you do not need to feel embarrassed or ashamed of taking government help. You do not need to have this idea that Buffy has, of "I'm gonna take care of this, I'm gonna do it on my own, I'm gonna, like—I need to be noble. I need to be, like, noble and honorable by doing this on my own." What she should be doing is sitting her ass down and applying for Social Security and applying for unemployment and applying for disability, and trying to figure out what Dawn qualifies for as a minor. And do not feel ashamed or embarrassed because it is here for you. The government sucks, take their money. And—and all of this American bootstrap shit is nonsense. And you should absolutely drain the entire system because it is here for you. [Kristin laughs] And don't feel embarrassed, and don't feel like a failure because of it. And that's my speech!
+Kristin: Love it! Gaby Dunn. The Coach Taylor of finances. [Kristin and Gaby laugh]
+Jenny: Oh, true!
+Kristin: Gaby, thank you for being here and talking to us about money. And feelings.
+Gaby: Thank you for having me.
+NOTES: [GABY DUNN jingle plays] She loves being mentioned Ooh, that Gaby Dunn!
+Kristin: [laughing] Gaby Dunn! Just…
+Jenny: She's been, you know, gone from the pod but never from our hearts.
+Kristin: Never, never from our hearts.
+Jenny: And what a delight to have her back. So happy—so happy that it's being addressed that action is Spiderman's reward.
+Kristin: [laughs] Yes. Yeah. I mean, you know, the way that Xander treats Anya is an issue for me, personally. And that is rooted in the fact that Anya did have a good idea that Xander didn't recognize as a good idea, and also, made her feel like she was bananas. And it's like, that's not—
+Jenny: Literally, fuck all the Scooby—fuck the other Scoobies.
+Kristin: Fuck—I mean, honestly. What the fuck? But then, you know, Xander—and this is the way, in most relationship fights, right? It's like, the real issue here is that A. Xander is a wiener dog. And B. that Xander made her feel really stupid about an idea she presented to the group. Which, even if it wasn't a good idea—which it was—you still support. You don't make your partner feel stupid. But of course, instead of either of those things being the thing that sets her off, it is that all he does is basically tell the truth about Spiderman, that action—
+Jenny: Yeah.
+Kristin: [laughs] Is his reward.
+Jenny: So she storms out. Understandably. Xander follows her. And he's like, pretty quickly intuiting what's up. He's like, "This is 'cause, you know, they don't—I haven't announced our engagement yet, isn't it?" And Anya has a great little, "No. Maybe. Yes."
+Kristin: [laughs, simultaneously] "Yes."
+Jenny: Progression, rapid progression through the emotional spectrum—
+Kristin: Mmhmm.
+Jenny: When your significant other won't tell everyone that you're engaged.
+Kristin: Ugh!
+Jenny: She's distressed! She wants to wear her beautiful engagement ring.
+Kristin: She's right! This is sad. It is sad that she's carrying around—
+Jenny: This is super sad.
+Kristin: And I understood, like—there was a period of time where, like, I got it, right? Buffy had just been—
+Jenny: Right.
+Kristin: We are far past that time.
+Jenny: That time has passed.
+Kristin: Yes.
+Jenny: That time has passed. Also, just to hop back for one second. I know this came up in the Gaby segment, but like, literally, two hours away, a man is charging people to save the world.
+Kristin: Right.
+Jenny: Angel, Wesley, Cordelia—
+Kristin: Right.
+Jenny: And Gunn are all getting paid.
+Kristin: Full business model. Full business model.
+Jenny: And they all opted in. Buffy never had a choice.
+Kristin: Right.
+Jenny: She was imbued with powers. And a sacred duty. Fucking pay this girl!
+Kristin: Seriously.
+Jenny: Okay. Sorry.
+Kristin: Pay this fucking—ugghh'kay. [clears throat] I will say that something that I like—to hop back to the Anya/Xander outside scene. Something that I really like about the construction of this scene is that it—it's kind of another misdirect, right, that like, Anya's upset. Xander delivers what you could almost be tricked into thinking is a meaningful response. [Jenny laughs] And Anya—
+Jenny: Hey!
+Kristin: I mean, I mean, he—
+Jenny: I think he—he means it and it's real. But he's—but he's dragging his heels and he's gotta—
+Kristin: Exact—he means it and it's real—
+Jenny: Get with the program.
+Kristin: And I think—but I think—what I love about it is I think that so much of television is written where that would be the end of the scene. And it sets us up—
+Jenny: Right.
+Kristin: In life to be like, "aww, but you're saying these nice things." And doesn't really put a lot of onus on the action itself. And so I just love—
+Jenny: Mmhmm.
+Kristin: That like—writers' room, yay, thumb's up, and then of course, like, Anya as a character, thumb's up—for being like, "Hey. No. You just got me all fucking soppy and, like, emotional and whatever. And I—"
+Jenny: "You did that thing again!"
+Kristin: Yes. And fuck you, you fucking stupid dummy! And she storms off.
+Jenny: Yeah.
+Kristin: And I am in full support of her storm-off. Because Xander needs to—Xander needs to, you know, pick which he wants. Does he want Tito and the copper re-pipe or does he want Anya and—
+Jenny: Oh!
+Kristin: A life full of, you know, counting money. I don't know. [laughs]
+Jenny: Hmm. Well. He'll have to figure that out, and while he does, Buffy is practicing her loan speak.
+NOTES: [Clip from episode plays]
+Buffy: There's a first time for everything, is my philosophy. This is my first big loan. Collateral? No problem. No problem. No p  roblem. I love that tie. I'm a problem solver. Let's crunch those numbers. Stupid skirt. Hello—
+Mr. Savitsky: Sorry to keep you waiting. Carl Savitsky, loan officer.
+Buffy: Buffy Summers. Loan applier-for.
+Jenny: She brought her report cards.
+Kristin: They were like, "Banker name. What's a banker name?"
+Jenny: Definitely Carl.
+Kristin: Carl, right? It's like—sorry to all the Carls but, you know, we dragged Chads a while back. So now you can hang out with—all the Carls and the Chads can bond together over our… [both laugh]
+Jenny: Honestly, Carls and Chads sounds like a loose drawer of miscellaneous hardware.
+Kristin: Oh, it does.
+Jenny: Like, nuts, bolts, Chads and Carls.
+Kristin: [laughs] So. Buffy is—right, you said report card, right? Buffy doesn't understand what she's supposed to give to the bank. And the bank, of course, wants to see—Willow makes a really nice retort, later on, where she's basically like, "Oh, so you need to have money… to get money?" Yes, indeed, indeed.
+Jenny: Yeah. Cool equation.
+Kristin: Mmhmm.
+Jenny: Also. Fuck the public education system in the United States. Which involves pretty much, in my experience—
+Kristin: Mmhmm.
+Jenny: Just about absolutely no financial planning or—
+Kristin: Nothing.
+Jenny: Other resources that would set you up for, like, what you would need [laughs] for a loan, for example. Or how to build credit—
+Kristin: Mmhmm.
+Jenny: Or anything like that.
+Kristin: Yeah. A thousand percent.
+Jenny: It's almost as if… they don't want you to know.
+Kristin: Hmmm.
+Jenny: Hmm.
+Kristin: Hmmmm. So Carl's basically like, "uh, yeah, this isn't gonna happen because you don't have a job." And with that, of course, comes this demon—this bank robber demon, busting through the glass. And—
+Jenny: Oh my god.
+Kristin: His shirt—
+Jenny: Fresh from—fresh from French Connection.
+Kristin: [laughs] Right?
+Jenny: This fucking, like, mildly iridescent, blood-colored, pleather, short-sleeve button-up over a fitted black tee. This is… a look.
+Kristin: It's a look.
+Jenny: It's a look.
+Kristin: Fucking French Connection. Remember it was FCUK? And everybody was like—[fake-laughs heartily]
+Jenny: Yes. Of course! Yes, of course.
+Kristin: Oh, the things that amused us. Yes, so Buffy gets up, of course, 'cause this is her job that she's not paid for. She stands up. She—[laughs] she gives her quip to the demon and then goes to kick him in the face. But as she said earlier, stupid skirt. She is trapped in her own—she is trapped in the garments that she's using to try to get help. Which in and of itself is a metaphor. And she—[Jenny and Kristin laugh] is hoisted, thrown onto Carl's desk. And then she does one of, perhaps, my favorite moves to date. She—
+Jenny: Ah, yes.
+Kristin: Asks permission to use his letter opener—
+Jenny: Hmm. Hmm.
+Kristin: And when granted permission, uses that letter opener to slice right down her skirt, allowing her to kick the shit out of this demon. Hot!
+Jenny: Mmm!
+Kristin: Love it!
+Jenny: This fight scene… has a real, like, almost slapstick quality. First of all, the demon punches her so far across the room, so high up in the air.
+Kristin: Mmhmm.
+Jenny: Then, she slits her skirt. Then, the demon throws her into the security guard—
+Kristin: Who catches her.
+Jenny: [simultaneously] Who has fired a gun.
+Kristin: Yeah. [laughs]
+Jenny: Yeah. And then—but she has the distinct look of, like, a mannequin—in that—[laughs]
+Kristin: Yo, a thousand percent. A thousand percent. It's like a repurposing of the Dawn mannequin from when Buffy was running with it. [laughs]
+Jenny: Yes, yes, yes. And then, Buffy, like, holds up the gun as though it were, like, a dead rat. And is like, "These things, never helpful." Throws it and then it goes off—
+Kristin: [simultaneously] Goes off!
+Jenny: Off-screen.
+Kristin: It's—
+Jenny: And they, like, hit the deck. Pew! [Kristin laughs] It's just very—this whole situation is pretty goofy. [laughs]
+Kristin: It's pretty goofy. It's almost like—I mean, I think—I wonder what it's like, right, to try to—like you said in the beginning—shows of this genre don't often tackle things like applying for loans and paying for bills.
+Jenny: Mmhmm, mmhmm, mmhmm.
+Kristin: So like, you know, trying to work in a demon in, in this context, is probably more difficult. Because this demon really only serves the purpose of, like, showing us that she does have a job. And also connecting us to, of course, the three… fucking dingdongs that we're gonna meet—
+Jenny: Yeah.
+Kristin: Very shortly, and we'll get there. But—
+Jenny: Woof.
+Kristin: We find out that, despite saving Carl's life and the bank—although I guess the bank was not saved of any money. Buffy still did not get the loan. We go—
+Jenny: Booo!
+Kristin: Yes. We go to this, like, very romantic candlelit training room scene between Willow—
+Jenny: Yeah. What is going on here? Did your power get cut off? [laughs] Like, why are they in the dark?
+Kristin: I don't know, but I think, like—so we're watching this episode and taping this episode, like, really only, like, a week or two after Alyson Hannigan tweeted and broke the internet—
+Jenny: Mmmm.
+Kristin: By saying, "Willow and Buffy should have dated." So I just have that—
+Jenny: Mmmm!
+Kristin: Like, percolating in my mind. So when I got to this scene in the episode and it was like, really moonlit. I was like, what's going on here?  !
+Jenny: Can we address that for one second?
+Kristin: I would love to, Jenny.
+Jenny: May we? Okay.
+Kristin: I would love to both address it and undress it, you know what I'm saying?
+Jenny: [laughing] Oh, god.
+Kristin: So sorry. I don't really mean that.
+Jenny: Here's the problem—
+Kristin: It's just a joke. [laughs]
+Jenny: Here's the problem. You… maniacs. [Kristin laughs] You beautiful maniacs. You think you want it, but here's—[laughs] here's what would happen, I think, if Buffy dated Willow. Everyone would feel pretty much the same as when Buffy dated Riley. Because—
+Kristin: Mmm.
+Jenny: Willow is, um, good. Gentle.
+Kristin: Is she?
+Jenny: Things are getting a little weird now. [Kristin laughs] Right now. But up to this point—
+Kristin: Yeah, I mean, I think it's—
+Jenny: Willow has been maybe more like Riley than any other character is like Riley.
+Kristin: Okay, first of all, how dare?! [Jenny laughs] Second of all, how fucking dare—
+Jenny: Oh, I hear the distant sound of people hitting the unsubscribe button.
+NOTES: [laughs]
+Kristin: Yeah, I think you're maybe getting fired. So. Willow is nothing l ike fucking Riley. Fuck you very much. That's on behalf of myself and all of our listenership. And second of all—
+Jenny: I don't know, I think they're both hot nerds. But whatever.
+Kristin: I think—[laughs] okay. I think—I'll give you—I'll give you… huh… yeah, they're very different kinds of nerds, though. But yes, I'll give you that they're both hot nerds. That's as far as this train will fucking go. But, counter to this, I think, like, the real question about Willow and Buffy is when in time. And you know, we are limited in our conversation. There are some things that would be really important to bring in that we cannot. But I do think that, like, Willow and Buffy dating in high school, probably not the best. I do think that there is a part of their journey where they could have done maybe some good for each other, in conversation. But you know, often the things we can access in a friendship, we can't access as easily when we're in a romantic relationship. So, you know. I think it's fun. I think it's fun. I don't think it would be the best choice—
+Jenny: Yeah, what a hoot—
+Kristin: For either of them.
+Jenny: Not practical application—
+Kristin: And you know, I mean, Buffy has—
+Jenny: Not ideal for practical application.
+Kristin: No, and Buffy's had so many other practical choices. You know, ensouled vampire, Initiative soldier. You know, she's really, really—like, everything that she's done up till this point, relationship-wise, has just been great. [laughs]
+Jenny: Um…
+Kristin: And I'm sure everything she'll do in the future will be great too. [laughs]
+Jenny: Mmm, yeah.
+Kristin: Okay.
+Jenny: What could go wrong? This Everlast heavy bag, object of the laziest—
+Kristin: I don't think—I don't think that's an Everlast—
+Jenny: Greek job I have ever seen. [Kristin laughs] Oh sorry, it's an Eve-Ast heavy bag.
+Kristin: [laughs] Yeah, I don't know what you're talking about.
+Jenny: So I'm guessing—I'm guessing that this is—[laughs] similar to a lot of other stuff that we kind of notice more now than we did when this aired, twenty years ago, on televisions that were constructed differently. And like, the limitations of those TVs maybe would have made this a little more passable as a Greek job?
+Kristin: Yeah. [laughs]
+Jenny: But it basically looks like somebody just, like, half-Sharpie'd in the R and the L.
+Kristin: Like, not even well. It's like, you can still see the letters. [laughs]
+Jenny: Yeah. They were like, uh, this Sharpie's kinda running out, but whatever, we gotta shoot. We gotta go.
+Kristin: They could have just taken a piece of fucking duct tape and wrapped it around that. What are they doing?
+Jenny: I know!
+Kristin: It's very funny. So… Willow and Buffy are talking. And really this is—again, this ties into the mental health conversation. Because Willow is essentially, like, excited that Buffy is angry, because Buffy has not been showing a very large range of emotions. So—
+Jenny: Willow, you have got to chill!
+Kristin: Also—
+Jenny: You have got to be cool!
+Kristin: If your friend is struggling and you're noticing that they are not accessing a full range of emotions, the way to manage that is not to intentionally try to make them angry. It is to ask them what the fuck they need, because they obviously need support! And on top of that—
+Jenny: Yeah.
+Kristin: Maybe don't even ask them what they need, 'cause they might not be in a position to tell you.
+Jenny: Yeah.
+Kristin: Have a conversation as a fucking group. You're all chosen family. This girl needs support! Whew, sorry. I didn't expect to rant.
+Jenny: Yeah, Willow is clearly just so desperate for—
+Kristin: Yeah.
+Jenny: To be let off the hook, to be given permission to let herself off the hook, essentially. But I do love her choice.
+Kristin: [laughing] Yes, her tactic is—yes.
+Jenny: I love how she decides to try to piss Buffy off. First by telling Buffy that she slept with Riley, which is a ridiculous sentence. [laughs]
+Kristin: Could you imagine? Riley would try to take off Willow's boot, and she would be out the door. That would be the fucking end of that shit. It would be over before it began.
+Jenny: No way!
+Kristin: Over before—
+Jenny: Willow would be like… nice, and I have a second boot on my other foot.
+Kristin: [simultaneously] No. No. Fuck you, no. [laughs]
+Jenny: Oh yeah. Oh yeah. And then when Buffy calls out this obvious lie, Willow's like, "Yes, you caught me. I lied to distract you from my sleazy affair with Angel." Now, picture that for a moment.
+Kristin: [laughing] No. I cannot, I will not. I cannot.
+Jenny: [snorts] It's too silly!
+Kristin: Could you—I can't. It's literally too much. Like, Angel with his fucking shirt flapping in the breeze. Like, I just can't.
+Jenny: Yeah, yeah, yeah, yeah. Mmhmm.
+Kristin: Ugh, it's good though. But you know what might even it out is if it was—I think Riley's, like, dorkiness and Angel's dramatically sexy fucking sitch—
+Jenny: Yeah.
+Kristin: They would balance—
+Jenny: We've seen how hot and combustible it got when they met.
+Kristin: Right. So maybe together, you know…
+Jenny: Yeah, could be just, like, a little Willow sandwich on some fucking—one slice of butterscotch [Kristin laughs] and one slice of fucking blood pudding.
+Kristin: [laughing] Gross! Okay.
+Jenny: Ha-ha!
+Kristin: Let's go to the Magic Box where, fucking, another sandwich being had is that of the wiener dog. [Jenny laughs] Xander. Fucking. Harris. This is—I like that Anya—Anya's upset, right. She's like, "Here's your chance. Fucking—" but it's done. It's already done. Like, when you get to this point in an argument, it's over.
+Jenny: Yeah.
+Kristin: She's already had to push him so hard that even if he fucking did it now, it would always be present and always be an issue.
+Jenny: Yeah. Oh, yeah.
+Kristin: But she's so frustrated and she says—[laughs] I love it. "This tone in my voice? I dislike it more than you do [Jenny laughs] and I'm closer to it!" And I just—
+Jenny: [laughing] Hell yeah!
+Kristin: Can we play Anya her jingle?
+Jenny: Do it!
+NOTES: [ANYA jingle plays] [cash register rings] She spent one millennium, demonically vengeancin' Speaks her mind and then some, you know She's partial to the finer things And down with double boyfriends, oh yeah Exchanging cash for goods and also services She'd love to hold the money for ya (she'll hold that cash) Just keep the bunnies far from… Anya!
+Kristin: I just, like—I love it because she's really—she's feeling manipulated. And that's fair, you know? It's like, she doesn't want to be talking the way she's talking and acting the way she's acting. And it's Xander's immaturity that's activating it, and somehow, she winds up looking like the person who just can't keep her chill, you know?
+Jenny: Yeah, yeah, yeah. Dawn makes a compelling argument to be allowed to help with research, and then is immediately confronted with demonic anatomy. Let me tell you what, Kristin. That's a weird place for a horn, 1080P HD, and in this case, the "HD" stands for "horny demon."
+Kristin: Ohhh—aw, there you are, back in your bed with your little candle! [laughs]
+Jenny: That's right. [sings a little triumphant tune]
+Kristin: I don't understand why you say [slowly] "1080P HD." You say it.
+Jenny: 'Cause that's… what… when you—when you—[laughs]
+Kristin: No! Jenny just looked at me like a fucking parent. Like, "sometimes… when people love each other…"
+Jenny: Uh-huh. [laughs]
+Kristin: I just mean that I thought you told me that "PhD" was wrong, last episode.
+Jenny: No, it's 1080P.
+Kristin: Right.
+Jenny: Like, 1,080 pixels—
+Kristin: Yes, I am—I have vid—edited video before.
+Jenny: And then space, high-definition. Or in this case, again, horny demon.
+Kristin: Oh, so it wasn't that "P HD" was wrong, it was just that I said it together without the proper spacing.
+Jenny: It's just that—yeah, they're separate—I'm gonna send—don't worry, everyone. I'm gonna send Kristin a link to pornhub.com—
+Kristin: No thank you.
+Jenny: As soon as we're done taping [laughing] so she can—
+Kristin: If it isn't clear, I don't like porn.
+Jenny: Learn about the formatting. [laughs]
+Kristin: I fully accept porn for the universe. It just doesn't do anything for me, you know? [both laugh] Anyway. Moving right along. The thing I wanna talk about with Dawn is that—and not related to the misplaced horn that she finds. The Scoobies were sixteen—I know we've said it before, but it's just so absurd to me how much of a child they treat her like, when she is not a child. She's correct, she is a teenager and she has the full capacity—first of all, she has the full capacity to research demons. And second of all, she well knows that that isn't a fucking horn. Are we kidding? Fifteen?
+Jenny: Let Dawn help!
+Kristin: Let Dawn help. And she finds the fucking demon in two seconds. And also gives us the delightful thread that will run through the rest of this episode, [laughing] which is, "How do you pronounce M'Fashnik? Mmm Fashnik? Like mmm cookies? Or muh'Fashnik." It does wind up being "mmm." Also, the episode that came right before this was where the Furies said "Mmm, Angel." So we're getting a lot of—
+Jenny: Oh, true.
+Kristin: M-M-M, uh, sounds—
+Jenny: Mmm.
+Kristin: In the episodes, as of late.
+NOTES: [AD BREAK]
+Jenny: This demon is a… mmm-mercenary. So. [Kristin laughs] That's all. [laughing] This demon's a demon-for-hire, muscle—[laughs] oh, blah-blah-blah, this demon will wreak havoc for the right price. And ding-dong, Giles is home.
+Kristin: [gasps] Okay. So obviously we've had some conversation about Giles. You know, Dad's getting complicated. It's not all good, it's not all bad, it's complicated. But this scene—
+Jenny: But… locate your Kleenex box as Buffy hugs him so hard.
+Kristin: Ugh.
+Jenny: And he says, "You're…" and she says, "A miracle" and he says, [voice tightening] "Yes. But then I always thought so."
+Kristin: Oh, god! [Jenny laughing] Play it, just play it! Just play the fucking jingle.
+Jenny: Dad!
+NOTES: [GILES jingle plays] Giles! Hot dad! When you were younger you were real bad But now you're older, you got glasses That help you watch over us! Thank you, Giles!
+Kristin: Oh my god, it's a lot, it's a lot, it's a lot, [singsong] it's a lot!
+Jenny: Do you know why the fuck there is, like, a very quick cut of the demon guy—
+Kristin: None. None.
+Jenny: Strolling around—[laughing, inaudible]
+Kristin: Absolutely none. I—literally, I almost—
+Jenny: The episode came in 15 seconds under and they were like, oh fuck. [both laugh]
+Kristin: Just use this footage. Like, the only thing I could think—Jenny is referring to this—it's like, we go from the Magic Box front room to the training room in the back. [laughing] But there's this weird shot of the fucking mercenary demon, Mmm'Fashnik—
+Jenny: [laughs] It is so weird.
+Kristin: Strolling—I think it—if it wasn't for time, it was probably done to just, like, make sure you remembered that this isn't just about real life stuff. There's still a demon.
+Jenny: Giles—Buffy's like, "what have you been up to?" Giles is like, "I went home, met with the Council. I keep a flat in Bath. I met with a few friends and I almost made a new one." Sir, you were home in England for approximately two days?
+Kristin: [laughs] Giles was like, "I gotta do some fuckin'!" That's what I think. Giles was like, "I am home. I'm gonna get a place where I can literally do some fucking. Beep-beep-beep-beep-beep, Ethan? I'm home! Beep-beep-beep-beep, Olivia? I'm home!" [both laugh]
+Jenny: But like, how did he even fit all of that into the amount of time he was in England? It's—it was so quick!
+Kristin: Also, he's—
+Jenny: So much stuff!
+Kristin: It is a lot of stuff, you're right. And also, part of that, like—fucking aside, he meets with the Council. That's the first thing that he says that he did. And I just wanna know, and? What did we all decide?
+Jenny: Yeah, and what came of that? [Kristin laughs] Did you tell them that Buffy was… dead again?
+Kristin: [simultaneously] Dead? And then, if you did, what's going on with the—like, did the Council just say, like, "cool, let us know how that works out"? I just, you know, want to know what the plan was. And—
+Jenny: They're light on the details here.
+Kristin: Yeah, but Giles—uh, Giles was busy in a lot of different meanings of that word. He almost made a new friend. Almost.
+Jenny: [sings a little tune] I'm trying to think of the, um… what the… online dating site that a… herringbone-clad, ancient mystical studies major—
+Kristin: I was just talking—
+Jenny: Like Giles would be using.
+Kristin: I was just talking about the gym membership that my dad used to have, which is called Silver Sneakers. And so now that's all I can think of as the thing—[both laugh]
+Jenny: Yeah, with a different meaning on the "sneakers."
+Kristin: Maybe "Silver Spectacles." [laughs]
+Jenny: Uh-huh, uh-huh, uh-huh. But I'm thinking, like, you know, it's gotta be a word where one of the vowels has been removed to, like, make like a unique spelling of something. Like, Tinder.
+Kristin: Ohh, okay.
+Jenny: Wait, does Tinder have an E? Or does it have no E? I'm so… detached.
+Kristin: I don't actually know—I think it does have an—
+Jenny: Grindr? One of those is missing an E.
+Kristin: Grindr doesn't have—I think Grindr's lacking a vowel, yes. [Jenny laughs] We're doing great.
+Jenny: I've never even seen Tinder. But… I just—
+Kristin: Tinder? I hardly know her!
+Jenny: Yes. Exactly. But I feel like Giles would be on something like… like… like "Fizzle" but it would be spelled, like, F-I-Z-Z-L, or something.
+Kristin: Fizzle? Fizzle i s what you've come up with?
+Jenny: Well… [laughs]
+Kristin: Fizzle. [laughs]
+Jenny: I was thinking of, like, magical…
+Kristin: [laughing] Fizzle.
+Jenny: Sort of like… [both laugh] alright, alright, alright.
+Kristin: You can email us at bufferingthevampireslayer@gmail.com—
+Jenny: Oh! I know! It would be like, O, exclamation point, Siris. [both laugh]
+Kristin: Now there's a  n idea. There you go, ding-ding-ding.
+Jenny: [laughing] Okay.
+Kristin: Points for Jenny.
+Jenny: Okay, okay, okay. Whew!
+Kristin: So… wow. O!Siris. Fuck you. Get outta here.
+Jenny: Alright, I guess we should talk about the episode some more.
+Kristin: A little bit. So—an important exchange here is that Buffy is like, "So coming home was inconvenient," essentially. She feels like she's inconvenienced Giles. And he's like, no, that's, like—
+Jenny: [tsks] Buffy, Buffy, Buffy. You fool. [laughs]
+Kristin: "We don't have that kind of relationship. It would never be inconvenient for me to return here, but it is bewildering. It's—it's really overwhelming." And that makes sense, of course, because it's bewildering for Buffy, more than anybody. And so she starts to kinda open up—
+Jenny: Yeah.
+Kristin: And tell him—she does this thing. If, you know, you're listening to this and you have depression or anxiety, I'm somebody who tangoes with anxiety all the time. And you kinda do this cycle, right, where you're like, "well, you know, it was really bad. But I mean, I guess it's fine. It's, you know, like—this happened and that happened but I'm okay." With any kind of mental health issue, it's very common to, like, not remember some of the worst moments, and to just be like, "you know what, I think it's actually fine." And so she's doing that here. You know, "sleeping is hard—" and then she works herself all the back around to, "sleeping's okay, I guess, except for the dreams." And then Giles sort of falls down the same fucking thing that Willow has fallen down. Like, this girl is telling you that she is waking up at night because she woke up in a coffin. She's struggling with sleep.
+Jenny: Mmhmm.
+Kristin: She's not feeling okay. So I appreciate Giles wanting her to feel taken care of, so like, I'll give him the "I'm proud of you" moment. But then the minute that she is out of that room, he should be trying to figure out how to get her support. Because she's—she's been clear. You can't even say she's hiding it. She's said, so clearly, she's not okay.
+Jenny: Also, like… I don't know. I mean, don't you think it's weird that Willow is like, "Hey, I'm gonna do this huge, flashy, dangerous, scary spell where I bring my friend back. But I'm not gonna, like… do anything, like, to foster healing or emotional support—I mean, like. You remember, like, they used to, like, hold hands and do healing spells, like, mental healing spells together?
+Kristin: Mmhmm
+Jenny: And like—there's no kind of, like, post-resurrection support, where you would be looking for, like, Willow to be getting into the healing arts. Instead of just, like—
+Kristin: Yeah.
+Jenny: I don't know.
+Kristin: Yeah.
+Jenny: I don't know!
+Kristin: [sighs] So. We learn that, as you said, this demon is a mercenary. It will basically just do whatever it's asked, if it's given enough money. Xander has a nice, "That is the American way." Ba-dum-bum… boo.
+Jenny: Mmm.
+Kristin: And we cut to… the lair. [Jenny exhales] Now, when I take notes, I locate them. Like, I say, like, "we're at the Magic Box for this scene, we're at this place." Right, but I—I'm writing very quickly. I'm like—I handwrite my notes. [laughs] I refused to write lair without adding quotation marks over it, every time I located. [Jenny laughs] I could not, in good conscious, call it a lair. I called it quote, "lair." We meet… well. We've known two of these dudes, haven't we? Warren. Jonathan. And Tucker's brother. [both laugh] Um… they are three little dweeboids in a basement who have hired this demon to get them a bunch of money so they can buy a bunch of toys, to take over Sunnydale with.
+Jenny: Yeah… you ever seen three dorks in beanbag chairs, covered in money?
+Kristin: Oh my god. They're like, "We're—we're supervillains. Muahahaha!" Like, it's so ridiculous.
+Jenny: Oh my god.
+Kristin: And that is important. The ridiculousness of the three of these fuckers is really important. We learn—[laughs] we learn that Andrew, who we love. This is Tom Lenk. We fucking—I mean, could not adore Tom Lenk any more than it's humanly possible to adore a human.
+Jenny: Bless.
+Kristin: And he is constantly having to remind everybody that he sent the flying monkeys to the school play, not the fucking devil dogs—which I love that we call them devil dogs now—[Jenny laughs] to the prom.
+Jenny: Yeah. [laughs] First of all, I'm not really sure why M'Fashnik believed these guys—
+Kristin: This is ridiculous.
+Jenny: When they were like, "we're men of power, blah-blah-blah." But whatever, you gotta suspend your disbelief.
+Kristin: Sure.
+Jenny: We get a great, like, "okay, well, which one of you is the leader?" They all say, "I'm the leader." [laughs]
+Kristin: [laughs] "I'm going to kill the leader."
+Jenny: Then he says, "I'll kill the leader." [both laugh] There's a lot of finger-pointing, blah-blah-blah. Andrew and Warren… kneel and start referring to Jonathan as Wise Jonathan. [Kristin laughs] Then M'Fashnik says he's gonna kill Jonathan, but then beat Andrew and Warren to death with Jonathan's bones. [Kristin laughs] So then everybody's working together again. They're like, "hey, wanna look really cool to all the other demons? Hey, want a robot M'Fashnik girlfriend for, like, after a long day of wreaking havoc for pay?" But the demon—M'Fashnik doesn't want any of that. He now wants the head of the Slayer. I feel like… I'm uncertain or, like, unconvinced of the M'Fashnik's… motivations here.
+Kristin: Yeah, I think M'Fashnik doesn't really understand why he's here. And he knows a plot—
+Jenny: He doesn't get a fair shake.
+Kristin: He knows he's a plot device demon, you know? He's like, "goddamnit!"
+Jenny: Yeah.
+Kristin: "I really wanted to be a demon of consequence and instead, I'm a plot-moving demon." [laughs]
+Jenny: Uh-huh. Dang it!
+Kristin: But yeah, I mean, M'Fashnik's storyline is—is weak. Because he literally just takes them at their word and then basically, the end of this entire thing is Warren being like, "here, you can have the Slayer's head. Here's her address." And he's like, "okay." [laughing] Like, what?!
+Jenny: Yeah. Very goofy.
+Kristin: But before we get there, let's take a minute for Giles and his whimsical sheets. Why the fuck is Giles—
+Jenny: Yes.
+Kristin: Sleeping on the couch? Giles should not be sleeping on the couch. Tara and Willow should be—
+Jenny: You put Dawn on the couch. You put the—
+Kristin: Or Dawn. Somebody else goes on the fucking couch. The old man doesn't go on the couch.
+Jenny: That old man needs a bed! As a fellow old man. [laughs]
+Kristin: Correct. Agree. [laughs]
+Jenny: Adults get a bed.
+Kristin: Same! If I come to your house and you are 20 years younger than me, you sleep on the fucking couch. I sleep in the bed. [Jenny laughs] It's the way the rules work. Anyway. Buffy brings up money. So this is, like, another thing. She's brought up her trauma and what she's struggling with. And now she's bringing up that she's really struggling with money. And Giles has a great moment here with her, where he says, you know, "tomorrow morning, we're gonna go over every bill together." And I wish that he had done this, you know, before, but fine. And—[laughs] and Buffy says, "I'm glad you're back." And Giles says, "I'm glad you're back too" and reaches for her. And she kind of, like, hasn't even registered that he's said that and she's already up off the couch. And it really holds on Giles's face for, like, enough time for us to recognize that he i s recognizing… that this is fucked up. And she is fucked up.
+Jenny: Yeah. Oh boy! Here we go! It's [half-laughing, half-singing] time… ! Willow is so pleased with herself and she's expecting that Giles will be very impressed. And—
+Kristin: Ugh, god.
+Jenny: One fun thing about this scene is—[laughs]
+Kristin: [laughs] One.
+Jenny: When she's talking about how the spell was so scary [both laughing] that the Blair Witch would've had to watch like this and then covers her face so she's just, like, peering through the cracks in her fingers. That's pretty great. And also, really great, like, food acting from Alyson Hannigan. She's, like, stoked and snacking.
+Kristin: Mmhmm.
+Jenny: And then as soon as Giles is like, "You're a very stupid girl," the way that she kind of, like, slows down as she, like, catches up [Kristin exhales] to that? Is really cool. Great job.
+Kristin: You have to wonder, you know—like, obviously, Willow is shocked. I mean, we're all shocked, right? We don't—we don't expect this from Giles. But Willow having gone as, like, dark as she has gone, you have to wonder if she anticipated that Giles might call her the fuck out, in a way that nobody else would. Like, if anybody was gonna do it, it was gonna be Giles. And she also elected not to tell Giles, specifically for this reason, you know? Like, spec—
+Jenny: Yeah.
+Kristin: So—
+Jenny: Yep.
+Kristin: She's kinda gotten away with it with Dawn. And Dawn was pissed, but Dawn, you know, really looks up to Willow. And I think, you know, it's just a different relationship. Spike is like, "go fuck yourself," but Spike is always like "go fuck yourself." And so Giles is like—
+Jenny: Mmhmm, mmhmm.
+Kristin: The last guy standing who was left out of this. And I just feel like she can't be that fucking surprised. But we'll play part of this, the part that nobody wants to hear again, 'cause we're evil, evil… supervillains, muahahaha! But before—[laughs]
+Jenny: Sorry!
+Kristin: We get there, I just wanna say that, you know, like you said, Jenny, Giles says, you know, "you're a very stupid girl. You were the one I trusted most to respect the forces of nature." And Willow says a line that I think is very important. If I were on Angel On Top, I would tell you to write it in your Shanshu prophecies, but I'm not. [Jenny laughs] But she says, "They're the bad guys. I'm not a bad guy." And this is a—I mean, this is a theme that we have danced with for six seasons, right? Like, where's the line? What makes somebody bad? What makes somebody not? I just think it's really important—an important moment that Willow has this—
+Jenny: Mmhmm. Mmhmm.
+Kristin: Phrase. And then she gets shitty and she's like, "I wasn't lucky. I was amazing." So let's hear a little bit of this.
+NOTES: [Clip from episode plays]
+Willow: And how would you know? You weren't even there.
+Giles: If I had been, I'd have bloody well stopped you. The magicks you channeled are more ferocious and primal than anything you can hope to understand, and you are lucky to be alive, you rank, arrogant amateur.
+Willow: You're right. The magicks I used are very powerful. I'm very powerful. And maybe it's not such a good idea for you to piss me off. [pause] Come on, Giles. I… I don't wanna fight. I—let's not, okay? I'll think about what you said and-and you… try to be happy Buffy's back.
+Jenny: Oh my god!
+Kristin: Hoo! That is a fucking tense kitchen. That's a kitchen… you gotta get outta that kitchen. That's—I don't like it. Let's leave. [laughs]
+Jenny: Um, yes. Let's go to the backyard! Where Buffy can hear pretty much all of this.
+Kristin: So this—
+Jenny: Oh, god, everyone!
+Kristin: This is interesting, though. I mean, maybe we're just supposed to believe that they've left a window open, I suppose? But like, it's funny because—
+Jenny: Mmm.
+Kristin: So—beautiful, beautiful Spike entrance. Perhaps one of the best Spike entrances we've seen. The butt of his cigarette, smoking, lands on the deck. And Buffy in her stylish brown boot—who's wearing boots like this around the fucking house?
+Jenny: Mmm.
+Kristin: Where's her slippers?
+Jenny: No, no, no.
+Kristin: She puts the cigarette out and says, "Hello Spike." And he smiles! In this way, where he just is so happy, 'cause she's out there, alone, and they get to have a little alone time together. Sorry, I have feelings!
+Jenny: Mmhmm, mmhmm.
+Kristin: But then he says, "You hear all that noise?"
+Jenny: Oh, yeah.
+Kristin: So like, it's like, Spike was outside, hearing it. Buffy was outside, hearing it. They just straight up had the window open?
+Jenny: Guess so. They have this little… this little meeting. You know? This little emotional bridge where they talk about how Buffy is, like, bending over backwards, trying to make everyone believe that she's okay so they won't worry and that—
+Kristin: Mm, so the pipes won't burst.
+Jenny: The act of that—mmm, yep. Yep. Spike helpfully offers to "thin the herd," which at this point, you know, might not be the worst thing. [both laugh]
+Kristin: Gets a smile. Gets a smile from Buffy, which like, truly, how many smiles have we seen in Season 6? You know, it's—and he—'cause Spike categorizes it—
+Jenny: Yeah.
+Kristin: As a grin, which I think is taking it a little far. I don't know that it was a grin, but she does find amusement in Spike's—
+Jenny: Yeah.
+Kristin: Offer to murder some of her friends and family.
+Jenny: Yay! Hurray.
+Kristin: And she says, "Why are you always around when I'm miserable?" And he—and they sort of have this exchange. Like, she's alone when she's sad, and he doesn't like crowds and she doesn't like crowds—
+Jenny: Yeah.
+Kristin: And so, they just sort of…
+Jenny: They're not so different after all. Mm.
+Kristin: They just sort of sit down on the stoop and, you know, we've seen them on this stoop a few times before. It's…
+Jenny: Yeah. It's always good.
+Kristin: [simultaneously] It's always good. And then, like, the last [both laugh] fun line of this scene—'cause you're like, aww, look at them. And then she goes, "you know, have you—do you know anything about finances?" [laughs]
+Jenny: Girl! You know he doesn't know anything about finances!
+Kristin: Well, right—
+Jenny: What are you talking about?
+Kristin: I mean, you know, if she was willing to perhaps take stolen money, he could probably help out.
+Jenny: Oh, that's true. That's true.
+Kristin: Meanwhile. Mmm-meanwhile. [laughs]
+Jenny: Dawn and Giles [laughs] are about to engage in some important scientific research. [both laugh]
+Kristin: Love to put cereals together in a big bowl. I disagree, Giles, it wouldn't upset your stomach. It's just fun.
+Jenny: [unsure] Mmm… mmm…
+Kristin: Mmmm… cereal.
+Jenny: This is not how I roll.
+Kristin: So—[laughs]
+Jenny: No thanks.
+Kristin: So they're standing at the doorway. It's a very cute little sleepy moment between them. And then the doorknob is like, rattle-rattle, rattle-rattle. And this is an incredible hit to Dawn, incredible. The door flies open. Dawn literally gets smacked directly in her face and flies backwards. It's a hit!
+Jenny: [wincing] Oooh!
+Kristin: And she also, from the floor, has a—we know I love a Dawn fucking scream. Dawn's got a great scream. And she—she carries us right through the commercial break with that scream. She's screaming when we go into it, she's screaming when we come out of it.
+Jenny: Ha!
+Kristin: Giles is knocked through the fucking stairway railing. The house is being damaged.
+Jenny: Yeah, I am watching this scene like popup video. [Kristin laughs] Just like, hmm, broken bannister at $350. Mmm, smashed coffee table, $225. Mmm, broken designer lamp, $195. [Kristin laughing] Oh no!
+Kristin: I love that, I love that.
+Jenny: It's really adding up!
+Kristin: I hope somebody makes it for us. So Buffy—I think the better move would have been, actually, to take M'Fashnik mm-outside. But she takes him to the mm-basement—
+Jenny: Yes! Why, to the basement?
+Kristin: You know, I was trying to work it out metaphorically. Like, there's gotta be a reason, like, writing-wise, like, that she's taking the demon to the flood. Which the flood is a representat—but then I got confused in my own metaphor pool, so.
+Jenny: Well, she ends up staring at the same pipe that she—
+Kristin: In the beginning.
+Jenny: Started the episode staring at.
+Kristin: So that's probably—there's definitely, like, a writing—
+Jenny: I think that's the idea.
+Kristin: Smart-person reason for it. But in terms of actually saving your home, you know.
+Jenny: Yeah.
+Kristin: The water's just sitting down there. What did Tito do? Why didn't he fucking—what—
+Jenny: Yeah.
+Kristin: Is going on?
+Jenny: Yeah.
+Kristin: And she uses the pipe to kill the demon. It's very, like—what is that movie called with the wire—No More Wirehangers?
+Jenny: Oh. Yeah, uh—
+Kristin: A horror—Mommy Dearest.
+Jenny: Mommy Dearest, of course.
+Kristin: It's very—it has that—like, her line delivery kind of made me think of that. She's saying, just, "Full! Copper! Re-pipe!" [both laugh] As she [inaudible] this demon with the fucking pipe. And Spike—another, like, slapstick moment. There were a few. Jane was feeling a little punchy.
+Jenny: Yeah, yeah.
+Kristin: Spike's like, "Did you know this place was flooded?" [both laugh] Which is fun, and also, I'm sure ties in in a smart person way. And all you smart people can tell us how. You might have noticed that we haven't played the Patriarchy jingle yet, whereas we could have played it many times. But you know, we're about to head into the scene where I think it lands the best, Jenny.
+Jenny: Ugh. Well. I love seeing a flamethrower.
+Kristin: Same.
+Jenny: Love a periscope.
+Kristin: Same.
+Jenny: Don't have much use for action figures myself, but I can appreciate, you know, the satisfaction one could derive from fully deploying them.
+Kristin: Appreciate Warren's poor mother, who is distracting herself from her miserable, asshole son by planting tulips. [Jenny laughs] I feel for you.
+Jenny: Andrew says they can stay up all night if they want!
+Kristin: They can stay up all night if they want. They're like, "this is so great because we got all the money and then the Slayer took care of our problem for us. Everything is awesome!" And then they're like, "We—what are we gonna do when the Slayer figures us out? We could hypnotize her." They put it on their stupid dry erase board, with their stupid fucking list. And then, they say something—
+Jenny: Oh my god.
+Kristin: Which just really sums it the fuck up, doesn't it? We're gonna play what these three little… [Jenny gags] dingleberries say to each other.
+NOTES: [Clip from episode plays]
+Andrew: Is this the life or what? I mean, here we got all the stuff we ever wanted. And we didn't even have to…
+Warren: Earn it?
+Andrew: Exactamundo. [Warren laughs]
+NOTES: [THE PATRIARCHY jingle plays] The patriarchy! [thunder clap, evil laughter]
+Kristin: Just three white dudes, down in a basement, talking about how they got shit they didn't earn. So let's see where that goes.
+Jenny: Yeah.
+Kristin: See where that fucking goes.
+Jenny: "Crime is our wormhole," [Kristin laughs] says one king of the nerds, who then has, like, an epic fail as he tries to light a cigar with a hundred-dollar bill.
+NOTES: [laughs]
+Kristin: You gotta give credit—I mean, you know, we're obviously dragging the characters. But you got—I mean, the three of these dudes, acting-wise. I mean, fucking Tom Lenk as Andrew and Danny Strong as Jonathan. Like, Danny Strong as Jonathan with this fucking cigar and the dollar bill and, like, his panicked face as he lights it. Their—acting-wise, great job, everybody. [Jenny laughs] It's quite wonderful. It's quite good.
+Jenny: I agree. [both laugh]
+Kristin: [clears throat] So—
+Jenny: Meanwhile, across town—
+Kristin: Anya has put on a shirt.
+Jenny: Anya's been doing a little—excuse me?
+Kristin: Did you see Anya's shirt when you watched this scene, Jenny?
+Jenny: No. What is it? What's the shirt, what is it?
+Kristin: It's a long sleeved, tight shirt, that has a cowboy? Or cowgirl? Cowperson? Lassoing something on a horse. It's quite something. I beg of you to go back and check it out.
+Jenny: Alright.
+Kristin: But yes, we are back. Anya's sitting at the table of financial woe with Buffy. Everybody's trying to fix the house.
+Jenny: [laughs] Uh-huh, uh-huh, uh-huh. Giles announces that he knows he must be home. In the United States, because he's been knocked out.
+Kristin: Yes, can somebody—
+Jenny: Knocked unconscious.
+Kristin: Do this work for us, because we were keeping a tally and then Giles stopped getting knocked out. And I forget where we left off. I would love to just know what number we're up to, and I know that somebody out there has that count.
+Jenny: Yeah. Yeah. Yeah.
+Kristin: [sighs] So Buffy—you know, they basically—they can't fix the table, they can't fix the lamp. Everybody but Dawn, Buffy and Giles—right?—goes out to sort of bring these things to the curb for trash. And—
+Jenny: Yeah.
+Kristin: Yeah, and Buffy says to Giles, "I don't think I can do this." And—[sighs] this is what's difficult about this mixing of genre, right, is that Giles says, "Your mother took this one crisis at a time and so can you." And that's true—
+Jenny: Mmhmm.
+Kristin: But Joyce was not also saving the world every season. So it—it's…
+Jenny: Nor was she newly resurrected.
+Kristin: Right. Nor did she have to work through the trauma of digging herself out of her own grave. So you know, I understand and we obviously talked about this a bit in the segment with Gaby. But like, it's not really—this is not really a fair burden to put on Buffy's shoulders. At the bare minimum, this should be a collective family lift. And by family, you know I'm talking about chosen family. This should be—
+Jenny: Yeah.
+Kristin: How is this group of people—Anya and Xander, Willow and Tara, Giles and Buffy—how are they going to manage this household and this effort with their new set of circumstances? This is not a time for Dad to be like, "You should really learn how to live your life now that you're fucking undead, Buffy." [laughs] Like.
+Jenny: Yeah.
+Kristin: Just…
+Jenny: Yep. Dawn's crossing her fingers that she'll be forced to drop out of school. [Kristin laughs] And work in a poorly ventilated sweatshop.
+Kristin: Oh, Dawn.
+Jenny: Which prompts Giles to wonder what exactly she has been reading.
+Kristin: Mmhmm. Well. This scene. It doesn't resolve itself, does it, Jenny? Because the phone rings. Ring, ring, ring, goes the phone. Buffy goes to get it. We don't hear anything.
+Jenny: Mmhmm.
+Kristin: And she comes back in. Hmm.
+Jenny: She says, "Who could be calling me? Everyone I know lives here." [Kristin laughs] But lo! There is one person she knows that's not home right now—
+Kristin: [simultaneously] That's not true, she also knows Cordelia. Okay, but it wasn't Cordelia. [laughs]
+Jenny: Oh, true. She comes back and she's like, "That was Angel. He knows I'm alive. I gotta go see him. Right now."
+Kristin: Ugh, what a confusing moment.
+Jenny: It is a confusing moment but it's also, like—I feel like the drama that seems to be layered onto this is unnecessary—
+Kristin: I agree.
+Jenny: Like, Buffy's like, "I gotta go right now." And Giles is like, "Can't we take care of these bills first?" And Buffy's like, "No. I really gotta go." Understandable. But then Buffy is like, "Thanks for taking care of this for me"—basically, Buffy can go see Angel, come back, and then look at the bills with Giles. I don't know why they have to make it seem like it's, like, mutually exclusive.
+Kristin: Right. It's just this setup—it's like, we're really being set up to understand that, like, Buffy is really shirking her fucking adult responsibilities. And it really—it doesn't work quite well, given the circumstances.
+Jenny: No.
+Kristin: You know, maybe watching this as a younger person, you buy into it a little bit more, in the early 2000s, I don't know. But like, now with the knowledge I carry, you carry, I think many of us carry, about so many of these situations and also, the impact of trauma, it doesn't make too much sense. They should be asking her if she needs a ride anywhere, to go see Angel, which—
+Jenny: Yeah. And she's like, "No, I'll have a ride when I get there." Yeah!
+Kristin: Wow…
+Jenny: Well!
+Kristin: Well, alright.
+Jenny: There's only one stone that as yet remains unturned, and turn it we must! It's time for the Sexual Tension Awards! [Kristin laughs]
+NOTES: [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Kristin: You got your list?
+Jenny: Oh, I got my list. Whoa, so many slots and so many noms, potentially! But only four of each can exist, within the limited spectrum, our fixed horizon of the Sexual Tension Awards. And here they are. In your first slot…  [Kristin laughs] the noms are—
+Kristin: She's just like a five-year-old.
+Jenny: Tito the plumber—
+Kristin: You're a literal five-year-old. Like, just so you, the listener, know: when she says either "slot" or "nom," she pauses, looks into the camera of her fucking computer, and raises her eyebrows to be like, ehh? Ehh? Is it bothering you yet?
+NOTES: [both laugh]
+Jenny: Okay, first of all, let me live! Second of all, in the first slot, our noms are [sings] T-t-t-Tito and the Xand!
+Kristin: Yeah, baby.
+Jenny: That's right. Oh my god. Lefty-loosey, righty-tighty, if you know what I mean.
+Kristin: Wish there was a copper pipe emoji, if you know what I mean.
+Jenny: Measure… twice, cut once. In the second slot, the noms are Buffy's skirt and its OTP, the letter opener.
+Kristin: Yeah, baby!
+Jenny: [clears throat] That letter opener knows how to slit a slot. [Kristin sighs] In… [both laugh] what?!
+Kristin: I slit a slot, a slot I slit upon a slotted slit—
+Jenny: [simultaneously] Talk about seam ripping.
+Kristin: I slot? [laughs]
+Jenny: Gotta go! In the third slot, with some very tender back porch potential brewing romance, it's Buffy and Spike!
+Kristin: [groans] Very sweet!
+Jenny: It's very nice. And then… if we can fit three noms into this one slot. [both laugh]
+Kristin: Oookay.
+Jenny: It's the—
+Kristin: You know, if they don't all fit, Jenny, I bet one of them could take off his shirt for us.
+Jenny: [laughing] Oh, yeah!
+Kristin: And then one could off the other's boots, to help fit. To help fit. For space.
+Jenny: [laughs] Yeah, yeah, yeah. Just—uh-huh, yep, yep. [both laugh] It's—it's the Sunnydale special, it's Number Three on the sandwich board. It's Willow in between Riley and Angel. You're welcome. So many slots, so many noms! Cast your vote. Directly into the slot of our ballot box, which you can find—[both laugh] on Twitter @BufferingCast. Make your voice heard in our beautiful democracy, thank you. [both laugh]
+NOTES: [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Kristin: Well, Jenny.
+Jenny: Hey!
+Kristin: How you doing?
+Jenny: Oh.
+Kristin: We did it!
+Jenny: Wazzah!
+Kristin: Four episodes in, sixteen to go, baby! [laughs]
+Jenny: Will we survive?
+Kristin: Will we—no one knows. That is the cliffhanger of 2020 slash 2021. Who the hell are you?
+Jenny: Hey! I'm Jenny Owen Youngs! And when I'm not making this podcast, I am making songs. Recently, I've put out a handful of new things on Bandcamp and also on the general digital streaming platforms. You can find all of those things by searching for my name on whatever platform you use to listen to music—
+Kristin: Jenny Owen Youngs… [slowly] 1080P… HD.
+Jenny: Wow! [both laughing] Yes! Hell yes! [makes chainsaw noise] You can learn about me at jennyowenyoungs.com. You can give me a shout on Twitter, @JennyOwenYoungs! You can also listen to me talk about a whole other petite blond protagonist over on my other podcast, Veronica Mars Investigations.
+Kristin: Wow. I am Kristin Russo. You can, like, find out what I do at kristinnoeline.com. You spell my name with no P's, with no H's and with nary a D. It is just Kristin Noeline, [Jenny laughs] K-R-I-S-T-I-N N-O-E-L-I-N-E. You can use that spelling to find me on Twitter and on Instagram. I do a fun little Patreon-only podcast with Joanna Robinson where we watch movies I have never seen before. And it is a delight. It is very, very fun. If you're part of our Patreon or if you're part of The Storm's Patreon, you not only get those episodes, but you also do the live watches with us. November is bringing us to the fantasy space. So we are watching Beastmaster, Legend starring Tom Cruise and Tim Curry, what? How did that one escape my clutches?
+Jenny: Mmhmm.
+Kristin: And Willow. And so, you know, it's a fun time. And you can find that podcast on our Patreon or on The Storm's Patreon. Or you can just support us both, you know, if you feel like it.
+Jenny: Buffering the Vampire Slayer is on Twitter, Instagram and Facebook, @BufferingCast. You can drop us an email at bufferingthevampireslayer@gmail.com or leave us a voicemail at area code 216-30-BUFFY.
+Kristin: You can support the work that we do here over on our Patreon account. That's the place you find that podcast I was just talking about. It's a great community. You can join our secret Facebook group, you can get songs in advance. You get advanced notice about really cool fucking merch items that we're adding really soon, just saying. It's really cool, I'm so excited to—
+Jenny: Mmhmm!
+Kristin: Be launching this merchandise item very soon. Okay. You can find out all about that, bufferingthevampireslayer.com, just click on Patreon. You can also find our shop there where we have all sorts of things. We'll be bringing back the holiday ornaments that say Smash the Demon Lizard Patriarchy. If they're not up now, they're gonna be up momentarily. We have a lot of fun stuff over there. Also, we are so, so, so thankful that our Patreon community has organized, for many years running now, a holiday gift exchange. It's super fricking sweet. Jenny and I enter it every year as well. Everybody goes into a big bin. We're shook around and then paired with somebody. And we then exchange a little gift via the mail. It's all run by our listener, Frankie. And our listener Lorena does a book exchange, where it's a similar thing, but you share books that you love with another Scooby. Those—
+Jenny: Ahhh!
+Kristin: I know, it's wonderful. We love it and we love all of you. So that's open to patrons. It's also open to our black and indigenous listeners. Those links have been sent out, as all of our digital perks on Patreon are available for free to our black and indigenous listenership. And I just wanna let everybody know that the deadline to sign up for those exchanges is November 29th. So that's just a few days from now, if you wanna join. You can find those links on our Patreon page. If you join our Patreon, you can also ask people in the group over there, they'll get you where you need to be. And if you have any issues, you can always email us, just like Jenny said, at bufferingthevampireslayer@gmail.com.
+Jenny: Till next time…
+Both: Awwwooooooooooo! [phone rings]
+Jenny: Who could be calling? Everyone we know is already in this podcast. [phone rings]
+Kristin: Hello?
+LaToya: Hey, it's LaToya. I know the risk… but I have to see you. [ "Flooded" plays off the album Songs from Season 6 by Buffering the Vampire Slayer]

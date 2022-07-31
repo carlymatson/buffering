@@ -1,0 +1,1221 @@
+Buffering​ ​the​ ​Vampire​ ​Slayer
+Episode​ ​1.03:​ ​Witch
+
+[Intro​ ​Music]
+Jenny:​ ​Hello​ ​and​ ​welcome​ ​to​ ​Buffering​ ​the​ ​Vampire​ ​Slayer​,​ ​a​ ​podcast​ ​where
+we’re​ ​watching​ ​and​ ​discussing​ ​every​ ​episode​ ​of​ ​Buffy​ ​the​ ​Vampire​ ​Slayer
+one​ ​by​ ​one.​ ​I’m​ ​Jenny​ ​Owen​ ​Youngs.
+Kristin:​ ​And​ ​I’m​ ​Kristin​ ​Russo,​ ​and​ ​this​ ​week​ ​we’ll​ ​be​ ​talking​ ​about​ ​Season
+1​ ​Episode​ ​3​ ​-​ ​Witch.
+Jenny:​ ​[sings​ ​the​ ​word]​ ​“Witch.”​ ​Stay​ ​tuned​ ​at​ ​the​ ​end​ ​of​ ​this​ ​podcast
+every​ ​week​ ​for​ ​an​ ​original​ ​song​ ​written​ ​by​ ​us​ ​recapping​ ​the​ ​Buffy​ ​episode
+we’re​ ​discussing.
+Now,​ ​before​ ​we​ ​get​ ​started​ ​talking​ ​about​ ​this​ ​week’s​ ​episode.​ ​I​ ​just​ ​want​ ​to
+read​ ​a​ ​very​ ​helpful​ ​email​ ​sent​ ​in​ ​by​ ​a​ ​listener,​ ​regarding​ ​something​ ​we
+talked​ ​about​ ​last​ ​week.​ ​Which​ ​was,​ ​why​ ​does​ ​Buffy​ ​have​ ​a​ ​canister​ ​of
+communion​ ​wafers​ ​in​ ​her​ ​vampire​ ​weapons​ ​trunk?
+Kristin:​​ ​Right.
+Jenny:​​ ​Okay,​ ​so​ ​David​ ​Bates​ ​writes​ ​to​ ​us:​ ​“Hey,​ ​I’m​ ​currently​ ​walking
+across​ ​Spain​ ​doing​ ​the​ ​Camino​ ​De​ ​Santiago​ ​and​ ​I​ ​just​ ​listened​ ​to​ ​the​ ​second
+episode​ ​of​ ​your​ ​podcast​ ​where​ ​you​ ​expressed​ ​surprise​ ​at​ ​Buffy’s​ ​possession
+of​ ​consecrated​ ​hosts.​ ​This​ ​actually​ ​has​ ​some​ ​tradition​ ​in​ ​vampire​ ​lore.​ ​You
+find​ ​them​ ​used​ ​in​ ​some​ ​movies,​ ​but​ ​more​ ​importantly,​ ​please​ ​see​ ​the
+attached​ ​screenshot​ ​from​ ​the​ ​text​ ​of​ ​Bram​ ​Stoker’s​ ​book,​ ​Dracula​,​ ​where
+you​ ​also​ ​find​ ​them​ ​mentioned.​ ​The​ ​overall​ ​idea​ ​makes​ ​sense​ ​in​ ​that
+vampires​ ​are​ ​repelled​ ​by​ ​things​ ​which​ ​are​ ​purifying,​ ​e.g.​ ​garlic​ ​and​ ​holy,​ ​e.g.
+crosses.​ ​The​ ​Eucharist​ ​is​ ​both.​ ​In​ ​fact​ ​there​ ​is​ ​quite​ ​a​ ​nice​ ​bit​ ​of​ ​irony​ ​that
+vampires,​ ​creatures​ ​which​ ​survive​ ​by​ ​feeding​ ​off​ ​the​ ​flesh​ ​and​ ​blood​ ​of​ ​their
+victims,​ ​are​ ​repelled​ ​by​ ​the​ ​flesh​ ​and​ ​blood​ ​of​ ​Christ.​ ​Hope​ ​this​ ​clears​ ​things
+up.​ ​Buen​ ​camino,​ ​David.​ ​ ​#TeamGiles.”
+Kristin:​ ​Wow!​ ​[laughing]​ ​Wow!
+Jenny:​ ​Pretty​ ​great,​ ​right?
+
+
+Kristin:​ ​That’s​ ​amazing!
+Jenny:​​ ​Yeah,​ ​that​ ​is​ ​so​ ​helpful!
+Kristin:​ ​That​ ​is​ ​like—​ ​ahhh.​ ​That​ ​is​ ​so​ ​cool​ ​on​ ​so​ ​many​ ​levels.​ ​It​ ​reminds
+me​ ​of​ ​when​ ​I—​ ​when​ ​I​ ​first​ ​went​ ​back​ ​to​ ​grad​ ​school,​ ​I​ ​didn’t​ ​know​ ​exactly
+what​ ​I​ ​was​ ​going​ ​to​ ​be​ ​studying​ ​and​ ​I​ ​thought,​ ​I​ ​know​ ​what​ ​I’ll​ ​do.​ ​I’ll​ ​put
+my​ ​focus​ ​on​ ​religious​ ​studies​ ​and​ ​gay​ ​studies.​ ​I​ ​wanted​ ​to​ ​kind​ ​of,​ ​like,
+combine​ ​religion​ ​and​ ​homosexuality​ ​into​ ​some​ ​kind​ ​of​ ​master’s​ ​degree.​ ​And
+I​ ​found​ ​out​ ​really​ ​quickly​ ​that​ ​getting​ ​a​ ​degree​ ​in​ ​religious​ ​studies​ ​is​ ​tricky
+when​ ​you​ ​have​ ​no​ ​background​ ​knowledge.
+Jenny:​​ ​Mmmm.
+Kristin:​​ ​And​ ​I​ ​feel​ ​like​ ​that’s​ ​a​ ​great​ ​underlining​ ​of​ ​that​ ​point.
+Jenny:​ ​Right.​ ​[laughs]
+Kristin:​ ​Because​ ​it​ ​reminds​ ​me​ ​that​ ​I​ ​took​ ​this​ ​course​ ​on​ ​sacrifice​ ​once.
+Jenny:​ ​Oooh!
+Kristin:​​ ​It​ ​was​ ​really—​ ​it​ ​was​ ​really​ ​good.​ ​But​ ​some​ ​of​ ​that​ ​stuff​ ​talking
+about,​ ​like,​ ​the​ ​purity​ ​and​ ​the​ ​flesh​ ​and​ ​blood​ ​and​ ​all​ ​of​ ​that,​ ​like,
+mythology,​ ​is​ ​really​ ​cool!​ ​I​ ​love​ ​that.
+Jenny:​​ ​Awesome.
+Kristin:​ ​And​ ​I​ ​love​ ​that​ ​we​ ​have​ ​listeners​ ​that​ ​are​ ​armed,​ ​you​ ​know,​ ​with
+this​ ​knowledge​ ​that​ ​can​ ​help​ ​us​ ​better​ ​suss​ ​through​ ​all​ ​of​ ​these​ ​things.
+Jenny:​ ​Yeah,​ ​that​ ​was​ ​so​ ​great.​ ​Thanks​ ​so​ ​much​ ​for​ ​writing​ ​in,​ ​David.
+Kristin:​ ​Yeah,​ ​happy​ ​walk!​ ​I​ ​think​ ​that​ ​of​ ​all​ ​the​ ​methods​ ​of​ ​vampire
+warding-off,​ ​that​ ​might​ ​be​ ​my​ ​new​ ​favorite​ ​because​ ​it​ ​carries​ ​so​ ​much
+meaning​ ​in​ ​it.​ ​There’s​ ​so​ ​much​ ​going​ ​on​ ​there.
+Jenny:​ ​Yeah.​ ​And​ ​they​ ​probably​ ​have​ ​a​ ​longer​ ​shelf​ ​life​ ​than​ ​garlic.
+
+
+Kristin:​ ​Yeah,​ ​that’s​ ​true.​ ​Well,​ ​we​ ​still​ ​need​ ​to​ ​know​ ​if​ ​vampires​ ​are
+repelled​ ​by​ ​rotting​ ​garlic.
+Jenny:​ ​Yeah,​ ​is​ ​garlic​ ​still​ ​purifying​ ​if​ ​it’s—
+Kristin:​ ​If​ ​it’s​ ​old.​ ​[laughs]​ ​Anyway.
+Jenny:​ ​Right.​ ​Well,​ ​these​ ​mysteries​ ​will​ ​no​ ​doubt​ ​be​ ​solved...​ ​at​ ​some​ ​point
+in​ ​the​ ​future.​ ​But​ ​for​ ​now,​ ​let’s​ ​talk​ ​about​ ​this​ ​week’s​ ​episode.
+Kristin:​ ​Woo!
+Jenny:​​ ​Yeah.
+Kristin:​​ ​Well,​ ​so.​ ​Let’s​ ​talk​ ​about​ ​the​ ​title.
+Jenny:​​ ​Witch.
+Kristin:​ ​Let’s​ ​talk​ ​about​ ​witches.
+Jenny:​​ ​Let’s.
+Kristin:​​ ​Just​ ​for,​ ​like,​ ​a​ ​second.​ ​Okay,​ ​or​ ​the​ ​whole​ ​episode.
+Jenny:​​ ​Probably​ ​both.
+Kristin:​ ​Right.​ ​I​ ​just—​ ​you​ ​know​ ​how​ ​I​ ​feel​ ​about​ ​witches.
+Jenny:​ ​I​ ​do.
+Kristin:​ ​But​ ​audience​ ​at​ ​home,​ ​maybe​ ​you​ ​don’t​ ​know.​ ​I​ ​love​ ​a​ ​witch.​ ​I​ ​love
+a​ ​witch!​ ​These​ ​are​ ​some,​ ​this​ ​is​ ​a​ ​bad​ ​witch.​ ​I’ll​ ​give​ ​it​ ​that,​ ​but​ ​I​ ​do​ ​really
+enjoy​ ​witchcraft.​ ​I,​ ​growing​ ​up,​ ​when​ ​I​ ​was​ ​in​ ​high​ ​school,​ ​wanted​ ​to​ ​be​ ​a
+witch.​ ​I​ ​tried​ ​so​ ​hard​ ​to​ ​do​ ​all​ ​the​ ​things​ ​that​ ​witches​ ​were​ ​supposed​ ​to​ ​do.
+Jenny:​ ​You​ ​also​ ​kind​ ​of​ ​wanted​ ​to​ ​be​ ​a​ ​vampire.
+Kristin:​ ​Yeah...​ ​yeah,​ ​but​ ​I​ ​didn’t​ ​really​ ​do​ ​anything​ ​to​ ​try​ ​to​ ​be​ ​a​ ​vampire.
+
+
+Jenny:​ ​Except​ ​the​ ​custom​ ​molded​ ​fangs.
+Kristin:​ ​Yeahhhh.​ ​Right.​ ​That​ ​was—​ ​[Jenny​ ​laughs]​ ​But​ ​I​ ​was​ ​more​ ​like—​ ​I
+was​ ​just​ ​really​ ​obsessed​ ​with​ ​anything​ ​in​ ​that​ ​world,​ ​anything​ ​in​ ​that​ ​culture
+of​ ​like​ ​vampires​ ​and​ ​witches.​ ​Actually,​ ​that’s​ ​not​ ​true​ ​though​ ​because​ ​like​ ​I
+wasn’t​ ​really​ ​that​ ​into​ ​werewolves.​ ​I​ ​wasn’t​ ​that​ ​into​ ​other​ ​demons.​ ​But
+witches​ ​and​ ​vampires—​ ​I​ ​mean,​ ​witches​ ​and​ ​vampires​ ​have​ ​kind​ ​of​ ​been​ ​like
+a​ ​mainstay​ ​of,​ ​I​ ​think,​ ​like,​ ​teenage​ ​pop​ ​culture​ ​forever.
+Jenny:​ ​Forever​ ​and​ ​ever.
+Kristin:​ ​Since​ ​the​ ​90s​ ​at​ ​least.
+Jenny:​ ​For​ ​sure.
+Kristin:​ ​So​ ​at​ ​the​ ​time,​ ​uh,​ ​what​ ​was​ ​the​ ​series​ ​of​ ​books​ ​that​ ​I​ ​was
+obsessed​ ​with?​ ​The​ ​Vampire...​ ​Diaries​.
+Jenny:​ ​Right.
+Kristin:​ ​Vampire​ ​Di​—​ ​I​ ​read​ ​those.​ ​And​ ​I​ ​was​ ​super​ ​into​ ​them​ ​and​ ​I​ ​used​ ​to
+read​ ​a​ ​ton​ ​of​ ​Anne​ ​Rice.​ ​Probably​ ​not​ ​comparable​ ​volumes​ ​of​ ​work.​ ​[Jenny
+laughs]​​ ​But​ ​I​ ​just​ ​like​ ​vampires.​ ​But​ ​then​ ​I​ ​got​ ​into​ ​this​ ​series​ ​by​ ​the​ ​same
+author​ ​called​ ​The​ ​Secret​ ​Circle​.
+Jenny:​ ​Ah,​ ​yes.
+Kristin:​ ​And​ ​that​ ​was​ ​about​ ​a​ ​coven​ ​of​ ​witches.​ ​And​ ​that​ ​was​ ​it​ ​for​ ​me.​ ​And
+so​ ​I​ ​like—​ ​me​ ​and​ ​my​ ​friends​ ​bought​ ​all​ ​these​ ​books​ ​and​ ​we​ ​got​ ​all​ ​these
+crystals.
+Jenny:​ ​Ooh,​ ​crystals!
+Kristin:​ ​Then​ ​The​ ​Craft​ ​came​ ​out.​ ​It​ ​was,​ ​like,​ ​a​ ​great​ ​time​ ​to​ ​be​ ​into
+witches.​ ​And​ ​then​ ​now,​ ​I​ ​kind​ ​of​ ​think​ ​that​ ​I​ ​am​ ​a​ ​witch.​ ​a​ ​little​ ​bit.
+Jenny:​ ​Right,​ ​right,​ ​right.
+
+
+Kristin:​ ​Not​ ​using​ ​any​ ​crystals​ ​or​ ​casting​ ​any​ ​spells​ ​but​ ​I​ ​do​ ​feel​ ​a​ ​bit​ ​of​ ​a
+connection​ ​to​ ​that,​ ​like,​ ​power.
+Jenny:​ ​You​ ​do​ ​seem​ ​to​ ​come​ ​across​ ​information​ ​you​ ​really​ ​seem​ ​to​ ​have​ ​no
+right​ ​to​ ​on​ ​a​ ​pretty​ ​regular​ ​basis,​ ​just​ ​like​ ​intuitively.
+Kristin:​ ​Yeah,​ ​it’s​ ​a​ ​little​ ​scary.​ ​Or​ ​not!​ ​I​ ​mean,​ ​I​ ​think​ ​that’s—​ ​it’s
+interesting​ ​‘cause​ ​when​ ​I​ ​was​ ​younger,​ ​I​ ​was​ ​super,​ ​like,​ ​into​ ​it.​ ​But​ ​then
+also​ ​very​ ​afraid​ ​of​ ​it.​ ​You​ ​know,​ ​whenever​ ​like,​ ​my​ ​friend,​ ​Leah,​ ​at​ ​the​ ​time.
+The​ ​two​ ​of​ ​us​ ​would,​ ​like​ ​you​ ​know,​ ​do​ ​spells,​ ​or​ ​try​ ​to​ ​do​ ​spells.
+Jenny:​ ​Wow.
+Kristin:​ ​And​ ​like​ ​call​ ​on​ ​the​ ​powers​ ​of​ ​earth,​ ​water,​ ​fire​ ​and​ ​air.
+Jenny:​ ​Can​ ​you​ ​remember​ ​a​ ​spell​ ​that​ ​you​ ​guys​ ​tried​ ​to​ ​do?
+Kristin:​ ​No,​ ​I​ ​remember​ ​calling​ ​on​ ​the​ ​four​ ​elements.
+Jenny:​ ​And​ ​then​ ​Captain​ ​Planet​ ​appeared?
+Kristin:​ ​But​ ​it​ ​was—​ ​[laughing]​ ​But​ ​it​ ​wasn’t​ ​the​ ​kind​ ​of​ ​thing—​ ​like,​ ​we
+never​ ​tried​ ​to​ ​cast​ ​a​ ​spell​ ​on​ ​somebody.
+Jenny:​ ​Uhmm.
+Kristin:​ ​I​ ​think​ ​we​ ​were​ ​trying​ ​to,​ ​like,​ ​talk​ ​to​ ​spirits​ ​or​ ​talk​ ​to—
+Jenny:​ ​Right.
+Kristin:​ ​I​ ​think​ ​we​ ​were​ ​trying​ ​to​ ​communicate.​ ​Or​ ​things​ ​like​ ​that.​ ​But​ ​I
+was​ ​very​ ​scared.​ ​So​ ​like,​ ​I​ ​would​ ​freak​ ​out​ ​halfway​ ​through​ ​the​ ​spell​ ​and​ ​be
+like,​ ​“I​ ​don’t​ ​want​ ​to​ ​do​ ​it​ ​anymore”.
+Jenny:​ ​Sure.​ ​Sensible.
+Kristin:​ ​You​ ​know.​ ​Yeah!​ ​And​ ​I​ ​still​ ​feel​ ​like​ ​that​ ​‘cause​ ​I​ ​believe​ ​in...​ ​I
+believe​ ​in​ ​it.​ ​Uhh...​ ​enough​ ​to​ ​be​ ​afraid​ ​of​ ​it.
+
+
+Jenny:​ ​Smart.
+Kristin:​ ​Anyway,​ ​not​ ​to​ ​fall​ ​too​ ​deeply​ ​down​ ​the​ ​witch​ ​hole​ ​but—
+Jenny:​ ​[laughing]
+Kristin:​ ​But​ ​yeah,​ ​I​ ​mean,​ ​I​ ​was​ ​excited​ ​going​ ​into​ ​this​ ​episode​ ​‘cause​ ​it’s
+called​ ​Witch​!
+Jenny:​ ​Um,​ ​alright.​ ​Well,​ ​that​ ​is​ ​a​ ​spectacular​ ​foundation,​ ​a​ ​personal
+foundation​ ​you​ ​just​ ​set​ ​up​ ​for​ ​us.​ ​I​ ​don’t​ ​really​ ​have​ ​any​ ​personal​ ​connection
+to​ ​witchery.
+Kristin:​ ​No,​ ​nothing?​ ​But​ ​you​ ​must​ ​have​ ​liked​ ​witches?
+Jenny:​​ ​Sure!​ ​Yeah,​ ​I​ ​mean—​ ​I​ ​mean​ ​I​ ​think​ ​with​ ​all​ ​this,​ ​you​ ​know,​ ​the...​ ​I
+was​ ​super​ ​into​ ​all​ ​the​ ​werewolfy,​ ​vampiry,​ ​witchy,​ ​any​ ​sort​ ​of​ ​magical
+mystical​ ​stuff,​ ​growing​ ​up​ ​and​ ​in​ ​high​ ​school.​ ​And...​ ​I​ ​mean,​ ​I​ ​just​ ​feel​ ​like
+it’s​ ​a​ ​great...​ ​easy—​ ​you​ ​know,​ ​sort​ ​of​ ​“other”​ ​metaphor.
+Kristin:​ ​Mm-hmm.
+Jenny:​ ​And​ ​also​ ​the​ ​sort​ ​of​ ​like,​ ​Harry​ ​Potter​ ​vibe​ ​of​ ​like,​ ​what​ ​windows​ ​of
+possibility​ ​open​ ​when​ ​one​ ​more​ ​dimension​ ​is​ ​added​ ​to​ ​the​ ​reality​ ​that​ ​we
+understand.​ ​You​ ​know?
+Kristin:​​ ​Hmm.​ ​Very​ ​deep.
+Jenny:​​ ​Is​ ​it?
+Kristin:​​ ​Well,​ ​yeah!​ ​[Jenny​ ​laughs]​ ​It’s​ ​another​ ​level.​ ​But​ ​you​ ​never​ ​wanted
+to​ ​be​ ​a​ ​witch?
+Jenny:​​ ​Uh,​ ​probably​ ​if​ ​you​ ​had​ ​asked​ ​me,​ ​I​ ​might​ ​have​ ​told​ ​you​ ​I​ ​wanted​ ​to
+be​ ​a​ ​wizard.
+Kristin:​ ​Ohh,​ ​excuse​ ​me!​ ​Do​ ​you​ ​find​ ​witch​ ​to​ ​be​ ​a​ ​gendered​ ​term?
+
+
+Jenny:​ ​Uhh,​ ​yeah.​ ​Gendered​ ​and​ ​also​ ​like​ ​somehow​ ​not​ ​as​ ​majestic​ ​as​ ​a
+wizard?​ ​Now,​ ​is​ ​that​ ​the​ ​patriarchy​ ​working​ ​within​ ​me?​ ​Oh​ ​dear.
+Kristin:​ ​I​ ​think​ ​that’s—​ ​and​ ​there​ ​it​ ​is,​ ​folks!​ ​We​ ​have​ ​said​ ​it​ ​one​ ​time​ ​in
+this​ ​episode!​ ​[laughter]​ ​We’re​ ​trying​ ​to​ ​say,​ ​right,​ ​“patriarchy”​ ​once​ ​per
+episode?
+Jenny:​ ​I​ ​think​ ​that’s​ ​the​ ​rule.
+Kristin:​ ​Yeah,​ ​that’s​ ​the​ ​rule.​ ​So​ ​successful​ ​episode​ ​already!​ ​[laughing]
+Within​ ​the​ ​first​ ​two​ ​minutes!​ ​But​ ​yeah,​ ​I​ ​mean—​ ​I​ ​think​ ​a​ ​witch​ ​and​ ​a
+wizard—​ ​I​ ​think​ ​a​ ​witch​ ​and​ ​a​ ​wizard​ ​is​ ​the​ ​same​ ​thing.
+Jenny:​ ​Well,​ ​when​ ​you​ ​think​ ​about​ ​common​ ​depictions,​ ​right.​ ​You​ ​think​ ​of​ ​a
+wizard,​ ​you​ ​see​ ​a​ ​dude​ ​in​ ​a​ ​robe​ ​with​ ​a​ ​long​ ​beard.​ ​He’s​ ​studious,​ ​maybe​ ​he
+has​ ​glasses.​ ​He’s​ ​very​ ​powerful​ ​and​ ​also​ ​very​ ​studied.
+Kristin:​​ ​Mmmm.
+Jenny:​ ​And​ ​witches​ ​we​ ​often​ ​see​ ​as​ ​hag-like,​ ​green​ ​of​ ​skin,​ ​uhh,​ ​long​ ​in​ ​the
+nose—
+Kristin:​ ​Uhh,​ ​I​ ​don’t​ ​know​ ​what​ ​kind​ ​of​ ​witches​ ​you’ve​ ​been​ ​hanging​ ​out
+with.
+Jenny:​ ​Mostly​ ​halloween​ ​witches?
+Kristin:​ ​[laughing]​ ​Yeah!
+Jenny:​ ​No,​ ​I​ ​mean​ ​like,​ ​Neve​ ​Campbell​ ​and​ ​company​ ​are​ ​super​ ​hot​ ​witches
+but​ ​I​ ​don’t​ ​think,​ ​when​ ​you​ ​say,​ ​“think​ ​of​ ​a​ ​witch”,​ ​most​ ​people​ ​would​ ​think
+of​ ​The​ ​Craft​.​ ​I​ ​think​ ​most​ ​people​ ​would​ ​think​ ​of​ ​a​ ​stereotypical​ ​Halloween
+witch.
+Kristin:​ ​Oh​ ​really?​ ​Maybe​ ​I’m—
+Jenny:​ ​Or​ ​the​ ​Hansel​ ​and​ ​Gretel​ ​witch.​ ​You​ ​know?
+
+
+Kristin:​ ​Maybe​ ​I’m​ ​so​ ​far​ ​off​ ​the​ ​path​ ​now​ ​and​ ​surrounded​ ​by​ ​so​ ​many
+witches​ ​that​ ​it​ ​would​ ​never​ ​occur—​ ​like​ ​I​ ​just​ ​feel​ ​like​ ​thinking​ ​of​ ​a​ ​green
+woman​ ​with​ ​a​ ​big​ ​nose​ ​and​ ​a​ ​wart​ ​is​ ​so​ ​passe.​ ​[laughs]
+Jenny:​ ​I​ ​guess​ ​I’m​ ​pretty​ ​passe!​ ​Also​ ​I​ ​really​ ​hope​ ​I’m​ ​not​ ​offending​ ​any​ ​of
+our​ ​witches​ ​out​ ​there.​ ​I​ ​just,​ ​you​ ​know,​ ​am​ ​examining—
+Kristin:​ ​You​ ​know,​ ​this​ ​is​ ​something​ ​that​ ​they​ ​have​ ​to​ ​grapple​ ​every​ ​day​ ​of
+their​ ​lives.
+Jenny:​ ​Unfair​ ​stereotypes​ ​of​ ​the​ ​witch​ ​community.
+Kristin:​ ​And​ ​what​ ​I​ ​thought​ ​you​ ​were​ ​gonna​ ​say​ ​was​ ​that​ ​the​ ​wizards​ ​were
+like​ ​studious—​ ​like​ ​portrayed​ ​as​ ​studious​ ​while​ ​the​ ​witches​ ​were​ ​often
+portrayed​ ​as​ ​like​ ​emotional​ ​and—
+Jenny:​ ​Oh!
+Kristin:​ ​Whatever.​ ​I​ ​was,​ ​like,​ ​ready​ ​to​ ​launch​ ​into—
+Jenny:​ ​I​ ​feel​ ​like​ ​they’re​ ​often​ ​portrayed​ ​as,​ ​like,​ ​monstrous.​ ​And​ ​I​ ​mean
+that’s,​ ​I​ ​feel​ ​like,​ ​comes​ ​maybe​ ​from​ ​the​ ​same​ ​place.​ ​Like​ ​stories​ ​created—
+Kristin:​ ​Yeah,​ ​no,​ ​you’re​ ​right,​ ​you’re​ ​right.​ ​Going​ ​back​ ​into,​ ​like,​ ​lore.
+Jenny:​ ​Right.
+Kristin:​ ​Yeah,​ ​you’re​ ​right.​ ​You’re​ ​right.
+Jenny:​ ​Anyway!​ ​[Kristin​ ​laughs]​ ​This​ ​has​ ​been​ ​a​ ​long​ ​and​ ​winding​ ​road​ ​and
+I​ ​hope​ ​we​ ​haven’t​ ​offended...​ ​anybody.​ ​If​ ​you​ ​happen​ ​to​ ​identify​ ​as​ ​a
+magical​ ​person,​ ​apologies​ ​for​ ​any—
+Kristin:​ ​Yeah!
+Jenny:​ ​Unintentional​ ​wounds​ ​we​ ​may​ ​have—
+Kristin:​ ​Gotta​ ​talk​ ​about​ ​the​ ​history!
+
+
+Jenny:​ ​Given​ ​you.
+Kristin:​ ​You​ ​know.​ ​I​ ​mean,​ ​it’s​ ​important.​ ​Anyway...
+Jenny:​​ ​So​ ​about​ ​this​ ​episode!
+Kristin:​ ​So​ ​about​ ​this​ ​episode!​ ​How​ ​about​ ​the​ ​first​ ​moment​ ​of​ ​this​ ​episode?
+Jenny:​ ​It’s​ ​so​ ​great!
+Kristin:​ ​It​ ​really​ ​is!
+Jenny:​ ​Giles​ ​is...​ ​beside​ ​himself.
+Kristin:​ ​[laughing]​ ​He’s​ ​so​ ​upset.​ ​And​ ​he—​ ​you​ ​know,​ ​it’s​ ​just—​ ​it’s​ ​a​ ​really
+nice​ ​edit,​ ​the​ ​way​ ​that​ ​they​ ​do​ ​this,​ ​where​ ​we’re​ ​like,​ ​“What​ ​has​ ​Buffy
+done?”​ ​I​ ​mean,Giles​ ​is—
+Jenny:​ ​What​ ​could​ ​she​ ​have​ ​possibly​ ​done?
+Kristin:​ ​Giles​ ​is​ ​so—​ ​we’ve​ ​never​ ​seen​ ​this​ ​British​ ​man​ ​so​ ​worked​ ​up!
+Jenny:​ ​Yeah,​ ​it’s​ ​like,​ ​he’s​ ​not​ ​angry,​ ​he’s​ ​disappointed.​ ​But​ ​also,​ ​he’s
+angry!
+Kristin:​ ​Right,​ ​right,​ ​yeah.​ ​And​ ​then,​ ​there​ ​she​ ​is.
+Jenny:​ ​In​ ​her​ ​little​ ​cheerleading​ ​outfit.
+Kristin:​ ​In​ ​her​ ​cheer—​ ​she’s​ ​just​ ​a​ ​cheerleader​ ​guys!​ ​She​ ​just​ ​wants​ ​to​ ​be​ ​a
+cheerleader!
+Jenny:​ ​She​ ​just​ ​wants​ ​to​ ​be​ ​a​ ​nice,​ ​normal​ ​girl​ ​engaging​ ​in​ ​nice,​ ​normal​ ​girl
+activities.
+Kristin:​ ​She​ ​does!​ ​But​ ​Giles​ ​is​ ​not​ ​having​ ​it.​ ​Giles​ ​has​ ​so​ ​many​ ​hatred—​ ​like
+hateful​ ​moments​ ​toward​ ​cheerleaders​ ​in​ ​this​ ​episode!
+Jenny:​ ​Hateful​ ​and​ ​also,​ ​like,​ ​he​ ​just​ ​doesn’t​ ​understand​ ​it.
+
+
+Kristin:​ ​Yeah,​ ​he​ ​doesn’t​ ​get​ ​it.
+Jenny:​ ​He​ ​can’t​ ​get​ ​his​ ​head​ ​around​ ​it.
+Kristin:​ ​But​ ​I​ ​think​ ​there’s​ ​a​ ​serious​ ​bit​ ​to​ ​this​ ​scene​ ​too,​ ​which​ ​isn’t​ ​made
+serious​ ​here,​ ​but​ ​Buffy​ ​says​ ​like,​ ​you​ ​know,​ ​I’m​ ​doing​ ​this​ ​because​ ​I​ ​want​ ​to
+do​ ​something​ ​normal,​ ​something​ ​that’s​ ​safe.​ ​Which—​ ​first​ ​of​ ​all,​ ​then​ ​it​ ​cuts
+right​ ​to​ ​like​ ​[spooky​ ​noises]​ ​a​ ​witch’s—
+Jenny:​ ​A​ ​spooky​ ​cauldron​ ​full​ ​of​ ​green​ ​stuff!
+Kristin:​ ​Right,​ ​so​ ​it’s—
+Jenny:​ ​And​ ​so​ ​many​ ​haunted​ ​herbs!
+Kristin:​ ​[laughing]​ ​So​ ​like,​ ​poor​ ​Buffy!​ ​She’s​ ​like,​ ​let​ ​me​ ​just—
+Jenny:​ ​Yeah,​ ​nowhere​ ​is​ ​safe​ ​for​ ​a​ ​slayer.
+Kristin:​ ​No!​ ​She​ ​just​ ​wants​ ​a​ ​little​ ​break!​ ​She​ ​wants​ ​an​ ​escape.
+Jenny:​ ​She​ ​can’t​ ​have​ ​it!
+Kristin:​ ​She​ ​can’t!​​ ​This​ ​is​ ​the​ ​hellmouth,​ ​people.​ ​Where​ ​even​ ​cheerleaders
+go​ ​down​ ​in​ ​literal​ ​flames.
+Jenny:​​ ​There​ ​are​ ​no​ ​days​ ​off​ ​on​ ​the​ ​hellmouth.​ ​So​ ​we​ ​go​ ​from,​ ​uhh,
+somebody​ ​casting​ ​some​ ​spells​ ​in​ ​an​ ​attic​ ​to​ ​the​ ​credits.​ ​And​ ​then​ ​we​ ​come
+back​ ​from​ ​the​ ​credits​ ​and​ ​Buffy,​ ​Xander​ ​and​ ​Willow​ ​are​ ​in​ ​the​ ​gym​ ​at
+try-outs.
+Kristin:​ ​Yes!​ ​A​ ​fantastic​ ​scene.
+Jenny:​ ​The​ ​first​ ​shot,​ ​I​ ​believe,​ ​is​ ​shot​ ​through​ ​the​ ​legs​ ​of​ ​a​ ​woman​ ​who​ ​is
+doing​ ​a​ ​lunge.
+Kristin:​ ​[laughing]​ ​Yeah.
+
+
+Jenny:​ ​So​ ​enjoy​ ​that.​ ​And​ ​then​ ​we​ ​see​ ​another​ ​woman​ ​doing​ ​a​ ​split​ ​on
+chairs​ ​which​ ​seems​ ​like​ ​an​ ​impractical​ ​thing.
+Kristin:​ ​Yeah...
+Jenny:​ ​I​ ​think​ ​that’s​ ​just​ ​really​ ​for​ ​the​ ​script?
+Kristin:​ ​She’s​ ​a​ ​show​ ​off.​ ​She’s​ ​a​ ​show​ ​off,​ ​that​ ​girl.
+Jenny:​ ​Like,​ ​why​ ​wouldn’t​ ​you​ ​just​ ​do​ ​a​ ​split​ ​on​ ​the​ ​floor?​ ​I​ ​guess​ ​you​ ​get​ ​a
+little​ ​bit​ ​more​ ​of​ ​a​ ​stretch​ ​but—​ ​ugh.
+Kristin:​ ​Yeah,​ ​you​ ​can​ ​get​ ​more​ ​of​ ​a​ ​stretch​ ​hanging​ ​from​ ​two​ ​chairs,​ ​but​ ​I
+think​ ​she​ ​needs​ ​to​ ​calm​ ​down​ ​a​ ​little​ ​bit.
+Jenny:​ ​She​ ​might​ ​need​ ​to​ ​calm​ ​down.​ ​You​ ​know​ ​who​ ​doesn’t​ ​need​ ​to​ ​calm
+down​ ​is​ ​Cordelia​ ​and​ ​her​ ​star​ ​spangled​ ​sports​ ​bra!
+Kristin:​ ​Yeah!​ ​I​ ​agree.​ ​Also,​ ​I​ ​think​ ​Cordelia​ ​is​ ​the​ ​only​ ​person​ ​in​ ​the​ ​entire
+gym​ ​that’s​ ​not​ ​wearing,​ ​like—​ ​that’s​ ​trying​ ​out​ ​who’s​ ​not​ ​wearing​ ​the​ ​yellow
+shirt.
+Jenny:​ ​Yeah!​ ​[laughs]
+Kristin:​ ​She’s​ ​like,​ ​fully​ ​wearing​ ​a​ ​sparkly​ ​sports​ ​bra,​ ​which​ ​looks​ ​fantastic!
+Go,​ ​Cordelia,​ ​go!
+Jenny:​ ​Yes!​ ​I​ ​hope​ ​she​ ​wears​ ​many​ ​more​ ​sports​ ​bras.
+Kristin:​ ​She​ ​wears​ ​another​ ​one​ ​before​ ​this​ ​episode​ ​is​ ​even​ ​over!
+Jenny:​ ​Wow!
+Kristin:​ ​There’s​ ​a​ ​black​ ​one​ ​with​ ​silver​ ​piping.
+Jenny​:​ ​Oh​ ​dear.
+Kristin:​​ ​Don’t​ ​worry,​ ​I​ ​took​ ​Cordelia​ ​sports​ ​bra​ ​notes.​ ​[both​ ​laugh]​ ​So—
+
+
+Jenny:​​ ​So—​ ​oh,​ ​sorry,​ ​go​ ​ahead.
+Kristin:​​ ​No,​ ​no,​ ​I​ ​just—​ ​I​ ​think​ ​you​ ​might​ ​have​ ​been​ ​going​ ​here​ ​too.​ ​Can​ ​we
+talk​ ​about​ ​Amber​ ​for​ ​a​ ​second?
+Jenny:​​ ​First​ ​of​ ​all,​ ​let’s​ ​just​ ​take​ ​note​ ​that​ ​when​ ​they’re​ ​talking​ ​about
+Amber,​ ​and​ ​Cordelia’s​ ​like,​ ​“Ugh,​ ​what​ ​does​ ​she​ ​think​ ​she​ ​is,​ ​a​ ​Laker​ ​girl?”
+And​ ​of​ ​course,​ ​this​ ​is​ ​delightful​ ​because​ ​Charisma​ ​Carpenter,​ ​who​ ​plays
+Cordelia,​ ​was​ ​a​ ​cheerleader​ ​for​ ​the​ ​San​ ​Diego​ ​Chargers​ ​for​ ​a​ ​time.​ ​So​ ​that​ ​is
+very​ ​special.
+Kristin:​​ ​A​ ​little​ ​tongue-in-cheek.
+Jenny:​​ ​Yes.
+Kristin:​​ ​From​ ​Miss​ ​Charisma​ ​Carpenter.
+Jenny:​​ ​And​ ​then​ ​the​ ​next​ ​thing​ ​we​ ​need​ ​to​ ​talk​ ​about​ ​with​ ​Amber​ ​is,​ ​like,
+what​ ​is​ ​that​ ​audition​ ​routine?​ ​They​ ​build​ ​her​ ​up,​ ​she​ ​trains​ ​with​ ​this​ ​trainer,
+and​ ​she’s​ ​amazing,​ ​and​ ​she​ ​maybe​ ​turned​ ​the​ ​Lakers​ ​down.​ ​[Kristin​ ​laughs]
+And​ ​then​ ​she​ ​does—​ ​she​ ​opens​ ​with​ ​that,​ ​like,​ ​spin.
+Kristin:​​ ​It’s​ ​a​ ​very​ ​weird​ ​thing​ ​that​ ​she​ ​does.
+Jenny:​​ ​It’s​ ​neither​ ​particularly​ ​cheerleady,​ ​nor​ ​particularly​ ​impressive.
+Kristin:​​ ​No,​ ​it​ ​kind​ ​of​ ​reminds​ ​me​ ​of​ ​a​ ​non-impressive​ ​version​ ​of​ ​the—​ ​you
+know​ ​when​ ​you’re​ ​watching​ ​the​ ​gymnasts​ ​at​ ​the​ ​Olympics​ ​and​ ​they​ ​do​ ​that,
+like,​ ​dance?​ ​There’s​ ​that​ ​dance​ ​thing​ ​that​ ​they​ ​do,​ ​sometimes​ ​they​ ​do​ ​it​ ​with
+a​ ​ribbon​ ​and​ ​sometimes​ ​they​ ​do​ ​it​ ​without?
+Jenny:​​ ​Oh,​ ​yes.
+Kristin:​​ ​It​ ​was​ ​like,​ ​something​ ​like​ ​that,​ ​but​ ​not—
+Jenny:​​ ​Not​ ​Olympic​ ​quality.
+
+
+Kristin:​​ ​[laughing]​ ​Not​ ​Olympic​ ​quality.​ ​But​ ​it​ ​was​ ​just​ ​bizarre.​ ​I​ ​guess​ ​they
+needed​ ​her,​ ​like,​ ​just​ ​from​ ​a​ ​directorial​ ​standpoint.​ ​They​ ​had​ ​to​ ​build​ ​up​ ​to
+the​ ​moment...​ ​in​ ​which​ ​her​ ​hands​ ​set​ ​on​ ​fire?!
+Jenny:​​ ​[sarcastically]​ ​Yay!
+Kristin:​​ ​So​ ​they​ ​must​ ​have​ ​been​ ​like,​ ​“I​ ​don’t​ ​know,​ ​just​ ​do​ ​something.”
+And​ ​that’s​ ​what​ ​she​ ​came​ ​up​ ​with,​ ​or​ ​whatever.​ ​Sorry.
+Jenny:​​ ​You​ ​don’t​ ​think​ ​that​ ​was​ ​choreographed?
+Kristin:​​ ​No,​ ​it​ ​was​ ​definitely—​ ​it​ ​was​ ​very,​ ​very​ ​choreographed,​ ​as​ ​a​ ​matter
+of​ ​fact.​ ​[Jenny​ ​laughs]​ ​No​ ​offense​ ​to​ ​you,​ ​choreographer.​ ​It​ ​was​ ​1997,​ ​you
+know?
+Jenny:​​ ​We​ ​were​ ​all​ ​different​ ​then.
+Kristin:​​ ​It​ ​was​ ​a​ ​different​ ​time.​ ​But​ ​yeah.​ ​And​ ​who​ ​plays​ ​Amber?​ ​Who​ ​is
+that​ ​person​ ​and​ ​where​ ​is​ ​she​ ​now?​ ​That’s​ ​what​ ​I​ ​would​ ​like​ ​to​ ​know.
+Jenny:​​ ​We​ ​should​ ​look​ ​her​ ​up.
+Kristin:​​ ​We​ ​should​ ​look​ ​her​ ​up.
+Jenny:​ ​Witchery!
+Kristin:​​ ​What,​ ​what?​ ​What​ ​did​ ​you​ ​find?
+Jenny:​​ ​BuffyWikia​ ​says​ ​that​ ​Amber​ ​Grove​ ​was​ ​portrayed​ ​by​ ​an​ ​unknown
+actress.
+Kristin:​ ​Wait,​ ​like,​ ​so​ ​there’s​ ​no​ ​record​ ​of​ ​who​ ​this​ ​person​ ​is​?
+Jenny:​​ ​On​ ​the​ ​website​ ​that​ ​I​ ​have​ ​chosen​ ​to​ ​look​ ​at​ ​[laughter]​ ​there​ ​is​ ​no
+record.
+Kristin:​ ​Fascinating.
+Jenny:​​ ​And​ ​you​ ​would​ ​think​ ​that​ ​the​ ​BuffyWikia​ ​would​ ​be​ ​pretty​ ​thorough.
+
+
+Kristin:​​ ​Yeah.
+Jenny:​​ ​Also,​ ​this​ ​is​ ​great:​ ​Amber​ ​is​ ​said​ ​to​ ​train​ ​with​ ​a​ ​coach​ ​named
+Benson.
+Kristin:​​ ​Uh-huh...​ ​[gasps]
+Jenny:​ ​Amber​ ​Benson—
+Kristin:​​ ​Whaaat?!
+Jenny:​​ ​Is​ ​the​ ​actor​ ​who​ ​plays​ ​Tara,​ ​starting​ ​in​ ​Season​ ​4.
+Kristin:​​ ​I​ ​just​ ​got—​ ​I​ ​got​ ​very​ ​weird​ ​feelings​ ​all​ ​through​ ​my​ ​body.
+Jenny:​​ ​Yeah,​ ​this​ ​is​ ​v—​ ​how​ ​witchy​ ​is​ ​this?
+Kristin:​​ ​Whaaat?
+Jenny:​​ ​So​ ​witchy.
+Kristin:​​ ​What?!
+Jenny:​ ​Yeah!
+Kristin:​​ ​I​ ​feel​ ​crazy​ ​right​ ​now!
+Jenny:​​ ​Mm-hmm.​ ​It’s​ ​pretty​ ​wild.
+Kristin:​​ ​I’m​ ​really​ ​glad​ ​we​ ​looked​ ​that​ ​up​ ​for​ ​so​ ​many​ ​reasons.​ ​We​ ​should
+do​ ​post​ ​episode—​ ​maybe​ ​we​ ​should​ ​do​ ​a​ ​little​ ​bit​ ​more​ ​hunting​ ​for​ ​who​ ​this
+person​ ​is,​ ​‘cause​ ​now​ ​I’m​ ​spooked.
+Jenny:​​ ​Yeah,​ ​maybe—
+Kristin:​ ​An​ ​unknown​ ​actress.
+Jenny:​​ ​She​ ​was​ ​just​ ​a​ ​projection​ ​of​ ​our​ ​fears​ ​and​ ​weaknesses.
+
+
+Kristin:​​ ​Maybe​ ​she​ ​was​ ​so​ ​embarrassed​ ​by​ ​her​ ​routine​ ​that​ ​she​ ​had​ ​her
+name​ ​scratched—
+Jenny:​ ​[laughing]​ ​Oh​ ​no.
+Kristin:​​ ​From​ ​the​ ​record.​ ​[laughs]​ ​Anyway.​ ​Something​ ​that​ ​I​ ​wanted​ ​to​ ​talk
+about—​ ​well,​ ​you​ ​know,​ ​before​ ​we​ ​get​ ​too​ ​deep​ ​into​ ​the​ ​episode,​ ​I​ ​just
+wanna​ ​say​ ​that​ ​this​ ​is​ ​our​ ​first​ ​episode​ ​after​ ​the​ ​pilot.​ ​And​ ​something​ ​that
+I’m—
+Jenny:​ ​Right.
+Kristin:​​ ​Right?​ ​And​ ​this​ ​is—​ ​like,​ ​this​ ​episode​ ​has,​ ​how​ ​many​ ​vampires,
+Jenny?
+Jenny:​​ ​Zero​ ​vampires!
+Kristin:​​ ​Zero!​ ​It’s​ ​called​ ​Buffy​ ​the​ ​Vampire​ ​Slayer​.​ ​And—
+Jenny:​​ ​Zero​ ​vampires,​ ​Episode​ ​3.​ ​Slash​ ​Episode​ ​2​ ​if​ ​you​ ​consider​ ​the​ ​first
+two​ ​episodes,​ ​which​ ​are​ ​a​ ​two-parter​ ​pilot,​ ​to​ ​be​ ​one​ ​thing.
+Kristin:​​ ​Which​ ​is​ ​pretty​ ​rad,​ ​‘cause​ ​it’s​ ​sort​ ​of,​ ​you​ ​know,​ ​it’s​ ​saying​ ​like;
+“hey,​ ​P.S.,​ ​new​ ​viewers,​ ​this​ ​shit​ ​ain’t​ ​gonna​ ​just​ ​be​ ​about​ ​vampires”.
+Jenny:​​ ​Yeah,​ ​we’re​ ​not​ ​just​ ​one​ ​thing.
+Kristin:​​ ​Yeah.​ ​We​ ​have—
+Jenny:​​ ​That’s​ ​pretty​ ​rad.
+Kristin:​​ ​Mm-hmm.
+Jenny:​ ​Also​ ​no​ ​Bronze.
+Kristin:​​ ​Yeah!​ ​We​ ​were​ ​missing​ ​a​ ​lot​ ​of​ ​the—
+Jenny:​ ​No​ ​Angel.
+
+
+Kristin:​​ ​Right?
+Jenny:​​ ​Yeah,​ ​some​ ​serious​ ​touchstones​ ​not​ ​present.
+Kristin:​​ ​Not​ ​present,​ ​but​ ​we​ ​have​ ​to​ ​learn​ ​all​ ​sides​ ​to​ ​the​ ​hellmouth.
+Jenny:​​ ​Right.
+Kristin:​​ ​So,​ ​go​ ​ahead,​ ​you—​ ​Jenny’s​ ​eyes​ ​got​ ​very​ ​big.
+Jenny:​​ ​Well,​ ​on​ ​that​ ​tip,​ ​oh​ ​my​ ​goodness!​ ​Has​ ​anyone​ ​ever​ ​been​ ​more
+excited​ ​than​ ​Giles​ ​is​ ​about​ ​spontaneous​ ​human​ ​combustion​ ​occurring?
+[Kristin​ ​laughs]​ ​He​ ​is​ ​so​ ​pumped.​ ​“That’s​ ​the​ ​thrill​ ​of​ ​living​ ​on​ ​the
+hellmouth,”​ ​he​ ​says.​ ​“It’s​ ​a​ ​veritable​ ​cornucopia​ ​of​ ​ghouls​ ​and​ ​goblins​ ​and
+so​ ​on.”​ ​And​ ​he’s​ ​like,​ ​lost​ ​in​ ​a​ ​dream​ ​state.​ ​And​ ​everyone’s​ ​like,​ ​“Umm...”
+and​ ​then​ ​he’s​ ​like,​ ​“Well,​ ​pardon​ ​me​ ​for​ ​seeing​ ​the​ ​glass​ ​half​ ​full.”​ ​[Kristin
+laughs]​ ​So​ ​great.​ ​So,​ ​so​ ​great.
+Kristin:​​ ​Yeah,​ ​Giles​ ​really​ ​gets​ ​into​ ​it​ ​this​ ​episode.​ ​It’s​ ​like​ ​Giles​ ​just
+realized​ ​that​ ​the​ ​series​ ​gets​ ​to​ ​continue​ ​[Jenny​ ​laughs]​ ​and​ ​he’s​ ​like,​ ​yes!
+[laughter]​ ​I​ ​get​ ​to​ ​do​ ​so​ ​many​ ​things!​ ​So​ ​yeah,​ ​he’s​ ​all​ ​sorts​ ​of​ ​excited​ ​and,
+um,​ ​not​ ​to​ ​mention,​ ​our​ ​team​ ​here​ ​gets​ ​a​ ​name.
+Jenny:​​ ​They​ ​name​ ​themselves.
+Kristin:​​ ​They​ ​name​ ​themselves​ ​The​ ​Slayerettes.
+Jenny:​​ ​Awww!​ ​It’s​ ​so​ ​nice!
+Kristin:​​ ​It​ ​is​ ​so​ ​nice!​ ​And​ ​they​ ​really​ ​do​ ​some​ ​stuff​ ​in​ ​this​ ​episode.
+Jenny:​​ ​They​ ​really​ ​participate.
+Kristin:​​ ​They​ ​show—​ ​I​ ​mean,​ ​I’m​ ​gonna​ ​get​ ​to​ ​some​ ​Willow—​ ​there’s​ ​a
+moment​ ​at​ ​the​ ​end​ ​that​ ​Willow​ ​really​ ​gets​ ​me.​ ​But​ ​I​ ​think​ ​that​ ​they’re​ ​really
+starting​ ​to​ ​come​ ​into​ ​their​ ​own.​ ​I​ ​mean,​ ​we’re​ ​only​ ​on,​ ​you​ ​know,​ ​Episode​ ​3
+but​ ​2​ ​in​ ​the​ ​timespan​ ​of​ ​things.​ ​And​ ​they’re​ ​already​ ​kinda​ ​getting​ ​some​ ​feet
+underneath​ ​them.
+
+
+Jenny:​​ ​Yeah,​ ​yeah.
+Kristin:​​ ​In​ ​order​ ​to​ ​pick​ ​up​ ​the​ ​slack,​ ​and​ ​in​ ​this​ ​episode,​ ​they​ ​really​ ​have
+to,​ ​because​ ​Buffy​ ​is​ ​taken​ ​out.
+Jenny:​ ​Hell​ ​yes.
+Kristin:​​ ​But​ ​before​ ​we​ ​get​ ​to​ ​Buffy​ ​getting​ ​taken​ ​out,​ ​can​ ​we​ ​talk​ ​about...
+can​ ​we​ ​talk​ ​about​ ​the​ ​fact​ ​that​ ​I​ ​recognize​ ​Cordelia​ ​as​ ​her​ ​doll​ ​self​ ​before
+her​ ​name​ ​was​ ​even​ ​spoken.​ ​Because​ ​I​ ​love​ ​you,​ ​Cordelia,​ ​so​ ​much.​ ​And​ ​I
+always​ ​am​ ​looking​ ​out​ ​for​ ​you.​ ​And​ ​before​ ​that​ ​witch​ ​was​ ​like,​ ​“Blah​ ​blah,
+Cordelia,”​ ​plunk,​ ​into​ ​the​ ​slime—
+Jenny:​​ ​You​ ​called​ ​it!
+Kristin:​​ ​I​ ​did​ ​call​ ​it.​ ​I​ ​was​ ​like,​ ​that’s​ ​my​ ​Cordy​ ​and...
+Jenny:​​ ​Oh​ ​my​ ​word.
+Kristin:​​ ​Don’t​ ​mess​ ​with​ ​her.​ ​[Jenny​ ​laughs]​ ​But​ ​oh​ ​boy,​ ​does​ ​she​ ​get
+messed​ ​with!
+Jenny:​​ ​She​ ​sure​ ​does.
+Kristin:​​ ​She​ ​sure​ ​does.​ ​She’s—​ ​so,​ ​okay,​ ​the​ ​spell​ ​happens​ ​to​ ​her.​ ​She’s
+banging​ ​around​ ​inside​ ​of​ ​school,​ ​just​ ​not​ ​knowing​ ​where​ ​anything​ ​is.
+Jenny:​​ ​Aww!
+Kristin:​​ ​And​ ​then​ ​she—​ ​ugh!​ ​I’m​ ​very​ ​upset​ ​about​ ​the​ ​part​ ​where​ ​she​ ​says,
+like,​ ​“I​ ​don’t​ ​want​ ​to​ ​drive”​ ​and​ ​the​ ​teacher​ ​is​ ​like,​ ​“Get​ ​in​ ​the​ ​car.”
+Jenny:​​ ​Yeah,​ ​it​ ​was​ ​messed​ ​up.
+Kristin:​​ ​‘Cause​ ​like,​ ​she​ ​tries—​ ​yeah.
+Jenny:​​ ​She’s​ ​doing​ ​her​ ​best.
+
+
+Kristin:​​ ​So​ ​anyway,​ ​Cordelia​ ​goes​ ​blind.​ ​And​ ​almost​ ​gets​ ​hit​ ​by​ ​a​ ​UPS
+truck—
+Jenny:​​ ​Yeah,​ ​was​ ​the​ ​UPS​ ​driver​ ​also​ ​suddenly​ ​struck​ ​blind,​ ​perhaps?
+Kristin:​​ ​Yeah.​ ​I​ ​don’t—​ ​but​ ​the​ ​unmarked​ ​brown​ ​truck​ ​driver.
+Jenny:​​ ​Right,​ ​we​ ​can’t​ ​say​ ​for​ ​sure​ ​whose​ ​company​ ​that​ ​was.
+Kristin:​​ ​We​ ​don’t​ ​know—​ ​yeah.​ ​It​ ​could​ ​have​ ​been​ ​FedEx​ ​for​ ​all​ ​we​ ​know.
+Um,​ ​but​ ​yeah,​ ​the​ ​truck​ ​comes​ ​barrel—​ ​like,​ ​it’s​ ​so​ ​far​ ​away​ ​from​ ​her!​ ​It
+comes​ ​barreling​ ​down​ ​the​ ​road​ ​at​ ​her​ ​and​ ​just​ ​to​ ​say,​ ​I​ ​don’t​ ​want​ ​anybody
+to​ ​think​ ​I’ve​ ​forgotten​ ​about​ ​looking​ ​for​ ​the​ ​moment​ ​of​ ​most​ ​sexual​ ​tension.
+Jenny:​​ ​Mmm!
+Kristin:​​ ​I​ ​haven’t​ ​forgotten​ ​it,​ ​and​ ​I​ ​almost​ ​gave​ ​it,​ ​in​ ​the​ ​first​ ​moments,​ ​to
+Amber​ ​and​ ​Buffy.
+Jenny:​​ ​Oh,​ ​in​ ​the—​ ​putting​ ​out​ ​the​ ​fire​ ​with​ ​the​ ​old...​ ​torn-down​ ​gym
+banner?
+Kristin:​​ ​The​ ​old​ ​wrap-her-in-a-banner​ ​trick.​ ​[laughs]
+Jenny:​​ ​Uh-huh,​ ​uh-huh.
+Kristin:​​ ​I​ ​thought​ ​that​ ​was,​ ​you​ ​know,​ ​there​ ​was​ ​a​ ​little—​ ​there​ ​was
+something​ ​special.
+Jenny:​​ ​[dramatically]​ ​“You’re​ ​okay!”
+Kristin:​​ ​Yeah,​ ​yeah.​ ​There​ ​was​ ​something​ ​special​ ​there.​ ​But​ ​then,​ ​lo​ ​and
+behold,​ ​Buffy​ ​leaps​ ​out,​ ​grabs​ ​Cordelia​ ​and​ ​they​ ​tumble​ ​together​ ​in​ ​just​ ​a—
+Jenny:​​ ​Mm,​ ​to​ ​safety.
+Kristin:​​ ​Yeah.​ ​To​ ​safety.​ ​To​ ​breathless​ ​safety.
+Jenny:​​ ​Oh,​ ​wow.
+
+
+Kristin:​​ ​In​ ​each​ ​other’s​ ​arms.
+Jenny:​​ ​Mm-hmm,​ ​mm-hmm.
+Kristin:​​ ​So​ ​they​ ​won.​ ​[Jenny​ ​laughs]​ ​They​ ​win.​ ​I​ ​name​ ​them—
+Jenny:​​ ​They​ ​win​ ​again!
+Kristin:​​ ​They​ ​win​ ​again,​ ​yeah.​ ​This​ ​is​ ​two​ ​out​ ​of​ ​three​ ​for​ ​them.
+Jenny:​ ​Mm-hmm,​ ​mm-hmm.
+Kristin:​​ ​[laughing]​ ​So​ ​that’s—​ ​oh,​ ​but​ ​hey.​ ​Cordelia​ ​goes​ ​blind.​ ​Like,​ ​her
+eyes​ ​are​ ​not​ ​showing​ ​in​ ​her​ ​head.
+Jenny:​​ ​Correct.
+Kristin:​​ ​And​ ​then​ ​we​ ​cut​ ​away.​ ​And​ ​we​ ​never​ ​hear​ ​about​ ​her—​ ​like,​ ​nobody
+ever​ ​says​ ​like,​ ​“Well,​ ​Cordelia​ ​was​ ​taken​ ​to​ ​the​ ​hospital.”​ ​[laughter]
+“Cordelia​ ​is​ ​with​ ​her​ ​family.​ ​Well...”
+Jenny:​​ ​Yeah,​ ​it’s​ ​just​ ​like,​ ​ugh,​ ​we​ ​should​ ​get​ ​Buffy​ ​a​ ​glass​ ​of​ ​water
+because​ ​[Kristin​ ​laughs]​ ​she’s​ ​really​ ​freaked​ ​out.​ ​But​ ​she​ ​can​ ​still​ ​see!​ ​With
+her​ ​eyeballs.
+Kristin:​​ ​I​ ​know!​ ​So​ ​Cordelia,​ ​who​ ​knows​ ​where​ ​she​ ​goes?​ ​From​ ​the​ ​time—
+from​ ​her​ ​blindness​ ​to​ ​when​ ​the​ ​spells​ ​are​ ​undone,​ ​we​ ​don’t​ ​know​ ​what
+happens​ ​to​ ​her​ ​or​ ​the​ ​girl​ ​whose—
+Jenny:​​ ​Oh​ ​my​ ​gosh,​ ​with​ ​no​ ​mouth.
+Kristin:​​ ​The​ ​girl​ ​whose​ ​entire​ ​mouth​ ​is​ ​covered.​ ​That’s​ ​a​ ​freaky...​ ​visual
+effect.
+Jenny:​​ ​Yeah,​ ​much​ ​more​ ​disturbing​ ​than​ ​blindness.
+Kristin:​​ ​But​ ​like,​ ​way​ ​to​ ​go,​ ​everybody,​ ​making​ ​that​ ​concoction​ ​to​ ​spill​ ​on
+the​ ​witch.
+
+
+Jenny:​ ​Oh!​ ​In​ ​science​ ​class?​ ​With​ ​eye​ ​of​ ​newt?
+Kristin:​​ ​Yeah.​ ​Yeah.
+Jenny:​​ ​Listen!
+Kristin:​​ ​I’m​ ​listening.
+Jenny:​ ​Can​ ​I​ ​tell​ ​you​ ​something?
+Kristin:​​ ​Please.
+Jenny:​​ ​Buffy​ ​has​ ​a​ ​troll​ ​pen​!​ ​[Kristin​ ​laughs]​ ​Buffy​ ​has​ ​a​ ​troll​ ​pen.​ ​Buffy​ ​has
+a​ ​pen​,​ ​with​ ​a​ ​little​ ​troll​ ​doll​ ​on​ ​top​ ​of​ ​it.​ ​Its​ ​hair​ ​is​ ​sticking​ ​up​ ​and​ ​she’s
+twirling​ ​its​ ​hair​ ​around​ ​when​ ​she​ ​goes​ ​to​ ​very​ ​un-smoothly...​ ​[Kristin
+laughs]​ ​grab​ ​some​ ​hair​ ​off​ ​of,​ ​uh,​ ​Amy’s​ ​hair​ ​brush.
+Kristin:​​ ​Yeah.​ ​It’s​ ​very​ ​90s​ ​of​ ​her.​ ​Did​ ​you​ ​ever—​ ​did​ ​you​ ​have​ ​any​ ​trolls?
+In​ ​the​ ​90s?
+Jenny:​​ ​I​ ​had​ ​a​ ​troll...​ ​because​ ​I​ ​wanted​ ​to​ ​fit​ ​in.​ ​But,​ ​um...
+Kristin:​​ ​[laughing]​ ​Just​ ​one.​ ​Just​ ​your​ ​badge​ ​of—
+Jenny:​​ ​Minimum,​ ​bare​ ​minimum​ ​troll​ ​requirement.​ ​But​ ​I​ ​always​ ​thought
+they​ ​were​ ​super​ ​weird.
+Kristin:​​ ​Yeah,​ ​they​ ​were​ ​pretty​ ​creepy.
+Jenny:​​ ​Yeah.
+Kristin:​​ ​I​ ​had​ ​one​ ​too,​ ​I​ ​think.​ ​But​ ​my​ ​sister​ ​had—​ ​ho-oh-oh—​ ​like,​ ​a
+collection​ ​of​ ​trolls.
+Jenny:​​ ​So​ ​if​ ​a​ ​circumstance​ ​ever​ ​came​ ​to​ ​pass​ ​that​ ​brought​ ​all​ ​troll​ ​dolls​ ​to
+life...?
+Kristin:​​ ​Ooh.
+
+
+Jenny:​​ ​And​ ​they​ ​were​ ​evil—
+Kristin:​ ​Oh!
+Jenny:​​ ​You​ ​would​ ​have​ ​been​ ​in​ ​a​ ​bad​ ​position.
+Kristin:​​ ​Oh,​ ​what​ ​a​ ​horrible—​ ​did​ ​you​ ​think​ ​about​ ​that​ ​a​ ​lot?
+Jenny:​​ ​No,​ ​I​ ​just​ ​thought​ ​about​ ​it​ ​now.
+Kristin:​​ ​God,​ ​it’s​ ​so​ ​awful.​ ​Yeah,​ ​we​ ​would​ ​have​ ​been—​ ​the​ ​Russo
+household​ ​would​ ​have​ ​been​ ​out.​ ​[Jenny​ ​laughs]​ ​Too​ ​many​ ​trolls.​ ​Same​ ​with
+Beanie​ ​Babies,​ ​if​ ​they​ ​ever​ ​came​ ​to​ ​life.
+Jenny:​​ ​Oh​ ​my—​ ​oh​ ​dear.
+Kristin:​​ ​Allison​ ​had​ ​way​ ​too​ ​many​ ​of​ ​them.
+Jenny:​​ ​Oh,​ ​dear.
+Kristin:​​ ​Anyway.​ ​[sings]​ ​The​ ​90s!
+Jenny:​​ ​Let’s​ ​take​ ​a​ ​step​ ​back​ ​to​ ​the​ ​locker​ ​room​ ​really​ ​quick?
+Kristin:​​ ​Yes,​ ​please.​ ​Ohh​ ​yes,​ ​please​!
+Jenny:​​ ​There​ ​are​ ​towels—​ ​dirty,​ ​dirty​ ​towels​ ​everywhere​.
+Kristin:​​ ​Oh,​ ​that’s​ ​not​ ​what​ ​I​ ​thought​ ​you​ ​were​ ​gonna​ ​say.​ ​I​ ​thought—
+Jenny:​​ ​They​ ​were​ ​all​ ​over​ ​the​ ​benches​,​ ​[Kristin​ ​laughs]​ ​they’re​ ​all​ ​over​ ​the
+floor​!​ ​We​ ​get​ ​a​ ​nice​ ​clear​ ​view​ ​of​ ​them​ ​before—
+Kristin:​​ ​Before​ ​the​ ​beautiful,​ ​wonderful...​ ​heart​ ​of​ ​my​ ​hearts,​ ​Cordelia.​ ​This
+is​ ​like,​ ​quintessential​ ​Cordelia​ ​scene.​ ​It’s​ ​quintessential​ ​scene,​ ​where​ ​like,
+the​ ​hairs​ ​stand​ ​up​ ​on​ ​my​ ​arms​ ​‘cause​ ​I’m​ ​so​ ​excited​ ​about​ ​her​ ​moment
+here,​ ​where​ ​she​ ​is​ ​the​ ​worst​!​ ​[laughs
+
+
+Jenny:​​ ​So​ ​mean.
+Kristin:​​ ​She​ ​just—​ ​can​ ​you​ ​write​ ​me​ ​a​ ​song​ ​about​ ​Cordelia?​ ​Is​ ​what​ ​I
+wanna​ ​know.​ ​Like,​ ​I​ ​feel​ ​like​ ​my​ ​love​ ​for​ ​her...​ ​is​ ​powerful​ ​enough.​ ​Can,​ ​can
+you?
+Jenny:​​ ​You​ ​want​ ​like,​ ​every​ ​time​ ​we​ ​start​ ​waxing​ ​poetic​ ​about​ ​Cordelia,​ ​you
+want​ ​us​ ​to​ ​have​ ​a​ ​song​ ​to​ ​indicate​ ​that​ ​that’s​ ​about​ ​to​ ​start​ ​happening?
+Kristin:​​ ​I​ ​want​ ​it​ ​more​ ​than​ ​anything.
+Jenny:​​ ​I​ ​think​ ​that​ ​I​ ​can​ ​do​ ​that​ ​for​ ​you.
+Kristin:​​ ​Yeeesss!​ ​Okay.
+Jenny:​​ ​By​ ​next​ ​episode.
+Kristin:​​ ​Alright.​ ​So​ ​Episode​ ​4—​ ​you​ ​heard​ ​it​ ​here​ ​first,​ ​folks.
+Jenny:​​ ​There​ ​will​ ​be—
+Kristin:​​ ​There​ ​will​ ​be​ ​a​ ​Cordelia​ ​Loves​ ​Kristin​ ​song.​ ​Or​ ​Kristin​ ​Loves
+Cordelia.
+Jenny:​​ ​Yeah,​ ​I​ ​mean,​ ​let’s​ ​not​ ​assume...​ ​anything​ ​about​ ​her​ ​feelings.
+Kristin:​​ ​We’ll​ ​wait—​ ​it’s​ ​gonna​ ​take​ ​her​ ​a​ ​couple​ ​seasons​ ​to​ ​love​ ​me​ ​back.
+But​ ​that’s​ ​fine.
+Jenny:​​ ​Yes.
+Kristin:​​ ​Um,​ ​yeah,​ ​so​ ​Cordelia​ ​has​ ​her​ ​mean​ ​girl​ ​moment​ ​here.​ ​Which​ ​they
+of​ ​course​ ​set​ ​up—​ ​I​ ​mean,​ ​I​ ​think​ ​they​ ​set​ ​this​ ​up​ ​‘cause​ ​you​ ​have​ ​a
+moment,​ ​you​ ​know,​ ​like​ ​a​ ​Scooby​ ​Doo​ ​episode,​ ​where​ ​you​ ​think​ ​everybody’s
+the​ ​witch.​ ​So​ ​you’re​ ​like,​ ​oh,​ ​maybe​ ​Cordelia—​ ​we’ve​ ​only​ ​known​ ​her​ ​for​ ​two
+episodes.​ ​Maybe​ ​she’s​ ​got​ ​something​ ​up​ ​her​ ​sleeve​ ​here.
+Jenny:​​ ​Oh,​ ​yeah.
+
+
+Kristin:​​ ​But​ ​no,​ ​she’s​ ​just​ ​the​ ​mean​ ​girl.​ ​It’s​ ​fine.​ ​Can​ ​we​ ​talk​ ​about​ ​how
+Willow​ ​chews​ ​a​ ​fucking​ ​pen?
+Jenny:​​ ​Ooh!​ ​But​ ​also—​ ​it’s​ ​so​ ​gross​ ​to​ ​think​ ​about,​ ​but​ ​also,​ ​how​ ​much​ ​did
+you​ ​chew​ ​a​ ​pen​ ​in​ ​high​ ​school?
+Kristin:​​ ​Yeah​ ​but​ ​see,​ ​that’s​ ​what​ ​I​ ​think​ ​is​ ​that,​ ​I​ ​don’t​ ​think​ ​that​ ​Willow​ ​or
+who—​ ​what’s​ ​the​ ​actress’s​ ​name​ ​who​ ​plays—
+Jenny:​​ ​Alyson​ ​Hannigan.
+Kristin:​​ ​Alyson​ ​Hannigan.​ ​I​ ​don’t​ ​think​ ​Alyson​ ​Hannigan​ ​ever​ ​chewed​ ​a​ ​pen
+in​ ​her​ ​life.
+Jenny:​​ ​Oh,​ ​you’re​ ​saying​ ​like,​ ​it’s​ ​not​ ​believable​ ​pen​ ​chewing?
+Kristin:​​ ​No!​ ​I’m​ ​going​ ​to​ ​do​ ​my​ ​best​ ​to​ ​get​ ​us​ ​a​ ​GIF.​ ​And​ ​if​ ​I​ ​can’t​ ​this​ ​up,
+can​ ​somebody​ ​please​ ​make​ ​a​ ​GIF​ ​of​ ​this​ ​piece​ ​of​ ​this​ ​episode​ ​with​ ​her
+chewing​ ​on​ ​this​ ​pen?​ ​It​ ​is—​ ​she​ ​has,​ ​like,​ ​the​ ​whole​ ​pen​ ​in​ ​her​ ​mouth.
+[Jenny​ ​laughs]​ ​It’s​ ​not​ ​a​ ​normal—
+Jenny:​​ ​Awww.
+Kristin:​ ​Like,​ ​I​ ​chewed​ ​every​ ​pen​ ​always.​ ​But​ ​I​ ​just—​ ​you​ ​just​ ​chew​ ​the​ ​tip
+of​ ​the—​ ​you​ ​don’t​ ​put​ ​the​ ​whole​ ​pen​ ​in​ ​your​ ​mouth.
+Jenny:​ ​Well,​ ​maybe​ ​you​ ​gotta​ ​really​ ​get—​ ​you’re​ ​really​ ​working​ ​on​ ​it.​ ​You
+need​ ​to​ ​get​ ​it​ ​into​ ​your​ ​molars​ ​where​ ​you​ ​have​ ​the​ ​most​ ​pressure?
+Kristin:​​ ​Maybe​ ​if​ ​you’re​ ​like,​ ​sitting—​ ​I​ ​don’t​ ​know.​ ​I​ ​just​ ​felt​ ​like​ ​it​ ​was—
+Jenny:​​ ​You​ ​weren’t​ ​buying​ ​it.
+Kristin:​​ ​No!​ ​But​ ​I​ ​was​ ​buying​ ​it​ ​in​ ​terms​ ​of​ ​it​ ​making​ ​me​ ​very​ ​amused.
+Jenny:​ ​Ha!
+
+
+Kristin:​​ ​But​ ​I​ ​wasn’t​ ​buying​ ​it​ ​as​ ​believable.​ ​Also,​ ​before​ ​we​ ​get​ ​too​ ​far​ ​past
+the​ ​moment​ ​in​ ​which​ ​Cordelia​ ​goes​ ​blind,​ ​did​ ​you—​ ​I​ ​didn’t​ ​have​ ​driver’s​ ​ed
+in​ ​high​ ​school.
+Jenny:​​ ​Oh,​ ​I​ ​did.
+Kristin:​​ ​Did​ ​your​ ​instructor​ ​not​ ​have​ ​a​ ​brake​ ​in​ ​the​ ​car?​ ​Like,​ ​you—
+Jenny:​​ ​Well,​ ​here’s​ ​the​ ​thing.​ ​I​ ​remember​ ​always​ ​hearing​ ​about​ ​that.​ ​I​ ​can’t
+precisely​ ​remember​ ​if​ ​they​ ​had​ ​their​ ​own​ ​brake.
+Kristin:​​ ​They​ ​have​ ​to​ ​have​ ​their​ ​own​ ​brake.
+Jenny:​​ ​But​ ​I​ ​remember​ ​this​ ​very​ ​specific​ ​instance​ ​where​ ​I,​ ​like,​ ​really
+scared​ ​him.
+Kristin:​​ ​Uh-huh?
+Jenny:​​ ​And​ ​he—​ ​I​ ​don’t—​ ​I​ ​feel​ ​like,​ ​he​ ​was​ ​scared​ ​enough​ ​that​ ​he​ ​would
+have​ ​gotten​ ​involved​ ​if​ ​he​ ​had​ ​his​ ​own​ ​brake?
+Kristin:​​ ​And​ ​he​ ​didn’t.
+Jenny:​ ​No.
+Kristin:​​ ​I​ ​just​ ​think​ ​that—​ ​let​ ​us​ ​know​ ​if​ ​you​ ​had​ ​driver’s​ ​ed,​ ​if​ ​they​ ​didn’t
+have​ ​a​ ​brake.​ ​It​ ​just​ ​doesn’t​ ​make​ ​any​ ​sense.​ ​These​ ​people​ ​don’t​ ​have
+licenses​ ​yet.​ ​You​ ​have​ ​to​ ​be​ ​able​ ​to​ ​stop​ ​the​ ​car​ ​in​ ​a​ ​situation​ ​where,​ ​for
+example,​ ​a​ ​witch​ ​casts​ ​a​ ​spell​ ​on​ ​them​ ​and​ ​they​ ​can’t​ ​control​ ​the​ ​car
+themselves.​ ​[laughing]
+Jenny:​​ ​Right,​ ​right​ ​right​ ​right.
+Kristin:​​ ​You​ ​have​ ​to​ ​be​ ​prepared​ ​for​ ​these​ ​things.
+Jenny:​ ​Sudden​ ​and​ ​unexpected​ ​blindness.
+Kristin:​​ ​Yeah,​ ​so​ ​anyway.​ ​I​ ​was​ ​shocked​ ​at​ ​that,​ ​but​ ​onwards​ ​and​ ​upwards.
+
+
+Jenny:​ ​And​ ​then​ ​once​ ​Cordelia​ ​is​ ​blind​ ​and​ ​Buffy​ ​is​ ​receiving​ ​a​ ​glass​ ​of
+water​ ​to​ ​help​ ​soothe​ ​her​ ​nerves—
+Kristin:​​ ​Yeah.
+Jenny:​​ ​Giles​ ​is​ ​so...​ ​stoked​!
+Kristin:​​ ​Again!
+Jenny:​ ​He’s​ ​so​ ​pumped,​ ​he’s​ ​just​ ​like—
+Kristin:​​ ​He​ ​can’t​ ​get​ ​over​ ​it.
+Jenny:​​ ​He’s​ ​just​ ​like​ ​Sherlock​ ​Holmes.​ ​He’s​ ​like,​ ​set​ ​it​ ​up​ ​and​ ​I’ll​ ​try​ ​to
+knock​ ​it​ ​down.​ ​[Kristin​ ​laughs]​ ​I​ ​love​ ​a​ ​supernatural​ ​mystery,​ ​gimme​ ​more!
+And​ ​then​ ​he’s​ ​like,​ ​why​ ​would​ ​someone​ ​want​ ​to​ ​harm​ ​Cordelia?​ ​And​ ​Willow,
+precious,​ ​sweet​ ​Willow...
+Kristin:​​ ​Oh,​ ​right!
+Jenny:​​ ​Is​ ​like,​ ​“Maybe​ ​they​ ​met​ ​her?”
+Kristin:​​ ​Aww.
+Jenny:​​ ​Which​ ​is​ ​like,​ ​Willow’s​ ​version​ ​of​ ​a​ ​burn,​ ​about​ ​which​ ​she
+immediately​ ​repents​ ​[Kristin​ ​laughs]​ ​and​ ​feels​ ​terrible.​ ​It’s​ ​so​ ​sweet.
+Kristin:​​ ​Also,​ ​sweet​ ​Willow—​ ​no​ ​big​ ​deal,​ ​but​ ​sweet​ ​Willow​ ​takes​ ​that
+scalpel​ ​right​ ​out​ ​of​ ​Xander’s​ ​hand​ ​to​ ​get​ ​that​ ​eye​ ​of​ ​newt​ ​out​ ​of​ ​there.
+Jenny:​​ ​Yeah,​ ​no​ ​problem.
+Kristin:​​ ​Not​ ​an​ ​issue​ ​for​ ​the​ ​ladies.
+Jenny:​​ ​No,​ ​no.
+Kristin:​​ ​Can​ ​I​ ​talk​ ​about​ ​the​ ​ladies​ ​in​ ​this​ ​episode?
+Jenny:​​ ​Please!
+
+
+Kristin:​​ ​For​ ​a​ ​second,​ ​because,​ ​um...​ ​I​ ​wrote​ ​down,​ ​I​ ​took​ ​notes​ ​on​ ​how
+many​ ​times​ ​Buffy​ ​uses​ ​very​ ​large​ ​words​ ​in​ ​this​ ​episode.​ ​Because​ ​I​ ​started—
+I​ ​started​ ​with​ ​“matricide.”​ ​That​ ​she​ ​says​ ​“matricide”​ ​instead​ ​of​ ​like,​ ​“I​ ​wanna
+kill​ ​my​ ​mom.”​ ​Um,​ ​and​ ​so​ ​then​ ​I​ ​was​ ​like,​ ​writing​ ​them​ ​down​ ​because​ ​this
+show,​ ​in​ ​a​ ​lot​ ​of​ ​ways,​ ​right—​ ​like​ ​I​ ​just​ ​said,​ ​Willow​ ​being​ ​like,​ ​“I​ ​have​ ​it,
+Xander,​ ​I’ll​ ​take​ ​the​ ​eye​ ​out​ ​of​ ​the​ ​frog.”​ ​Or​ ​the—​ ​is​ ​a​ ​newt​ ​the​ ​same​ ​as​ ​a
+frog?
+Jenny:​​ ​Well,​ ​I​ ​think​ ​they’re​ ​subbing​ ​a​ ​frog’s​ ​eyes​ ​for...​ ​newt.​ ​Eye​ ​of​ ​newt.
+Kristin:​​ ​Oh,​ ​that’s​ ​on​ ​the​ ​kitchen​ ​substitution​ ​chart?​ ​You​ ​can—
+Jenny:​​ ​Yes,​ ​yes.​ ​They’re​ ​more​ ​or​ ​less​ ​equivalent.
+Kristin:​ ​Okay.​ ​But​ ​yeah,​ ​then​ ​later,​ ​she​ ​comes​ ​home​ ​to​ ​Joyce​ ​and​ ​she​ ​says
+that​ ​school​ ​was​ ​a​ ​“reverent​ ​joy”.​ ​Then,​ ​later​ ​in​ ​that​ ​same​ ​scene,​ ​she​ ​says
+the​ ​word​ ​“platitudes.”
+Jenny:​​ ​Oh​ ​yeah.
+Kristin:​​ ​And​ ​then​ ​at​ ​the​ ​end​ ​of​ ​the​ ​episode,​ ​she​ ​also​ ​fills​ ​in​ ​for​ ​Joyce​ ​that
+what​ ​she​ ​probably​ ​means​ ​to​ ​be​ ​saying​ ​is​ ​“inscrutable”.​ ​So​ ​she’s​ ​got—​ ​I
+mean,​ ​the​ ​thing​ ​is​ ​is​ ​that​ ​Buffy’s​ ​very​ ​smart.​ ​But​ ​what​ ​I​ ​love​ ​about​ ​this
+intelligence​ ​is​ ​that​ ​it’s​ ​not​ ​just​ ​like,​ ​Buffy’s​ ​the​ ​smart​ ​girl.​ ​It’s​ ​like,​ ​Buffy​ ​is​ ​a
+cheerleader​ ​and​ ​she’s​ ​also—​ ​like,​ ​she​ ​really​ ​wants​ ​to​ ​be​ ​a​ ​cheerleader.​ ​And
+she’s​ ​also​ ​very​ ​smart.​ ​She​ ​also​ ​slays​ ​vampires,​ ​sidebar.​ ​But​ ​like,​ ​you​ ​know,
+there’s​ ​this​ ​combination​ ​of​ ​characteristics​ ​in​ ​women​ ​in​ ​this​ ​show​ ​that​ ​are
+really​ ​powerful.​ ​And​ ​you​ ​see​ ​it​ ​with​ ​Joyce​ ​too,​ ​right?​ ​That​ ​Joyce​ ​is​ ​really—
+Joyce​ ​isn’t​ ​just​ ​like,​ ​“a​ ​mom.”​ ​Which​ ​P.S.,​ ​I​ ​did​ ​air​ ​quotes​ ​‘cause​ ​like,
+nobody​ ​is—
+Jenny:​​ ​Just​ ​a​ ​mom.
+Kristin:​​ ​Just​ ​a​ ​mom.​ ​Like,​ ​every—​ ​there’s​ ​depth​ ​to​ ​character.​ ​And​ ​we​ ​see
+Joyce​ ​in​ ​the​ ​kitchen,​ ​this​ ​like...​ ​you​ ​know,​ ​unpacking​ ​her​ ​art​ ​exhibit​ ​stuff.
+Jenny:​​ ​Yeah,​ ​yeah,​ ​she’s​ ​like,​ ​running​ ​an​ ​art​ ​gallery.
+
+
+Kristin:​​ ​Yeah.
+Jenny:​​ ​Woman​ ​of​ ​the​ ​world.
+Kristin:​​ ​Doesn’t​ ​even​ ​have​ ​time​ ​to​ ​be​ ​a​ ​mom,​ ​actually,​ ​in​ ​this​ ​episode.
+[laughs]​ ​Joyce​ ​is—​ ​Joyce—​ ​what​ ​happened​ ​to​ ​Joyce​ ​in​ ​this​ ​episode?
+Jenny:​​ ​I​ ​don’t​ ​know,​ ​it’s​ ​a​ ​rough​ ​parenting​ ​episode.​ ​But​ ​it’s​ ​also​ ​a​ ​rough
+daughtering​ ​episode.​ ​There’s​ ​not​ ​a​ ​lot​ ​of​ ​understanding​ ​passing​ ​between
+them​ ​until​ ​the​ ​very​ ​end​ ​of​ ​the​ ​episode.​ ​They’re​ ​kind​ ​of​ ​like​ ​two​ ​ships​ ​in​ ​the
+night,​ ​they​ ​keep—​ ​one​ ​of​ ​them​ ​is​ ​reaching​ ​out​ ​and​ ​the​ ​other​ ​one’s​ ​not
+having​ ​it,​ ​and​ ​back​ ​and​ ​forth​ ​throughout​ ​the​ ​episode.
+Kristin:​​ ​And​ ​that’s,​ ​I​ ​mean,​ ​you​ ​know,​ ​to​ ​touch​ ​on​ ​the​ ​larger​ ​theme​ ​of​ ​the
+episode.​ ​We​ ​have​ ​Amy​ ​and​ ​her​ ​mom.​ ​Which​ ​is​ ​the​ ​major​ ​plot​ ​point​ ​here,
+with,​ ​spoiler​ ​alert,​ ​a​ ​body​ ​switch​ ​over​ ​here.
+Jenny:​​ ​Uh-huh,​ ​uh-huh.
+Kristin:​​ ​Because​ ​her​ ​mom​ ​wants​ ​to​ ​live​ ​her​ ​life.​ ​She​ ​wants​ ​her​ ​to​ ​be​ ​just
+like​ ​her.​ ​Or​ ​worse,​ ​she​ ​wants​ ​to​ ​be​ ​her.
+Jenny:​​ ​[groans]
+Kristin:​​ ​But​ ​then​ ​Joyce—​ ​we​ ​have​ ​a​ ​scene​ ​between​ ​Buffy​ ​and​ ​Joyce​ ​where
+Joyce​ ​is​ ​talking​ ​about​ ​how​ ​Buffy​ ​should​ ​join​ ​the​ ​yearbook​ ​staff.​ ​[laughs]
+Jenny:​​ ​Ha!​ ​Joyce​ ​really​ ​has​ ​no​ ​idea​ ​that​ ​yearbook​ ​is​ ​for​ ​nerds​?!​ ​Yearbook​ ​is
+clearly​ ​for​ ​nerds,​ ​Joyce!​ ​Just​ ​kidding,​ ​if​ ​anybody​ ​who’s​ ​listening​ ​was​ ​on
+yearbook.
+Kristin:​​ ​I​ ​was​ ​on​ ​yearbook.​ ​[laughs]
+Jenny:​ ​[laughs]​ ​Then​ ​I​ ​stand​ ​by​ ​my​ ​comment!​ ​Yearbook’s​ ​for​ ​nerds!
+Kristin:​​ ​Uhhh...​ ​okay,​ ​so,​ ​right.​ ​Joyce​ ​wants​ ​her​ ​to​ ​join​ ​the​ ​yearbook​ ​staff.
+And​ ​Buffy​ ​says​ ​something​ ​as​ ​she​ ​leaves​ ​that’s​ ​like,​ ​you​ ​know,​ ​“I’m​ ​not​ ​you,
+okay?​ ​So​ ​like,​ ​back​ ​off,​ ​I’m​ ​never​ ​gonna​ ​be​ ​you.”​ ​So​ ​that’s​ ​a​ ​big​ ​thing​ ​in
+here,​ ​is​ ​like,​ ​parents​ ​and​ ​how​ ​they​ ​want​ ​their​ ​kids​ ​to​ ​be​ ​just​ ​like​ ​them.​ ​The
+
+
+pressure—​ ​Buffy​ ​says​ ​many​ ​times​ ​in​ ​this,​ ​she​ ​says​ ​to​ ​Giles,​ ​“Maybe​ ​you
+don’t​ ​understand​ ​the​ ​pressure​ ​of​ ​what​ ​it​ ​feels​ ​like​ ​to​ ​have​ ​to​ ​live​ ​up​ ​to​ ​the
+expectations​ ​that​ ​your​ ​parents​ ​set​ ​for​ ​you.”
+Jenny:​​ ​Yeah.
+Kristin:​​ ​And​ ​because​ ​we’re​ ​in​ ​fantasy​ ​world​ ​here—​ ​you​ ​know,​ ​we​ ​get​ ​to​ ​see
+this​ ​actually​ ​happen​ ​here​ ​with​ ​this​ ​body​ ​switch.
+Jenny:​​ ​Right,​ ​right.​ ​As​ ​opposed​ ​to​ ​the​ ​normal​ ​parents​ ​living​ ​through​ ​their
+kids​ ​vicariously​ ​thing​ ​that​ ​we​ ​get​ ​to​ ​see​ ​in​ ​regular​ ​life.
+Kristin:​​ ​Right,​ ​which​ ​just​ ​kills​ ​them​ ​slowly.​ ​Instead​ ​of​ ​all—
+Jenny:​​ ​Mm,​ ​instead​ ​of​ ​fast.
+Kristin:​​ ​[laughing]​ ​Instead​ ​of​ ​all​ ​at​ ​once,​ ​yeah.​ ​But​ ​yeah,​ ​I​ ​mean,​ ​I​ ​don’t
+know.​ ​And​ ​that’s​ ​what​ ​I​ ​love​ ​about—​ ​I​ ​mean,​ ​you​ ​know,​ ​talking​ ​about
+anything​ ​that’s​ ​set​ ​in​ ​a​ ​fantasy​ ​space​ ​like​ ​this.​ ​Not​ ​that​ ​I​ ​don’t​ ​believe​ ​in
+vampires​ ​and​ ​witches,​ ​I​ ​do.
+Jenny:​​ ​Of​ ​course,​ ​of​ ​course.
+Kristin:​​ ​That’s​ ​the​ ​genre,​ ​it’s​ ​just​ ​called​ ​fantasy.​ ​But​ ​you​ ​know,​ ​when​ ​you
+set​ ​something​ ​in​ ​a​ ​fantasy​ ​realm,​ ​you​ ​kind​ ​of​ ​don’t​ ​have​ ​to​ ​mess​ ​with​ ​all​ ​the
+subtlety​ ​and​ ​nuance.​ ​You​ ​can​ ​just​ ​lay​ ​it​ ​out​ ​and​ ​really​ ​dig​ ​into​ ​these​ ​themes
+in​ ​fun​ ​ways​ ​that​ ​you​ ​can’t​ ​do​ ​when​ ​you’re​ ​not​ ​in​ ​fantasy​ ​land.​ ​So...
+Jenny:​​ ​Yeah.
+Kristin:​​ ​All​ ​the​ ​thumbs​ ​up​ ​for​ ​that.
+Jenny:​​ ​Absolutely.
+Kristin:​​ ​Right?​ ​Oh,​ ​my​ ​notes​ ​fell​ ​away.​ ​They​ ​just​ ​fell​ ​right​ ​away!​ ​I​ ​have​ ​so
+many​ ​of​ ​them.
+Jenny:​​ ​So​ ​many​ ​notes.
+
+
+Kristin:​​ ​So​ ​many​ ​notes!
+Jenny:​​ ​Do​ ​you​ ​have​ ​a​ ​note​ ​about​ ​Buffy’s​ ​extreme​ ​doily​ ​pillowcase?
+Kristin:​​ ​[laughing]​ ​I​ ​don’t—​ ​I​ ​do​ ​not​.
+Jenny:​​ ​It​ ​looks​ ​very​ ​uncomfortable​ ​for​ ​sleeping.​​ ​It​ ​is​ ​an​ ​extremely
+three-dimensional​ ​pillowcase.
+Kristin:​​ ​Oh.​ ​Well,​ ​that’s​ ​also​ ​very​ ​90s​ ​of​ ​that​ ​pillowcase.
+Jenny:​​ ​Bumpy​ ​as​ ​fuck​!
+Kristin:​​ ​Bumpy​ ​as​ ​fuck,​ ​yeah.​ ​But​ ​beautiful.​ ​[Jenny​ ​laughs]​ ​Beautiful​ ​and,
+uh,​ ​also​ ​you​ ​know—​ ​lots​ ​of​ ​pillows,​ ​right?​ ​She​ ​doesn’t​ ​just​ ​have​ ​one.
+Jenny:​​ ​No,​ ​no,​ ​no.​ ​Many​ ​pillows.​ ​So​ ​Buffy​ ​wakes​ ​up​ ​on​ ​that​ ​pillowcase,​ ​and
+she’s​ ​spell​ ​drunk.
+Kristin:​​ ​Oh,​ ​right!​ ​She’s—
+Jenny:​​ ​Buffy​ ​is​ ​singing​ ​“Macho,​ ​Macho​ ​Man.”​ ​She​ ​seems​ ​pretty​ ​wasted.
+Kristin:​​ ​[laughing]​ ​She​ ​tells​ ​Joyce​ ​she’s​ ​a​ ​vampire​ ​slayer.
+Jenny:​​ ​Yes.
+Kristin:​​ ​‘Cause​ ​she​ ​is​ ​very​ ​drunk.
+Jenny:​​ ​Uh-huh,​ ​uh-huh,​ ​uh-huh.
+Kristin:​​ ​On​ ​this​ ​spell​ ​that​ ​the​ ​witch​ ​has​ ​cast,​ ​which​ ​is​ ​gonna​ ​kill​ ​her.
+Jenny:​​ ​Yeah,​ ​and​ ​she’s​ ​so​ ​pumped​ ​because​ ​she’s​ ​going​ ​to​ ​her​ ​first​ ​day​ ​as
+an​ ​actual,​ ​on​ ​the​ ​squad​ ​cheerleader.​ ​And​ ​this​ ​is​ ​where​ ​I​ ​learn​ ​something
+about​ ​myself.
+Kristin:​​ ​[laughing]​ ​Oh.
+
+
+Jenny:​​ ​Which​ ​is...​ ​ugh!​ ​So​ ​they’re​ ​rehearsing​ ​and​ ​that​ ​whistle​ ​song​ ​is
+playing,​ ​that’s​ ​like​ ​[imitates​ ​punchy​ ​notes​ ​of​ ​the​ ​song]​ ​[Kristin​ ​laughs]​ ​And
+every​ ​lady​ ​is​ ​dancing​ ​in​ ​a​ ​synchronized​ ​fashion—​ ​and...​ ​it​ ​makes​ ​me​ ​so
+uncomfortable.
+Kristin:​​ ​Uncomfortable?
+Jenny:​​ ​I...​ ​was​ ​just​ ​sitting​ ​on​ ​the​ ​couch,​ ​just​ ​next​ ​to​ ​you,​ ​but​ ​I​ ​was​ ​like,​ ​so
+embarrassed​.
+Kristin:​​ ​Interesting!
+Jenny:​​ ​There’s​ ​like,​ ​way​ ​too​ ​much​ ​dramatic​ ​shoulder​ ​movement​.​ ​And​ ​the
+hips​—
+Kristin:​​ ​For​ ​the​ ​listener,​ ​Jenny​ ​is​ ​doing​ ​dramatic​ ​shoulder​ ​movements​ ​while
+talking​ ​about​ ​shoulder​ ​movements.​ ​[laughs]
+Jenny:​​ ​Well,​ ​it’s​ ​important,​ ​for​ ​you​ ​to​ ​know​ ​what​ ​I’m​ ​talking​ ​about.
+Kristin:​​ ​Yeah,​ ​yeah.
+Jenny:​​ ​And—​ ​so​ ​I​ ​don’t​ ​know​ ​what​ ​that​ ​means​ ​about​ ​me.​ ​But​ ​like,​ ​I—
+blegghh.
+Kristin:​​ ​That’s​ ​your​ ​kryptonite?
+Jenny:​​ ​I​ ​think​ ​it—
+Kristin:​​ ​If​ ​anybody​ ​needs​ ​to​ ​beat​ ​you​ ​in​ ​battle,​ ​they​ ​can​ ​just​ ​hit​ ​“play”​ ​on
+the—
+Jenny:​​ ​Yeah.
+Kristin:​​ ​On​ ​synchronized​ ​dancing​ ​women.
+Jenny:​​ ​Yeah,​ ​but​ ​I​ ​hope​ ​they​ ​choose​ ​not​ ​to!
+
+
+Kristin:​​ ​Yeah,​ ​seriously.​ ​Yeah,​ ​and​ ​Giles—​ ​to​ ​transition​ ​from​ ​cheerleading​ ​to
+Buffy​ ​being—​ ​because​ ​in​ ​this​ ​scene,​ ​where​ ​Buffy’s​ ​cheerleading,​ ​all​ ​a​ ​sudden
+she​ ​throws​ ​a​ ​girl​ ​across​ ​the​ ​room.
+Jenny:​​ ​Oh​ ​yeah!​ ​Woooo!
+Kristin:​​ ​Because​ ​she​ ​doesn’t​ ​know​ ​her​ ​own​ ​strength​ ​‘cause​ ​she’s​ ​drunk.​ ​And
+we​ ​never​ ​hear​ ​about​ ​that​ ​girl,​ ​I​ ​hope​ ​she’s​ ​alright.
+Jenny:​​ ​Ha!
+Kristin:​​ ​But​ ​then​ ​immediately,​ ​she​ ​sort​ ​of​ ​collapses.​ ​Right​ ​after​ ​this.​ ​And
+Giles​ ​knows​ ​what’s​ ​up,​ ​because—​ ​yeah.
+Jenny:​​ ​Before​ ​she​ ​collapses​ ​though!
+Kristin:​​ ​Before​ ​she​ ​collapses​ ​though.
+Jenny:​​ ​On​ ​their​ ​way​ ​to​ ​Giles—
+Kristin:​​ ​Yes.​ ​Ohh,​ ​yes!
+Jenny:​​ ​She​ ​has​ ​this​ ​fantastic​ ​moment​ ​where,​ ​earlier​ ​in​ ​the​ ​episode,​ ​Xander
+has​ ​caused​ ​Willow​ ​pain​ ​by​ ​informing​ ​her​ ​that​ ​she’s,​ ​“like​ ​one​ ​of​ ​the​ ​guys.”
+Kristin:​​ ​Ugh,​ ​Xander.
+Jenny:​​ ​And​ ​that​ ​breaks​ ​all​ ​of​ ​our​ ​hearts​ ​because​ ​nobody​ ​wants​ ​to​ ​see
+Willow​ ​get​ ​hurt.
+Kristin:​​ ​No.
+Jenny:​​ ​Ooghf,​ ​nobody​ ​wants​ ​to​ ​see​ ​Willow​ ​in​ ​danger,​ ​nobody​ ​wants​ ​to​ ​see
+Willow’s​ ​feelings​ ​get​ ​hurt,​ ​and—
+Kristin:​​ ​Isn’t​ ​that,​ ​like—​ ​I​ ​feel​ ​like​ ​I’ve​ ​heard​ ​you​ ​talk​ ​about​ ​the​ ​fact​ ​that
+that​ ​was—​ ​that’s​ ​an​ ​intentional​ ​thing​ ​that​ ​Joss​ ​does.
+
+
+Jenny:​​ ​Yes,​ ​yes!​ ​That’s​ ​something​ ​that​ ​they​ ​play​ ​on​ ​heavily​ ​throughout​ ​the
+series.​ ​It’s​ ​a​ ​guaranteed​ ​emotional​ ​payoff,​ ​right?
+Kristin:​​ ​Yeah,​ ​‘cause​ ​everybody​ ​wants​ ​to​ ​protect​ ​Willow.
+Jenny:​​ ​So​ ​Xander​ ​tells​ ​her​ ​that​ ​she’s​ ​one​ ​of​ ​the​ ​guys,​ ​and​ ​then​ ​in​ ​this
+scene,​ ​drunk​ ​Buffy...​ ​says​ ​to​ ​Xander​ ​that​ ​he’s​ ​just​ ​like​ ​“one​ ​of​ ​the​ ​girls”!
+Kristin:​​ ​Yep.
+Jenny:​​ ​And​ ​he’s​ ​so​ ​bummed.​ ​And​ ​I’m​ ​like,​ ​HA!​ ​Ha-HA!
+Kristin:​​ ​[laughs]​ ​Yeah.​ ​You​ ​are​ ​not​ ​bummed.
+Jenny:​​ ​I’m​ ​the​ ​opposite​ ​of​ ​bummed.
+Kristin:​​ ​Yeah,​ ​an​ ​eye​ ​for​ ​an​ ​eye.​ ​I​ ​almost—​ ​ugh,​ ​what​ ​I​ ​wanted​ ​to​ ​say​ ​was,
+an​ ​eye​ ​for​ ​an​ ​eye,​ ​patriarchy!​ ​But​ ​we​ ​already​ ​said​ ​our​ ​patriarchy.
+Jenny:​​ ​Only​ ​one​ ​“patriarchy”​ ​per​ ​episode,​ ​Kristin.
+Kristin:​​ ​So​ ​you’ll​ ​have​ ​to​ ​bleep​ ​that​ ​out.​ ​[laughter]​ ​Cool,​ ​right—​ ​And​ ​so
+Buffy​ ​is​ ​like,​ ​really​ ​struggling​ ​here.​ ​And​ ​Giles...​ ​this​ ​like,​ ​puts​ ​Giles—​ ​‘cause
+Giles​ ​is​ ​just​ ​gleeful,​ ​as​ ​we’ve​ ​discussed,​ ​through​ ​the​ ​rest​ ​of​ ​the​ ​episode,
+through​ ​the​ ​first​ ​part​ ​of​ ​this​ ​episode​ ​when​ ​everybody​ ​is​ ​else​ ​is​ ​struggling.
+But​ ​the​ ​minute​ ​that​ ​Buffy​ ​is​ ​in​ ​peril,​ ​he​ ​gets​ ​really​ ​protective.
+Jenny:​​ ​He’s​ ​no​ ​longer​ ​fucking​ ​with​ ​it.
+Kristin:​​ ​No.​ ​When​ ​they​ ​go​ ​to​ ​the​ ​mother’s​ ​house—
+Jenny:​​ ​Oh​ ​man,​ ​he​ ​is​ ​so​ ​serious​ ​and​ ​so​ ​in​ ​charge!
+Kristin:​​ ​He—​ ​I​ ​wrote​ ​down,​ ​“You​ ​will​ ​shut​ ​up​ ​and​ ​listen​ ​to​ ​me!”
+Jenny:​​ ​Hoo!​ ​So​ ​un-British.
+
+
+Kristin:​​ ​And​ ​now​ ​like,​ ​coming​ ​from—​ ​right,​ ​exactly.​ ​Coming​ ​from​ ​Giles,
+who’s​ ​very​ ​proper​ ​and​ ​takes​ ​great​ ​pains​ ​to​ ​keep​ ​himself​ ​composed.​ ​He’s
+like,​ ​throwing​ ​down.
+Jenny:​​ ​Yeah​ ​yeah​ ​yeah.
+Kristin:​​ ​He​ ​want—​ ​do​ ​you​ ​have​ ​something​ ​else​ ​to​ ​say?
+Jenny:​​ ​Well,​ ​I​ ​just​ ​wanted​ ​to​ ​say,​ ​right​ ​before​ ​that,​ ​when​ ​we​ ​see​ ​them​ ​roll
+up​ ​to​ ​the​ ​Madison​ ​home.​ ​We​ ​saw​ ​Giles’​ ​car​ ​for​ ​the​ ​first​ ​time,​ ​and​ ​you​ ​may
+not​ ​know​ ​it​ ​yet,​ ​but​ ​you’re​ ​gonna​ ​see​ ​that​ ​car​ ​a​ ​bunch​ ​more​ ​times.
+Kristin:​​ ​Ooh,​ ​I​ ​don’t​ ​remember​ ​seeing​ ​it.
+Jenny:​​ ​It’s​ ​just​ ​like​ ​a​ ​junky​ ​old,​ ​beat-up​ ​British...​ ​jalopy-type​ ​car.
+Kristin:​​ ​God,​ ​I​ ​can’t​ ​wait​ ​till​ ​we​ ​start​ ​seeing​ ​Giles’​ ​coffee​ ​cup.
+Jenny:​​ ​Ohh!​ ​The​ ​little​ ​green​ ​one?!
+Kristin:​​ ​Yes.​ ​Love​ ​that​ ​little​ ​green—​ ​I​ ​want​ ​that.
+Jenny:​​ ​I​ ​love​ ​that​ ​cup.​ ​I​ ​want​ ​that​ ​cup​ ​so​ ​bad.​ ​If...​ ​CW.com​ ​or​ ​whatever
+sold​ ​that​ ​mug,​ ​I​ ​would​ ​buy​ ​a​ ​set​ ​up​ ​so​ ​fast.
+Kristin:​​ ​Right?​ ​But​ ​instead,​ ​they​ ​probably​ ​sell​ ​a​ ​black​ ​mug​ ​with​ ​text​ ​that
+says,​ ​“Buffy.”
+Jenny:​​ ​With​ ​like,​ ​the​ ​logo.​ ​If​ ​anybody​ ​out​ ​there​ ​is​ ​like,​ ​a​ ​production
+designer​ ​or​ ​a​ ​prop​ ​sourcer​ ​or​ ​whatever.​ ​If​ ​anybody​ ​knows​ ​where​ ​I​ ​can​ ​find
+that​ ​green​ ​mug​ ​that​ ​Giles​ ​drinks​ ​out​ ​of​ ​and​ ​you​ ​let​ ​me​ ​know,​ ​I​ ​will​ ​do
+something​ ​very​ ​special​ ​for​ ​you.​ ​I​ ​don’t​ ​know​ ​what​ ​it​ ​is,​ ​but—
+Kristin:​​ ​Sounds​ ​like​ ​there’s​ ​a​ ​green​ ​mug​ ​song​ ​in​ ​your​ ​future.
+Jenny:​​ ​[laughing]​ ​Heheheh,​ ​yeahaha—​ ​yes!​ ​A​ ​green​ ​mug​ ​song​ ​for​ ​a​ ​green
+mug,​ ​I​ ​say!​ ​[Kristin​ ​laughs]​ ​Most​ ​definitely.
+
+
+Kristin:​​ ​I’m​ ​not—​ ​I​ ​like​ ​got​ ​the​ ​chills​ ​with​ ​the​ ​body​ ​switch​ ​reveal.​ ​Watching
+it.​ ​I​ ​really​ ​did,​ ​I​ ​like—​ ​when​ ​she​ ​says,​ ​“Amy?”​ ​You​ ​know?​ ​When​ ​Buffy​ ​says,
+“Amy.”​ ​‘Cause​ ​by​ ​the​ ​way,​ ​Buffy​ ​is​ ​dying​ ​but​ ​she’s​ ​still​ ​on​ ​the​ ​case.​ ​She’s
+like—​ ​she​ ​looks​ ​at​ ​the​ ​brownies​ ​and​ ​then​ ​she​ ​hears​ ​Amy’s​ ​sort​ ​of​ ​stutter​ ​and
+speech​ ​as​ ​she​ ​tries​ ​to​ ​pretend​ ​to​ ​be​ ​the​ ​mother.​ ​And​ ​the​ ​body​ ​switch​ ​is
+revealed​ ​and​ ​I​ ​was​ ​like,​ ​ho—​ ​oh.​ ​Um,​ ​this​ ​was—​ ​as​ ​you​ ​know,​ ​I​ ​haven’t
+seen​ ​these​ ​episodes​ ​before,​ ​or​ ​at​ ​least​ ​I​ ​haven’t​ ​seen​ ​them​ ​since​ ​1997.
+Jenny:​​ ​Mm-hmm.
+Kristin:​​ ​So...​ ​so​ ​I​ ​knew​ ​that​ ​something​ ​was​ ​up,​ ​but​ ​I​ ​didn’t—​ ​I​ ​didn’t
+understand.​ ​And​ ​so​ ​it​ ​was​ ​a​ ​reveal​ ​for​ ​me,​ ​and​ ​also,​ ​wow.​ ​And​ ​also,​ ​this
+actress!
+Jenny:​​ ​Mm!​ ​Robin​ ​Riker.
+Kristin:​​ ​Robin​ ​Riker—
+Jenny:​​ ​Amazing​ ​casting.​ ​She​ ​crushes.
+Kristin:​​ ​Oh​ ​my​ ​god!​ ​She’s​ ​amazing.​ ​Like,​ ​is​ ​she​ ​in​ ​things​ ​now​ ​and​ ​forever?
+Is​ ​she​ ​like,​ ​a​ ​theater​ ​actor?​ ​She’s​ ​phenomenal.​ ​Especially​ ​because​ ​of​ ​the
+switch.​ ​Like,​ ​she​ ​was​ ​great​ ​as—​ ​playing​ ​Amy​ ​in​ ​the​ ​mom’s​ ​body.​ ​But​ ​then​ ​at
+the—​ ​when​ ​this​ ​body​ ​switch​ ​undoes​ ​itself,​ ​and​ ​she​ ​goes​ ​from​ ​that​ ​to​ ​the
+witch—
+Jenny:​​ ​Yeah!
+Kristin:​​ ​Holy​ ​shit!
+Jenny:​​ ​Yeah,​ ​it’s​ ​very—​ ​like,​ ​very​ ​well​ ​executed,​ ​amazing​ ​switch.
+Kristin:​​ ​Unbelievable,​ ​yeah.​ ​I​ ​was​ ​like,​ ​super​ ​into​ ​it.​ ​And​ ​super​ ​into​ ​her.
+[laughs]​ ​Also,​ ​a​ ​note​ ​that​ ​I​ ​made​ ​during​ ​this​ ​scene​ ​was—​ ​there’s​ ​so​ ​much
+chitchat​ ​happening.​ ​Like,​ ​you​ ​know,​ ​Amy—​ ​Mom-Amy​ ​is​ ​having​ ​all​ ​this​ ​time
+to​ ​be​ ​like,​ ​“And​ ​then,​ ​when​ ​she​ ​would​ ​do​ ​this”—
+Jenny:​​ ​“I​ ​woke​ ​up​ ​in​ ​her​ ​bed.”
+
+
+Kristin:​​ ​And​ ​I’m​ ​like,​ ​you​ ​guys,​ ​Buffy​ ​has,​ ​like—
+Jenny:​​ ​Find​ ​the​ ​book!
+Kristin:​​ ​[laughs]​ ​Get​ ​up​ ​and​ ​ask​ ​the​ ​questions,​ ​Jesus​ ​Christ!
+Jenny:​​ ​Yeah,​ ​that​ ​was​ ​an​ ​odd​ ​pacing​ ​choice.
+Kristin:​​ ​Mm-hmm.
+Jenny:​​ ​Like,​ ​have​ ​that​ ​conversation​ ​in​ ​the​ ​car​ ​after​ ​you​ ​find​ ​the​ ​book​!
+Kristin:​​ ​Right?​ ​But​ ​then​ ​luckily,​ ​in​ ​that​ ​chitchat,​ ​it​ ​is​ ​revealed​ ​that​ ​there​ ​is​ ​a
+room​ ​upstairs​ ​that​ ​she​ ​keeps​ ​herself​ ​locked​ ​in.​ ​So​ ​they​ ​go​ ​up​ ​there,​ ​the​ ​cat
+is—​ ​it​ ​jumps​ ​[laughs]
+Jenny:​​ ​Meow!
+Kristin:​​ ​Jumps​ ​out.​ ​They​ ​get​ ​the​ ​book,​ ​they​ ​go​ ​to​ ​the​ ​school,​ ​and​ ​here​ ​we
+are.
+Jenny:​​ ​Whew!​ ​And​ ​then​ ​at​ ​the​ ​school...
+Kristin:​​ ​Yes?​ ​So​ ​sad,​ ​Jenny.
+Jenny:​​ ​[laughs]​ ​Not​ ​sad,​ ​just​ ​uncomfortable​ ​because—
+Kristin:​​ ​Because​ ​the​ ​cheerleaders​ ​again?
+Jenny:​​ ​The​ ​game​ ​is​ ​beginning​ ​and​ ​the​ ​cheerleaders​ ​are​ ​dancing.​ ​And​ ​I​ ​don’t
+like​ ​it.​ ​[Kristin​ ​laughs]​ ​And​ ​I​ ​wish​ ​they​ ​would​ ​stop.​ ​And​ ​also,​ ​also!​ ​Such​ ​a
+big​ ​deal​ ​was​ ​made​ ​about​ ​the​ ​caliber​ ​of​ ​cheerleader​ ​required​ ​for​ ​this​ ​squad.
+And​ ​the​ ​training​ ​and​ ​we​ ​gotta​ ​practice​ ​hard​ ​‘cause​ ​the​ ​game​ ​is​ ​tonight.​ ​And
+then​ ​do​ ​you​ ​know​ ​what​ ​they​ ​were​ ​practicing​ ​for?​ ​[Kristin​ ​laughs]​ ​“Go
+Sunnydale​ ​go,​ ​go​ ​Sunnydale​ ​go,​ ​go​ ​Sunnydale​ ​go,​ ​six​ ​seven​ ​eight,​ ​go
+Sunnydale​ ​go,​ ​go​ ​Sunnydale​ ​go,​ ​go​ ​Sunnydale​ ​go,​ ​six​ ​seven​ ​eight.”​ ​Repeat.
+Kristin:​​ ​[laughing]​ ​They​ ​do.
+
+
+Jenny:​​ ​That​ ​is​ ​the​ ​thing​ ​that​ ​they​ ​needed​ ​to​ ​fine-tune.
+Kristin:​​ ​Well,​ ​plus​ ​they’re​ ​dancing.​ ​They’re​ ​cheering.
+Jenny:​​ ​I​ ​mean...
+Kristin:​​ ​I​ ​mean,​ ​uh​ ​yeah.​ ​Also,​ ​I​ ​just​ ​want​ ​[laughs]​ ​I​ ​just​ ​want​ ​you​ ​to​ ​know
+that​ ​because​ ​you​ ​pointed​ ​that​ ​out​ ​to​ ​me​ ​during​ ​the​ ​episode​ ​itself,​ ​I​ ​did
+become​ ​more​ ​attuned​ ​to​ ​what​ ​they​ ​were​ ​saying.​ ​And​ ​I​ ​wanna​ ​let​ ​you​ ​know
+that​ ​not​ ​only​ ​did​ ​they​ ​do​ ​that,​ ​but​ ​then​ ​later​ ​on,​ ​as​ ​things​ ​are​ ​building​ ​and
+the​ ​spell​ ​is​ ​being​ ​cast,​ ​they​ ​cut​ ​back​ ​to​ ​the​ ​cheerleaders.​ ​And​ ​they’ve
+stopped​ ​saying​ ​words​ ​altogether,​ ​they’re​ ​just​ ​counting.​ ​[laughs]
+Jenny:​​ ​Yes!
+Kristin:​​ ​[laughing]​ ​They’re​ ​just—
+Jenny:​​ ​There​ ​is​ ​a​ ​segment​ ​where​ ​they’re​ ​just​ ​counting.​ ​Y’all.
+Kristin:​​ ​They’re​ ​just​ ​counting.​ ​But​ ​everyone’s​ ​into​ ​it,​ ​everybody’s​ ​super​ ​into
+it.
+Jenny:​​ ​I​ ​guess​ ​so.
+Kristin:​​ ​Yeah,​ ​and​ ​I—​ ​so.​ ​[sighs]​ ​So​ ​then—​ ​right.​ ​There’s​ ​a​ ​moment​ ​that
+happens​ ​here,​ ​because​ ​this​ ​is​ ​a​ ​very​ ​frantic​ ​scene.​ ​You’ve​ ​got,​ ​you​ ​know,
+them​ ​all​ ​in​ ​the​ ​room​ ​trying​ ​to​ ​get​ ​this​ ​spell​ ​to​ ​unswitch​ ​the​ ​bodies​ ​and​ ​to
+undo​ ​everybody—​ ​undo​ ​Cordelia’s​ ​blindness,​ ​wherever​ ​she​ ​is,​ ​by​ ​the​ ​way.
+Not​ ​on​ ​the​ ​cheerleading​ ​team,​ ​‘cause​ ​she​ ​doesn’t​ ​have​ ​eyes.
+Jenny:​​ ​No.
+Kristin:​​ ​And​ ​we’re​ ​seeing​ ​the​ ​game,​ ​and​ ​it’s​ ​all​ ​very​ ​like,​ ​loud​ ​and
+whatever.​ ​And​ ​then​ ​they​ ​start​ ​seeing​ ​each​ ​other’s​ ​visions,​ ​the​ ​mom​ ​and
+Amy.
+Jenny:​​ ​Yes.
+
+
+Kristin:​​ ​And​ ​the​ ​witch​ ​realizes​ ​this​ ​and,​ ​well,​ ​falls,​ ​first​ ​of​ ​all,​ ​off​ ​of​ ​the
+cheerleading​ ​pyramid.​ ​But​ ​then​ ​leaves​ ​the​ ​room,​ ​and​ ​here​ ​come​ ​the
+Slayerettes.
+Jenny:​​ ​Yay!
+Kristin:​​ ​Go​ ​Slayerettes​ ​go!​ ​There’s​ ​a​ ​cheer.
+Jenny:​​ ​Ha!
+Kristin:​​ ​But​ ​this​ ​is​ ​like,​ ​this​ ​really—​ ​I​ ​don’t​ ​know.​ ​[Speaking​ ​slowly]
+Dichotomous?​ ​Is​ ​that​ ​a​ ​word?
+Jenny:​​ ​Uhh...
+Kristin:​​ ​This​ ​is​ ​a​ ​moment​ ​that​ ​has​ ​a​ ​lot​ ​of​ ​dichotomy​ ​in​ ​it.​ ​Is​ ​that​ ​better?
+Jenny:​ ​Duality?
+Kristin:​​ ​Well...​ ​it​ ​has—​ ​oh.​ ​You​ ​can​ ​just​ ​say​ ​it​ ​has​ ​dichotomy?​ ​There​ ​is—
+how​ ​do​ ​you?
+Jenny:​​ ​I​ ​don’t​ ​know.
+Kristin:​​ ​There’s​ ​a​ ​dichotomy​ ​between—​ ​is​ ​that​ ​better​ ​for​ ​you?
+Jenny:​​ ​I​ ​think​ ​so.
+Kristin:​​ ​Live​ ​grammar​ ​check,​ ​on​ ​air.​ ​[Jenny​ ​laughs]​ ​There’s​ ​this​ ​huge
+dichotomy​ ​between​ ​the​ ​way​ ​that​ ​the​ ​witch​ ​deals​ ​with​ ​Xander,​ ​and​ ​then
+deals​ ​with​ ​Willow.​ ​She​ ​like,​ ​conjures​ ​all​ ​of​ ​this​ ​magic​ ​to​ ​grab​ ​Xander’s​ ​neck
+without—
+Jenny:​​ ​And​ ​squeeze​ ​it!
+Kristin:​​ ​Squeeze​ ​it​ ​and​ ​throw​ ​him​ ​to​ ​the​ ​floor​ ​without​ ​touching​ ​him,​ ​and
+you’re​ ​like,​ ​wow,​ ​look​ ​at​ ​this​ ​witch,​ ​she’s​ ​got—
+Jenny:​​ ​So​ ​much​ ​magic!
+
+
+Kristin:​​ ​So​ ​much​ ​magic!​ ​And​ ​then​ ​she​ ​turns​ ​around​ ​and​ ​just,​ ​boom​!​ ​Willow
+in​ ​the​ ​side​ ​of​ ​the​ ​face.​ ​[Jenny​ ​laughs]​ ​Knocks​ ​her​ ​to​ ​the​ ​ground.
+Jenny:​​ ​Pretty​ ​great.
+Kristin:​​ ​Pretty​ ​great.​ ​And​ ​I​ ​think​ ​that​ ​a​ ​lot​ ​of—​ ​you​ ​know,​ ​without​ ​getting
+too​ ​ahead​ ​of​ ​ourselves​ ​here.​ ​There’s​ ​a​ ​lot​ ​of​ ​that​ ​in​ ​the​ ​demons​ ​and
+monsters​ ​of​ ​Sunnydale,​ ​right?​ ​They’re​ ​not—​ ​they’re​ ​never​ ​just​ ​one​ ​thing.
+Jenny:​​ ​No,​ ​no,​ ​they’re​ ​monstrous​ ​and​ ​they’re​ ​human.
+Kristin:​​ ​Yeah.
+Jenny:​​ ​And​ ​those​ ​things​ ​mix​ ​together​ ​to​ ​varied​ ​and​ ​delightful​ ​results.
+Kristin:​​ ​Yeah,​ ​and​ ​that​ ​was​ ​a​ ​delightful​ ​moment.
+Jenny:​​ ​Yes.​ ​Also,​ ​how​ ​about​ ​Willow’s​ ​distraction​ ​technique?​ ​“I​ ​could​ ​help
+you!”​ ​[Kristin​ ​laughs]​ ​“You​ ​know,​ ​with​ ​your​ ​witchcraft!​ ​I​ ​know​ ​this​ ​really
+good​ ​cauldron!”​ ​Pretty​ ​great.
+Kristin:​​ ​Yeah,​ ​yeah,​ ​I​ ​didn’t​ ​see​ ​that​ ​coming.​ ​I​ ​thought​ ​she​ ​was​ ​gonna
+pretend​ ​to​ ​be—​ ​like,​ ​I​ ​thought​ ​she​ ​was​ ​gonna​ ​be​ ​like,​ ​“I​ ​could​ ​help​ ​you​ ​with
+your​ ​homework​ ​for​ ​science.”​ ​Like,​ ​I​ ​didn’t​ ​think​ ​she​ ​was​ ​gonna​ ​reveal—
+Jenny:​​ ​Right.​ ​Ha!
+Kristin:​​ ​Anyway,​ ​then​ ​down​ ​Willow​ ​goes.​ ​And​ ​then,​ ​you​ ​know...​ ​there’s​ ​a​ ​lot
+to​ ​talk​ ​about​ ​in​ ​this​ ​scene.​ ​So​ ​I​ ​don’t​ ​know​ ​how​ ​many—​ ​the​ ​witch
+confrontation​ ​scene.
+Jenny:​​ ​Mmm.
+Kristin:​​ ​Because​ ​the​ ​witch​ ​is​ ​trying​ ​to​ ​hack​ ​down​ ​the​ ​door.​ ​Giles​ ​is...​ ​like,
+plunging​ ​his​ ​body​ ​parts​ ​into​ ​liquid​ ​to—
+Jenny:​​ ​Magic​ ​liquid.
+
+
+Kristin:​​ ​Magic​ ​liquid.​ ​I​ ​mean,​ ​Giles​ ​is—
+Jenny:​​ ​He’s​ ​all​ ​in.
+Kristin:​​ ​He’s​ ​all​ ​in​ ​and​ ​like,​ ​that,​ ​I​ ​think,​ ​is​ ​really​ ​important​ ​and​ ​we’ll​ ​see
+that​ ​develop​ ​more​ ​and​ ​more​ ​as​ ​the​ ​series​ ​goes​ ​on.​ ​But,​ ​you​ ​know,​ ​Giles​ ​is
+just​ ​like,​ ​this​ ​really​ ​paternal,​ ​protective​ ​figure​ ​to​ ​Buffy.​ ​And​ ​just​ ​cares​ ​about
+her​ ​way​ ​past​ ​just​ ​being​ ​her​ ​watcher.​ ​Definitely,​ ​like,​ ​you​ ​know,​ ​just​ ​wants​ ​to
+take​ ​care​ ​of​ ​her​ ​and​ ​make​ ​sure​ ​she’s​ ​safe.​ ​And​ ​he​ ​puts,​ ​like,​ ​his​ ​jacket
+under​ ​her​ ​head​ ​in​ ​this​ ​scene​ ​and,​ ​you​ ​know.​ ​He’s​ ​really—​ ​he’s​ ​putting
+himself—​ ​he’s​ ​trying​ ​things​ ​he​ ​says​ ​he’s​ ​never​ ​done—​ ​he’s​ ​never​ ​cast​ ​a​ ​spell
+like​ ​this​ ​before.​ ​This​ ​is​ ​the​ ​first​ ​time​ ​he’s​ ​doing​ ​it.
+Jenny:​​ ​Mm-hmm,​ ​mm-hmm.
+Kristin:​​ ​And​ ​it​ ​isn’t​ ​until,​ ​I​ ​feel—​ ​it’s​ ​not​ ​until​ ​he​ ​needs​ ​it​ ​the​ ​most​ ​that​ ​it​ ​is
+effective.​ ​Right,​ ​like​ ​the​ ​witch​ ​is​ ​in​ ​the​ ​room​ ​and​ ​she’s​ ​about​ ​to​ ​die​ ​and​ ​he’s
+screams—​ ​I​ ​don’t​ ​remember​ ​the​ ​words​ ​that​ ​he​ ​screams,​ ​but​ ​he,​ ​like—​ ​he’s
+saying​ ​them​ ​over—
+Jenny:​​ ​“Release​ ​the​ ​unworthy.”
+Kristin:​​ ​Ugh,​ ​thank​ ​goodness​ ​for​ ​you​ ​and​ ​your​ ​attention​ ​to​ ​detail.​ ​[Jenny
+laughs]​ ​But​ ​yeah,​ ​he​ ​has​ ​said​ ​“release​ ​the​ ​unworthy”​ ​so​ ​many​ ​times​ ​to​ ​no
+avail.​ ​And​ ​then—
+Jenny:​​ ​And​ ​then​ ​he​ ​really​ ​means​ ​it.
+Kristin:​​ ​And​ ​then​ ​he​ ​really​ ​means​ ​it,​ ​and​ ​that’s​ ​the​ ​thing​ ​about​ ​magic,​ ​you
+know?​ ​You​ ​gotta​ ​really​ ​mean​ ​it.​ ​[Jenny​ ​laughs]​ ​I’m​ ​serious.​ ​[laughs]
+Anyway.
+Jenny:​​ ​So.
+Kristin:​​ ​So​ ​here​ ​we​ ​are.
+Jenny:​ ​Uh,​ ​bodies​ ​get​ ​switched​ ​back​ ​to​ ​their​ ​appropriate...​ ​owner​ ​minds.
+Kristin:​​ ​No​ ​one​ ​thinks​ ​about​ ​the​ ​fact​ ​that​ ​when​ ​the​ ​bodies​ ​switch​ ​back—
+
+
+Jenny:​​ ​Oh​ ​my​ ​god.​ ​Foresight!
+Kristin:​​ ​That​ ​means​ ​a​ ​witch​ ​will​ ​be​ ​in​ ​the​ ​room​ ​still!
+Jenny:​​ ​But​ ​I​ ​mean,​ ​there’s​ ​a​ ​lot​ ​more​ ​important,​ ​pressing​ ​things​ ​to​ ​think
+about,​ ​like​ ​Buffy’s​ ​gonna​ ​die.​ ​So—
+Kristin:​​ ​Right.​ ​I​ ​guess.​ ​But​ ​I​ ​do—​ ​I​ ​hope​ ​they​ ​just​ ​get—​ ​they​ ​take​ ​some
+notes​ ​on​ ​these​ ​incidents​ ​so​ ​that,​ ​in​ ​the​ ​future,​ ​when​ ​they’re​ ​doing​ ​a​ ​body
+switch,​ ​they​ ​know,​ ​hey,​ ​that​ ​still​ ​means​ ​the​ ​witch​ ​is​ ​here.​ ​We​ ​should
+probably​ ​have​ ​some​ ​way​ ​to​ ​deal​ ​with​ ​her.​ ​[Jenny​ ​laughs]​ ​I​ ​thought,​ ​by​ ​the
+way,​ ​that​ ​the​ ​witch​ ​was​ ​gonna​ ​get​ ​beheaded.
+Jenny:​​ ​Yeah,​ ​I​ ​think...​ ​three​ ​episodes​ ​into​ ​this​ ​series​ ​might​ ​be​ ​a​ ​little​ ​early
+for​ ​a​ ​beheading.​ ​Given​ ​the​ ​time,​ ​you​ ​know.
+Kristin:​​ ​I​ ​guess,​ ​but​ ​like,​ ​they​ ​planted​ ​the​ ​seed,​ ​you​ ​know?
+Jenny:​​ ​Totally​ ​and,​ ​you​ ​know,​ ​maybe​ ​we’ll​ ​get​ ​to​ ​see​ ​some​ ​witches​ ​get
+beheaded​ ​later​ ​on​ ​in​ ​the​ ​series.​ ​But​ ​I​ ​feel​ ​like​ ​they​ ​couldn’t​ ​go​ ​there​ ​quite
+yet.​ ​Interesting​ ​moments​ ​in​ ​the​ ​fight​ ​situation...​ ​just​ ​wanted​ ​to​ ​say—
+Kristin:​​ ​Mm-hmm.
+Jenny:​​ ​Has​ ​there​ ​ever​ ​been​ ​anything​ ​better​ ​than​ ​Buffy​ ​the​ ​Vampire​ ​Slayer
+getting​ ​thrown​ ​into​ ​the​ ​periodic​ ​table​ ​of​ ​the​ ​elements?
+Kristin:​​ ​Nothing​ ​better.
+Jenny:​​ ​So​ ​great!
+Kristin:​​ ​Oh,​ ​that​ ​was​ ​so​ ​good.
+Jenny:​​ ​I​ ​wanna​ ​get​ ​thrown​ ​into​ ​the​ ​periodic​ ​table​ ​of​ ​the​ ​elements!
+Kristin:​​ ​[laughs]​ ​Okay,​ ​I’m—​ ​can​ ​I​ ​make​ ​a​ ​request​ ​for​ ​the​ ​song​ ​this​ ​week?
+Jenny:​​ ​Yes.
+
+
+Kristin:​​ ​Can​ ​you​ ​please​ ​include​ ​being​ ​thrown​ ​into​ ​the​ ​periodic​ ​table​ ​of
+elements​ ​in​ ​your—
+Jenny:​ ​[softly]​ ​The​ ​periodic​ ​table​ ​of​ ​the​ ​elem—​ ​that​ ​is​ ​so​ ​many​ ​syllables.
+[Kristin​ ​laughs]​ ​I​ ​will​ ​try.
+Kristin:​​ ​No,​ ​come​ ​on.
+Jenny:​​ ​I’ll​ ​do​ ​my​ ​best!
+Kristin:​​ ​Okay.
+Jenny:​​ ​Yes,​ ​I’ll​ ​make​ ​it​ ​happen.
+Kristin:​​ ​Yes!​ ​It​ ​deserves​ ​to​ ​be​ ​in​ ​there,​ ​it’s​ ​a​ ​great—​ ​that’s​ ​a​ ​great​ ​thing.
+[Jenny​ ​laughs]​ ​I​ ​liked​ ​that​ ​moment​ ​too.​ ​And​ ​then,​ ​just​ ​like​ ​in​ ​the​ ​gym,​ ​with
+this—​ ​when​ ​she​ ​knew​ ​that​ ​a​ ​flag​ ​was​ ​hanging​ ​behind​ ​her.​ ​You​ ​know?​ ​Buffy
+knows​ ​that—​ ​she​ ​sees​ ​the​ ​mirror.
+Jenny:​​ ​Yeah.
+Kristin:​​ ​She​ ​does​ ​all​ ​the​ ​reasoning​ ​that​ ​needs​ ​to​ ​be​ ​done​ ​in​ ​the​ ​time​ ​that​ ​it
+takes​ ​for​ ​the​ ​witch​ ​to​ ​cast​ ​this​ ​horrible​ ​spell.
+Jenny:​​ ​Mm-hmm.
+Kristin:​​ ​Kicks​ ​the​ ​mirror​ ​down​ ​and​ ​blammo.
+Jenny:​​ ​Yeah,​ ​she’s​ ​got​ ​total​ ​situational​ ​awareness.​ ​Just​ ​like​ ​Archer.
+Kristin:​​ ​Ugh,​ ​also​ ​she​ ​has,​ ​like—​ ​right!​ ​Just​ ​like​ ​Archer.
+Jenny:​​ ​Mm-hmm.
+Kristin:​​ ​Yeah,​ ​she​ ​really​ ​does.​ ​She’s​ ​on​ ​it.​ ​But​ ​she’s​ ​so​ ​on​ ​it​ ​that​ ​she​ ​can
+even​ ​make​ ​jokes.​ ​Like—
+Jenny:​​ ​She’s​ ​got​ ​time​ ​to​ ​quip.
+
+
+Kristin:​​ ​She​ ​does!​ ​She​ ​always​ ​has​ ​time​ ​to​ ​quip,​ ​that​ ​Buffy.​ ​She​ ​says,
+“Guess​ ​what?​ ​I​ ​feel​ ​better”​ ​before​ ​she​ ​starts​ ​fighting​ ​back.​ ​[Jenny​ ​laughs]
+And​ ​you’re​ ​like,​ ​hell​ ​yeah!​ ​You​ ​know?​ ​She’s​ ​got​ ​all​ ​the​ ​time​ ​in​ ​the​ ​world.
+Buffy’s​ ​like,​ ​whatever​ ​and​ ​now​ ​you’re​ ​gonna​ ​die,​ ​so.​ ​Although​ ​I​ ​guess​ ​she
+didn’t​ ​die,​ ​the​ ​witch.
+Jenny:​​ ​Okay​ ​so,​ ​yeah.​ ​“I​ ​shall​ ​look​ ​upon​ ​my​ ​enemy​ ​and​ ​the​ ​dark​ ​place​ ​shall
+have​ ​her​ ​soul,”​ ​saith​ ​the​ ​witch.
+Kristin:​​ ​Oh​ ​my​ ​god.
+Jenny:​​ ​That​ ​is​ ​the​ ​spell​ ​that​ ​gets​ ​reflected​ ​back​ ​at​ ​the​ ​witch​ ​and​ ​what​ ​takes
+her​ ​away.​ ​So...​ ​apparently,​ ​“the​ ​dark​ ​place”​ ​is​ ​the​ ​inside​ ​of​ ​a​ ​cheerleading
+trophy?
+Kristin:​​ ​[laughs]​ ​Well,​ ​maybe—
+Jenny:​​ ​Maybe​ ​it’s​ ​personalized​ ​to​ ​like—
+Kristin:​​ ​Yes.
+Jenny:​​ ​The​ ​place​ ​you​ ​least​ ​wanna​ ​be​ ​trapped​ ​or​ ​like,​ ​the​ ​most​ ​painful​ ​place
+for​ ​you​ ​to​ ​be​ ​trapped,​ ​because​ ​like,​ ​it’s​ ​sort​ ​of​ ​a​ ​symbol​ ​for​ ​her​ ​lost​ ​youth
+and​ ​her​ ​glory​ ​days​ ​that​ ​is​ ​all​ ​she​ ​want—
+Kristin:​​ ​Yeah.
+Jenny:​​ ​Okay,​ ​okay.​ ​I’m​ ​on​ ​board,​ ​I’m​ ​on​ ​board.
+Kristin:​​ ​And​ ​she​ ​has​ ​to​ ​like,​ ​look​ ​out​ ​at​ ​high​ ​school​ ​every​ ​day.
+Jenny:​​ ​Every​ ​single​ ​day.
+Kristin:​​ ​Without​ ​being​ ​able​ ​to​ ​participate​ ​in​ ​it,​ ​so​ ​I​ ​do​ ​think​ ​that​ ​it​ ​is
+customized.
+Jenny:​​ ​Okay,​ ​so​ ​what​ ​have​ ​we​ ​not​ ​talked​ ​about​ ​in​ ​this​ ​episode?​ ​What’s​ ​left?
+
+
+Kristin:​​ ​Well,​ ​I​ ​mean,​ ​that’s​ ​an​ ​open​ ​question.​ ​You​ ​know,​ ​we​ ​could​ ​do​ ​a
+six-hour​ ​episode​ ​on​ ​every​ ​episode​ ​if​ ​we​ ​wanted​ ​to.​ ​But​ ​there​ ​are—​ ​there’s
+just​ ​a​ ​couple​ ​things​ ​that​ ​I​ ​wanna​ ​touch​ ​on​ ​that​ ​are​ ​small​ ​before​ ​we​ ​wrap​ ​up.
+One​ ​is—​ ​I​ ​mentioned​ ​there​ ​was​ ​a​ ​moment​ ​that​ ​Willow​ ​had​ ​that​ ​I​ ​really,
+really​ ​loved​ ​as​ ​the​ ​Slayerette​ ​that​ ​she​ ​is.​ ​And​ ​this​ ​is​ ​the​ ​moment:​ ​so​ ​she
+gets​ ​punched​ ​in​ ​the​ ​face​ ​by​ ​the​ ​witch.
+Jenny:​​ ​Mm-hmm.
+Kristin:​​ ​Down.​ ​Like,​ ​and​ ​it’s​ ​a​ ​punch​.​ ​If​ ​you​ ​go​ ​back​ ​and​ ​you​ ​watch​ ​that
+punch,​ ​that’s​ ​a—​ ​she​ ​really...​ ​right-hooks​ ​her.​ ​[Jenny​ ​laughs]​ ​Or​ ​something.
+Jenny:​​ ​That​ ​sounded​ ​really​ ​good.
+Kristin:​​ ​I​ ​don’t​ ​know​ ​what—​ ​how​ ​you​ ​call​ ​punches.​ ​So​ ​she​ ​goes​ ​down,​ ​and
+not​ ​that​ ​long​ ​later,​ ​in​ ​rushes​ ​Willow​ ​with​ ​a​ ​fucking​ ​baseball​ ​bat.
+Jenny:​​ ​Ready​ ​to​ ​tango!
+Kristin:​​ ​Ready​ ​to​ ​go​ ​again!​ ​And​ ​so​ ​does​ ​Xander,​ ​too.​ ​I​ ​just—​ ​Willow,​ ​I​ ​was
+even​ ​more​ ​impressed​ ​with​ ​because​ ​she​ ​had​ ​just​ ​gotten​ ​slugged​ ​in​ ​the​ ​face.
+Jenny:​​ ​Yeah.
+Kristin:​​ ​And​ ​was​ ​like,​ ​I’m​ ​back,​ ​ready​ ​for​ ​more.​ ​I’m​ ​here.​ ​Where​ ​is​ ​Buffy?
+We​ ​need​ ​to​ ​make​ ​sure​ ​she’s​ ​okay​ ​because​ ​we​ ​are​ ​the​ ​Slayerettes.
+Jenny:​​ ​Yeah.​ ​Hella​ ​stick-to-it-iveness.
+Kristin:​​ ​Yeah!​ ​So​ ​that​ ​was​ ​my—
+Jenny:​ ​Pretty​ ​great.
+Kristin:​​ ​That​ ​was​ ​a​ ​thing​ ​that​ ​I​ ​just​ ​wanted​ ​to​ ​touch​ ​on.​ ​And​ ​then...​ ​and
+then​ ​last​ ​but​ ​never​ ​least,​ ​Cordelia’s​ ​back​ ​at​ ​the​ ​end.​ ​[laughter]​ ​And​ ​my​ ​note
+was,​ ​“Cordelia,​ ​what​ ​about​ ​your​ ​eyes?​ ​LOLOLOL.”​ ​[laughter]​ ​There’s​ ​just—
+she’s​ ​like,​ ​back​ ​on​ ​the​ ​team.​ ​Right?​ ​Doesn’t​ ​she​ ​say​ ​she’s​ ​back​ ​on​ ​the​ ​team?
+Jenny:​​ ​Yeah,​ ​yeah.
+
+
+Kristin:​​ ​So​ ​sorry​ ​that​ ​Amy​ ​and​ ​Buffy​ ​are​ ​off​ ​the​ ​team​ ​again.​ ​[Jenny​ ​laughs]
+And​ ​like,​ ​there’s​ ​no​ ​mention​ ​of​ ​the​ ​fact​ ​that​ ​she​ ​like,​ ​crashed​ ​a​ ​car,​ ​went
+blind.
+Jenny:​​ ​Right.​ ​Well,​ ​there’s​ ​a​ ​certain​ ​amount​ ​of...​ ​ongoing​ ​denial​ ​required​ ​if
+you’re​ ​gonna​ ​be​ ​a​ ​resident​ ​of​ ​Sunnydale.
+Kristin:​​ ​Of​ ​Sunnydale,​ ​yeah.​ ​At​ ​the​ ​hellmouth.
+Jenny:​​ ​Mm-hmm.
+Kristin:​​ ​But​ ​yeah,​ ​just—​ ​Cordy,​ ​ready​ ​to​ ​go,​ ​ready​ ​to​ ​do​ ​her​ ​cheers​ ​again.
+Jenny:​​ ​Oh​ ​yeah.
+Kristin:​​ ​But​ ​yeah,​ ​no,​ ​I​ ​really—​ ​I​ ​like​ ​this​ ​episode.​ ​I​ ​think,​ ​you​ ​know—​ ​and
+Jenny​ ​and​ ​I​ ​have​ ​talked​ ​about​ ​this​ ​a​ ​little​ ​bit​ ​off-screen.​ ​What​ ​do​ ​call​ ​it,
+when​ ​it’s​ ​a​ ​podcast?
+Jenny:​​ ​Air.​ ​Off-air.
+Kristin:​​ ​Off-air​.​ ​I’m​ ​new​ ​to​ ​this​ ​podcast​ ​thing.​ ​[Jenny​ ​laughs]​ ​Off-air,​ ​we’ve
+talked​ ​a​ ​little​ ​bit​ ​about​ ​this​ ​episode​ ​because​ ​I​ ​feel—​ ​there​ ​are​ ​a​ ​lot​ ​of
+touchstones​ ​missing.​ ​We​ ​mentioned​ ​at​ ​the​ ​beginning,​ ​like,​ ​we​ ​don’t​ ​have
+The​ ​Bronze,​ ​we​ ​don’t​ ​have​ ​Angel.​ ​There’s​ ​no​ ​vampires​.
+Jenny:​​ ​Yeah.
+Kristin:​​ ​For​ ​one,​ ​and​ ​so​ ​there’s​ ​a​ ​different​ ​energy​ ​to​ ​this​ ​episode,​ ​I​ ​think,
+than​ ​others.​ ​And​ ​so...​ ​you​ ​know,​ ​I​ ​felt​ ​a​ ​little​ ​bit​ ​like,​ ​ahh,​ ​what​ ​are​ ​we
+gonna—​ ​how’re​ ​we​ ​gonna​ ​go​ ​into​ ​this​ ​one?​ ​What​ ​do​ ​we​ ​talk​ ​about​ ​and​ ​how
+do​ ​we​ ​tackle​ ​it?​ ​And​ ​I​ ​think—​ ​I​ ​mean,​ ​we’ll​ ​have,​ ​I’m​ ​sure,​ ​more​ ​episodes
+like​ ​that,​ ​that​ ​are​ ​sort​ ​of​ ​different​ ​in​ ​all​ ​these​ ​different​ ​little​ ​ways.​ ​But​ ​yeah,
+I​ ​thought​ ​it​ ​was​ ​a​ ​really​ ​good​ ​episode.
+Jenny:​​ ​Yeah.​ ​Super​ ​fun.​ ​So​ ​fun.
+Kristin:​​ ​Super​ ​fun—​ ​super​ ​fun...​ ​what​ ​do​ ​you​ ​call​ ​that​ ​stuff​ ​in​ ​the​ ​cauldron?
+
+
+Jenny:​​ ​Uh,​ ​slime?
+Kristin:​​ ​Slime?​ ​Super​ ​fun​ ​slime.
+Jenny:​​ ​Stew?
+Kristin:​​ ​Super​ ​fun​ ​doll​ ​stew.
+Jenny:​​ ​Ha!
+Kristin:​​ ​Super​ ​fun​ ​dried​ ​herbs.​ ​You​ ​know,​ ​we​ ​got—
+Jenny:​​ ​So​ ​much​ ​body​ ​switching.
+Kristin:​​ ​Yeah.​ ​The​ ​body​ ​switching​ ​was​ ​pretty​ ​serious.​ ​And​ ​now​ ​we​ ​know
+forever​ ​that​ ​that​ ​witch​ ​is—​ ​I​ ​guess​ ​that​ ​witch​ ​just​ ​lives​ ​in​ ​Sunnydale​ ​High
+School.
+Jenny:​​ ​In​ ​the​ ​trophy​ ​case.
+Kristin:​​ ​In​ ​the​ ​trophy​ ​case.​ ​Yeah.
+Jenny:​​ ​Wow.
+Kristin:​​ ​Cool.
+Jenny:​​ ​Well.​ ​[laughs]
+Kristin:​​ ​On​ ​that​ ​note!
+Jenny:​​ ​I​ ​think​ ​that’s​ ​everything.​ ​[Kristin​ ​laughs]​ ​I’m​ ​Jenny​ ​Owen​ ​Youngs
+and​ ​it’s​ ​been​ ​my​ ​pleasure​ ​to​ ​serve​ ​you​ ​this​ ​evening.​ ​[Kristin​ ​laughs]​ ​You​ ​can
+find​ ​me​ ​on​ ​Twitter,​ ​@jennyowenyoungs.
+Kristin:​​ ​And​ ​I’m​ ​Kristin​ ​Russo,​ ​and​ ​if​ ​you’re​ ​listening​ ​to​ ​this​ ​not​ ​in​ ​the
+evening,​ ​it’s​ ​been​ ​my​ ​pleasure​ ​to​ ​serve​ ​you​ ​at​ ​any​ ​time​ ​of​ ​day.​ ​[Jenny
+laughs]​ ​You​ ​can​ ​find​ ​me​ ​on​ ​Twitter​ ​@kristinnoeline,​ ​which​ ​is​ ​so​ ​hard​ ​to​ ​spell.
+It​ ​is​ ​K-R-I-S-T-I-N-N-O-E-L-I-N-E.​ ​Or​ ​just​ ​@everyoneisgay​ ​and​ ​if​ ​you’re
+
+
+looking​ ​to​ ​follow​ ​us​ ​as​ ​a​ ​duo​ ​in​ ​the​ ​Buffy​ ​form,​ ​you​ ​can​ ​follow​ ​us​ ​on​ ​Twitter
+@bufferingcast​ ​or​ ​you​ ​can​ ​find​ ​us​ ​on​ ​Facebook​ ​at​ ​forward-slash
+BufferingCast.
+Jenny:​​ ​Wow,​ ​oh​ ​my​ ​gosh.​ ​We​ ​can’t​ ​wait​ ​to​ ​talk​ ​to​ ​you​ ​more​ ​next​ ​week.​ ​But
+between​ ​now​ ​and​ ​then,​ ​if​ ​you​ ​really​ ​miss​ ​us,​ ​it​ ​would​ ​be​ ​so​ ​swell​ ​if​ ​you
+could​ ​leave​ ​us​ ​a​ ​review​ ​on​ ​iTunes.​ ​That​ ​would​ ​help​ ​more​ ​people​ ​like​ ​you
+who​ ​like​ ​things​ ​like​ ​you​ ​do,​ ​to​ ​find​ ​this​ ​podcast.​ ​And​ ​we’ll​ ​expand​ ​our​ ​world
+and​ ​build​ ​our​ ​community​ ​and​ ​be​ ​so​ ​beautiful!
+Kristin:​​ ​It’s​ ​gonna​ ​be​ ​great.
+Jenny:​​ ​Yeah.
+Kristin:​​ ​Can’t​ ​wait​ ​for​ ​Episode​ ​4.
+Jenny:​​ ​Me​ ​neither.​ ​Till​ ​then...
+Both:​​ ​AWWOOOOOOOOO!
+[Jenny​ ​performing​ ​“Witch,”​ ​off​ ​the​ ​album​ ​“Songs​ ​from​ ​Season​ ​One”​ ​by
+Buffering​ ​the​ ​Vampire​ ​Slayer​]
+Well​ ​it’s​ ​tryouts​ ​week​ ​and​ ​I’m​ ​so​ ​excited,
+I’d​ ​really​ ​like​ ​to​ ​lead​ ​some​ ​cheers!
+But​ ​the​ ​competition​ ​is​ ​super​ ​tight
+and​ ​things​ ​are​ ​getting​ ​pretty​ ​weird
+Spontaneous​ ​human​ ​combustion​ ​occurred,
+much​ ​to​ ​Giles’​ ​delight
+If​ ​Cordelia​ ​can’t​ ​see​ ​her​ ​own​ ​face​ ​in​ ​the​ ​mirror,
+what​ ​is​ ​the​ ​point​ ​of​ ​life?
+In​ ​an​ ​attic,​ ​there’s​ ​a​ ​cauldron​ ​full​ ​of​ ​something​ ​green
+And​ ​whoever’s​ ​doing​ ​magic​ ​has​ ​it​ ​in​ ​for​ ​me
+yeah​ ​everybody​ ​knows​ ​that​ ​Amy’s​ ​mom​ ​is​ ​a​ ​total​ ​*ahem*
+Better​ ​watch​ ​out​ ​for​ ​that​ ​witch
+Now​ ​I’m​ ​hella​ ​hexed,​ ​and​ ​I’m​ ​feeling​ ​wasted
+
+
+Soon​ ​I​ ​could​ ​be​ ​feeling​ ​dead
+But​ ​sometimes​ ​the​ ​only​ ​way​ ​forward’s​ ​gettin’
+Thrown​ ​into​ ​the​ ​periodic​ ​table​ ​of​ ​the​ ​elements
+I’ll​ ​kick​ ​down​ ​a​ ​mirror,​ ​reflecting​ ​her​ ​own​ ​spell
+right​ ​back​ ​in​ ​her​ ​witch​ ​face
+And​ ​she​ ​will​ ​remain,​ ​forever​ ​and​ ​always
+trapped​ ​in​ ​a​ ​trophy​ ​case
+And​ ​I​ ​really​ ​can’t​ ​get​ ​that​ ​mad​ ​at​ ​her
+Cause​ ​I​ ​also​ ​want​ ​to​ ​be​ ​a​ ​cheerleader
+But​ ​everybody​ ​knows​ ​it’s​ ​rude​ ​to​ ​perform​ ​a​ ​body​ ​switch
+Gotta​ ​watch​ ​out​ ​for​ ​that​ ​witch
+
+
