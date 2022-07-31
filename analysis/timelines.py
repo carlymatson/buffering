@@ -1,13 +1,11 @@
 import json
 from datetime import datetime
-import random
-from pprint import pprint
 from typing import Optional
 
 import streamlit as st
 from streamlit_timeline import timeline
 
-from analysis.dataframe import create_full_dataframe, load_air_dates
+from analysis.dataframe import load_air_dates
 
 
 season_dates = [
@@ -102,8 +100,8 @@ def ep_type(ep: str) -> str:
     return "Special Episode"
 
 
-def load_jingle_data():
-    with open("data/jingle_data.json", "r") as f:
+def load_jingle_dates():
+    with open("data/jingle_debut_dates.json", "r") as f:
         data = json.load(f)
     return data
 
@@ -126,7 +124,7 @@ def show_special_episodes():
         Event(headline=ep, start_date=airdate, group=ep_types[ep])
         for (ep, airdate) in special_eps
     ]
-    jingle_debut_data = load_jingle_data()
+    jingle_debut_data = load_jingle_dates()
     jingle_debuts = [
         Event(
             headline=name,

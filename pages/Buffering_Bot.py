@@ -1,14 +1,8 @@
-import random
-import re
-from typing import Iterable
-
 import streamlit as st
 
 from podbot.chatbot import (
     PodBot,
     get_trained_host_bot,
-    strip_spacing_before_punctuation,
-    tokenize_text,
 )
 
 state = st.session_state
