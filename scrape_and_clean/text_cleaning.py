@@ -140,7 +140,7 @@ def count_speakers(text):
 
 
 def write_cleaned_transcripts(transcripts):
-    cleaned_dir = Path("./cleaned2")
+    cleaned_dir = Path("./cleaned")
     for file, transcript in transcripts.items():
         text = clean_transcript(transcript)
         filepath = cleaned_dir / f"{file}.txt"

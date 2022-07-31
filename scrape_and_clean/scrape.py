@@ -28,7 +28,7 @@ def get_filename_from_link(url: str) -> str:
 
 
 def download_from_dropbox(link: str, filename: Optional[str] = None) -> None:
-    pdf_dir = Path("./data/pdfs2")
+    pdf_dir = Path("./data/pdfs")
     if filename is None:
         filename = get_filename_from_link(link)
     filepath = pdf_dir / filename

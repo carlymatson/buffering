@@ -1,2 +1,4 @@
 venv
 .vscode
+scrape_and_clean
+data/pdfs

@@ -45,7 +45,7 @@ def clean_filename(s: str) -> str:
 
 def convert_all_pdfs() -> None:
     data_dir = Path("./data")
-    pdf_dir = data_dir / "pdfs2"
+    pdf_dir = data_dir / "pdfs"
     text_dir = data_dir / "converted2"
     for filepath in pdf_dir.iterdir():
         transcript = get_pdf_text(filepath)

@@ -8,7 +8,7 @@ import podbot.chatbot as chatbot
 
 PDF_DIR = Path("./episodes")
 CONVERTED_DIR = Path("./converted")
-CLEANED_DIR = Path("./cleaned2")
+CLEANED_DIR = Path("./cleaned")
 
 
 def read_text(filename: str) -> str:
