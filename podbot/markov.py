@@ -37,8 +37,6 @@ class MarkovBot:
     def generate_random_token(self):
         pair = self.get_last_pair()
         options = self.probabilities[pair]
-        print("Pair: ", pair)
-        print("Options: ", options)
         next_token = random.choice(options)
         if next_token is not None:
             self.tokens.append(next_token)

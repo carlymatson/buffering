@@ -8,6 +8,33 @@ from podbot.chatbot import (
 state = st.session_state
 
 
+def about():
+    st.header("About")
+    lines = [
+        "Have you ever noticed how auto-correct picks up on your speech patterns?",
+        "Ever wished you could just have it talk for you?",
+        "Well now, with the power of [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), we can predict what word you are likely to say next!",
+        "You can use this to generate text that actually sounds like the speaker.",
+        "Does the generated text make any sense? Don't worry about it.",
+    ]
+    for line in lines:
+        st.markdown(line)
+
+    st.header("How to Use")
+    st.markdown(
+        "**Selecting a Word:** Use the drop down menu to select the next word or punctuation mark. Try typing in the drop down to filter the list of words - it can be hundreds long! The numbers indicate what percentage of the time that word would be likely to come next."
+    )
+    st.markdown(
+        "**Adding to a Sentence:** Add to a sentence by selecting a word to add, adding a random word, or randomly completing the sentence."
+    )
+    st.markdown(
+        "**Adding to the Transcript:** Click the button to add the current line to the transcript. Once you're happy with it, save that bad boy for a rainy day and clear to start a new one."
+    )
+    st.info(
+        '**Fun fact:** Kristin, Jenny, and LaToya all start 0.11\% their sentences with the word "Yeah", and it is the most common starting word for every BTVS speaker featured here (excpet for Hrishi). Wild.'
+    )
+
+
 def format_probability(pair):
     token, prob = pair
     quotes = False
@@ -44,7 +71,10 @@ def finish_sentence(speaker_bot):
     speaker_bot.bot.generate_chain()
 
 
-def add_to_transcript(speaker_bot, formatted_line):
+def add_to_transcript(speaker_bot, line):
+    if line == "":
+        return
+    formatted_line = format_line(speaker_bot, line)
     state["lines"].append(formatted_line)
     speaker_bot.bot.tokens = []
 
@@ -53,7 +83,7 @@ def unified_display():
     if "lines" not in state:
         state["lines"] = []
 
-    hosts = ["Jenny", "Kristin", "LaToya", "Morgan", "Mack", "Alba"]
+    hosts = ["Jenny", "Kristin", "LaToya", "Morgan", "Mack", "Alba", "Joanna", "Hrishi"]
 
     cols = st.columns(3)
     with cols[0]:
@@ -72,23 +102,20 @@ def unified_display():
     ]
     with cols[1]:
         new_token = st.selectbox(
-            "Next Word",
+            "Select Next Word",
             options=next_probs,
             format_func=format_probability,
             help="Type to filter",
         )
-        print("Options", next_probs)
-        print("New token", new_token)
         if new_token is not None:
             new_token = new_token[0]
-
-    cols = st.columns(4)
-    with cols[0]:
-        st.button("Add Word", on_click=add_word, args=[speaker_bot, new_token])
-    with cols[1]:
-        st.button("Add Random Word", on_click=add_random_token, args=[speaker_bot])
     with cols[2]:
-        st.button("Finish Sentence", on_click=finish_sentence, args=[speaker_bot])
+        st.write("")
+        st.write("")
+        st.button("Add Next Word", on_click=add_word, args=[speaker_bot, new_token])
+
+    st.button("Add Random Word", on_click=add_random_token, args=[speaker_bot])
+    st.button("Randomly Complete Line", on_click=finish_sentence, args=[speaker_bot])
 
     line = PodBot.format_sentence(speaker_bot.bot.tokens)
     formatted_line = format_line(speaker_bot, line)
@@ -96,7 +123,7 @@ def unified_display():
     st.button(
         "Add to Transcript",
         on_click=add_to_transcript,
-        args=[speaker_bot, formatted_line],
+        args=[speaker_bot, line],
     )
     transcript = "  \n\n".join(state["lines"])
     return transcript
@@ -104,12 +131,11 @@ def unified_display():
 
 def main():
 
-    st.write("# Buffering Bot")
+    st.write("# BufferBot")
+    about()
 
-    st.info(
-        "Have you ever wanted to write an episode of BTVS without having to "
-        + "think of what to say or worry about making sense? Look no further!"
-    )
+    st.header("Text Generation")
+
     exp = st.expander("Transcript", expanded=True)
     transcript = unified_display()
     with exp:

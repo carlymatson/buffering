@@ -42,7 +42,6 @@ def get_text_dataframe(filepath):
     df["ep_id"] = ep_id
     df["title"] = ep_info[0]
     dt = str(datetime.strptime(ep_info[1], "%b %d, %Y").date())
-    # print(dt)
     df["air_date2"] = pd.Timestamp(dt)
     df["air_date"] = ep_info[1]
     df["run_time"] = ep_info[2]
