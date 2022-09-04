@@ -8,7 +8,7 @@ import pandas as pd
 import streamlit as st
 
 
-transcript_dir = Path("./data/cleaned")
+transcript_dir = Path("./data/cleaned5")
 
 
 def load_air_dates():
@@ -23,28 +23,41 @@ def load_air_dates():
     return rows
 
 
+def clean_transcript(text):
+    text = re.sub("\u200b", "", text)
+    text = re.sub("", "\n", text)
+    return text
+
+
 def get_text_dataframe(filepath):
     air_dates = load_air_dates()
+    show_header, season, ep_num, title = filepath.stem.split("_", 3)
+    ep_id = f"{season}.{ep_num}"
     with filepath.open("r") as f:
-        show = f.readline().strip()
-        ep_header = f.readline().strip()
-        text = f.read()
+        transcript = f.read().strip()
+        transcript = clean_transcript(transcript)
+        show_header, ep_header, body = transcript.split("\n", 2)
     ep_header = ep_header.replace("Episode ", "")
-    ep_id, _ = [part.strip() for part in ep_header.split(":", 1)]
-    ep_info = air_dates.get((show, ep_id), None)
+    try:
+        ep_id, _ = [part.strip() for part in ep_header.split(":", 1)]
+    except Exception as e:
+        print(f"File {filepath} has improperly formatted header.")
+        pass
+    ep_info = air_dates.get((show_header, ep_id), None)
     if ep_info is None:
-        print(f"Couldn't find {(show, ep_id)}")
+        print(f"Couldn't find {(show_header, ep_id)}")
         return
     dialogue_pattern = "^(.*?): (.*)$"
-    dialogue = re.findall(dialogue_pattern, text, flags=re.MULTILINE)
+    dialogue = re.findall(dialogue_pattern, body, flags=re.MULTILINE)
     df = pd.DataFrame.from_records(dialogue, columns=["speaker", "line"])
-    df["show"] = show
+    df["show"] = show_header
     df["ep_id"] = ep_id
     df["title"] = ep_info[0]
     dt = str(datetime.strptime(ep_info[1], "%b %d, %Y").date())
-    df["air_date2"] = pd.Timestamp(dt)
+    df["episode_date"] = pd.Timestamp(dt)
     df["air_date"] = ep_info[1]
     df["run_time"] = ep_info[2]
+    df["line_num"] = df.index + 1
     return df
 
 
@@ -54,7 +67,7 @@ def create_full_dataframe():
         df = get_text_dataframe(filepath)
         df_list.append(df)
     full_df = pd.concat(df_list)
-    full_df.sort_values(by="air_date2", inplace=True)
+    full_df.sort_values(by=["episode_date", "line_num"], inplace=True)
     return full_df
 
 
@@ -83,7 +96,7 @@ def find_jingles(df):
     jingles["jingle"] = df["line"].apply(get_jingle_name)
     cols = ["speaker", "line", "jingle", "ep_id", "air_date"]
     first_plays = jingles.groupby("jingle").first()
-    cols = ["speaker", "line", "ep_id", "air_date", "air_date2"]
+    cols = ["speaker", "line", "ep_id", "air_date", "episode_date"]
     st.write(first_plays[cols])
     data = {id: first_plays.loc[id, "air_date"] for id in first_plays.index}
     st.write(data)

@@ -16,7 +16,9 @@ def main():
     pattern = st.text_input("Pattern")
     regex_df = df[df["line"].str.contains(pattern, flags=re.IGNORECASE)]
     date_counts = (
-        regex_df.groupby("air_date2").count().rename(columns={"line": "count"})["count"]
+        regex_df.groupby("episode_date")
+        .count()
+        .rename(columns={"line": "count"})["count"]
     )
     st.bar_chart(date_counts)
     st.write(regex_df)

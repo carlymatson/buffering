@@ -1,0 +1,1183 @@
+Buffering the Vampire Slayer
+Episode 1.08: I, Robot… You, Jane
+Kristin: Friends, we recorded Episode 8 a few days ago, but we are posting it in the wee hours of election night here in America. We know that many of you are feeling scared, sad, and alone. So are we. In response to some of those feelings, we wanted to share a quote from Season 4, Episode 1, "The Freshman." "When it's dark and I'm all alone and I'm scared or freaked out or whatever, I always think, what would Buffy do?" I think we all know what Buffy would do. She would gather her friends close, and she would fight. And we all know Buffy. We all know her friends. Together, they never stop fighting. Together, they hold each other up. And together, no matter how long it takes, they win. And so will we.
+NOTES: [Theme Music]
+Jenny: Hello, and welcome to Buffering the Vampire Slayer, a podcast where we're watching and discussing every episode of Buffy the Vampire Slayer, one by one. I'm Jenny Owen Youngs.
+Kristin: And I am Kristin Russo, and this week we are discussing Season 1, Episode 8, "I Robot… You, Jane". [laughs] What a title!
+Jenny: No Jane.
+Kristin: Yeah, no Jane. I get it. It's a metaphorical Jane, but like, I feel like maybe they could have… whatever. No judgment, no judgment here.
+Jenny: Stay tuned at the end of this episode and every episode for our original recap song that will tell you what happened in the episode, after we're done talking about what happened on the episode.
+Kristin: [laughing] Um, before we jump into today's discussion, we want to talk about something from last week, which is that we made a comment about the reference Darla made to quiche when talking about what Angel kept in his fridge. And we were like, "why quiche? That doesn't-- rahhh." And somebody, um, Denise P., wrote in to us and said, "Hey there. Just wanted to give an explanation of Darla's remark that Angel wasn't exactly eating quiche. I suspect that this a reference to an '80s meme, 'Real Men Don't Eat Quiche.' There was a book, you can see the cover on Amazon. It was a huge meme for many years after the book came out. Joss certainly would have known it, and it gives the line more meaning. Darla is basically implying that Angel is emasculating himself by trying to subsist on, quote, 'canned food' instead of good, fresh, manly red blood. Hope that helps, and there's your insert point for something about the patriarchy." [laughs]
+Jenny: Ha! Thank you, Denise!
+Kristin: Thank you, Denise! This is amazing. What knowledge.
+Jenny: I feel smarter already.
+Kristin: What knowledge that we- that we walk with. And I promise you, we will still say "patriarchy" again.
+Jenny: [laughing] So today we are discussing, as we mentioned, Season 1, Episode 8, "I, Robot… You, Jane". This episode originally aired on April 28, 1997 and was directed by Stephen Posey and written by Ashley Gable and Thomas A. Swynden [sic].
+Kristin: There's, um, somebody here with us today!
+Jenny: Yeah, there's… something.
+Kristin: Who was possibly alive in 1997… [laughs]
+Gaby: I was! I was in… third grade!
+Jenny: Wow.
+Kristin: Aww. All right.
+Jenny: That's not like, that far behind us.
+Kristin: No, that's a semblance of a person. Third grade.
+Gaby: Yeah.
+Kristin: You had opinions.
+Gaby: Third grade, second grade, something like that.
+Jenny: It can't be debated. Gaby Dunn is both a person and here with us today.
+Gaby: Ha! Oh God.
+Jenny: You may know her from Just Between Us, which is a hilarious thing that happens on YouTube. Some of it is scripted, some of it is not.
+Kristin: Mm-hmm.
+Jenny: It's great. Also Gaby hosts a new podcast that is fucking fantastic. It is called Bad With Money. Hello, Gaby, welcome, Gaby.
+Kristin: Yeah!
+Gaby: You did such a good job!
+Jenny: Thank you so much.
+Kristin: First take!
+Jenny: You really saw the whole thing. You saw the fear, the execution, and now-
+Kristin: Yeah, for those of you listening at home, Jenny was hiding behind her own hand while she was doing the introduction, which I enjoyed.
+Gaby: Yeah, it was like- it was like Jim Morrison from The Doors like, facing away, you know? Like, he can't look at the audience while he performs.
+Jenny: Right. Right, right, right.
+Kristin: [laughing] Yeah.
+Gaby: Yeah, it's like that. I mean, good for you. It's- it's very like, all the legends do it. So.
+Kristin: Ahhh. Jenny Owen Youngs-
+Jenny: Just trying to be… legendary.
+Kristin: Legendary, yeah.
+Gaby: Oh yeah.
+Kristin: Wow. So, I'd like to start by saying that, um, Gaby understanding the passion that goes into this podcast, and our Buffy-loving, wore a Sunnydale High School shirt, uh, to the viewing.
+Gaby: Yes! I'm wearing-
+Jenny: Much appreciated.
+Gaby: My Sunnydale High School shirt, yeah.
+Kristin: It's really nice. Is like- the H is on fire and what's happening with the two S's?
+Jenny: Fangs!
+Kristin: Fangs!
+Jenny: The S's have fangs!
+Gaby: Yeah.
+Kristin: Beautiful.
+Gaby: The H, I assume, stands for Hellmouth. And that's the fire.
+Kristin: Mmmm. Nice.
+Gaby: I'm sorry, I didn't talk into- I looked down at the fire. That's why my voice sounds different. [laughter] No, yeah, uh, it's like a Hot Topic shirt.
+Kristin: Is it really from Hot Topic?
+Gaby: [giggles] Oh yeah.
+Jenny: Wow.
+Kristin: Nice.
+Gaby: A lot of my clothing is from Hot Topic. [Jenny laughs] And it has been that way since, like, I was 14.
+Kristin: Yeah, I was gonna say, you kept up with it. I haven't shopped at Hot Topic in a while. I shopped there in the '90s.
+Jenny: Yeah, yeah.
+Gaby: It is weird now, because everything is so mainstream. Like, nerd stuff is so mainstream, that like, everything that they have there is so… like, just, it's like not the weird niche stuff that you used to get there, definitely.
+Kristin: Yeah.
+Gaby: And I think they're, like, less goth and going more like, nerd.
+Jenny: Hmm.
+Gaby: I don't know, I have a lot of complaints about the direction that Hot Topic has taken in their merchandise. But also what was funny, like, after I first started doing YouTube stuff, I like, went into a Hot Topic in Glendale and the people behind the counter, like, flipped out and were so excited to meet me. And I was just like, yes, this is what 14-year-old me wanted [Jenny and Kristin laugh] was to walk into a Hot Topic and immediately be the most famous person in that Hot Topic. [more laughter] Well, everything's been achieved! I'm gonna go home.
+Kristin: Yeah, 'cause I mean, Hot Topic in the '90s was a dark- it was like a dark-
+Gaby: Nobody there wanted to talk to me! I would like, walk in and they'd be like, "Ugh, okay." [Jenny and Kristin laugh] And now, I'm the king of that Hot Topic.
+Jenny: A-ha, a-ha.
+Kristin: [laughs] Life goal.
+Gaby: Thank you.
+Kristin: Life goal met.
+Gaby: It's been great.
+Kristin: So, Gaby, what is your relationship to Buffy the Vampire Slayer?
+Gaby: Um, I really loved it- I think I found out about it once [BLEEP] was- was gay. Or bi or whatever.
+Kristin: Spoiler, spoiler alert.
+Gaby: Oh, I'm sorry! Am I not allowed to say that? Do people know?
+Kristin: I mean, I think everybody knows, but say it again a different way in case we decide to cut it out.
+Gaby: Okay. I- once- I really got into it once one of the characters came out, as bi or gay or whatever they came out as. And so I- like, I think I'd heard- 'cause I was like, so deeply closeted and I think I had heard someone go like, "Whoa, this person from Buffy, like, is gay." And I was like, "Whoa!" And then I was like, I'm gonna have to check that out! [Jenny and Kristin laugh] But like, just in this weird, like, let me go look at some YouTube clips to make sure- like, I don't know what I thought I was doing. Like, let me make sure they're not up to anything ba- like, what did I-?
+Kristin: Right, right.
+Gaby: Just this kinda like, gotta check on it!
+Kristin: And you were- you were out already? Or you weren't?
+Gaby: No! No, no, no, no.
+Kristin: So you were like- right.
+Gaby: Yeah, I was just being like, that's crazy that they're doing that on TV! Let me see what they're doing. [Jenny and Kristin laugh] Like, that's very weird- I knew about Will & Grace, but that was so weirdly sanitized.
+Kristin: Yeah.
+Jenny: Yes.
+Gaby: That like, that was like my grandma's favorite show.
+Jenny: Right.
+Kristin: Right.
+Gaby: So I was like, oh yeah, yeah, they have gay people on TV. And then I was like, whaaat? And so- but not on like a CW- or like a kid's show- WB, I guess, at the time. Like, a kid's show.
+Kristin: Was it WB when-?
+Gaby: Yeah, I think so.
+Jenny: Uh, it was… yeah, still- it was on WB first?
+Gaby: Or UPN or WB.
+Jenny: And then… CW?
+Kristin: I don't know-
+Gaby: Or like, UPN?
+Jenny: Or like, it was UPN9 before it became CW? It's very difficult to picture.
+Gaby: I don't know. There was an amazing- I do know there's an amazing commercial from back then, where it's like all the actors from all the different shows in a room together, and like, the WB frog is like, bouncing around.
+Jenny: Oh, God!
+Gaby: And all the actors are like, hanging out, so it's like- so it's like, oh my God, Buffy's sitting on a couch with like, Dawson and like, that kind of whatever.
+Jenny: Oh my God.
+Kristin: Ah, sounds amazing.
+Gaby: And you were like, "whoa! They all like, know each other?" [Kristin laughs] Yes. They know each other.
+Jenny: Wow. Of course they know each other!
+Gaby: But I was like, this is crazy!
+Kristin: Well, we- you know, I feel like this timed out really well, um, that you are on this episode of Buffering the Vampire Slayer.
+Gaby: Yeah, you wanna say why you wanted to have me on this one?
+Kristin: Yeah-
+Jenny: Yeah, yeah.
+Kristin: Jenny, why don't talk about it? You love talking about this aspect
+NOTES: [Gaby laughs] of Gaby's life. [laughter]
+Jenny: Well, um, since we haven't said it yet, I'll say that this is the one where Willow meets-
+Kristin: Oh, right.
+Jenny: -a boy on the internet and it turns out he's actually Moloch the Corrupter!
+Kristin: Yeah.
+Jenny: Wow.
+Gaby: I mean, who hasn't had that happen?
+Kristin: Exactly!
+Gaby: You said- weren't you like, "this is the first episode of Catfish"?
+Kristin: Yes! [crosstalk]
+Jenny: Yes! Moloch, the original catfish.
+Kristin: The original catfish! I would really love some research on that. Is this the first episode of television that ever dealt with catfishing? It's gotta be damn close.
+Gaby: I think so. It must be, right?
+Kristin: Yeah.
+Jenny: Yeah. So-
+Gaby: Or there were, like, must have been episodes of comedies where it was like, "I went and they didn't look their photo."
+Kristin: Right, and I wonder when that started. I mean, Ms. Calendar, in this episode, has a quote where she says to Giles, like, "oh, you've been watching too many movies," like, about hackers and computers. So-
+Gaby: There must have been…
+Kristin: I wonder what- like, when did Hackers come out, actually, is a great question.
+Jenny: Oh, let me just- [crosstalk]
+Gaby: Probably that year, right?
+Kristin: Oh, I loved that movie. Talking about things you watch when you don't know that you're yet gay.
+Gaby: I know!
+Kristin: I was like, gee, I love this movie! Don't know why!
+Jenny: 1995, Hackers came out.
+Kristin: Okay, so-
+Gaby: It was in the Zeitgeist.
+Kristin: Yeah. Nice use of the word "Zeitgeist," Gaby.
+Gaby: Thank you. Thank you.
+Kristin: So anyway, please go ahead, Jenny.
+Jenny: And- okay, so, Gaby is a very famous- a self-identified very famous millennial. [Kristin laughs] Really tapped in to the young people's digital culture.
+Gaby: Thank you.
+Jenny: Uh- thank you.
+Gaby: I didn't, uh… yeah. Jenny had to remind me that I did this, because I did not recall doing it, at a social gathering, where I was a little bit drunk. And I apparently, like, danced up to you-
+Jenny: In a feather boa.
+Gaby: Said, "I'm a very famous millennial," and then danced away. [Kristin laughs]
+Jenny: Yes, it was a perfect moment!
+Gaby: I don't deny that I did that, but also, wow.
+Jenny: I wish you could remember it like I do.
+Gaby: Yeah. Seems- yeah. Just tuck it away in a little memory bank of like, that's a good one to keep forever. Yeah! Uh, I mean, I do a lot of internet shit. But I like always- I feel like I… I was on LiveJournal when I was like, in middle school and high school. And so like, it never- I think people my age have a weird experience of just having never not been on the internet.
+Kristin: Yeah.
+Gaby: So the way that they were talking in this, too, about like- like where I was like, this is the- when Buffy's typing and I was like, whoa, this is the first time any of these actors had ever touched a computer.
+Kristin: Totally.
+Jenny: Even the computer lab teacher!
+Gaby: It's so weird, and now you see- yeah, and now you see like, babies with iPhones.
+Kristin: Oh, yeah, every baby knows how to swipe and zoom.
+Jenny: Mm-hmm. Swipe and zoom.
+Kristin: All that- swipe and zoom. Just- if this episode was today, one of the characters would have been named like, Swipe. Or Zoom. Instead of Fritz.
+Gaby: There was like, a video I saw of a baby with a magazine, and the baby was, like, used to the iPad. So the baby kept trying to enlarge the photos-
+Jenny: Oh my God.
+Kristin: See?
+Gaby: -of the magazine, and it wouldn't enlarge and the baby was like, "the fuck is this?" Like, so frustrated! [crosstalk]
+Kristin: Well I mean but you- like, you bring up a good point, though. The difference between us, like, you, Gaby, and then Jenny and I generationally- or whatever. Like the span of time between us is huge when it comes to talking about the internet.
+Gaby: I know. It's weird.
+Kristin: Because we were basically on the Buffy path. They're sophomores in 1997, right?
+Jenny: Mm-hm, mm-hm.
+Kristin: I was a sophomore in 1995-6. So like, basically-
+Gaby: Yeah. So this was like, totally weird, right?
+Kristin: Yeah, the internet- I remember the internet happening. And being like, what? And we had one computer in my basement, where like- we could go on an AOL chatroom.
+Gaby: Yeah, well, we had that, but I was like 9 when we had the AOL chat rooms.
+Kristin: Yeah.
+Gaby: And then I think I was just a troll. [Jenny laughs] I think I just went into chatrooms and I remember a friend of mine and I would just go into- thought it was- we were like 9- thought it was the funniest thing ever to go into chatrooms and just moo.
+Jenny: Oh my God.
+Gaby: Just be like, "moooo" and how long we could keep the "o" going. And to take up the whole- so people would be like, I'm sure, be like, "I'm lonely in my town." And other people were like, "yes, I hear you, the correct use of the internet." And then I would just come in and just be like, "mooo!" And it'd be the whole page. [Jenny and Kristin laugh] Like, I was just a troll- not a malicious troll. But just a troll.
+Kristin: [laughing] Right. Just having fun.
+Gaby: Yeah.
+Kristin: With letters pushing other letters off the screen.
+Gaby: And then people would- people were like, "A/S/L?" And me and my friend would be like, "Let's make up the weirdest one, like 75/female/Alaska." [Jenny and Kristin laugh]
+Kristin: Somebody listening is like, aww.
+Jenny: How dare you.
+Gaby: Aww, my girlfriend.
+Kristin: I am 75 in Alaska.
+Gaby: Oh, yeah. Like, oh, my girlfriend wasn't real!
+Kristin: [laughing] Right.
+Gaby: Just so stupid.
+Kristin: But there is- I mean, my sister is five and a half years younger than I am, and I remember having an experience with her, like, when I was in my teens, walking into her room. And she had a computer in her room at that point. And she had her- she had the phone, like, wedged between her ear and her shoulder and she had AIM up.
+Gaby: Yeah.
+Kristin: And she was having a conversation verbally while she was having a conversation-
+Gaby: Yeah!
+Kristin: And I was like, whoa. Like, her brain is different than mine.
+Gaby: I also learned HTML. Like, when I started applying to jobs after college and people were like- older people were like, "Do you know HTML? We want someone who works here who knows HTML." I would be like, what do you mean? Like, how to change the colors on the background of my- of my away message? Or how to change the colors or the look of my Live- like, I was coding. I was redoing my LiveJournal with code up, and just was like, oh, that's what you do. Like, had no idea that that was- and then I was like, ha-ha, put that on my resume. I'm really gaming the system. [Jenny and Kristin laugh]
+Kristin: So let's get-
+Jenny: Before- sorry.
+Kristin: Oh, Jenny, we missed another thing?
+Jenny: I just- no, no, no, no. This is all me. I just had a revelation while we were talking about Moloch being the original catfish and chat rooms.
+Gaby: Great.
+Jenny: When I was in junior high, uh, and early high school, I spent a lot of time in alternative music chat rooms.
+Kristin: Uh-huh.
+Jenny: And I think that I just realized that I was catfished.
+Kristin: [gasps] What do you mean?
+Gaby: Woooo!
+Jenny: Like, some pieces just came together in my brain. There was this one girl- like, I made "friends," in air quotes, with people, uh, online.
+Kristin: Right.
+Jenny: In these chat rooms. Uhh, you know, talking about Mazzy Star or whatever. And there was this one particular girl that I have, like, physical mail correspondence with.
+Kristin: Mm-hm.
+Jenny: Who sent me like, a bunch of pictures of herself. But like, she didn't look the same in every picture.
+Gaby: Oooh! Plot twist.
+Jenny: Which leads me to believe that maybe this was just some person accumulating pictures of somebody- like, pictures of different people who kind of looked the same.
+Kristin: What?!
+Gaby: Yeah, definitely.
+Jenny: Is that possible?
+Gaby: Definitely!
+Kristin: I guess. It's so creepy though!
+Gaby: It's so weird. Out of- I made a lot of online friends. And out of- I would say, out of like, five, only one of them ended up being a catfish. Like, the other four, I still follow them on Twitter now and I know them and I, like, met them in real life and they were the same. Isn't that weird? But only- so like, one out of five were catfishes. So yeah, probably-
+Jenny: That's a great average.
+Kristin: Probably- yeah, that's probably an accurate ratio.
+Gaby: That's a great average, right?
+Kristin: I don't think we need to do any more science on that.[Jenny laughs]
+Gaby: Do you have those photos?
+Jenny: Oh God, I think I do somewhere.
+Kristin: Really?!
+Jenny: Yeah, I think I do.
+Gaby: We have to find her!
+Kristin: [makes sound effect noise from the movie Psycho]
+Gaby: Kristin, I'm so sorry. This is Jenny's soulmate. [laughter] We need to find-
+Kristin: Shit!
+Gaby: We need to find Jenny's soulmate!
+Kristin: Oh, this is a really pivotal episode for me.
+Gaby: It's like, and that girl grew up to be Beyonce. [Kristin laughs] You know what I mean? She's hanging out in an alternate music chat room.
+Kristin: [laughs] Oh my God. She probably would have been hanging out there.
+Gaby: And that girl was Katy Perry.
+Kristin: Yeah. [laughs]
+Jenny: Oh my God.
+Kristin: Okay, well we have a new detective- a new side podcast, called-
+Jenny: Find Jenny's Soulmate.
+Gaby: Find Jenny's Soulmate! I presume it's- yeah. It's probably someone wildly famous now.
+Kristin: Yeah.
+Jenny: I hope so.
+Kristin: It'd be really good if Find Jenny's Soulmate is co-hosted by you and your wife. [laughter] All right, so shall we talk about this episode?
+Gaby: Yeah, yeah, go for it.
+Kristin: I mean, I guess we have a little bit, but-
+Gaby: Yeah.
+Kristin: We'll get into it. Yes.
+Jenny: First up, Italy- first flashback.
+Kristin: Yeah.
+Jenny: That monk, according to the script, that monk's name is Thelonius. Which is-
+Gaby: Oh, Thelonius Monk! Ha!
+Jenny: Yes. [laughter]
+Gaby: Joss Whedon, you did it again! [laughter] Goddamnit, Joss Whedon! Any time there's something hidden and clever, I just start screaming, "WHEDON!" [laughter] "Goddamnit, you got me again!"
+Kristin: God, it's like this is- it's great that this is a podcast. But that moment of realization on your face, Gaby, would have been really nice to have on video. It was like-
+Gaby: Because I'm like, happy, but also like, fuck you. [laughter] Also, I believe I was doing a- I love doing a bit of like, imagining the actors getting the part. So I was like, doing this bit being like, "Guys, I booked it. Uh, you don't see my face at all and I only- I have to speak Italian. They were like- they called my agent and they were like, do you have someone fugly? And also who is fluent in Italian?" [laughter]
+Kristin: Oh, that agent was so excited that day. They were like, "I do!"
+Gaby: Guys, three different people who were fluent in Italian and looking for work in LA, got work that day.
+Kristin: Yeah. God, and probably all laughed about it later.
+Gaby: Yeah.
+Kristin: And then got sad when they realized that would be one of their only calls.
+Gaby: Oh, are you- are you speaking Italian? I'm just repeating things from the Olive Garden menu. [laughter] Sorry.
+Kristin: Yeah, we deduced that they were speaking real Italian because Jenny heard "amore." So we said, must be-
+Jenny: Yeah, and it lined up with "love" in the subtitles.
+Kristin: Right, so must be legit.
+Gaby: The demon played by Stanley Tucci in one of his first roles. [laughter]
+Kristin: So yeah, this flashback is pretty special for a lot of reasons. We see Moloch in his-
+Gaby: He wants to be loved.
+Kristin: -original form, right? We learn that he wants to be loved. We learn that he gets trapped in a book. And then of course, we go right from the books in the, uh, ancient times to the library.
+Gaby: The library, Buffy opens it, and then they're all in computer class. They're putting computers in the library to try to like, get the books into the computers?
+Kristin: Yeah. To digitize.
+Jenny: Scan party.
+Gaby: Ms. Calendar's there.
+Kristin: Uh, welcome, yeah.
+Jenny: Whew! Welcome, Ms. Calendar.
+Gaby: She's so pretty.
+Kristin: She is very pretty.
+Gaby: Uh, it's horrible. [Jenny and Kristin laugh] And then… like, Willow's on the computer and then Xander and Buffy are just like, "ugh, nerds." [Jenny laughs]
+Kristin: Yeah, yeah. And then-
+Gaby: More and more- it stuck out then, but even sticks out now, Buffy is so hot. And Xander and Willow are so nerdy that it's like, very much like, wh- I don't under- what is happening?
+Kristin: Well actually, we talked about this a little bit last week 'cause I read this article- there was an article in the New York Times that came out right around now- right around now. Right around when this episode aired, that talked about how like, Buffy's otherness drew her to befriend some of the nerds in the high school.
+Gaby: Ohhh.
+Kristin: That like, essentially, Buffy, if she wasn't the Slayer, would have been Cordelia.
+Gaby: Cordelia. Yeah, I think that's the point of the Cordelia character.
+Kristin: Yeah, exactly.
+Gaby: That's sort of like, you know how like, Draco Malfoy's like, "Join my side" at the beginning, and Harry Potter's like, "No!" [laughter] He could have very easily been Draco Malfoy.
+Kristin: Yeah, exactly.
+Jenny: Oh my God, because Willow's Hermione and Xander's totally Ron Weasley.
+Gaby: Ron. Obviously!
+Kristin: Oh yeah, 100%.
+Gaby: Oh, it's not even- yeah. Exactly.
+Kristin: Does that make Giles Dumbledore?
+Jenny: Or McGonagall?
+Kristin: Ohh. Yeah.
+Gaby: Giles is McGonagall, I think. But it's also like, that- when Hermione- I wrote a whole thing. When the book ended- when the Harry Potter series ended and they were like, "and then Hermione and Ron got married." I like, did a series of tweets that ended up- there was like, someone wrote a New York Times article about the ending of the book and like, quoted my tweets in it where I was just like, "as if Hermione ends up with Ron! That is a queer lady living alone with a cat! For sure!" [laughter] Like, what are you talking about? You know, it's like, there's no world in which- like, Hermione- men try to date Hermione and Hermione goes "Oh, no thank you" for the rest of her life.
+Jenny: For sure.
+Kristin: 100%.
+Gaby: That's insane.
+Jenny: But she's alone? She's not with a lady?
+Gaby: Or she- I was like, she takes many lovers and they never get to- and that's it.
+Kristin: Oh, nice. And I like the cross-referencing of nerd culture here.
+Gaby: Yeah!
+Kristin: Which actually happens in this episode, not to skip ahead. But um, we have Buffy in the library later, saying her spidey sense-
+Gaby: Oh yeah, spidey sense!
+Kristin: Is tingling, which is a fun-
+Gaby: Yeah. Oh so, sorry, keep going of things that are happening.
+Kristin: Yeah, and so they're-
+Gaby: They're making fun of her for being into… into computers.
+Kristin: Yeah, well, this is like- sets up the whole episode with this argument between Giles and Ms. Calendar.
+Gaby: Ms. Calendar, yeah.
+Jenny: Sparks are flying. Where will they lead?
+Kristin: Yeah. Do you wanna-
+Gaby: He's old school! She's new school! [laughter]
+Kristin: That was the TV Guide blurb.
+Gaby: Yeah. He's 40, she's 25 and so attractive.
+Kristin: Also, you guys, I mean, having been around since the dawn of the scanner, I don't remember scanners ever working like this, with the wand?
+Gaby: No!
+Kristin: Right? Do you-
+Gaby: You have to put the book- like a fax machine.
+Kristin: Yeah, down on the thing.
+Jenny: I think I remember the wand.
+Kristin: Really?
+Jenny: Yeah.
+Kristin: I don't remember the wand.
+Jenny: Maybe I just remember it from Buffy though. It's impossible to tell.
+Kristin: Yeah, I mean, I like it. It seemed to me an easier way to do it than-
+Gaby: I know, that would be great.
+Kristin: Yeah. So yeah-
+Gaby: I remember, in second grade, when we got a fax machine and then I would fax my friend things back and forth. Did you guys ever do that?
+NOTES: [laughter]
+Jenny: Oh my God. No.
+Gaby: I think we were sending faxes- I would like, draw and then fax it to my friend. And then she would draw and fax it back and then my mom yelled at me for wasting paper.
+Kristin: Oh my God, and was it like, the shiny paper?
+Gaby: Yeah.
+Kristin: Yeah, the shiny- the old shiny fax paper.
+Gaby: And I would be like, "Jessalyn sent- faxed me" or whatever.
+Jenny: Jessalyn?
+Gaby: Oh yeah. We share-
+Kristin: Such a young executive, Gaby. [laughter]
+Gaby: [laughing] Yeah. I have to send some faxes! [laughter] My mom's like, "Why are you wearing a blazer?" I'm like, "I have to send some faxes, Mom!"
+Kristin: I just have to send some faxes and troll out on the internet.
+Gaby: Yeah, "shiny paper's expensive, Gabrielle!" [laughter]
+Kristin: So yeah. This- you know, pre-credits, we scan in some books. We learn that Giles-
+Gaby: She's scanning Moloch's book!
+Kristin: She's scanning Moloch's book.
+Jenny: Oh no!
+Kristin: And then-
+Gaby: Giles hates computers.
+Kristin: Giles hates computers, Jenny- or Ms. Calendar, we don't know her first name yet. Ms. Calendar, uh, loves computers. And then the credits happen, and the thing that I wanna talk about first after the credits is that Buffy and Willow [Jenny laughs] go to Willow's locker. And Willow opens her locker and on the inside of her locker is a picture of Willow and Giles. [laughter] Just-
+Gaby: And no other friends!
+Kristin: No!
+Gaby: Hasn't she known Xander for years?
+Kristin: Years! They've known each other since childhood.
+Gaby: And she has no photos of her and Xander.
+Jenny: Who made that decision? Who- made- that decision?
+Gaby: An incredible set dresser.
+Kristin: Right, somebody brilliant.
+Gaby: Oh, we forgot also, Moloch types, "Where am I?"
+Jenny: Oh yeah!
+Gaby: Then it goes right- and then Willow is like, whoa, someone's talking to me. And then she comes in and she's happy 'cause she's been talking to Moloch on the phone-
+Kristin: Right.
+Gaby: But also- on the computer. But also, yeah, her locker was very sparse.
+Kristin: Yeah, just a couple little poster things.
+Gaby: And not even like- like, a photo of her and Giles that maybe was taken, like, after Willow won the science fair. It was a very- it wasn't like, a "we're buds!" photo.
+Kristin: Right!
+Jenny: Well, that would be inappropriate.
+Kristin: It had to have been taken within the last-
+Gaby: If any girl had a photo in her locker- only photo in her locker was of her and her male teacher who she weirdly hangs out with all the time and whispers and has secrets with? Nobody's looking into that?
+Kristin: I think- right. I think there would be some investigation. Although, as we know about Sunnydale High School, they don't really investigate anything. Of any kind. Ever.
+Gaby: Their relationship was so inappropriate. I kind of- I bet there's like, so much fanfiction of her and Giles. I bet like, people were like, that's what it's gonna be.
+Kristin: Totally.
+Gaby: And then it wasn't. What a bummer.
+Kristin: Totally. So anyway, right. Willow is super psyched here because she has a boyfriend.
+Gaby: Boyfriend, yeah.
+Kristin: Malcolm.
+Gaby: Who she met on the internet.
+Kristin: On the world wide web.
+Jenny: She's telling Buffy about it, Buffy is not impressed.
+Kristin: No.
+Gaby: She's like, "What does he look like?" And Willow's like, "It doesn't matter what he looks like, why are you so shallow?"
+Kristin: Yeah. "Where did you meet him?" "Online." "On line… for what?"
+Gaby: On line for what! [laughter]
+Kristin: Some really good…
+Gaby: Incredible.
+Kristin: Late '90s internet jokes.
+Jenny: And then in struts a sunglass'ed, be-crimped Ms. Calendar.
+Kristin: [laughs] Be-crimped!
+Jenny: Gaby wrote some entrance music-
+Gaby: And then I wrote Jenny's song for her.
+Kristin: Yeah, do you remember?
+Gaby: Which is just- yeah! It was like [singing] "cool teacher, she shows up late and she's wearing sunglasses, cool teacher." [laughter]
+Kristin: So yeah, that's our-
+Gaby: She was like, hungover. She's like, holding coffee with sunglasses on, coming in late.
+Kristin: Yeah, showing up late.
+Gaby: That teacher is putting on a movie. Like, that teacher is hungover.
+NOTES: [laughter]
+Kristin: She's the cool kid! She's the cool teacher in town.
+Jenny: She was up late, casting bones.
+Kristin: And we- right, so catfishing really gets a discussion in this section.
+Gaby: Oh yeah. "How do you know what he looks like? He could be anyone." Yeah.
+Kristin: Right, and later- not much later, Xander is like, "It could be, what, an elderly Dutch woman." Like, you know, this whole conversation about how can-
+Gaby: But it's like a PSA. All the dialogue is like, a PSA.
+Kristin: Yeah, yeah. The computer will get you.
+Gaby: Yeah.
+Kristin: And will destroy the world.
+Gaby: You can't trust who you're talking to on the world wide web.
+Kristin: Which like… is true, but also-
+Gaby: Oh my God, there was so many- my parents were convinced that the people from the internet were coming to our house to like, kidnap me. It was a big thing. It was a whole- like, don't give anyone your name, don't give anyone your information. Almost immediately.
+Kristin: Yeah, because we were just learning it.
+Gaby: And now we're all on the computer being like, "I dunno, here's my address, whatever." [laughter]
+Kristin: But yeah, so we learn about catfishing. We also see, um, so this is where we see that they're being watched, right?
+Jenny: Yes. Moloch's point of view.
+Gaby: On a… on a… webcam.
+Kristin: On a webcam.
+Gaby: Which my father still thinks is- like, you need to put duct tape over the webcam.
+Kristin: It's like, you know, I'm kind of with your dad.
+Gaby: Yeah.
+Kristin: We don't do that, but I do- when we have- 'cause my desk is in our room, so it's like, at the foot of our bed. And when we're like, getting into bed at night and the computer is there with the thing open, even when the green light isn't on, I'm still like, "I mean…"
+Gaby: Yeah, my dad's like, "We gotta put duct tape over it." As if that- but he didn't like, say- like, I went home and was like, "What's that about?" and he was like, "oh, you obviously gotta put duct tape over the computer, what're you doing?" [laughter] And I was like, okay.
+Kristin: But yeah, I love the pixelation, which is-
+Gaby: Mm-hmm.
+Kristin: Like, I don't- did they even consider it pixelation at the t- do you know what I mean? Like, it was just- that was just normal.
+Jenny: [laughing] Yeah, that might've been high res.
+Gaby: "Make it look like a computer."
+Kristin: Right, and they were like, obviously computers look like this.
+Gaby: Now Moloch's, like, keeping track of Buffy to be like, "She's a problem."
+Kristin: Yeah, keeping track. And also kind of like- [Jenny gasps] Oh, Jenny, what?
+Jenny: Sorry, I just-
+Kristin: The Jenny gasp.
+Jenny: I'm so sorry, I was just thinking about how we see Fritz being- which, by the way, his name, oh my God, "Fritz."
+Kristin and Gaby: Fritz!
+Jenny: Oh my God.
+Kristin: On the fritz.
+Jenny: On the fritz. Um…is all like-
+Gaby: Ohhh! That's funny.
+Kristin: Yeah.
+Jenny: He's just like, staring into the computer, programming or whatever he's doing, and Jenny Calendar's like, "Mmm, you've been clocking some crazy hours."
+Kristin: Oh yeah!
+Jenny: Whatever. And he's like, "new projects." And he's all, you know, dead- whatever. It just reminded me that we did not take note of his part in the scan party, where…
+Kristin: Oh my God! How did we- we can't miss that-
+Gaby: Oh yeah!
+Jenny: He goes on this tirade-
+Kristin: Good Lord.
+Jenny: About how "if you're not jacked in, you're not alive!"
+Kristin: Yeah. Yeah.
+Gaby: Oh yeah, he- I forgot- [laughs]
+Jenny: "The printed word is dead! Obsolete!"
+Gaby: [laughing] That he started in with like, "the written word is obsolete and dead and if you're not jacked in, you're not alive." And I was like, same. Same, same, same. [laughter]
+Kristin: Yeah, yeah, Gaby was like, "This character is based on me."
+Gaby: Tag yourself, I'm Fritz. [laughter] Just like: me, me, literally me.
+Jenny: I definitely identify way more with Giles in this episode.
+Kristin: Yeah, me too!
+Gaby: [sarcastically] Oh, cool.
+Jenny: Sorry…
+Kristin: That's why we had to have you here, we had to balance out the room. We're too-
+Gaby: I literally- people now are like, "Are you watching Black Mirror?" and I'm like, uh- the show that's literally just like, "Technology is bad! Let's lecture at you!" [Kristin laughs] And I'm like, I don't ca- let me watch that on my Netflix that I can easily obtain in my home, like, go fuck yourselves.
+NOTES: [laughter]
+Kristin: Well so- I mean, obviously you love technology, you use technology, whatever. But are you, you know- not to skip ahead, but we do it all the time. At the end, Giles has this moment where he's like, "Computers don't smell and books smell." And I know when Jenny and I were watching this episode, we were like, fuck yeah! Like, I love to smell a book, I love to hold a book. What are your feelings on, like, physical books versus digital… like, reading on a device?
+Gaby: I like phys- I read physical books. Like, I don't have a Kindle or anything like that.
+Kristin: Right.
+Gaby: Um, but I also- like, I just did this book of the month thing and I read the book on my computer. It just got sent to me as a PDF.
+Kristin: Oh, God, how?
+Gaby: Uhhh…
+Kristin: I don't know how- like, my eyes. I can't-
+Gaby: Lower the brightness? I don't know. I do like physical copies of things, but I don't know. I- it's also like, I can bring the book- like, I was upset- well, twofold. My computer died when I was reading it and I couldn't- I was travelling, so I couldn't recharge it so I couldn't finish the book. So that sucked.
+Kristin: Right.
+Gaby: But then also, I didn't have to pack a book in my backpack. Like, it's twofold.
+Kristin: Yeah, that's a thing.
+Gaby: Yeah.
+Kristin: Like, when you go on tour, having a Kindle is really very important, 'cause you'd-
+Jenny: Yeah, yeah, yeah.
+Kristin: Have to pack 600 books.
+Gaby: 'Cause you can have infinite- the whole demonizing of technology to me, is like, you hate that-
+Jenny: It's so convenient?
+Gaby: I could reach out to my father right now and find out if he's okay? I don't have to write a fucking letter to the Pony Express [laughter] and then he's already dead. Like, you know what I mean?
+Kristin: Yeah.
+Gaby: Or I can like, Face Time my nephew and actually see him in New York, whereas like, I would be like, "Hey, you're seven, remember me?"
+Kristin: Right.
+Gaby: I think it's like, this weird thing of like, "technology is bad." I'm like, okay, but for a- I mean, even for me, when I was a kid on LiveJournal, there was- I mean, you deal with this a lot in your work. I would have literally killed myself if I had not had confirmation from LiveJournal that there were gay people out in the world, happy.
+Kristin: Mm-hmm! Yeah.
+Gaby: Because in my head, I was like, well, I have no proof. And then when I had LiveJournal, I could see people- like, people would write about their lives.
+Kristin: Totally.
+Gaby: So I could see people in real time, and I was like, I know for a fact that there's a lady in Boston who lives with her girlfriend. I know for a fact that there's a guy in Australia who is out and having like, gay dating trials and tribulations. And I was like, okay, that's my only knowledge that like, things will be okay in the future. So- but I was like, trying to argue with an ex-boyfriend of mine, who's old. And I was like, what? [laughter] And I was like, "I would have literally killed myself." And he was like, "No, you wouldn't. You would have like, gone to a concert and met some punk kids and been fine." And I was like, "Maybe!"
+Kristin: Maybe. Right.
+Gaby: He's like, "That's what people did in the '80s and '90s. They just found the weirdos in their school and they were okay." And I was like, sort- maybe! But also, maybe not!
+Kristin: Yeah, some- exactly. Some did, but it wasn't like- it wasn't as readily available.
+Gaby: Yeah. Like, the fact that the internet existed was like-
+Kristin: Yeah!
+Gaby: Very- I don't know what the word is. Life or death. Yeah.
+Kristin: Totally! I mean like, even for my mom. I talk about this a lot, that like, when I came out to my mom, she would just like, corner every lesbian she met. [Gaby laughs] You know, that was her only- you know?
+Gaby: Yeah!
+Kristin: The internet wasn't a thing yet. Like, there weren't things that she could access to know what my life was gonna look like. So yeah, a hundred-
+Gaby: And I get made fun of a lot for being a- like, someone will be like, "Oh, what's that- I don't know, that song from this movie," and I'll be like, "Oh, let's look it up." And then I'll look it up and people will be like, "You're so quick to Google." And I'm like, yeah, because why are we wasting time? [laughter] I have all the information. Like, I don't- yeah, sure. You guys were like, "pornstar shirt." I'm like, "oh, let me find it." I'll have, immediately, a reference for what you're talking about.
+Kristin: Yeah. Yeah. It's convenient.
+Gaby: I don't know.
+Jenny: Well, that's so valuable.
+Gaby: Yeah!
+Jenny: That's totally valuable. It's just really, like, to me, the… sort of, um, let's see. Human animals are susceptible to… going overboard-
+Gaby: Mm-hmm. Definitely.
+Jenny: Extremes. There's like- what's the deal? Dopamine?
+Kristin: Yeah.
+Gaby: Oh, yeah. Big time.
+Jenny: So like, there's a cer- there's just- it's so easy to like-
+Kristin: Get addicted to it.
+Gaby: Mm-hmm, mm-hmm.
+Jenny: Yeah.
+Kristin: For real, like I think it is… an addiction.
+Jenny: But I like convenience. I like the way that the world has been made smaller, which I feel like has paved the way for higher visibility for queer people, which has paved the way for more rights for queer people.
+Kristin: Yes! Yeah.
+Jenny: I'm super into that.
+Kristin: Right. And that's the corner of the world we're talking about, 'cause it's the one that we-
+Gaby: I know, and all the people who write those TV episodes being like, "technology's bad." I'm like, are you a white man? Oh, you are? Cool.
+Kristin: Right.
+Gaby: Like, it's always- [laughter]
+Kristin: Exactly.
+Gaby: Some guy who's like, "I love books though!" And- she says that!
+Kristin: She says that! Yeah.
+Gaby: Jennifer Calendar- aren't you so lucky that you have someone in the show that has your name? I don't have that.
+Jenny: And it's a hot someone!
+Kristin: Yeah. [laughs]
+Gaby: I know. We don't have that.
+Kristin: Yeah. Yeah. No Gabys or Kristins?
+Jenny: Is there ever a Kristin or a Gabrielle?
+Gaby: Maybe a Gabrielle. Not a Gaby. Gabrielle, they always use for like, some sort of hot character. Some sort of bad- [laughter]
+Kristin: It's true.
+Gaby: It's always like, it's like, Eva Longoria in Desperate Housewives. Like, it's always some like, fiery person.
+Kristin: Gabrielle…!
+Gaby: Yeah.
+Kristin: But yeah, right, Ms. Calendar has this incredible moment. That was like a record scratch when Jenny and I watched this through the first time. And we were so excited to see it again with you, Gaby. Where she's like, you know, "Oh, Giles, you want to keep everything in books that only white men can access?"
+Gaby: Yeahhhh!
+Kristin: Like, sorry but my 1997 brain was not picking up on what was being put down in that moment.
+Gaby: Oh yeah.
+Jenny: Yeah, yeah. That's early.
+Kristin: And like, now watching it again-
+Gaby: Some shows had stuff like- there's this- there's, uh, I think this show Recess or something. There was someone- it resurfaced on Tumblr, where they were showing screencaps where it was like, a teacher character. And it was supposed to- it was like, drowned out in the background. Like, the characters are talking but you can kinda hear what the teacher is saying. And it's a female teacher, and someone like, did this closed captioning on what the teacher was saying. And it's the teacher being like, "We live in a patriarchal world and men are taking-" blah blah blah. And it's like, from when we were ki- like, 2000 or something. But they just- they were just using it to be like, this teacher is a crazy feminist or whatever. But like, not-
+NOTES: [laughter]
+Jenny: Oh boy.
+Gaby: It was like, no commentary on it or anything. It was just like, that's what the teacher's talking about.
+Kristin: [sarcastically] Great.
+Gaby: But people were like, whoa! Recess was woke! [laughter] Like, what is happening?
+Kristin: Yeah!
+Gaby: It was hidden and stuff.
+Kristin: God.
+Gaby: Yeah.
+Kristin: So- and I think we just hit our moment to say, "the patriarchy."
+Jenny: Oh yeah.
+Kristin: I mean, that was it. You really-
+Jenny: The patriarchy!
+Kristin: The patriarchy! We-
+Gaby: What happened? You say it every episode? [laughs]
+Kristin: We say it once every episode, yeah. We just- and it worked itself naturally in.
+Gaby: That's what I do on my YouTube channel too.
+Kristin: Do you? [laughter]
+Gaby: Sort of, yeah. It's Allison's impression of me. We did like, a swap, and Allison's impression of me was like, "Hold on- patriarchy!" And she said it like, four times. [laughter] And then that's kinda stuck on the channel.
+Kristin: It's just- you know. It's pervasive, what're you gonna do?
+Gaby: Yeah.
+Kristin: So right, okay- back to the episode. We have Moloch and Moloch is like- or Malcolm, I guess-
+Gaby: Malcolm.
+Kristin: Is dropping these seeds into Willow's brain of like, Buffy- of course Buffy wouldn't approve. Really pitting Buffy against Willow.
+Gaby: Mm-hmm, mm-hmm.
+Jenny: "Buffy just makes trouble. I knew Buffy wouldn't understand."
+Kristin: Right, and then Buffy knows something's up, right. And so she's like, I'm gonna go check this out. I'm gonna follow- who does she follow? She follows Dave-
+Gaby: Dave!
+Jenny: She follows Dave, who, nice earring, Dave.
+Kristin: Yeah, nice earring, and nice hairdo. Dave was like, doing the-
+Jenny: Yeah.
+Jenny: The Zach Morris.
+Kristin: Yeah. Yes!
+Gaby: She asks Dave, like, is there any way to trace an e-letter?
+Kristin: An e-letter!
+Jenny: Oh my God, an e-letter! And it is- I feel like it is so- it is almost- well, you think that the episode might be just really sweet for a second. You think maybe Dave is Malcolm, and this demon thing is a separate issue.
+Kristin: Right.
+Jenny: But no.
+Gaby: Oh, I never thought that.
+Kristin: Turns out, nope. But luckily, we do get to have Buffy follow Dave to-
+Jenny: Yeah, what do you- what's a good outfit for following somebody?
+Kristin: I mean, I think you get a child's sunglasses. [laughter]
+Gaby: And an overcoat, trench coat.
+Kristin: [laughing] Yes. This is my- you know what, this might be a great moment for, actually? Speaking of ridiculous clothing? Maybe this is a good moment for Kate to bring us the Buffy Fashion Watch.
+Jenny: Yeah. Come on, Kate.
+NOTES: [Music; Jenny singing] It's time for our friend Kate To give you the Buffy Fashion Update!
+Kate Leth: Welcome back to Buffy Fashion Watch, and we have so much to talk about. This episode is the first extended introduction and really look at Jenny Calendar, one of my greatest inspirations, a true hope for the world. [laughs] And in this episode, we really get to see what she's about. And what she's about is brown leather jackets. Um, I think she wears one in basically every single scene, with various different shirts. And she has a lot of '70s patterns going on, but what I really, really enjoy is in one of the lab scenes, she's got on… I mean, it's a pretty basic sort of '70s patterned collared shirt like she does in a couple other scenes, but she also has crimped hair. I'm a sucker for crimped hair. I will always point out crimped hair and it is so good. I love everything about her, I love everything that she does, I love her dangles. What do they mean? Where do they go? I have no idea. [laughs] Um, Cordelia is conspicuously absent from this episode as well. What a tragedy! But we do get really, really on-point fuzzy sweater Willow and thick tights Willow and long, soft hair Willow. [laughs] And, um, I do want to point out that both she and Buffy, at various different points in this episode, wear scrunchies. Willow also wears a headband that matches her T-shirt, which is so adorable. And then there's a tangent that I'm gonna get into here. So, there's definitely a trend in the first season of Buffy where they wear these kind of cheap iron-on shirts. It's like a white tank top with a design… ironed on or like, embossed into it. And I think that was probably a production, money-saving technique. But then I got into these cats, right? Okay, so, Buffy wears this shirt and it's got this design with this winking cat on it. And everyone knows this winking cat. I mean, everyone who was near a sticker machine in the '90s, anyone who saw a skateboard between like, 1989 and 2000 saw this sparkly, winking cat. And I was like, okay, where does this thing come from? And I looked into it and it is this design- so it was made by this guy, Greg Smith, as best as anyone can track it down. It was made by this guy, Greg Smith, in the 1970s and he didn't copyright it. And it was part of a series of different winking animals, but the cat took off and a whole bunch of people copied it and reproduced it without any kind of credit or probably even knowing where it came from. What I found really interesting is it was popularized by this brand, Cosmic Debris, which is the same brand that makes Emily The Strange. So that was kind of interesting, and that's the original really streamlined, kind of smooth version of the cat. But the cat that we see in this episode is more stylized. It has different edges and basically what it is, is it's like a traced version that's a little chunkier. And I looked it up and I found that it's from this LA brand called Man Trap, which still makes shirts! They still exist on the internet. And they were basically made different because, I mean, I assume the owner was trying to avoid any kind of copyright problems. 'Cause they found an interview where she was like, "Oh yeah, it's a different cat." But it totally isn't! It's the same cat. So the moral of the story is that you should copyright everything that you ever draw and it's really fascinating when you try and find out where things like that come from. Also, Buffy wears a crushed Velour trenchcoat in this episode, and it. Is. Perfect. Until next time, I'll see you at the mall.
+NOTES: [Music; Jenny singing] That was our friend, Kate She gave you the Buffy Fashion Update!
+Kristin: Kate, thank you so much for that beautiful fashion update.
+Jenny: Indeed.
+Kristin: Okay so, we're moving along then. We're- you know, Buffy tracks- or whatever. Buffy detectives that CRD is this place that they're going and something's up and so she goes back to the library to report this to Giles.
+Gaby: And Xander.
+Kristin: And Xander-
+Jenny: Knows something, for once!
+Kristin: Right. And we cut to the scene where Willow is chatting with Malcolm, which I just wanna shout out here-
+Jenny: Oh man! [laughs]
+Kristin: Because they don't- they're not just typing to each other. The computer is talking in this robotic voice.
+Jenny: Uh-huh.
+Kristin: And Willow's talking back to it as-
+Gaby: Out loud. As she's typing, even though they're showing the typing anyway.
+Kristin: Right, which is not… which is a very funny thing, a very weird, funny thing.
+Gaby: I feel like they had it without that and then an exec was like, "Put a voice in."
+Kristin: Yeah, "do something here."
+Gaby: Yeah.
+Kristin: We're just hearing clickity clacks for two minutes. [laughs]
+Gaby: "People don't like to read!" [laughter]
+Kristin: And then in the library, we find out that the pages are blank. That's the big reveal.
+Jenny: Ahhhh!
+Kristin: Oh my God. And we know- I feel like, as the viewer, you know what's happening in this episode well before-
+Gaby: Oh, yeah!
+Kristin: The Scooby Gang figures it out.
+Gaby: Yeah!
+Kristin: But a lot of times, we're kind of like, with them. You know, like,we're finding out as they're finding out. But this time, we're like: duh, you guys!
+Gaby: Duh, come on! Like, we're way ahead of you.
+Kristin: Ugh. We saw ancient Italy! At the beginning of the episode.
+Gaby: And also, Xander's like, "Oh yeah, I know what that industry's- I know what that is because my uncle was a janitor there." And then I was like, oh, I forgot that Xander's white trash. Awww.
+Kristin: Yeah, Xander has a- yeah, we haven't learned- actually, we haven't learned much about Xander's background.
+Gaby: Really? Xander being working class is like, the only interesting thing about him. [laughs]
+Kristin: Yeah. And this is like, the first little- probably, if you're watching this for the first time, you barely notice that. But we do get into Xander's background more as the episodes progress.
+Gaby: Yeah.
+Kristin: And we also see- I'm skipping ahead, I'm sorry. But we do see Willow's room for the first time, Willow's house and Willow's room, which is a fun thing. But um- but not to skip ahead, because-
+Gaby: Right.
+Kristin: Because we're coming onto where they find that the pages are blank. And where Dave tells Buffy, "Hey, Willow is looking for you." I wanted to talk about this scene in the locker room for a second, because I fucking love it. It's like- I love classic horror and I love- I already talked about my love for Wes Craven on this podcast.
+Gaby: Woo!
+Kristin: And this whole scene is like-
+Jenny: Super Craven.
+Kristin: Classic- yes. Between like, the camera being down underneath the bench in the beginning.
+Jenny: Mm-hmm, mm-hmm.
+Kristin: And the green tiles and you hear the faucet squeak as it turns and the shower is on.
+Jenny: Oh yeah.
+Kristin: It's just- it's just so good on all counts.
+Gaby: Very Scream.
+Kristin: Yeah, very Scream. I have something else to say about Scream when we get to the last shot of the episode.
+Gaby: Ooh!
+Jenny: [chuckles] Oh.
+Kristin: Yeah. Yeah, so keep listening.
+Gaby: For your Scream tidbits. [laughter]
+Kristin: But yeah, so the- I just wanted to talk about the horror. You can- you all can talk about the actual scene.
+Gaby: Oh, it's great. But it's also bonkers, because she like, goes in and walks in her boots to turn it off. And is like, "Ugh, there's a drought" or whatever.
+Kristin: [laughing] Right.
+Gaby: Which like, whoa, relevant.
+Jenny: Well, they're in Southern California!
+Kristin: They are in Cal- yeah.
+Gaby: Yeah. So she-
+Jenny: That plot point wouldn't have worked anywhere else.
+Kristin: Yeah.
+Gaby: Is looking for Willow. She turns it off, and then the wire is touching the water? I feel like somebody was like, "We need scary real-life action. Like, it can't all just be taking place-"
+Kristin: Yeah, yeah, and technologically-themed. All the-
+Gaby: Yeah. So she gets electrocuted and then just flies into the air?
+NOTES: [laughter]
+Jenny: Which- she jumps, I think, at the same time.
+Kristin: That's how I justified was it, was that she- [laughs]
+Jenny: She's the slayer! One girl in all the world!
+Kristin: Gaby rolled her eyes.
+Gaby: Okay.
+Kristin: You can't hear it, but Gaby rolled her eyes.
+Jenny: Chosen to jump really far!
+Gaby: She's electrocuted, and then like, Dave is-
+Kristin: [laughing] Her shoes are smoking!
+Gaby: Sad- yeah, her shoes are smoking. Dave is sad that he did it and didn't want to do it. And then she's like, I guess, electrocuted. And then they're- Giles is like, "Oh man, if you weren't the slayer, you would have died."
+Kristin: Right.
+Gaby: From the electrocution.
+Jenny: Uh-huh, uh-huh, uh-huh.
+Kristin: Right. And then he gives Buffy a cup of tea. [laughs]
+Gaby: Yeah.
+Kristin: Which- which I really liked.
+Jenny: And Buffy's like, "How's my hair?"
+Kristin: "How's my hair?"
+Gaby: Electrocuted.
+Jenny: [laughing] It's not good.
+Gaby: It's electrocuted.
+Kristin: [sighs] Right. And then, meanwhile, Dave is feeling horrible. Oh, Jenny, yeah.
+Jenny: Right, right. No no no, I was going the same place-
+Kristin: Go for it.
+Jenny: As you. Dave's feeling horrible, is like, "yo, Moloch/Malcolm, I can't do this anymore." And then Moloch, once he realizes that like, Dave is a lost cause, starts doing a Dave impression-
+Kristin: [laughing] Yeah!
+Jenny: Suicide note out loud. [laughter] And then-
+Kristin: The voice change, the computer-
+Jenny: Oh my God.
+Kristin: Moloch is very powerful. [laughter]
+Jenny: [in a robotic voice] "I'm sorry."
+Gaby: [in a robotic voice] "Mom and Dad." [laughter]
+Jenny: And then Fritz is revealed to be in the background, wearing- uh, I feel like the outfit that would sort of become associated with, like, school violence for many years to come.
+Gaby: The trench coat?
+Jenny: Long, black leather trench coat.
+Kristin: Yes, totally.
+Gaby: Okay, so that's like, yeah. And Neo from The Matrix and like, that whole thing.
+Jenny: Oh, yeah.
+Gaby: So yeah, I was saying earlier, he was like- told the teacher- Jenny was like, "Oh, you're gonna- you're doing a new project? That's so cool and I'm gonna like it?" or whatever. And then he's like, "You'll die." Which I was like, this is 1997, so students could say that in school without immediately being arrested-
+Jenny: Right.
+Gaby: Because like, it was pre-Columbine.
+Jenny: Yes.
+Kristin: Right.
+Gaby: Like, that- if a kid even remotely said that, they would- a security guard would be there immediately.
+Jenny: Yeah.
+Kristin: Yeah. And I wonder too, as we get- because Col- was Columbine '99?
+Gaby: '99.
+Kristin: Because you know, the series will- I wonder if we'll see a shift at all in how some of the school violence stuff is handled-
+Gaby: Is handled, yeah.
+Kristin: In the series.
+Jenny: Mm-hmm.
+Gaby: Did Buffy ever do a school shooting episode?
+Kristin: I don't know.
+Jenny: [takes deep breath] Can't say for sure.
+Gaby: Oh, you don't know, right.
+Kristin: Oh, Jenny knows.
+Jenny: Because we're still in Season 1.
+Gaby: Right. Yeah, yeah, yeah.
+Kristin: Yeah. But I guess we'll find out.
+Gaby: 'Cause every show kinda did… like, after that, I think.
+Kristin: Right.
+Jenny: Right.
+Gaby: But also, yeah. I also have so many theories that I've talked about on other pod- other TV podcasts about TV changing after 9/11 too.
+Kristin: Mm-hmm.
+Gaby: So like, I don't know.
+Kristin: Yeah, yeah. I mean-
+Gaby: You guys will get to experience all of it.
+Kristin: Yeah, we'll get to live through it one episode at a time.
+Jenny: So many shifts.
+Gaby: Some tumultuous times in our nation's history. [laughs]
+Jenny: Yes.
+Kristin: Um, I wanna remember- because we didn't really forget to do the Sexual Tension Award last episode.
+Jenny: Oh boy, because-
+Kristin: But the whole- Gaby, the last episode was "Angel." And the whole-
+Gaby: Ohhh, yeah.
+Kristin: Episode was just sexual tension from dawn till dusk.
+Jenny: Indeed.
+Gaby: Whoa, good way to put that.
+Kristin: Thank you. But yeah, so sexual tension, I have three in the running.
+Jenny: Oh, who are your nominees?
+Kristin: My nominees are: Malcolm and Willow.
+Jenny: Okay.
+Gaby: Great.
+Kristin: Malcolm and Fritz.
+Jenny: Yes.
+Gaby: Great.
+Kristin: And Giles and Ms. Calendar.
+Gaby: Yeah.
+Kristin: Those are- those were the three that stuck out to me. Do you-
+Jenny: I feel like Willow and Malcolm have the least sexual tension out of those three pairings.
+Kristin: Yeah, out of- mm-hmm.
+Gaby: I hate- I guess it's fine. But I don't- I'm just- I'm not a fan of the- we're gonna frame it as though they hate each other, and then they really love each other.
+Kristin: Yeah.
+Gaby: But she's not put upon, he's put upon. So I guess I'm fine with it, but a lot of times in those- [Jenny laughs] in those situations, it's like, the guy's a bad boy rogue! And the girl is an uptight career woman! She needs to relax! [laughter] And then she just does what he wants and then that's compromise and then they're together?
+Kristin: Yeah.
+Gaby: And I'm like, that's weird. I also don't-
+Kristin: And so this is actually the- they're flipping it.
+Gaby: They flipped it. They gender-reversed it. I also hate, like, a girl being like, "Fuck off!" to a dude in a movie and then later, it's like, she just likes him.
+Kristin: Right.
+Gaby: And like, sometimes when a lady says "fuck off" she means "fuck off."
+Jenny: Wait, what are you supposed to say to somebody you like, though? If not "fuck off"? [laughter]
+Gaby: Right. Well. So like, I think they gender-reversed so that's fine. But yeah, there's a lot of sexual tension there. But I don't if Giles has ever-
+Jenny: Had sex?
+Gaby: Had sexual tension with anyone ever?
+Kristin: Yeah!
+Gaby: She's like, a predator to him. [laughter]
+Kristin: Yeah, she's going-
+Gaby: She is going for it.
+Kristin: She's going for it.
+Gaby: Yeah.
+Jenny: Oh God.
+Kristin: I'm doing it, I'm skipping ahead 'cause we're talking about sexual tension.
+Gaby: Yeah.
+Jenny: Please.
+Kristin: There's a moment at the end of this episode-
+Jenny: Wooo!
+Kristin: Where Giles brings Ms. Calendar-
+Gaby: An earring, yeah.
+Kristin: Her earring. And I really enjoyed watching this with you, Gaby, because Gaby was like, "What is that? Where does it- What?" [laughter] Like, the whole time and I kept being like, "Just wa- they're gonna- they'll talk about it." [laughter] "What does she mean, she doesn't-"
+Gaby: I thought it was like, a flash drive. [laughter] And I was like, what?
+Kristin: Oh my God, that would have been amazing, if it was like, an earring but a flash drive.
+Gaby: Oooh!
+Kristin: Yeah, very-
+Gaby: They make those.
+Jenny: Oh my God.
+Kristin: Yeah, a very Jenny Calendar earring.
+Gaby: And then- oh yeah. And then, she's like, "It's an earring." And then he was like, "You wear corkscrews in your ear?" And then she was like, "Don't worry about where I wear it" or whatever.
+Kristin: Yeah. [Jenny laughs]
+Gaby: "I don't wear it in my ear." Where does she wear it?!
+Kristin: Where does she dangle it?!
+Jenny: Maybe we'll find out in a future ep- we won't find out in a future episode.
+Kristin: We won't find out! We'll never know where Ms. Calendar-
+Gaby: And also, if it wasn't in her ear, why was it out in the library?
+Kristin: Yeah!
+Jenny: And also, if it wasn't in her ear, where could it, like, comfortably dangle? Let's be practical.
+Kristin: Right. The only thing I could think was that it was like a belly button… dangle.
+Gaby: Ohhhh!
+Jenny: Ohhhh yeah!
+Kristin: Because it is the '90s.
+Jenny: 'Cause the '90s, right.
+Kristin: And I know somebody else, at least one person in this room, who also had…
+Jenny: Gross.
+Kristin: A belly button ring.
+Jenny: Really gross.
+Gaby: You?
+Kristin: You would think, wouldn't you? No.
+Jenny: I can't believe you would bring that up!
+Kristin: I had an eyebrow ring.
+Jenny: Here in a public forum!
+Kristin: This one-
+Jenny: Listen…
+Kristin: Hey, I'm sorry. Podcasts will reveal all your deepest, darkest secrets.
+Gaby: You had a belly button ring? [Kristin laughs]
+Jenny: I don't wanna talk about it. It was a dark time.
+Gaby: Whaaat?!
+Jenny: It was a, um…
+Kristin: Was it in the '90s?
+Jenny: It was- it was in the '90s and it was a piercing that I got, like, out of spite. I was visiting Florida… your favorite state.
+Gaby: You don't need to say anymore. [laughter] When you cross the border into Florida, they give you a belly button ring. Yeah, I know.
+Jenny: I was, like… so what, I was like, 18. And I was dating somebody who was like, 9 years older than me. Very- I mean, whatever. Age is whatever, but like-
+Kristin: Nothin' but a number.
+Gaby: But you- and you were at like, spring break?
+Jenny: Well, we were just like- oh, she's from Florida. So we were visiting her parents.
+Gaby: Where? Where in Florida?
+Jenny: Uh, Winter Park, I want to say?
+Gaby: Okay, Orlando.
+Jenny: And… we had been growing apart, you know? And it was like, getting… stickier. Maybe I was 19. And so, she lived in Orlando and had for many years before she moved to New York and had a lot of friends there. And we were, like, staying with her parents. And one day, she was just like, "I'm going to hang out with my friend." And then didn't come back for like, two days.
+Gaby: [sarcastically] Great!
+Jenny: So me and her much younger half-sister went and got, like, spite piercings.
+Kristin: Nice.
+Jenny: And that is what happened. That is- otherwise, I don't think I ever would have gone down-
+Kristin: The story of Jenny's belly button ring.
+Jenny: That path. [laughs] I just-
+Kristin: It was a really good moment, when I found that out.
+Gaby: I had friends- oh, I had friends in high school that had belly button rings and they would- we would like, go to the mall and change them out. Like, "it's a cherry! Now it's like, a cell phone! Now it's like-"
+Jenny: [laughing] Oh my God. No!
+Gaby: You know? Yeah!
+Jenny: They would have, like, charms dangling off-
+Gaby: It would be like a little dangle, yeah.
+Jenny: No!
+Gaby: A pair of dice!
+Kristin: See?
+Jenny: NO!
+Gaby: Yeah!
+Kristin: But at least that backs up our suspicions that-
+Jenny: It could be- you could dangle something.
+Kristin: It was- you can dangle. You can dangle… your belly button ring.
+Jenny: I never dangled anything. I'll say that much.
+Gaby: Also… Florida's, yeah. Home of the belly button piercing. [laughter]
+Kristin: Yeah. Yeah. I mean, New Jersey, not too far behind, Jennifer.
+NOTES: [laughs]
+Jenny: Fair. Fair.
+Kristin: You know? You were raised in a state that was very fond of belly button rings, I think.
+Jenny: The other Florida.
+Kristin: The other Florida, yeah.
+Gaby: Yeah. Atlantic City.
+Kristin: Alright, so, whatever. So we lose Dave. We've lost Dave.
+Jenny: Bye Dave!
+Gaby: Dave is killed. Suicided.
+Kristin: Dave is killed. Moloch- I just want to briefly talk about the fact that Moloch appears pixelated in the computer, which is a really great moment. [Jenny laughs] And then we go to Willow's house. Where another-
+Jenny: Oh my God.
+Kristin: A lot of amazing computer things happen here.
+Jenny: Yeah, yeah yeah yeah.
+Kristin: Because we go- Moloch appears in the computer screen. Then, Willow walks into her room and her computer is like-
+Gaby: Comes alive. "You have mail."
+Kristin: "You have mail!"
+Jenny: And there's like, a rotating mailbox.
+Kristin: Yeah, which…
+Gaby: There used to be a thing, like, where you could click on the mailbox I think, right?
+Kristin: Yeah but not the- did it do that spinny thing? I don't-
+Jenny: Did it do a little dance? I don't think so.
+Kristin: I don't think so. It looked like a clipart thing. Like, that wasn't-
+Gaby: I don't know.
+Kristin: Anyway.
+Gaby: She clicks it, he's like, "We need to meet now." She's like, rah, no.
+Jenny: "No thanks!" and then chloroform party.
+Kristin: Chloroform party…
+Gaby: Fritz takes her.
+Kristin: Fritz takes her.
+Jenny: This is kind of a rough episode? For like… I don't know, chloroform, forced fake suicide, there's just like a lot- I mean, I guess there's-
+Kristin: There's a lot.
+Jenny: But it's like, a person carrying out stuff on behalf of a demon, which I don't think we've seen yet. I think we've only seen, like, vampires and witches and stuff.
+Kristin: Right. And we also- we have another vampire-less episode here.
+Jenny: Another vampire-less episode.
+Kristin: Yeah. But I feel like there's not- I feel like I read something about there being very few. They must all happen in the first season or something, because it said that the vampire-less ones had the lowest ratings-
+Jenny: Yeah yeah yeah.
+Kristin: Of all the episodes.
+Gaby: That makes sense. There's "vampires" in the title.
+Kristin: Yeah, you really gotta live up-
+Gaby: You are- yeah. That's like, "we're trying to give the people what they want!" [laughter] Like, why- you tune in and you're like, this isn't about vampires at all! Click. Gone.
+Kristin: But yeah, so right. Willow gets chloroformed, taken away.
+Jenny: Uh, sweet Wikipedia note. In the next scene where Giles is listening-
+Kristin: Yes!
+Jenny: To the radio, and there's a radio announcer talking about a whole bunch of chaos that's occurring around the globe, we assume caused by Moloch being on the internet-
+Gaby: Oh yeah, 'cause he could launch the nuclear codes and he could fuck with the economy and-
+Jenny: Yes, yes, yes.
+Kristin: Right, all the things that we were afraid of in 1997!
+Gaby: Right.
+Jenny: That radio announcer voice belongs to Joss Whedon.
+Kristin: Super cool.
+Jenny: Which is a lovely detail.
+Kristin: Yeah. And uncredited, right?
+Jenny: Uncredited.
+Kristin: Yeah. It's fun. Fun little trivia piece.
+Jenny: So like… [sighs]
+Kristin: Oh, no. What happened?
+Gaby: What?
+Jenny: No, I mean, now it's time for Giles and Ms. Calendar to have…
+Kristin: The talk.
+Jenny: You know, a come to Jesus talk.
+Kristin: Yeah.
+Jenny: About how there's a demon on the internet.
+Gaby: Oh yeah! So he goes and is like, "I don't know how to explain this to you, but…" And he's like, "There's a demon on the internet." And she Han Solo's him with, "I know." [laughter] And then he's like, whoa, what? I thought you were just a normal lady in the Hellmouth! [laughter] And then they- then she's like, "No, I'm like a something" and then he's like, "You're a witch?" And then she's like, "Uh, we prefer techno-pagan."
+Kristin: Yeah.
+Gaby: And then I was like, oh, tag yourself, I'm the techno-pagan. [laughter] Same, same. Yup!
+Kristin: What did you- when you first got here today, you- you remembered that she had a term for herself, but you thought it was-
+Gaby: Cyber-witch.
+Jenny: Cyber-witch.
+Kristin: Cyber-witch! Which is not too far off, but she actually says she doesn't have the powers of a witch.
+Gaby: Yeah.
+Kristin: She clarifies.
+Jenny: She just casts bones.
+Gaby: She just- she's not a witch, she just believes in- yeah.
+Kristin: Yes.
+Gaby: She's just like, a religious techno-pagan. Which is literally- high school me would have been like, that's what I am. Like, that's- yup!
+Kristin: Right. Fill in your identity here: techno-pagan.
+Gaby: Yeah!
+Jenny: [singsongy] Yes!
+Kristin: Absolutely, absolutely.
+Gaby: Like, I was just like- I have a story that I tell on storytelling shows about like, trying to do witchcraft on people that I had crushes on in middle school. [laughs]
+Kristin: You were a witch too in middle school?
+Gaby: Oh yeah. Big time, big time.
+Kristin: Ah, witches unite.
+Jenny: Wait, were you doing witchcraft on them to make them like you, or witchcraft on them to like…
+Gaby: No, to make them like me.
+Jenny: Vengeful- okay.
+Gaby: Yeah, to make them like me.
+Jenny: Nice. Did it work?
+Gaby: But then, the short form- yes! The short term version is-
+Jenny: Yes!
+Gaby: There was a kid I had a crush on- the story that I tell- it's a long story, but the short version is, I had a crush on this kid in middle school. I did a love spell on him and then I was like, I guess it didn't work. And then when I was a senior in high school, I saw him again, after I hadn't seen him in like, years 'cause he switched schools for high school. And then we had sex! [Kristin laughs] So!
+Jenny: Wow. It worked. It was long form-
+Gaby: The love spell was real!
+Kristin: Yes, so you were-
+Gaby: It just waited until-
+Jenny: Wait, so was it a love spell or a sex spell?
+Kristin: Ooh!
+Gaby: I mean, it doesn't matter. I won. [laughter] Like, who- I still won!
+Kristin: Stop meddling in the details, Jenny!
+Jenny: Sorry, sorry! Sorry.
+Gaby: My friend was like, "Do you even like this dude anymore?" I was like, "You don't understand!"
+Jenny: "That's not the point!"
+Gaby: This is- the point is the witch spell was real! So I like, tell this whole story and basically the punchline is, like, you think it's like this coming of age story. And then I'm like, so I guess what I learned is… witchcraft is real, bitches! [laughter] Wooo, we did it!
+Kristin: Can you give us- like, is there a link that we can share with them where they can hear this full story?
+Gaby: Oh, God. I don't remember. I… would have to find-
+Kristin: I mean, you don't have to tell us now. But like, we can put it out on-
+Gaby: Yeah. I'll find it. I- it's either written or- I've told it on some storytelling shows, but yeah.
+Kristin: Alright, well, if we find it, we'll… @bufferingcast on Twitter, we'll share that so you can…
+Gaby: And then it's really funny because that guy is like, married and lives in North Carolina and whatever. And I'm like, should I message him and be like, hey, so, to you in your mind, you're like, I was friends with this girl in middle school and then I ran into her again in high school and we had sex. Weird. And I'm like, sir, there is so much more. [laughter] Like, you don't even know- and I was like, is it worth it to just tell him? Like, "so you were under a love spell for seven to eight years."
+Kristin: I think he should know, personally.
+Gaby: I was like, I guess I should-
+Jenny: Does he have a right to know?
+Gaby: Yeah, I guess I shouldn't tell him.
+Kristin: Right. But yeah-
+Gaby: Let him live his life.
+Kristin: Thank goodness that you were a techno-pagan, but thank goodness that Jenny Calendar is a techno-pagan.
+Jenny: Mm-hmm.
+Kristin: Because, by her powers combined with Giles, they have this incredible moment. Meanwhile, right, Willow's in danger.
+Gaby: Mm-hm, mm-hm.
+Kristin: There's this whole eerily lit- I really like that, too. This was another, like, horror movie kind of thing for me, with the computers being lit up in red.
+Jenny: Yeah. Really nice.
+Gaby: Oh yeah.
+Kristin: Super spooky.
+Jenny: Also, how great is it that Willow is talking to Moloch the robot once he, like, reveals himself in his robot form, and is like- is not like, "This is crazy!" or like, "I'm not gonna answer your questions!" but is like, "I don't love you and I will never love you!" [laughs]
+Kristin: Right!
+Gaby: They make it, like, a real breakup, which is funny.
+Kristin: Yeah.
+Gaby: But also, I was saying, how funny that he's like, "I need a robot form," and they're like, "Great." And he's like, "I need it to look exactly like my demon form!" [laughter] And they're like, "Cool, cool. What function will the horns have?" "None! Purely aesthetic!"
+Jenny: Decorative.
+Gaby: "I don't feel- I feel naked if I do not have my horns."
+Kristin: Yeah, maybe he was getting a little, like, dysphoria without his true form. He needed-
+Gaby: Yeah. He's like, "Okay, chill. Are the horns, like, made of metal or like, do they have wires in them?"
+Kristin: Yeah, they really- they went all out.
+Gaby: He just draws, like- "it needs to look like this." And they're like, uh, okay? A lot of this is just purely-
+Kristin: Ornamental.
+Gaby: For show, like, it's not- [laughter] You know, your actual form would look- "no, no, it needs to look exactly how I looked."
+Kristin: And very, like, Iron Man prototype-ish too.
+Gaby: Yeah!
+Jenny: Oh yeah.
+Kristin: There's a little bit of, like, Iron Man happening in the facial structure, I thought.
+Jenny: Yeah, the eye shape and stuff?
+Kristin: Yeah. But yeah, this computer lab- first of all, who are all these people? Is- that was a question I had. They're-
+Jenny: They're in thrall to Moloch. He just found them on the internet.
+Kristin: They're just- so he just grabbed every nerd in the neighborhood.
+Jenny: He was like, I need some people with some lab coats. I need some people with some security uniforms.
+Kristin: Yeah.
+Jenny: I need some computer geeks in high school.
+Kristin: Right.
+Gaby: Got them together to make him out of robot.
+Kristin: Got- yeah, got them together to give him a corporeal form. And then-
+Gaby: There you go.
+Kristin: And then something really fun about the computer lab is that part of their security system is like, a gas that comes out?
+Jenny: Is that fun? Or something else?
+Kristin: Well, right. I mean, ironically fun. [Jenny laughs] Sarcastically fun. But like, that's pretty- it's a pretty intense system that they have.
+Jenny: Yeah.
+Kristin: To guard their…
+Gaby: Yeah, it's all- makes no sense.
+Jenny: They're not fucking around.
+Gaby: And that he's- wants- he's like, "Everyone can give me power, but Willow gave me, like, true form."
+Kristin: Right.
+Gaby: It's like, what is your plan? Marry her? What's your-
+Kristin: Right, what- and would he? Because- right, like, what would have happened if Willow was like, "I do love you." 'Cause that also could have been a tactic of hers, you know?
+Jenny: I feel like it would have been like, a Lenny, Of Mice and Men situation.
+Kristin: Right. The- [laughs]
+Gaby: He hugs her so hard he kills her?
+Jenny: Yeah! Just mush her into a love paste.
+Kristin: [laughing] Yeah.
+Gaby: He's like, "What I need to do, is marry this human teenager." [laughter] Your plan is not thought out!
+Kristin: No! He didn't- he was too busy thinking about all those zeros and ones or something.
+Gaby: Yeah.
+Jenny: Mmm.
+Kristin: Wasn't thinking about it.
+Gaby: But then, they all run in and try to save her.
+Kristin: Yeah, this is- this is real Scooby power here that's happening with- they're all together and like, they-
+Gaby: [laughs] Oh, I forgot that she goes, "How- what did you want to do, by lying to me and pretend- like, you prove that you love me by lying to me and pretending that you're a human?" And I was like, well, I've given that speech before. [laughter] Whoa, damn. Yikes!
+Kristin: Pulled some lines from this one, Gaby.
+Gaby: It's just like, "at" me next time! [laughter]
+Kristin: But yeah, I love- I mean, whatever. We've all watched the episode. We know what happens.
+Gaby: Yeah.
+Kristin: There's a spell that's being cast-
+Jenny: Oh yeah.
+Kristin: In- between Giles and Ms. Calendar. Which by the way, like, it really would have helped if Ms. Calendar had a little QWERTY training here. Do you remember QWERTY?
+Gaby: Oh yeahhh.
+Jenny: For a computer lab teacher, she's a pretty slow typer.
+Kristin: Yes! She's hunting and pecking on that computer.
+Jenny: Clack. Clack. Clack.
+Kristin: Time is of the essence, Ms.- type faster!
+Gaby: I still type like that.
+Kristin: Do you? [laughs]
+Gaby: I type weird, I guess. I type with like, I don't know. Pecking, but also-
+Jenny: Do you just type with your thumbs on a computer keyboard?
+NOTES: [laughter]
+Gaby: Yeah. I type with my thumbs.
+Kristin: You pick up the keyboard and hold it. [laughter]
+Gaby: What do I do? [laughter] I pick up my keyboard like that, I'm just like, I don't know… where's the screen?
+Kristin: But the moment I love, the moment that I really got all Scooby feelings for was when, you know, Buffy is like, I have an idea. I'm gonna duck my head and your fist is gonna go into the thing, you're gonna short circuit, whatever. Because he gets bound in the metal body. And then they all run to the corner 'cause they know that Moloch is, like, gonna explode?
+Gaby: Yeah.
+Kristin: And I just loved it so much. They were all so sweet in the corner, like, taking care of each other, holding themselves. Protecting themselves. I just really liked it, you guys. That's all. I just had a sweet feeling.
+Jenny: Wow.
+Kristin: Nothing deep here.
+Gaby: I liked when- I liked them- like, Willow hitting him with the fire extinguisher.
+Kristin: Oh my God. Yes.
+Gaby: And being like, "I'm not- it's me, your ex-girlfriend!" [laughter] Whatever, blah blah blah. It's funny, 'cause I remember the tagline for Buffy, I think at least for Season 1 was "High school is hell"?
+Kristin: Mm-hmm.
+Jenny: Yes.
+Gaby: Which is like, funny- 'cause I imagine the pitch was like, all the real problems of high school but they're demons!
+Kristin: Right.
+Jenny: Yeah, yeah, yeah.
+Gaby: So this would have been, like, on 90210, an episode where Willow is like- you know, gets back at her evil ex-boyfriend but that ex-boyfriend is actually a demon.
+Kristin: Yes!
+Gaby: Great pitch. I would have bought this show. [laughs]
+Kristin: Right? I know. It's brilliant, 'cause you just get to throw out all the nonsense and get right to it.
+Gaby: Yeah.
+Jenny: Mm-hmm.
+Kristin: Get right to it. So yeah, they defeat Moloch. Once and for all, it seems. 'Cause he was bound- he was rebound in the body of Moloch, right? But then they killed- like, it doesn't seem like Moloch can get back out again.
+Gaby: Yeah.
+Jenny: No, he's done. Done-zo.
+Kristin: He's done.
+Jenny: Um, here's something… unsettling. Xander is wearing a shirt that I would like to own.
+Kristin: Oh my God!
+Jenny: That is the only time that this happens-
+Kristin: What shirt?
+Jenny: I think in the whole series. He's wearing this like, very reasonable button-down, Pendleton-looking plaid… thing. Shirt.
+Kristin: Ohh. Nice.
+Gaby: What is the pornstar shirt that you guys are talking about look like?
+Kristin: It's a T-shirt. It's just a white T-shirt.
+Jenny: Yeah, it's just a T-shirt.
+Kristin: It has stripes, right, on either side of where it says "pornstar"?
+Jenny: If his doesn't, a lot of them did.
+Kristin: Right, because…
+Gaby: "Pornstar shirt '90s"? What am I not typing? [Jenny laughs]
+Kristin: Yeah. I mean, be careful with that Googling, Gaby.
+Jenny: Yeah…
+Gaby: Hold on, I just need to reply to my friend Malcolm real quick. [laughter] He's silly!
+Kristin: I had- speaking of wardrobe things, I noticed this episode that in so many of the episodes, there are a lot of leather squeaks. Like, that is a-
+Gaby: Oh, yeah.
+Kristin: That is a definite sound effect that they are using. 'Cause Jenny Calendar must have something leather on in the last-
+Jenny: Where? It's dangling!
+Kristin: [laughing] It's dangling- where is it dangling from? Um… but yeah, and then, oh, so the scene that I wanted to talk about that- I think- I haven't had the time to look it up yet. But I am pretty obsessed with Wes Craven and Scream so I think that I'm correct.
+Gaby: Yes.
+Kristin: The last scene, Buffy, Willow and Xander are sitting at the fountain. And it is- it triggered something in my brain to be like, this is identical to a scene that is in Scream. Like, the positioning of it? Where the three of them, it's like- I think it's Rose… McGowan and then the two guys. I can't remember their name-
+Jenny: Matthew Lillard.
+Kristin: Matthew Lillard and the other-
+Jenny: And Skeet Ulrich?
+Kristin: Yes! Ugh, nailed it, Jennifer!
+Gaby: That's incredible!
+Kristin: Yeah, so the three of them are sitting at the fountain. So I'm gonna try to look it up and see if I'm right. 'Cause I was like, this is the same- just like, the framing and the feel-
+Jenny: You talking about it, I feel like I-
+Kristin: Like, the feel of it… was like this- it was very eerily this-
+Gaby: It's the last scene of Scream?
+Kristin: Not the last scene of Scream. It's- not the last scene, but a scene in Scream. Like, a pivotal-
+Gaby: Ohh.
+Jenny: There is like a round fountain, right? Like, at the high school?
+Kristin: Yeah, and they're-
+Gaby: It must have been the same set.
+Jenny: Torrance High School?
+Kristin: Yeah, maybe? I'm just-
+Gaby: Wait, let me look.
+Kristin: I have to look more into it, because I just remember it so well. And there's something too about the sound of the fountain.
+Jenny: The fountain going. And like, the hyper brightness, it's like we were talking about with-
+Gaby: Ohh yeah.
+Kristin: Yes. The orange juice being-
+Jenny: The extreme brightness in the- right, right, right, in the pilot.
+Gaby: Yeah, yeah, yeah.
+Jenny: It's too sunny.
+Kristin: And they have this moment that's like, you know- [Jenny laughs] Very- oh well, ha-ha-ha, we just realized that we're doomed- "We're doomed," I think is the last line.
+Gaby: Yeah, 'cause I was thinking about this, that he was like- that she was like, "Oh, my first boyfriend ended up being a demon." And I was like, didn't Xander just almost fuck a caterpillar or whatever it is? [laughter]
+Kristin: Yeah- [laughs]
+Jenny: Caterpillar!
+Gaby: Praying mantis.
+Kristin: Yeah, they've all had- at this point, they've all had a run-in with-
+Jenny: Some kind of demonic love interest, right.
+Kristin: A love- demonic love. Yes. Because-
+Gaby: And then I'm like, the weird person in the corner who's like [whispers] "y'all should date each other." And then they're like, "What? Who said that?"
+Jenny: All three of you. [laughter]
+Gaby: "Who said that?" You guys- have you guys ever tried like a triad? And then they're just like, "What? Who? Who was that?" [laughter]
+Kristin: You're sitting in the fountain.
+Gaby: Yeah. I'm like, dressed as the fountain, hiding with my hands up.
+NOTES: [laughter]
+Kristin: But yeah-
+Gaby: I'm like, "you guys ever heard of a poly triad?" They're like, "did the fountain say something?" [laughter]
+Kristin: Oh, it's just Gaby. It's just Gaby. But yeah, and then the credits, like, come up over the sound of the fountain. Just leaving you-
+Jenny: Nice.
+Gaby: Mm-hmm. And Buffy's wearing those redonkulous sunglasses.
+Jenny: Again!
+Kristin: Oh my God, right? I know, Gaby screamed when that happened. [laughter] She was like, "Get those off your face!"
+Gaby: It looks horrible.
+Kristin: They're just so- I lived through this era. I don't remember having sunglasses-
+Jenny: Oh, you had terrible sunglasses.
+Gaby: Oh, yeah. Small sunglasses, yes.
+Jenny: Everyone did.
+Gaby: They were so small. They just covered your eyeballs. [laughter]
+Kristin: I did have glasses that were- like, I remember my glasses being literally the size of my eyeballs.
+Jenny: [laughing] Yes.
+Gaby: My glasses progressively through time have gotten bigger.
+Kristin: Yeah.
+Jenny: Yeah yeah yeah yeah.
+Gaby: Like, I had really small- I found old glasses from, like, six years ago. And I was like, what the fuck are these? [laughter] So small! And now I just have like, these big red- yeah, as big as my face. If we can make them as big as my face, that'd be good.
+Kristin: Totally.
+Gaby: And sunglasses, the same thing. But sunglasses now are back to being smaller. 'Cause I just watched the pilot of The Hills? And those sunglasses were bug eyes. [laughter]
+Kristin: Yeah, I had some giant sunglasses a couple years ago. Anyway. We- so we talked about the patriarchy, we hit sexual tension. We talked all about computers with our millennial friend.
+Gaby: Yeah.
+Jenny: We couldn't talk about Cordelia 'cause she wasn't in this episode.
+Kristin: Ugh.
+Jenny: What a loss.
+Gaby: She's too hot to be catfished. [laughter] Like, she's doing the catfishing.
+Kristin: [laughing] Cordelia took one look at the, like, sunglasses that were part of the costume wardrobe and was like, "Not into it. Not this time."
+Gaby: Yeah.
+Kristin: But yeah, we did miss Cordelia. I'm sure she'll be back soon.
+Jenny: God, I hope so.
+Kristin: I hope so. Yeah, she'll be back.
+Gaby: It's funny. In shows today now, it's like, this person's a nerd! And they're like, so hot. But they- and Alyson Hannigan is beautiful. But they did a really good job of dressing her like, very conservatively and like, having a real juxtaposition between her and Buffy.
+Kristin: Yeah.
+Jenny: I think that I read too that this changes mid-Season 1 or after Season 1. Like, uh… network execs got involved and were like, listen, it's a little too Sears? Can you do something better? And we'll see what "better," in quotes, means for poor Willow.
+Kristin: That's when we get all those- Willow sweaters.
+Jenny: Ohhh!
+Kristin: Those really special- oh, Kate's gonna have a blast when we get to those outfits.
+Jenny: That will be… good.
+Kristin: It's good times. Well Gaby, um, where can all of the wonderful people listening- like, where would you like them to go to find you? Where's the best place?
+Gaby: Oh, uhh…
+Kristin: Or, you know, give us a few.
+Gaby: Youtube.com/justbetweenusshow. And Bad With Money is the podcast on Panoply, which is a network. Uhh… I was trying to be like, oh, you can find me in ancient Italy. In a book. Just like, open a book in like, 1700s Italy. And I'll be there! [laughter]
+Kristin: So any of those three places.
+Gaby: Yeah.
+Kristin: All easily accessible to the laymen. Yeah. [laughter] Well, Gaby, when we sign off, we usually howl. So… after we-
+Gaby: Oh, that's funny!
+Kristin: We're gonna tell people where they can find us, yeah, and then if you want to, you can join in on our wolf howl at the end.
+Gaby: Okay.
+Jenny: That would be nice.
+Kristin: Cool.
+Jenny: Thanks so much for listening, everybody. I'm Jenny Owen Youngs and when I'm not watching Buffy, I'm usually writing and recording songs. You can learn about me at jennyowenyoungs.com/buffering, where I've put together a little playlist just for you guys of songs that I've written that aren't about Buffy. And you can also give me a shout on Twitter @jennyowenyoungs.
+Kristin: I'm Kristin Russo and you can find my personal chatter and feminist rants over on Twitter, @kristinnoeline, K-R-I-S-T-I-N-N-O-E-L-I-N-E. When I'm not podcasting, I work to bring advice, resources, and laughter to LGBTQ young people and their families over at everyoneisgay.com and mykidisgay.com.
+Jenny: Buffering the Vampire Slayer is on Twitter @bufferingcast and on Facebook at facebook.com/bufferingcast. You can email us at bufferingthevampireslayer@gmail.com
+Kristin: And oh, how you have been doing that!
+Jenny: Thank you.
+Kristin: We have so many awesome notes. If it's taking us a minute to get back, don't worry, we're getting there.
+Jenny: Mm-hmm.
+Kristin: It is so great to hear from you all. And I want to just say, there are three awesome ways that you can support us. One, you can support us with your dollars over at bufferingthevampireslayer.com and clicking on "donate." Two, you can support us by donating your positive reviews over on iTunes. They are so helpful, they help let other people know about the podcast and know that it's good and great and wonderful and all those, you know, affirming words. Um, and number three, you can tell people about our show. You can say, "you know what? You- what you need is to listen to Buffering the Vampire Slayer. It will make your life complete." Alright.
+Jenny: Wow.
+Kristin: You have to say it.
+Jenny: I know, I know, I know! Wow. This has been so special. Until next time…
+All three: AWWOOOOOOOO!
+Jenny: We howled.
+Kristin: Nice.
+Gaby: And then I want the theme song to start. [Jenny performing "I, Robot… You, Jane," off the album "Songs from Season One" by Buffering the Vampire Slayer] There comes a time in a librarian's life When he has to look his adversary in the eye And say, hello, Ms. Calendar, scan what you must But I don't have to like it There comes a time in a Willow's life When she meets a mysterious boy online But something doesn't add up, so fetch my disguise What's this that I'm detecting?
+NOTES: [dial-up modem sounds] There's a demon, there's a demon on the internet There's a demon, there's a demon on the internet He's ones and zeros, just like you'd expect There's a demon, there's a demon on the internet There's a demon, there's a demon on the internet There comes a time when the boy Willow met Is actually that demon from the internet Fuckin' Fritz is the worst and he tried to elect- Trocute me in the showers There comes a time when a librarian learns That "techno-pagan" is the actual term And Malcolm is Moloch, and Moloch got fried And oh hey, by the by If that's not where it dangles, Then um, where does it dangle?
+NOTES: [dial-up modem sounds] There's a demon, now the demon's off the internet There's a demon, now the demon's off the internet Computers don't smell, but he's fried to shit There's a demon, now the demon's off the internet Yeah the demon, yeah the demon's off the internet

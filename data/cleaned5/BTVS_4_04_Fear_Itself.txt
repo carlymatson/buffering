@@ -1,0 +1,889 @@
+Buffering the Vampire Slayer
+Episode 4.04: Fear, Itself
+Jenny: Hey, hello! Oh gosh-hey. Hi. Before we get started, we just have a couple things to tell you about this episode.
+Kristin: Yes, well a couple things about this episode and a couple things about, youknow, our work in general. One: We last season, did a lot of lyric sheets. Every month we would write five-sometimes ten-lyric sheets, and all of the profits from the sales of those lyric sheets went to a different organization. And so, we haven't started that back up this season, but we hope to very soon. However, with everything going on in our country with immigration, we obviously felt we needed to do something, and so we did do handwritten lyric sheets. They sold out so quickly that we didn't even get to tell you on the podcast, which is incredible and wonderful. So, we wanted to let you know that we raised $500 for RAICES, a nonprofit agency that promotes justice by providing free and low-cost legal services to underserved immigrant children, families, and refugees in Texas. All of those lyric sheets are sold-out. If we can we'll add more, and we'll let you know as soon as we do, but for now we're donating $500 because you are all wonderful. So, thank you for, you know, continuing to help us blend vampires,
+Buffy, and social justice: a good match, overall.
+Jenny: Yeah; thank you all so much for your support! In other news: Holy(!) flipping(!) crap(!), we have a new item in the store that I'm so excited about, which is the Smash the Demon Lizard Patriarchy [gasps] diner mug, the only vessel from which I choose to drink coffee-very satisfying. Has a really nice heft to it. You could probably knock out a vampire if you accidentally invite one into your home and leave them temporarily concussed so that you can escape-that's how hefty these mugs are. We also have new Smash the Demon Lizard Patriarchy stickers and a whole bunch of other business-wow. And we're also-are you ready for it?-running a sale through July 8th. The sale code for 15% off everything in the store is-spoiler alert for a conversation that happens later in the episode-"clothed nudes," that's C-L-O-T-H-E-D-N-U-D-E-S. If you just go to bufferingthevampireslayer.com and click on "Shop," you can see our wares, use that code, and be excited about diner mugs. Cool.
+Kristin: Yes, the sale goes through July 8th, like Jenny said, and also just so you know, there are a handful of super limited items that are up. We had a few of the "Be the Thing that Monsters Have Nightmares About" shirt. Did I say that right?
+Jenny: You did a great job.
+Kristin: Okay! We had a handful of those left, so we put those up. They're super limited; I think there's six or eight of them total. We had some prom mixtapes-they were cassette mixtapes that have [giggles] "Wild Horses" twice on each side by The Sundays, of course.
+Jenny: The only song you need.
+Kristin: Yes, so those are up again. There's just-I think there's ten of them total, and then once they're gone, they're gone. So, there's a couple of fun little things like that up and also the Buffy/Faith zine is-
+Jenny: Back in print!
+Kristin: Up for preorder, so lots of fun stuff over there. Anyhow, a couple of calls- well, a call to action and then a related thing. You all have been transcribing our episodes for us, and the effort has been led by our listener Joelle. But so many of you have participated and we have almost all of seasons one and two complete. We would love to just reactivate you all to get through season three. You can find out more about the transcriptions and that process at bufferingthevampireslayer.com/transcriptions. It's also where you will find all of the transcriptions. So for our hard of hearing and deaf audience members, they are able to participate with us. It's really wonderful. Thank you all for helping us, and if you have some time, jump in there and help. You can help for as long as you want. You know, it's a whole system in there where you can do 10% of the episode and then let people know where you left off and they can jump in and pick up for you. So relatedly, speaking of access, our New
+York City event is so soon: It's in four days; it's Sunday, July 8th, at Littlefield in Brooklyn.
+Jenny: Ahhhhh!
+Kristin: So exciting. We're going to be doing a live taping of "Beer Bad"; we have Kathy Tu, Heather Hogan, and Louis Peitzman all guesting with us. It's sold out, and we want to remind you all that the first one hundred of you will get seats. I'm saying this because I want to make clear something that I didn't make clear last time we talked about this. Access seating will of course be reserved, so if you are somebody who needs a seat, there will be a seat for you-wanted to make that clear. And for the rest of you, if you are not one of the first one hundred, it will be standing room only, but it's gonna be fun.
+Jenny: Yeah, we'll be so entertaining, you won't even notice that you're standing up.
+Kristin: Yeah, you won't even realize you're standing. A couple of little things: I was on a really fun podcast that came out this Monday called The Baby-Sitters Club Club. You can find them over on Twitter and other social media @BSCCPodcast. I talked about Kristy and the Case of the Missing Child, a mystery-a Baby-Sitters Club mystery.
+Jenny: Wow.
+Kristin: I talked a lot about Kristy being at least bisexual and in love with Mary Anne, so I think there's something for everybody over there. It was real fun.
+Jenny: I can't wait to listen to that. I don't know anything about any of the babysitters in the Baby-Sitters Club.
+Kristin: Oh wow, well Kristy is certainly queer of some nature.
+Jenny: Noted.
+Kristin: It's a fact.
+Jenny: Okay.
+Kristin: That's just a fact.
+Jenny: It's canon?
+Kristin: I mean, not only is Kristy a queer character but also the author, Ann M. Martin, came out as queer like a couple years ago, maybe a year ago.
+Jenny: Wow, woooooow-bombshell!
+Kristin: So yeah, I also just want to-since we're talking about other podcasts before we hop into our own podcast-I just wanted to give a shout-out. I'm sure many of you know about this podcast already, but there is an incredible podcast done by two culture writers at the New York Times called Still Processing. And you know in this podcast we touch on racial justice, we touch on sexuality, we touch on gender, we touch on a lot of these things; and Still Processing, oh my god, the two hosts are brilliant, brilliant, brilliant, and the episode topics are incredible. I just listened to like three episodes the other day-one on Kanye West, which had me, like, in tears, it was so powerful.
+Jenny: Wow.
+Kristin: One on angry women, which talked about the-
+Jenny: Hot.
+Kristin: Yeah, the interview-the Arrested Development interview-and that whole thing. Just really, really relevant shit, and I think there's a lot of overlap. So, if you want to know what informs me right now as I talk about shit, you can go on over and check out Still Processing.
+Jenny: Wow. Well, listen, you're not the only person who can go around getting other people's podcasts.
+Kristin: True.
+Jenny: I was just on last week's episode of Angel on Top, our sister podcast with Brittany Ashley and Laura Zak. And I'm here to tell you that you should listen to that episode if you haven't. You should watch the episode of Angel, then you should listen to us talk about it. Especially because-now more than ever because-it's a crossover episode. Spike was in Sunnydale the previous week, then he went to LA. He just loves Southern California; he can't get enough, and we can't get enough of talking about him. So please listen to that episode and every other episode of Angel on Top because it rules and Brittany and Laura are so, so great.
+Kristin: Hell yes. I think that's about all we have. We've got some fun segments in this episode. We have Kate Leth, of course. It's a Halloween episode, so how could we ever be without Kate? I think you'll enjoy her segment. We also have a segment at the end, after the song, with Chris Farren who wrote this week's song with Jenny.
+Jenny: Hell yeah! Let's get into the episode.
+Kristin: Yes!
+NOTES: [Buffering the Vampire Slayer theme plays]
+Jenny: Hello! And welcome to Buffering the Vampire Slayer, a podcast where we are watching every episode of Buffy the Vampire Slayer, one by one, in chronological order, spoiler-free. I'm Jenny Owen Youngs.
+Kristin: And I'm Kristin Russo. And this week, you know, it's July, so we're talking about Season Four, Episode Four, "Fear Itself," which is-
+Jenny: The Fourth of July episode?
+Kristin: The Fourth of July episode.
+Jenny: Of course.
+Kristin: It's the Halloween episode. It's fine. Stay tuned at the end of this podcast every week for an original song written by us recapping the Buffy episode we're discussing. Jenny, this song was not written by us at the end of this episode. Who was it written by?
+Jenny: This song was written by half of us: aka me and a friend of the pod and
+America's gentle sweetheart: the one, the only, Chris Farren.
+Kristin: And if we're lucky, I think after the song we have a special little segment-
+Jenny: Just a little chat, just a little window into the mind of an artist, portrait of the artist as a young hot guy with glasses.
+Kristin: Yes. And unbeknownst to us, we continue to ask Chris to be on the episodes that take place in frat houses.
+Jenny: Of course! His area of expertise.
+Kristin: Yes, of course.
+Jenny: If Chris was auditioning for Buffy the Vampire Slayer, his special talents- where Sarah Michelle Gellar listed ice-skating-Chris would list frat party stuff-
+Kristin: Commentary and/or songs.
+Jenny: Yes. Okay. So "Fear Itself," this very episode, was written by David Fury and directed by Tucker Gates, and originally aired-
+Kristin: Who is Tucker Gates? [perplexed]
+Jenny: I don't know. [crosstalk] Yeah, it's a heck of a name. It sounds like Parker Abrams; it's like another guy working UCSD campus.
+Kristin: Anyway, I'm sorry to interrupt.
+Jenny: No, no, no, [laughs] it's fine.
+Kristin: It's like new-director alert, you know.
+Jenny: Yup, yup, yup. And it originally aired on October 26th, 1999, the same week as all the other Halloween episodes of every other show.
+Kristin: Yes. Ooh, gosh, I wish we had looked up what the other Halloween episodes of the other shows where like, what was Dawson's Creek up to this Halloween? You know? You let us know at bufferingthevampireslayer@gmail.com.
+Jenny: Oh my gosh, Dawson was probably Steven Spielberg for Halloween.
+Kristin: Oh my god, Jenny [laughing].
+Jenny: Sorry. Brittany might know; we should ask her.
+Kristin: This is the one where, on Halloween, Buffy and her friends find themselvestrapped inside a haunted frat house: complete with real bats, zombies, and a terrifying demon.
+Jenny: Ooooh [spookily].
+Kristin: Like on Halloween, Buffy and her friends find themselves trapped inside a haunted frat house. Isn't every frat house haunted?
+Jenny: Wow.
+Kristin: Is that rude?
+Jenny: Haunted by the ghost of the patriarchy?
+NOTES: [THE PATRIARCHY jingle plays] The patriarchy! [thunder clap, evil laughter]
+Jenny: Just getting there nice and early.
+Kristin: Yeah, I mean, it's an episode in the frat house-you got to get there-
+Jenny: No time wasted!
+Kristin: The last time we did an episode in a frat house, Jenny, we wrote a song with the lyric, "smash the demon lizard patriarchy." So you know, there could be another best-selling T-shirt in-
+Jenny: Actually, the lyric was just, "I got a scoop of the demon-a heaping scoop of the demon lizard patriarchy."
+Kristin: Right, right, right. I'm so sorry. But you know, all I'm saying is that perhaps nestled in this episode will be another hit slogan for a new T-shirt.
+Jenny: Let's hope so. Okay, so it's pumpkin carving time.
+Kristin: It's pumpkin carving time. You said you had something to share with the group over there on your phone.
+Jenny: I've got something about VHS tapes.
+Kristin: Ooh, I have something about Dawson's Creek 1999 Halloween.
+Jenny: Hit it!
+Kristin: Okay. I'm just going to read you the-I watched Dawson's Creek when it was on, but I don't remember things, but I'm going to read you the description of this episode. I want to say that whoever writes the Buffy summaries on IMDB is nice and to the point. Whoever writes the plot summaries or the descriptions for Dawson's Creek is a little more verbose. [Jenny laughs] So, the 1999 Halloween episode of Dawson's Creek is called "Escape from Witch Island." And it is the one where Dawson recruits Joey, Pacey, and Jen to be his guerrilla crew on a documentary for history class-so like already you're Spielberg costume is kind of on point-
+Jenny: Jesus. Ugh, Dawson! [exasperated]
+Kristin: About Witch Island, a local spot shrouded in mystery for its reputation of being haunted by witches.
+Jenny: What!
+Together: Haunted by witches? [disgusted]
+Jenny: How dare you?
+Kristin: Yeah, excuse me-uh, mixing your metaphysics much? During their work, they are haunted by tall tales of witches and love lost that has Dawson and Joey questioning their failed romance-spoilers for Dawson's Creek [laughs]-and Jen and Pacey on considering a new kind of friendship. What does that mean? Back at school, Andie takes a new job-
+Jenny: Who's Andie?
+Kristin: As Capeside disciplinary committee a little too seriously when she tries taking back the halls of the outgoing students. What?
+Jenny: Yeah, that doesn't sound like anything to me.
+Kristin: Wow. Let's see how many shows we can cross over in this. Anyway, you have something about VHS tapes before we get into this episode?
+Jenny: Right, right, right. Well, Buffy goes on her whole monologue-her like, "Life is pain; I was a pumpkin."
+Kristin: Oh, we're in the episode right now?
+Jenny: It's just like right after her pumpkin monologue, so anything you have to say about her pumpkin monologue, lay it out, and then I'm going to hit this.
+Kristin: Oh, I have plenty to say before we get to her pumpkin monologue
+Jenny: Before we get to her pumpkin monologue?
+Kristin: Yes, I have a couple of things.
+Jenny: Okay, hit it.
+Kristin: First of all, the previously on is-we already played the Patriarchy jingle-but the previously on is just the Patriarchy jingle.
+Jenny: What happened on the previously on?
+Kristin: It's Parker montage.
+Jenny: Oh yeah. He's all like "What are you doing?"
+Kristin: It's literally like previously on Parker, Parker. Another line from Parker. Some more Parker. Parker's wearing a new shirt.
+Jenny: "Making a choice" [mocking]. Ew, and the way that she touches his upper arm-blahh.
+Kristin: You hate that?
+Jenny: I hate it.
+Kristin: I think Joanna in the last episode called it like "a shoulder meat cleave." It wasn't "cleave," but it was something like that.
+Jenny: Mmm [sarcastically].
+Kristin: So, I wanted to just touch on the previously on, and also before we even get into the episode-I know everybody's like get to it- but something happened, Jenny. You guested on the last episode of Angel on Top, and it was great. If you all have not been listening to Angel on Top, you should be. It's wonderful. And also, this last episode was my favorite so far. Like I feel like-
+Jenny: Oh, why thank you. [clears throat]
+Kristin: You know, you were great, but it really had more to do with everyone. And I just feel like Laura and Brittany-you know, we started our podcast and like nobody knew what it was. Everybody was like, what is this crazy thing?
+Jenny: Especially you and me. We were like, what are we doing?
+Kristin: Yeah, especially us. We were just like whatever. And everybody's sort of went on this growing journey with us, and I feel like Laura and Brittany were like-we're four seasons in now to Buffering, so all of the people who listen to Buffering are ready for this podcast, this new podcast to be polished and everything it's gonna be, but it's just being born. And so, even in the three episodes that I've listened to, I've just been getting more and more excited cause they're finding their groove, they found their thing, they're finding their voice. And I love this episode. But when I was listening, I was like-my thought process was, I cannot believe that they talked about this whole episode and they didn't play this Spike jingle. And then, Jenny, I realized-
+Jenny: Turn that cruel mirror upon thyself.
+Kristin: Yes! I was like, oh my god, Joanna and I did the whole episode of "Harsh Light of Day" and never-
+Jenny: The two biggest Spike fans I could think.
+Kristin: Right? We were so overwhelmed by Spike that we forgot there even was a jingle, which is, I'm sure what happened to the three of you.
+Jenny: Of course.
+Kristin: So you know what? I don't care that this episode is in a Spike episode. We missed it on Angel on Top; we missed it Buffering. We're playing the goddamn Spike jingle for all of you humans who listened and thought the same thing. What the hell is wrong with all of these girls?
+NOTES: [SPIKE jingle plays] Spike! I love you Spike! So dreamy Spike! Your trench coat Spike! I love you Spike! Your black nails Spike! Peroxide
+Jenny: Now that was a sound for sore ears.
+Kristin: So, the Spike jingle-thank you very much. We're back to Halloween; we're back to the thing. Previously on Parker, blah, blah, blah.
+Jenny: Woe is Buffy.
+Kristin: Woe is Buffy, but, Jenny, we start the fucking episode with the camera-
+Together: Inside of the pumpkin!
+Kristin: Which deserves a shout-out. I mean this was 1999. Had it ever been done before?
+Jenny: I mean-some of the best special effects on the show to-date.
+Kristin: Now, Buffy, go ahead with her fucking pumpkin-gut monologue.
+Jenny: You're entwined with others, you live in the sun; and then somebody comes along and hacks you off the vine and carves into you and pulls all of your innards out and possibly bakes them on a tray to snack on later and, meanwhile, they cut a face in your body.
+Kristin: Wow.
+Jenny: I mean, I went a little farther than her, but she does that whole deal, and it's intense. We're very in tune to Buffy's emotional state.
+Kristin: As she's like squalshing-squalshing?
+Jenny: "Squelching," I think, is the technical Latin.
+Kristin: I was trying to make up the word that would be the sound that it would make. But squelching-
+Jenny: Well maybe squashing is like "squashing" and "squelching" together.
+Kristin: Squelching the pumpkin guts disgustingly.
+Jenny: Hot.
+Kristin: Or, I didn't mean to yuck your yum, Jenny. I'm sorry. What does this have to do with VHS tapes?
+Jenny: Okay, well immediately afterwards Xander's like, "Can't wait to spook you all when we watch Fantasia?" Okay. And he's like, "Oh, I meant to get Phantasm. "
+But here's the thing: I have a very clear memory of the horror rack at my local video rental store from when I was a kid. Phantasm the horror movie starts with a "Ph." [Kristin gasps and laughs] If Xander was trying to rent Phantasm with an "F," he was trying to rent a 1976 soft-core pornographic film directed by Richard Franklin under a pseudonym. It was followed by a sequel, Fantasm Comes Again, the following year-
+Kristin: C-U-M?
+Jenny: C-O-M-E-S, but that is still the thing-directed by a pseudonymous Colin Eggleston, and listen-
+Kristin: Wow.
+Jenny: The plot is, German psychiatrist Professor Jurgen Notafreud takes the audience through a series of female sexual fantasies, including sex in a beauty salon. Just like you always wanted.
+Kristin: Oh, that's my top one. [sarcasm]
+Jenny: Um, fruit fetishism. Lesbianism in a sauna.
+Kristin: Oh. My. God. [laughing]
+Jenny: And teacher-student seduction. There's other stuff that is not okay to talk about.
+Kristin: So only females fantasize about those things?
+Jenny: Those are, of course, all-female, only female fantasies.
+Kristin: Fruit fetishism.
+Jenny: Lesbianism in a sauna is my fave. Is the sauna the one that's hot or wet? I mean dry or wet?
+Kristin: They're both hot, but yeah, it's dry. It's hot and dry.
+Jenny: It's dry. Mmm [sarcastically]. Hot, dry lesbian-my favorite kind.
+Kristin: Oh my god, I can't believe how deep you got on that fucking journey. Incredible. I'm so impressed. Also, here's the thing about the VHS tapes too, is that when you got the wrong VHS tape, the cover was right and the tape inside was wrong. Like, you think that he didn't notice?
+Jenny: I think that, well, what you do is you would take the VHS cover up to the counter, and be like, here's your generic like Blockbuster or Town Video, you know-
+Kristin: But Xander didn't open it. He didn't open it. He just looked at the case and was like Fantasia?
+Jenny: Yeah, but they're right next to each other. So, the person just probably grabbed-the fictitious person in the video store I made up has a wild shelving system that I believe is the truth, which is just alphabetized spines.
+Kristin: Man. This is gonna be a long episode. We talked for an hour about femalefantasies: dry, hot, lesbian sex.
+Jenny: Cool. So anyway, nobody told Xander about the frat party.
+Kristin: Yeah, but also can we talk about what Buffy does with her gut-covered hand?
+Jenny: What does she do?
+Kristin: Her hands are in the guts of the pumpkin. Maybe I looked away for a second and she like wiped it off, but I don't think so. She puts her gut hand on the bed, then she drapes her jacket over her gut hand. Has anyone touched a pumpkin gut in this room? Because it's sticky.
+Jenny: Yes, wet and sticky. Sticky forever.
+Kristin: It's the opposite of the lesbian sauna scene.
+Jenny: Yes, precisely. If you're going to have a lesbian sauna scene, you're going to want to have a lot of gutted pumpkins on hand to counteract that-
+Kristin: Oh god, this is getting dark.
+Jenny: Right. So gross, Buffy, wash your hands.
+Kristin: Yes. Also, my note about Oz in this scene is: Oz is so Oz in this scene. He just has like one Oz line after the next.
+Jenny: Yeah, yeah: "Post-Parker depression." And the thing about the nose.
+Kristin: "Post-Parker depression" being the cherry on the sundae. Yeah, he just like goes for it.
+Jenny: Yup, yup. Going hard.
+Kristin: Okay, so before we get to the credits-
+Jenny: Buffy's moping down State Street. She's like, I wish I packed my overalls of sadness for this journey down State Street, but I forgot them.
+Kristin: Yeah. And this costumed demon jumps out, and Buffy punches him in the face. And he pulls his mask off, and he's like, "Harsh!" or whatever he says.
+Jenny: He was like, "What's wrong with you, lady?"
+Kristin: Yeah, but you know what? God damn it! She's a lady walking alone on Main Street, and your ass just jumped out and fucking scared the shit out of her. So maybe you should learn one or two things about something that we already played the jingle for, but I'll play it again. You know what? I'll set a record today. Play it Jenny.
+NOTES: [THE PATRIARCHY jingle plays] The patriarchy! [thunder clap, evil laughter]
+Jenny: But Buffy isn't like, The patriarchy! Buffy's like, What's wrong with me? That's what I'd like to know. She's like ready to make us a Shangri-Las single right there in the street.
+Kristin: Yes, she really is. [laughs]
+Jenny: A little spoken word, a little self-loathing.
+Kristin: Mmhmm. God, you know, her and Angel really had-
+Jenny: I know they were! They were kind of perfectly together when you think about in a particular way.
+Kristin: They kind of were. It's just like, how many times do you think Angel sulked down Main Street?
+Jenny: State Street.
+Kristin: State Street, sorry. Sunnydale's Main Street.
+Jenny: Meanwhile, in other people's lives, not everything is about Parker and Buffy's gaping abyss of sadness.
+Kristin: Yes. When we get back from the credits, we're in the lunchroom. The beautiful-
+Jenny: Dining hall?
+Kristin: Oh sorry; in my notes I wrote down "lunch room." [laughs]
+Jenny: It used to be the lunch room when they were in high school, but now the exact same space is called the dining hall.
+Kristin: I see, I see. But yeah, this is great. So, we're in the dining hall, and Willow's talking about magic with Buffy, and like that's a thing.
+Jenny: And she wants to do transmutation and conjuring and get closer to the primal forces [excitedly]. Sorry.
+Kristin: You're really into it, huh?
+Jenny: Yes. I love primal forces!
+Kristin: She talks about all that exploration people do in college.
+Jenny: Heh heh.
+Kristin: And then Oz comes in, and they have this really-and I wondered in the writing of the episode if they went so hard on the Oz one-liners in the previous scene to counter this, because this is some real Oz shit. Like, we get mostly one-liners from Oz, you know, and then this episode, he has two scenes where he gets very, very serious. And I am here for it. I am here for Oz having many layers just like our-
+Together: Beloved Cordelia.
+Jenny: May she rest her soul.
+Kristin: Yeah, he's just like, I'm afraid for you. I'm worried about you doing magic, conjuring things; it's scary. And he says, like I touched something deep, dark-
+Jenny: When I wolf out, and it's not fun. And that is kind of the first that we've heard about, Oz's perspective about wolfing out, which is really important for later in the episode.
+Kristin: Right, and we've seen that he gets upset, but he's more verbose about it in this episode. Then, of course, the serious scene is interrupted by like stock footage of Parker laughing with everyone.
+Jenny: Ma ma ma ma ma! I'm so handsome and carefree! I look like the 20-year-old version of the dad on My So-Called Life. Ma ma ma! [imitating Parker mockingly]
+Kristin: Wow, nice. This is like a nineties shows bingo today.
+Jenny: Just roping in shows. Yeah, yeah, yeah. You've all won.
+Kristin: So, the only other thing I want to talk about before we leave the lunch room-before we collectively with Buffy leave the lunch room in a huff-is what the hell is with her ponytail in this scene? Did you notice this?
+Jenny: Buffy's ponytail? Sure didn't.
+Kristin: Buffy's ponytail is, like, her hair is in a ponytail and then there's like one clipped extension. It's like-there's like-just go back and look. It's a horrible; they didn't do a good job. It looks better later. It's not a good ponytail for Buffy. You know that I'm on Buffy hair-watch this season, so I'm not gonna let anybody down, and I can't wait till next episode. Got a lot of hair coming up your way.
+Jenny: Meanwhile, Giles doesn't care about Halloween.
+Kristin: Giles is dressed up as cultural appropriation for Halloween!
+Jenny: Yeah, Giles? Dude. Wow.
+Kristin: Giles, no. And this is one of two fucked-up cultural appropriation costumes that we get.
+Jenny: At least two, actually, the main ones that we noticed.
+Kristin: That's true. I didn't pay attention to every single costume, but two main costumes.
+Jenny: We're also playing cultural appropriation bingo this episode.
+Kristin: Yeah, we've got a lot of it. So, Giles, take off the fucking sombrero, man. Buffy wants you to take it off because she can't focus. But we all want you to take it off because we know you're better than that, dude.
+Jenny: Yeah, man.
+Kristin: Um, you know what I do like about Giles?
+Jenny: His hanging little skeleton, or is it a Frankenstein?
+Kristin: Yup! It's a Frankenstein. And also his general enthusiasm for Halloween and his just waiting excitedly for trick-or-treaters.
+Jenny: Yo, I don't know if you noticed that big bowl that he's ready to dole out: It's full-sized candy bars. It's not fun-sized. We've got to go to Giles place.
+Kristin: [gasps] I did not! Okay, this Halloween, we're all going to Giles's. I don't know if anyone saw this. I retweeted it on Buffering's Twitter, @bufferingcast, but the Frank Lloyd Wright mansion is for sale.
+Jenny: Angel's place? [excitedly] Vamp mansion?
+Kristin: Angel's place-vamp mansion-is for sale: $23 million.
+Jenny: Okay, hang on! So, if we all chip in like $100 thousand or $10 thousand each?
+Kristin: Ten thousand dollars apiece, then we'll-is that right? Is that hell math? Did we just do some hell math?
+Jenny: Hmm, unknown. I won't commit.
+Kristin: Okay. Well, if we do, we can buy Angel's mansion. Could you imagine if we could podcast from Angel's mansion every week?
+Jenny: Ahh! [excited]
+Kristin: It would be great. Excuse me, every other week.
+Jenny: Well, Laura and Brittany could podcast there too. I mean, they have more of a right.
+Kristin: Obligatory. So, we're fundraising now to buy Angel's mansion. Just a wee $23 million Kickstarter.
+Jenny: Yeah, yeah, yeah. And the property taxes on that are gonna be-
+Kristin: Negligible.
+Jenny: Sure.
+Kristin: Anyway-
+Jenny: The frat house
+Kristin: Right. So, the point of Buffy going to Giles is that she's desperately trying to stay away from the party, because she doesn't want to see Parker and she doesn't want to meet anyone else. She's over it. She's over love. The end.
+Jenny: Yup, yup, yup. She just wants to kill stuff.
+Kristin: Right. And so then, yes, we go to the frat house-a new frat house, uh, "Delta Delta Monster."
+Jenny: Um, yes, that was the-yes. So, item of note. Neither Kristin nor I were prepared to recognize this, but, of the two dudes who are setting stuff up, one of them is a Power Ranger.
+Kristin: Yes, one of them is-now, here's the thing. I wrote down in my notes, "Oh my god, it's the Black Power Ranger."
+Jenny: Ah!
+Kristin: Right? Well, what the hell did they do that to us for?
+Jenny: I know!
+Kristin: If you watch the Power Rangers, if you know the Power Rangers, they all have colors. There's pink and there's black and there's-but they paired the-you know what I mean? Like you can't say… What I mean in my notes is-if in the library of Buffy the Vampire Slayer, one day all of my notebooks are there, and somebody pulls out my notes and they're like, "Wow, Kristin, way to call the black Power Ranger, the 'Black Power Ranger,'" I was referencing his-
+Jenny: Right, right. You're just trying to say that he's the Power Ranger whose uniform is black and has-what is the black? Is it a pterodactyl? Is it a stegosaur? Which zord?
+Kristin: Ooh I should know that. God, this really is nineties fucking bingo this week. So yes, that's the guy that plays the Power Ranger who has a black costume and is also a black man. Wonderful. Nailed it.
+Jenny: So happy to see, but we didn't notice that. Chris Farren actually pointed it out.
+Kristin: Yes, thank you, Chris Farren. There's a beautiful patriarchal comment here. They're setting up the haunted house "so they can scare women into our arms." I wrote, "Fuck the patriarchy."
+Jenny: [laughs] How many times did you write that this episode?
+Kristin: A few, a few.
+Jenny: So, Anya shows back up at Xander's house,
+Kristin: She sure does.
+Jenny: There's nothing that I like more lately than an Anya entrance, because she's like, "You should lock your door. I'm already inside."
+Kristin: I mean, Anya is just literally going for it every time she enters, which is why you're enjoying the Anya entrances.
+Jenny: Yeah, yeah. So, you know what's really interesting? Okay, so Anya is so mad that after she and Xander had sex and she was like, "I'm over you now." He was like, "Okay." She's so mad. And what's really interesting to me about this in particular is that so much of Anya is interfacing with humanity is very, very entry-level, I'm basically a robot, how do humans function? But she somehow innately picked up on this very, very human behavior where we're like, I'm insecure, so I'm going to say what I think you want me to say, but I hope you don't want me to say it and that you argue with me about it.
+Kristin: Right, right. Good point, first of all, and second of all, what I really liked, also, about this exchange is that Xander says, basically "I tend to accept the words people say at face value," which I feel like is a really true Xander-ism. You know, Xander really does take, he has taken everything Anya has said quite literally and has just been like, "Okay, I guess you got to go; bye." But I think it's like a Xander-y thing. So, props to Xander for understanding who he is and saying it.
+Jenny: And props to Anya for declaring, "It's been exactly one week since we copulated."
+Kristin: It's been-
+Together: One week since we copulated! [to the tune of "One Week" by Barenaked Ladies]
+Jenny: Great. Cool.
+Kristin: You know I'm going to go out here on a limb: I think this is going to be a great episode. [Jenny laughs] Really nineties up in this piece.
+Jenny: Okay, so quick reversal-Anya goes right back into her Anya-esque behavior. And it's like, "I don't understand why you continue to associate with Willow and Buffy and Oz. You have increasingly less and less in common with them. You live at home; they don't. They're in college; you are not." It's like… Anya!
+Kristin: Right, but also says the former vengeance demon to the teenage boy. Like, you know what I mean? What's she playing, what game is Anya playing here?
+Jenny: She's playing, Are we dating? Is that what this is?
+Kristin: I wrote down, "Are we dating?" And then I wrote, "Yes, Anya with the step forward." And then I wrote "Yes" again, and I underlined it because-
+Jenny: You're into that move.
+Kristin: It was really sexy.
+Jenny: Coming around to my way of thinking, are you?
+Kristin: Listen, I have always loved Anya. I can't help it that Spike is just one notch above the sexiness for me, personally. But, I'm here for Anya and I just am understanding why Xander is also here for Anya.
+Jenny: Yeah, yeah. Good moves.
+Kristin: Great. So, Professor Walsh is wearing a vest. My note is "Nice vest, Professor Walsh."
+Jenny: What kind of vest was it? I didn't notice it. Is it like a folk-art vest?
+Kristin: Yeah, it was probably tweed, but floral tweed, you know; it was like brocade. I dunno. [laughs] Kate, where are you? Yeah, we're going to get to Kate later, but we're going to wait for the Halloween costumes for Kate. But yeah, just saying.
+Jenny: Okay, so like Buffy gets her head bitten off, but, listen, you're gonna miss the class and then show up at the end of class and be like, "I'm here for my assignment," when you could just be like, "Willow, could I have the homework?"
+Kristin: Right, right.
+Jenny: It doesn't make any sense.
+Kristin: No. You want to know why it's here, Jenny? It's here to kick off what I believe will be a season-long argument between you and I where I say, "What the fuck, Riley?" And you're like, "Oh, he's not that bad."
+Jenny: Listen. Um, Riley, just-he has another button-down shirt.
+Kristin: Riley? Okay, here's my question to you, Jenny.
+Jenny: Yeah.
+Kristin: Cause you've been like-to me anyway-you've been talking a fairly big game about like, "You know what, Riley's nice guy. Riley, Riley, Riley," and I just want to know, like, should Riley wind up being a part of the season past this episode? If you start to feel like Riley is a pain in the ass, are you going to admit to it, are you going to cop to it, are you going to be honest with us, or are you just going to fight the good fight because you already made your claim?
+Jenny: No, I mean I'm already rolling my eyes at Riley, but it's not fair-I can't talk about what exactly my point about Riley is right now. I'm at a disadvantage.
+Kristin: Sure. No, and we're not going to have it out right now, but this scene, um, some of my notes are "Riley, how the fuck old are you even with your mansplaining?"
+Jenny: Right because he's like, "I dimly recall my freshman year."
+Kristin: He's like, he just talks to her like-
+Jenny: I think he's being charming.
+Kristin: You are full of shit!
+Jenny: No!
+Kristin: You know what? There's two Twitter polls this week: one's for the damn Sexual Tension Award, and the other one is, Is Riley charming in this episode? Yes or no?
+Jenny: I think Marc Blucas, America's sweetheart, is having a hard time with his dialogue cause it's not great dialogue.
+Kristin: Oh, so now we're going to blame the writers' room? [laughs] Okay…
+Jenny: But I feel like, he's just like trying to help and be encouraging.
+Kristin: "You seem like the kind of person who's really hard on herself." [imitating Riley mockingly] Fuck-
+Jenny: You don't think Buffy is the kind of person who's really hard on herself?
+Kristin: I don't think Riley is the kind of person who has known this woman long enough to make this fucking assessment.
+Jenny: Oh, so you're unwilling to accept that someone might be perceptive, might be emotionally intuitive?
+Kristin: No. I hate men. Just kidding. [laughing] Just kidding!
+Jenny: That was Kristin, just to be clear, not Jenny. I love men. Especially hunks! Hunks, send your tasteful and safe-for-work headshots and ab shots at bufferingthevampireslayer@gmail.com.
+Kristin: You were trying to say "nudes" but not say "nudes." You were like, "Clothed nudes. Send your clothed nudes my way." [laughter] No, I just can't stand the attitude. I can't with Riley. Like, he's just-
+Jenny: I just don't feel like he's being a great big jerk in this scene.
+Kristin: I think that he is embodying the bullshit that a lot of us have to go through all the time.
+Jenny: Men are victims of the patriarchy too.
+Kristin: Fine and he is a big victim, and I can't stand it. Go away, Riley.
+Jenny: A big, strapping, muscular, well-built, broad-shoulder…
+Kristin: I have a request. Shut up!
+Jenny: A-frame, colonial…
+Kristin: Colonial?
+Jenny: I switched over to architecture stuff.
+Kristin: I have a request. Can you please make me a jingle that's "Go Away, Riley"? I would like-
+Jenny: No! Make your own damn jingle.
+Kristin: You know what? I will. I'm going to make my own jingle called "Go Away, Riley."
+Jenny: That's awesome. Really excited.
+Kristin: Okay, my next note is in the frat party-the frat house, rather.
+Jenny: Yeah, is it, "Don't forget to paint a pentagram on the floor for your party!"?
+Kristin: No, cause I know that they didn't forget. Um, I noticed they "… peeled the grapes." Like what fucking frat guy pulled out his peeler? First of all, no person in college has ever had a peeler ever. Not one person.
+Jenny: Also, how do you peel a grape?
+Kristin: How do you peel a grape?
+Jenny: You know, everybody always says that about the whole like dish of eyeballs thing. They're always like, "Peel the grapes." But like, who?
+Kristin: Do you think you pull it with your teeth, like you eat it like corn on the cob but you just eat the peel off?
+Jenny: No, that would yield not the shape.
+Kristin: Do you parboil the grapes?
+Jenny: You know. Somebody out there knows-
+Kristin: Do you blanch them?
+Jenny: Somebody out there knows the best way to get a peel off a grape. Please write to us at bufferingthevampireslayer@gmail.com, and don't forget your clothed nudes.
+Kristin: Jenny, you know what's not fair is that I'm the one who checks the damn e-mail, and now I have to look at all of these clothed nudes! [Jenny laughs]
+Jenny: I know! [laughs] So you know, I really don't like about this scene?
+Kristin: Tell me.
+Jenny: I mean, many things, but I really don't like this frat guy being shitty to Xander.
+Kristin: Yeah, but you know what? I mean, you went to a SUNY school, and maybe everyone did this in their college in the nineties, or maybe I was just an asshole, but like townies was a thing.
+Jenny: Yeah, townies was a thing too. It's weird. Everybody said "townies," but it's not like there were like people our age really nearby campus.
+Kristin: No, but like if we went to a bar and like there were people there that were obviously from Binghamton and not from Binghamton University, it would be like, "Oh, there's a couple of townies here," and said with such condescension.
+Jenny: You know, a good way to avoid having to like interface with that at all is just drink at your apartment on campus. The bar was my apartment.
+Kristin: Well, not all of us were dating older women and living off campus.
+Jenny: What? No, no, no. My on-campus apartment, where I lived on campus.
+Kristin: Oh, I see. I see.
+Jenny: Everyone was just partying all the time. Nobody left campus to get drunk.
+Kristin: We always went to-The Rath was one of the bars, The Rathskeller.
+Jenny: Could you walk there from campus?
+Kristin: No, we would take a cab. The cabs at Binghamton-I just had this memory-the way that the cabs at Binghamton worked, where you'd call a cab and every person just paid $2, no matter where you were going in Binghamton, no matter how many people fit in the cab, everyone paid $2.
+Jenny: Wow.
+Kristin: Yeah. And they would fill up some vans with $2 a head people, and then you'd go, you know, to one of the two bars in town that people were going to.
+Jenny: Anyway, can I say something about townies.
+Kristin: Please.
+Jenny: The recording artist Mitski, who also attended SUNY Purchase, just like me, has a really great song called "Townie" that you should all listen to if you haven't heard.
+Kristin: Is it about a college bar townie? Like is it about a townie?
+Jenny: I don't have any hard data, but if it is about a townie, it's about the same townies that I avoided interfacing with by drinking on campus.
+Kristin: It's like "townie" is, as much as we were going to state schools, I really feel like the word is rooted in classism. You know what I mean?
+Jenny: Totally!
+Kristin: It's totally a "these people don't have money," which like what the fuck? Who had money? But like we were in college and they like weren't-
+Jenny: For some reason cause they were either too poor or too stupid, is like the gross association.
+Kristin: Really shitty. But you know, as a person who is waking, a word that I prefer these days over woke.
+Jenny: Wow. Obviously because it's an ongoing process. Did you just pull that out of the air right now?
+Kristin: No, I was thinking-I saw Roxane Gay speak when I was in New York City recently and-I can't remember. I don't think she said it. I think somebody who asked a questions said it; it really struck me. They didn't say "waking"; they said like that they didn't like to use the word woke because it signaled an end, or maybe Roxane Gay even said it herself. I don't know. But I just took it, and I've been thinking about it, and now I'm delivering to you the results, which is that I agree. And I think it's a process, right?
+Jenny: Absolutely. I also thought people tend to say-if they're thinking about it-they say like, "Stay woke" instead of like, "I am currently woke, my finished state."
+Kristin: Right. So anyway, as a person who is waking, it's horrifying sometimes to think about the things that we did when we didn't know. And that was one of them.
+Jenny: Yeah.
+Kristin: Happily just a classist college student rolling my eyes at townies.
+Jenny: Yeah, and meanwhile your watcher was putting on a totally inappropriate outfit and calling it a Halloween costume.
+Kristin: And I'll tell ya that I had no idea that it was inappropriate then either, because that's where I lived in the nineties as well.
+Jenny: Sure. We're all on a journey.
+Kristin: We are. So, then Oz shakes his blood all over the floor, [Jenny laughs] which is rude. God. Also, I have a note later, but it's applicable at any point. This is way too clean for a fraternity house. This house is clean and as we go through it, there's like art pieces on the wall like, I'm sorry. No. Where's the Klimts, is what I want to know.
+Jenny: Yeah, it should be all Monets and Klimts.
+Kristin: So then where do we go? We go to-
+Jenny: Wait, when Oz's blood hits the pentagram, it's important to notice that a rubber spider magically turns into a live tarantula!
+Kristin: Just like in the episode… Now here's a parallel for you.
+Jenny: I'm ready.
+Kristin: I already drew this parallel, but I didn't realize the spider was part of it. This episode is a lot like "Nightmares," and it's like through line, right?
+Jenny: Ooh.
+Kristin: And the spider is a thing, cause that's the first thing that happens in "Nightmares" too is the kid opens his book or whatever and there's the spider. But the thrust of the episode-sorry, I said "thrust" [laughing]-is it's like all their fears, right? It's like Xander is invisible.
+Jenny: Right, Buffy is a vampire.
+Kristin: Buffy is a?
+Jenny: Oh, sorry, that was in "Nightmares."
+Kristin: I was like, what did I miss in this episode?
+Jenny: Sorry. Sorry. Sorry. It was clowns for Xander in "Nightmares." Buffy is a vampire in "Nightmares."
+Kristin: Buffy is a vampire in "Nightmares"?
+Jenny: Yeah. You remember, we see Buffy in vamp face?
+Kristin: I just remember that she's really afraid of-
+Jenny: Oh, and Willow has to sing in the opera.
+Kristin: Yeah, and Cordelia is in that episode. Okay. Anyway, this episode, it's like Xander's invisible. Nobody can hear him. Oz is turning into a werewolf. Willow's magic gone wrong. Buffy is being grabbed from below by like hands and telling her to just give up the fight. And so, it's like post-graduation "Nightmares." Like everybody's nightmares are a little bit more, um-
+Jenny: Developed, mature.
+Kristin: Yes, a little bit more mature, but it's got a similar theme. So, thank you for calling out the spider thing, cause I didn't realize.
+Jenny: Here to help now. Now!
+Kristin: Now Joyce hair: On point, right?
+Jenny: Yeah! It's floofed.
+Kristin: It's floofed to the high heavens. And Joyce-I beg to differ with this character choice. I do not fucking see Joyce Summers owning a sewing machine and sewing.
+Jenny: Really?
+Kristin: Yeah, I don't see it. I don't see it.
+Jenny: I saw it with my own two eyes. So Buffy is 18, and what does she say? That the last time Buffy wore this, she was-
+Kristin: Six years ago.
+Jenny: She was 12. Okay, I guess you would want to, like, adjust your cape.
+Kristin: Yeah, you grow a little bit from 12 to 18.
+Jenny: Fine, okay. I accept it.
+Kristin: And Buffy has this moment-this divorce. We don't hear a lot about Buffy being the product of a divorced household. But Buffy really goes for the "my feelings about men are rooted in my feelings to my dad, and everybody leaves when you love them.
+Jenny: She says, "Open your heart to someone, and he bails on you." Dad, Angel, Parker-
+Kristin: Giles that one episode, but then you were cool and you came back, so now I know you love me forever, Dad.
+Jenny: And Joyce is like, "I'll always be here for you because the matriarchy!" Ba ba ba ba ba ba ba ba! [musically], clashing of cemeteries on the Amazon Island.
+Kristin: Wow.
+Jenny: Tight, right?
+Kristin: Yeah, that's pretty good. So, Joyce really goes for this moment here where Buffy is saying that she's going to lay off men, but then Joyce does a curious pivot to not making any friends her first year in the neighborhood, but then-
+Jenny: Then she met Pam!
+Kristin: Um, I'm sorry, who's Pam?
+Jenny: I mean Pat! [laughing] Pat, Pat, Pat. I'm sorry. I'm sorry. I'm sorry, Pat. The blessing memory of Pat. I never meant to defile you. I love you still.
+Kristin: Right. So Joyce essentially is like, "You know, I understand what you're saying about boyfriends. I didn't make any friends, but then I met Pat and like whatever-tee hee hee hee-
+Jenny: Delicious empanadas.
+Kristin: And then she's like, "Also, I'm still a little gun shy"-excuse us, Joyce, [clears throat]-"after I dated that robot." Hey-oh! "Ted" reference, you know what I mean? Miss you, Ted-just kidding. Don't miss you ever. And also, she gets it all. It's like all in here, right? There's a reference to her neighbors and friends, which is Pat, who was the first person that she slept with after her divorce.
+Jenny: Kristin! [laughs]
+Kristin: What? It's just facts. And then she references Ted. Actually, I can't actually remember the chronology. Maybe Ted came before Pat.
+Jenny: Ted did not come before-
+Kristin: Not literally, because he was a robot. [laughs]
+Jenny: Sick! Sick, sick, sick. But Ted was Season 2, like Episode 12 or 11, and Pat is "Dead Man's Party," which is 3.02, right?
+Kristin: Right, but who knows when the trysting began.
+Jenny: Mmm, when the first empanada was bakedeth.
+Kristin: My chronology is Pat, and then Ted, and then she also gets a reference to Giles in here.
+Jenny: I missed that entirely. Oh, cause she's just like, "You have your friends and Mr. Giles."
+Kristin: Right, which-I'm sorry-you still call him "Mr. Giles"?
+Jenny: Maybe that's what he's into.
+Kristin: Maybe, that's right. That's what I'm, thank you for getting there.
+Jenny: Daddy Giles?
+Kristin: Oh god, we're going to get real Daddy Giles in a little bit with a fucking chainsaw-
+Jenny: Hell, fucking, yeah!
+Kristin: But first, let's go back to the frat house. So, I wrote this note that they must not be able to, and of course they're not able to do, costumes that are like cultural references.
+Jenny: Like SpongeBob SquarePants, for example. First trademarked thing I could think of.
+Kristin: The reason I thought of it is because there were a lot of like black, hooded costumes with like skeleton masks, and I was like, please. Like nobody would be wearing a Scream mask to this party?
+Jenny: Right, right, right.
+Kristin: Scream was '96; this party's in '99; people are still wearing Scream masks to Halloween parties. And then I realized, oh they're all in kind of generic costumes.
+Jenny: Yep, yep. Red Riding Hood, a tux, Joan of Arc-
+Kristin: A lobster…
+Jenny: A lobster and a present having a fight.
+Kristin: Yeah, I'm going to post a picture of myself dressed as a present one Halloween.
+Jenny: Oh my god. Do I have any Halloween? No. I just have my Catholic school uniform pics.
+Kristin: Come on, Jenny. Those weren't even costumes. There wasn't even Halloween costumes.
+Jenny: I know! That's what I'm saying. Like the only vaguely costumed thing I have is-
+Kristin: One Halloween, Jenny and I forgot costumes, and so we went straight-up ghosts under sheets.
+Jenny: Well yeah, but then halfway through the party we changed them into togas, which I felt like was pretty progressive. Also, remember that time we were X-Files.
+Kristin: Yes. Did we ever talk about that on this?
+Jenny: I don't think we have.
+Kristin: How did we not talk about that in "Halloween"?
+Jenny: That was your idea, right, or was it Ally's?
+Kristin: Yeah, it was my idea.
+Jenny: We were here in LA staying, but we lived in New York and we were totally unprepared, and Kristin was like, "We should just be-well, I'll get two manila folders, and we'll be X-Files.
+Kristin: Well, I actually think I said, "Are X-Files actually files?" And you said, yes. And then I was like, I have an idea.
+Jenny: Yeah. And I drew the X-Files l ogo on the manila folders, and then I made each one of us a very specific X-File. I was Eugene Tooms, of course.
+Kristin: Who was I?
+Jenny: You were Samantha Mulder, Fox Mulder's missing sister and our cat's sometimes-namesake.
+Kristin: Spoilers for X-Files.
+Jenny: Sorry-no, you find out like in the first episode that his sister's missing.
+Kristin: Right, cause that's why he believes in aliens, and Scully is like, "Fuck aliens; science forever!"
+Jenny: Yeah, she's like, "I want to fuck some aliens!"
+Kristin: Okay, so anyway. Then we get the second ridiculously horrible culturalappropriative costume:
+Jenny: Dreadlock hat.
+Kristin: Which is like, I knew a lot of fucking people with the fucking dreadlock hat. That was a thing that they sold at like a Hot Topic or the place you got your incense.
+Jenny: The place you got your incense?
+Kristin: Yeah, but really!
+Jenny: Yeah, we all had a place where we would get our incense.
+Kristin: Yes, and you would get your tie-dye shirts and you would get your dreadlocks.
+Jenny: Oh god, if you were this guy.
+Kristin: If you were this guy or like a lot of fucking people in the nineties, and you know what's horrifying is a lot of fucking people right now.
+Jenny: Gross.
+Kristin: I was at the gym the other day and a Family Feud was on.
+Jenny: Why are you-I'm just really worried about where this is going.
+Kristin: Oh, nobody was wearing a dreadlock out at the gym, but Family Feud- or not Family Feud-The Price Is Right was on, and this is a current episode of The Price Is Right. And like, you know, they always call people who have crazy things going on, and they called this bachelorette party, and they were literally all wearing Giles's sombrero costume.
+Jenny: [gasps]
+Kristin: Like every single one of them. And like, that's today. Like, everything's still fucked up.
+Jenny: First of all, bachelorette parties shouldn't be allowed just across the board.
+Kristin: Wow-says someone who had a bachelorette party, just saying.
+Jenny: Anyway, while the Scoobys are walking around outside, they bump into some guys who just seem to be dressed as military ski masks.
+Kristin: Yes, there's a nineties NATO comment by Oz, always with the one-liners. Also, right, this what I called the famous Oz-tume, the famous costume that Oz wears.
+Jenny: Ah! [understanding]
+Kristin: You didn't get what "Oz-tume" meant?
+Jenny: No, I was like O-Z-T-O-M-B.
+Kristin: So yeah, this is like so many people that I feel like we've seen at cons or whatever that are just wearing their shirt and they have a little "God" name tag. Yeah, it's great. And everybody is looking good. Joan of Arc is here. You know who's probably going to talk about Joan of Arc and who's definitely going to talk about Halloween costumes, Jenny?
+Jenny: Who's that?
+Kristin: Uh, Kate Leth.
+Jenny: Kate Leth? [gasps]
+Kristin: Kate. Yeah!
+NOTES: [Fashion Watch intro theme plays] It's time for our friend Kate To give you the Buffy fashion update!
+Kate: Well, welcome back to Buffy Fashion Watch, the scariest fashion update around. [spooky cackling sound effect] I love Halloween episodes of pretty much any show. Shout-out to Brooklyn Nine-Nine a nd Bob's Burgers for doing one every single season. But this episode holds a special place in my heart. Buffy is a little red riding with the crossbow. Xander trying to look good in a tuxedo. Anya in her fur suit, but nobody-and I mean nobody-tops Willow alongside Oz as Joan of Arc and God. Now, I'm not a religious person, but Joan of Arc was a pretty rad girl I didn't know too much about until recently. Did you know that at age 19-yeah, that's for anyone out there who thinks they haven't accomplished enough at their age-she was burned at the stake under orders of the king she helped get coronated. Seriously, with no experience, and supposedly guided by the voice of God, she led armed forces on a white horse to drive out the enemies of France and get this guy Charles the Seventh on the throne successfully. Then he let her get captured right outside his city gates by the English while defending him. She was in prison for a full year at age 18-again, so young, rough stuff-and nobody tried to negotiate her release, not even the king that she got crowned. He was like, "Nah, people are saying she's a witch. I think this might be bad for my image. She'll just like-hmm, let's kill her, I guess?" If you think about it, it's pretty much what the movie 9 to 5 was about-a work of genius, by the way. At any rate, Willow looks fantastic in this episode, and her hair is really doing some good stuff. [spooky cackling sound effect] Happy Summerween. I'll see you at the mall. M-A-U-L, get it? [spooky cackling sound effect]
+NOTES: [Fashion Watch outro theme plays] That was our friend Kate She gave you the Buffy fashion update!
+Kristin: Oh my-"M-A-U-L" mall and "Summerween" are some of my takeaways from that, Kate. Wow.
+Jenny: Some of my takeaways were like history lessons, a reminder to watch 9 to 5 again. Wow. What a fantastic-this Fashion Watch had everything! Spooky, haunted laughing-all the things we already said, plus Kate.
+Kristin: It's true; it really had so much. And, of course, the Scoobys gave us very good costumes to talk about.
+Jenny: Mmhmm. Also, Xander still looks great in a tux. My preferred Xander looks are tux or Speedo. Give it to me all or give it to me almost none.
+Kristin: Oh my god. In your Xander doll lineup, you have Speedo Xander.
+Jenny: Yeah, and Tux Double O 7 Xander.
+Kristin: I agree with you; he does look very good in a tux.
+Jenny: And also, Anya is coming to the party, but she's having trouble finding a scary costume, so she's meeting them there.
+Kristin: Oh, I wonder what it will be.
+Jenny: I can't wait to find out!
+Kristin: So, then we go inside of the house and-
+Jenny: Into scary, murder, chaos.
+Kristin: Scary murder, chaos; and then we get this slow-mo fall by the cultural appropriative… so like, that's fair.
+Jenny: You know how, sometimes you're just like young, 20-year-old, nubile, just generally healthy-looking dude, and then you-whoops trip and fall down the stairs and then you die.
+Kristin: But also, if you go and watch the way he falls down the stairs, he's likefalling, falling, falling [fast]. And then it's like: my neck hit the stair and is turning at an angle [dramatically]. It's like so very dramatic, the way he falls.
+Jenny: And then we hear the very first "Releeease meee" [spookily].
+Kristin: Yes-very good, Jenny.
+Jenny: Thank you.
+Kristin: Very good. Then they come into the house, of course, and no one's there, and that's our first-
+Jenny: It's empty and calm.
+Kristin: And that's our first hmm, what's going on in this house? So, this house, let's talk about this house for a second, right? Because this house is definitely a character in the episode. The house has a door, then doesn't have a door. It has a window, then it doesn't have a window. There's a lot of stuff happening with this house, and it reminds me of something, Jenny. Do you know what this house reminds me of? A book you recommended?
+Jenny: Oh, does it remind you of House of Leaves?
+Kristin: Yes, House of Leaves. And if you have not-if you're a fan of horror, if you like to be scared, so fucking scared, you might never sleep again-and you haven't read-what's his name? Daniel…?
+Jenny: Mark Z. Danielewski.
+Kristin: Oh, that's where the Daniel is: in the end. Um, House of Leaves is a brilliant book. I know some of y'all out there have a book club in the secret Patreon Facebook group. So maybe you just want to consider, when we get to the actual Halloween, popping that on your list. It's a big one. You need to give yourself a minute to read it, but it's so fucking good and it's so fucking scary, and this house is reminiscent of that house, I think.
+Jenny: Hell yeah. Well-reasoned.
+Kristin: Thank you.
+Jenny: Okay, so listen, it's the roast of the frat house because Oz is like, "Those cobwebs might be real, muh muh muh." [laughs]
+Kristin: Also, Oz pulls a Kristin and defends Willow from the spider-a thing that I have oft done for Jenny, oft rescued. How many spiders have I rescued you from?
+Jenny: Thank you, thank you. So many.
+Kristin: So many. And then you know what I have never rescued anyone from nor will I ever?
+Jenny: A pool of blood! A skeleton!
+Kristin: Uh, sure. Yes. And also bats.
+Jenny: That. Stock. Footage. Though.
+Kristin: That's pretty funny.
+Jenny: It is so bad!
+Kristin: So, the bats flies, the "release me" happens. All this shit happens. And then who shows up to the fucking party?
+Jenny: Anya in the scariest costume she could find.
+Kristin: It's so good!
+Jenny: She's-it's straight-up like Easter-Bunny-at-the-mall bunny.
+Kristin: She's straight-up Christmas Story bunny. Goddamn, like the ears and all. She looks so great. Um, and then right, no door, we already talked about that. No window, blah blah blah. There's a great little line inside the house again now, cause something I want to call out is that this episode, I think, is the longest we've ever spent in one place, in an episode.
+Jenny: Ohhh.
+Kristin: Because when I take my notes, I sort of write where we are, and that's how I noticed this-that we are in, almost the entire episode is somewhere inside of this frat house, which is not common of Buffy.
+Jenny: Yeah. You know when the last time, a similar ratio of in one place to not in that place might've happened? The last time we had a Little Red Riding Hood reference-
+Kristin: Which, right. That's another thing, which is "Helpless." That's true. Inside of a house with Little Red Riding-maybe every time we get a Little Red Riding Hood, we get one scene, one extended scene. Anyway, inside the house, Buffy has the moment where she says-like, Oz cuts the music-and she says, "Thank the Lord," and he turns around. He says, "You're welcome." I like it. I like it.
+Jenny: Oh, also we didn't mention that when Anya rolls up, she's like, "Where's the door?" And then she looks up and sees a girl screaming in the window, and then the window like blocks itself up.
+Kristin: Yes. So, she's like "Xander! Xander's in that house!" and clutches her bosom and runs to Giles. Um, other things that happened in the house though before we get to Giles's house are that Chaz is in the closet, terrified, and is saying like, "I did this thing; I've released this thing." It's really scary. There's a couple of like real moments of fear-
+Jenny: Yup, and then a plastic skeleton turns into a real skeleton and it thrusts the knife into Buffy's shoulder with all of its skeletal strength, which thankfully is not too great.
+Kristin: And then the closet disappears, which is also creepy.
+Jenny: And Buffy's like, "Let me get my picnic crossbow out of my picnic basket."
+Kristin: Yes, I'm here for that. I'm here for the slayer carrying her crossbow in her little basket.
+Jenny: Crossbows are so stupid!
+Kristin: Aw, but they're convenient for a picnic basket, you know.
+Jenny: I guess?
+Kristin: I don't know. Anyway, we go to Giles's house, and I love me a Giles-and-Anya scene anytime I get one.
+Jenny: Yes, A+.
+Kristin: Of course, she's like, "We've got to get Xander." He's like, "… And the rest of them," and she's like, "Who cares? Xander!" [laughing] Also, Giles has a nice bookish moment of hmm, matter in reality distortion.
+Jenny: Hmm, pip pip, and he goes to his shelf.
+Kristin: He goes to his shelf to get his chainsaw, we find out later!
+Jenny: Hell yeah!
+Kristin: You know what? And let that be a lesson: Never underestimate your local librarian, folks, you know?
+Jenny: Hot dad with a chainsaw [singing]! Hot dad with a chainsaw [singing]!
+Kristin: So, before we get to Dad and his sexy chainsaw, Willow and Buffy get into a fight.
+Jenny: This is so intense.
+Kristin: It really is. Like, I don't remember them fighting this intensely for a minute or-I don't know. This is intense.
+Jenny: Yeah, Willow's like, "I want to help. I want to do a spell." Buffy's like, "You guys, go, and I'm going to stay cause I'm the one who does that."
+Kristin: "I'm the chosen one, blah blah blah," and Willow's like, "You're not the boss of me!"
+Jenny: She's like, "I'm not your sidekick!"
+Kristin: Yes!
+Jenny: Which is, I think, the first time we've heard her say that, and the first time maybe any of us have been like, wait, is she? We're forced to think about, is Willow Buffy's sidekick? Isn't kind of everybody Buffy's sidekick?
+Kristin: Aren't they? But then, like, are they? Because we keep seeing Willow get more and more powerful with her Wicca.
+Jenny: Although Buffy is quick to point out that her spells are 50/50.
+Kristin: "So is your face!" says Willow. Always good with the retort.
+Jenny: Very effective, very effective. And over the course of this, it's becoming very clear that nobody can see or hear Xander.
+Kristin: Right. And then Oz is turning into a werewolf.
+Jenny: Ahh!
+Kristin: And I asked Jenny while we were watching the episode, if this was the first time that we saw this, cause we, you know, spent a good portion of Season 3 making horrible fun of the werewolf costume. [Jenny laughs] But this is like getting real good now. This is some real good shit. And if we've seen the face, Jenny pointed out, I think you said that-
+Jenny: We've seen this stage of the transformation where it's like, practical effects and then it's just like makeup and hair and stuff and like weird contact lenses. But we haven't really seen Oz act in that state, because he's usually changing very quickly. It's usually just like one very quick part of the metamorphosis.
+Kristin: Yeah, and this is right before the second scene that I was referencingwhere Oz gets these two very real scenes: where he's in the bathtub. I mean he wolfs out on will, like he scratches Willow, and then runs and he gets into the bathtub and we see him saying like, "You're not going to turn, you're not gonna turn," or whatever it is that he's saying over and over again. And it's like, I don't know, I just feel like it's the most real we've gotten with Oz. Into his psyche-what it is to live in his skin and to change and to touch this deep dark thing that he touches and to not have control over it, to know that he could hurt the ones he loves. Like it's just all very, very deep and dark. Just like he said, I'll tell a lie.
+Jenny: Yeah, yeah.
+Kristin: So, Oz is a werewolf, Willow is really mad, Xander's invisible. There's a great moment where there's a head in the hallway and some blood starts pouring out of its eye. Uh, yeah, and then Willow does her spell.
+Jenny: Now, do you think that even if she hadn't had a moment of indecision that the spell would have worked?
+Kristin: Yeah, I think this is like a Final Destination situation-
+Jenny: What? Where it's all about the poppion share, papasan chair, platypus share.
+Kristin: Papasan was correct.
+Jenny: Papasan?
+Kristin: Papasan, yeah.
+Kristin: Well what is, aside from being French for "butterfly," what's papillon all about?
+Kristin: I don't know.
+Jenny: When I saw Jewel, it was on the Papillon Tour. I don't know how to say the vowel! I'm sorry!
+Kristin: Oh my god. Wow, Jenny. Well no, I just mean to say, I'm really staying on this hot nineties episode. I think, actually, Final Destination is the early "aughties," as Joanna and I called them last week.
+Jenny: I didn't like that. I guess, what else are you going to call them?
+Kristin: But I think it's the kind of thing where like your fear is going to manifest, you know; there's not a way you can get around it. Your fear is going to manifest. So yeah, if Willow wasn't indecisive, something else would have happened to make the spell go wrong. But her spell goes wrong in a pretty terrifying way. It's kinda like those bees in that other episode of Buffy the Vampire Slayer at the high school. Remember, "I Only Have Eyes for You"? Is that the name of the episode?
+Jenny: Bees. Yeahhh. Why were there bees though?
+Kristin: Because the bees kept them away from the school, remember, so that they could play out their scene.
+Jenny: Hot!
+Kristin: Yeah! So anyway, Buffy falls through a door into the basement, where broken-neck guy-
+Jenny: Now, is that the same guy from before?
+Kristin: Yeah, that's the guy that fell, but he's all distorted cause his neck is broken, which is, I think effective makeup job.
+Jenny: Yeah, definitely creepy.
+Kristin: Really good. We have to-something on our list. We haven't had a ton of guests, although, holy shit, two weeks from now on "Beer Bad," we're going to have so many amazing guests.
+Jenny: Oh yeah! Ah!
+Kristin: Let's just talk about it for one second since I said it. We're going to have Heather Hogan, who has been on Buffy before-who's been on Buffy [laughs]-who's been on Buffering before but has never delivered her knowledge of beer as hard as she's going to bring it.
+Jenny: Yeah, she's a beer scholar.
+Kristin: Yes. We're going to have Louis Peitzman-I didn't ask Louis how we pronounce his last name, so, sorry if I'm saying it wrong-who works at Buzzfeed and who is a monster Buffy fan and hates "Beer Bad" is going to be on the episode. And also, Kathy Tu, one of the two hosts of Nancy, is also going to be guesting.
+Jenny: Hell yeah!
+Kristin: So, we've saved it all up for all of our hot, hot guests coming to "Beer Bad." But my point being that I would really love to have somebody who does makeup for Buffy on.
+Jenny: You know, we actually met somebody who did makeup at Justin Pierre's wedding.
+Kristin: Oh my God.
+Jenny: Do you recall?
+Kristin: I do-the most famous makeup person of all. I do remember now that you say that, so let's check Missed Connections for Justin Pierre's wedding-see if we can find that person again.
+Jenny: You: Just trying to do your job. Us: Really stoked that you worked on Buffy the Vampire Slayer that one time.
+Kristin: Anyway, Giles is here with his chainsaw.
+Jenny: Hot!
+Kristin: Yes, really hot. Anya is nervous about Xander, bouncing up and down in her bunny costume, which is real cute. Giles is like, "There's no door; don't fucking worry about it. I'm gonna-"
+Jenny: Brrrrrrr [imitating chainsaw sound]! He makes a door, wherever he goes!
+Kristin: His drumroll chainsaw.
+Jenny: Yeah, sorry, I don't actually know what a-vrnnn da da da dan dan. What do chainsaws sound like? I'm actually just realizing I have no idea.
+Kristin: Something like that.
+Jenny: No, but that's more of like a motor starting or something, isn't it? Or like, does chainsaw start with like pup-pup, ramp up?
+Kristin: Yeah, it's like vrrrmm. Yes, that, and then again-
+Jenny: You're pulling on the thing, and then it vrmmm. A nd then it kicks in. I'm going to stop doing it cause I feel pretty dumb.
+Kristin: A moment that we have in the basement with the broken-neck guy is like-
+Jenny: Ooh, he uses her words, and it's like, ah, ha ha.
+Kristin: Right. He's says like, "No matter how hard you fight, you always wind up in the same place. I don't see why you bother. A constant question."
+Jenny: It's definitely stuff that's coming from inside of her.
+Kristin: Yeah, for sure. And then, now we're upstairs; they're at the pentagram and they're realizing-Buffy's realizing-
+Jenny: Our fears are feeding it.
+Kristin: Our fears are feeding it, and also like, no, this isn't good that we've all been led here and this is bad.
+Jenny: Oh right, a centralized location.
+Kristin: And Giles breaks through. Now, in my heart and my dreams for us on social media this week, I will get a side-by-side for us of Giles in silhouette in the doorway with the chainsaw-
+Jenny: And Buffy and Faith in silhouette when they try to kill that vampire!?
+NOTES: [excitedly]
+Kristin: Yes! Yes! Yes! [Jenny hyperventilates] It's very similar lighting and hot all the way around. So, I'm going to try to get that for us.
+Jenny: Wow. Imagine if he'd been in the middle-no, don't imagine that.
+Kristin: No, no; I don't like it!
+Jenny: That's not what I meant! That's not what I meant! Just like for cool silhouettes-symmetry!
+Kristin: No, take it away. No.
+Jenny: Anyway, Giles is here with the chainsaw. It's hot.
+Kristin: Yes, it is very hot. There's this great moment where Giles is like, "Destroying the mark of…" and Buffy just destroys it, and he's like, "is not one of the ways that you…
+Jenny: Want do this, and, in fact, will immediately bring forth the fear demon itself."
+Kristin: And what's the name of the-?
+Jenny: Gachnar, of course. Luckily, Gachnar is about the size of a can of beer.
+Kristin: Unluckily, Gachnar has the same fucking fruit punch, tiny little mouth hole as The fucking Master! And I'm not here-why does this always happen to me? Why does the show make me look at tiny little puckered holes that have red around them?
+Jenny: I am so upset right now.
+Kristin: Yeah, you should be, because why do they make me do it?
+Jenny: I. Gotta. Go.
+Kristin: I wrote in giant letters: "Tiny fruit punch mouth-why?" Um, "Big overture, little show" says Xander, which is the line I love. And I'm just gonna stop us here for a moment so we can listen to Gachnar's first words, cause I think it's real fun.
+NOTES: [clip from episode plays]
+Buffy: This is Gachnar?
+Xander: Big overture. Little show.
+Gachnar: I am the dark lord of nightmares, the bringer of terror! Tremble before me… Fear me!
+Willow: He, he's so cute!
+Kristin: Yeah, so if you ever want to do an impersonation of Gachnar, you just suck in some helium from a balloon and deliver your first fearful line-
+Jenny: And then get stomped on by a vampire slayer.
+Kristin: Yes, and, sorry to make this like, I shout out all the lines, but there's somereally good lines in this scene or like lines that gave me a chuckle: "When it comes to slaying," Giles says, and then Buffy says, "Size doesn't matter?" [Jenny laughs], which I feel like is cute. Cute lil reference to penises-great.
+Jenny: Oh, love cute references to penises [sarcastically]. Thanks, Kristin.
+Kristin: Cute little penis reference.
+Jenny: Noo.
+Kristin: And then, she steps on him-squash, splat, which is-it has to be unpleasant. It's how I feel like I never want to step on a cockroach, you know, cause it's like too much of a splat? Yeah, it's pretty rough. And then we go to Giles's house. We defeated the tiny demon-
+Jenny: We get the most important moment in the episode for me, which is Xander looking, you know, out of the corner of his eyes at Anya, being like, "So this is your scary costume?" And she's just like, "Bunnies frighten me," like it's the most reasonable thing.
+Kristin: It's really good. I hope someday we get to hear more about Anya's fear of bunnies. Seems like an interesting character.
+Jenny: Me too. Expand that info.
+Kristin: Please. And then we get this like ba da ba ba da ba [musically] at the end, where they're like, "Oh, I noticed that this says, 'actual size.'"
+Jenny: So stupid.
+Kristin: And then it just like cuts to black. And we're out, and we did it!
+Jenny: We really did it.
+Kristin: Our, sec, thir-is it the second Halloween episode or the-?
+Jenny: I think so. I think it's just been this and the one with Ethan Rayne.
+Kristin: "Halloween!" There's, there was not a Halloween episode in Season 3? Isn't "Halloween" in Season 2?
+Jenny: Yeah. So, nothing happened on Halloween in that season.
+Kristin: Yeah, we looked it up. I panicked. But yeah, I guess on Halloween in the season. They were too busy doing lesbian subtext to care about Halloween.
+Jenny: I thought you were going to say "lesbian sauna fetishes."
+Kristin: I wasn't, but what a great way to transition to the way we like to end these episodes, Jenny, which is by talking about-
+Jenny: Sexual tension corner!
+NOTES: [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Jenny: So, who won last week's listener poll for sexual-
+Kristin: Two weeks ago; we're so not used to the fact that we do this-
+Jenny: Oh, right, right, two weeks ago. Last episode.
+Kristin: Our last episode-thank you so much for asking, Jenny-the winner taking 40% of the vote was Anya and sexual intercourse.
+Jenny: Hell yes!
+Kristin: Taking 34% of the votes-
+Jenny: Whoa!
+Kristin: In second place was Harmony and Blondie Bear.
+Jenny: Tight.
+Kristin: And I have to say that, you know what, as much as I want Anya and sexual intercourse to win everything, I personally was a voter for Harmony and Blondie Bear cause they had some real great sexual.
+Jenny: Yeah, they did.
+Kristin: I think people may have not voted for them because Anya and also because they copulated, if you will. You know what I mean?
+Jenny: I will.
+Kristin: Some people don't like when we give Sexual Tension Awards to people who have had sex because they feel that there cannot be tension.
+Jenny: The tension still exists.
+Kristin: I agree. Then, 18% Xander and his juice box. And taking a mere 8%, poor Devin in his crop top. They really, like three people were like, yeah.
+Jenny: Into it. Wow. Trophy's in the mail.
+Kristin: So, Anya, I don't know how we mail a trophy to sexual intercourse, but we'll do some research.
+Jenny: Everybody, the next time you encounter sexual intercourse, if you do-
+Kristin: Yeah, let it know it's won a trophy, probably many.
+Jenny: Okay, now the nominees for this episode. Heck yeah. We're going to have that Twitter poll up @bufferingcast. So please cast your votes, if you have an opinion.
+Kristin: The poor people who find out about Buffering the Vampire Slayer in a year and they listen and they're just always-they can never vote on and they want to, but it's over.
+Jenny: But if you're with us in the moment now, please cast your vote for one of the four following options, or go ahead and write in if you feel like I misssomething. A legit sexual attention nominee: Xander and Anya.
+Kristin: Yes. This is real shit here.
+Jenny: Yeah, it's really-it's building. Okay, next up: Giles and the chainsaw and all of us.
+Kristin: Yeah, it's pretty high contender.
+Jenny: A rare throuple nominee. Riley and mansplaining-that's Kristin's nom.
+Kristin: Yeah, fuck you, Riley!
+Jenny: Jesus. People are just going to vote for him out of spite.
+Kristin: What, why? Oh, you mean in the other poll that we're doing?
+Jenny: No, no, no, I mean in this poll they're going to be like Riley and mansplaining, because like fuck Riley; because you're rallying the-
+Kristin: Noo.
+Jenny: Okay. And a fourth up: Joan of Arc and God. Yeah, which seems blasphemous, but-
+Kristin: I think God gets it.
+Jenny: God can get it [ suggestively].
+Kristin: So, you know, place your votes. This is a democracy, unlike the country we live in right now. Wow, way to end it on a great note, Kristin [sarcastically]! Jenny, why don't you tell the good people where they can find you?
+Jenny: I will do exactly that. I'm Jenny Owen Youngs, and when I'm not watching Buffy, I am writing and recording music. You can learn more about me at jennyowenyoungs.com/buffering. You can hear some songs there. You can find out what I'm up to. And, also, I just cowrote a couple songs on the Panic! At the Disco record that came out on June 22nd.
+Kristin: Whaaat!
+Jenny: I worked on "High Hopes" and "Roaring Twenties," and the whole record is great and that's, like, something that I've been up to lately, so you can check that out. Also, you can give me a shout on Twitter @jennyowenyoungs.
+Kristin: Yes. And I am Kristin Russo still. And I'm still at kristinnoeline.com that's K-R-I-S-T-I-N-N-O-E-L-I-N-E. you can also find me on Twitter and Instagram @kristinnoeline. You can learn about the work that I do with LGBTQ communities. Most recently, I saw so many of your wonderful, beautiful faces at the all-ages pride party in New York City. Thank you to those of you-I was like onstage and I was like "and I have a website, it's called everyone is gay"-and people were like, "yay!" And then I was like, "I have a podcast called Buffering the Vampire Slayer," and people were like "Ahh!!!" [laughing] So thank you for bringing it. And yeah, you can, I don't know, find out other things I'm going to be doing by following me in those places.
+Jenny: We still gotta get you that K-R-I-S-T-I-N-O-E-L-I-N-E [singing].
+Kristin: Yeah, where's my jingle, Jenny?
+Jenny: I'm working on it.
+Kristin: All right, well I'm going to work on my "Bye, Riley," jingle and you can work on your "Kristin Noeline" jingle
+Jenny: "Bye, Riley" [laughing]. Bylie. Buffering the Vampire Slayer is on Twitter, Instagram, and Facebook @bufferingcast. And you can also drop us an email at bufferingthevampireslayeratgmail.com. Don't forget to attach your clothed nudes.
+Kristin: Ughh! Also, just this is mean. [Jenny laughing] This is homophobia.
+Jenny: What!
+Kristin: You're being homophobic, Jenny, towards me.
+Jenny: Being mean to a person who happens to be queer is not homophobia.
+Kristin: Well it is July now, but in the month of June, anytime anyone is mean to me, I call it homophobia cause it's pride. So, speaking of where you can email us, you should send those emails in. Let us know-you know, we never say this-let us know where you're writing in from when you write us emails, especially if they're panels that we might talk about on mailbags. And we are going to be doing a mailbag this month in July for our Patreon supporters. I think it's the $10-patron level that gets the mailbags, and they're getting a video from Jenny and I, a Q&A video this month, and a mailbag. It's really hopping over in that $10-level. So, let us know where you're from. If you send us an email and you're not a patron, and we use it in the mailbag, don't worry, we will email you specifically so that you get to hear your question answered. And that sort of segues into how you can supportus: Patreon, Patreon, Patreon is a great place to support us. It's also just really so fun and wonderful. You support us at any level, you get in the secret Facebook group, which is just hopping all the time. They've got book clubs, they've got watches, they've got not like watches-not like wristwatches-Buffy watches. We just did a Buffy watch for "Beer Bad" just a couple of days ago, which was super fun.
+Jenny: Getting prepped, getting pumped!
+Kristin: And other ways you can support us: Go to iTunes, rate, and review us. Many of you have, but there's people out there who haven't, so go on over there and do that; it's helpful. And you can get merchandise. We have a hot, hot Fourth of July sale happening right now. So, if you want to, you can go on over to our store. You just go to bufferingthevampireslayer.com and click on "Shop." And right now, you can get 15% off everything in our store by entering the code. So, okay. I had Jenny pause it cause obviously I didn't have the code yet cause it's, you know, June still while we're recording this. And Jenny has forced me to [Jenny laughs] make the Halloween sale code-
+Jenny: Halloween?
+Kristin: I mean the Halloween-in-July sale code, "clothed nudes."
+Jenny: That's C-L-O-T-H-E-D-N-U-D-E-S.
+Kristin: "Clothed nudes" for 15% off everything in the store.
+Jenny: Including our new mugs! Ahh!
+Kristin: Yes, our new Smash the Demon Lizard Patriarchy diner mugs, also stickers, and we've got some pre-orders up for beer koozies that say "Black Frost."
+Jenny: Hell yeah, if that means anything to you.
+Kristin: Yeah, if that means anything to you. Also, you know this, but if you're a patron of ours at the $10-level, you actually get 20% off our merchandise all the time. So, heck, wham, bam. What else do we have to say? Anything?
+Jenny: You know what else we have to say?
+Kristin: We're going to see New York!
+Jenny: Real soon!
+Kristin: Real soon-we'll see you in a few days, New York! The show is sold-out. It is going to be so much fun; we cannot wait to see all of your faces there. If you have any ideas of how Jenny and I should dress for the show, let us know. We went as Faith and Faith last time.
+Jenny: That was a choice. Should we just go-well, I don't want to say anything about what happens in the episode…
+Kristin: Okay, well we can talk about it afterwards, but if you have any ideas, tweet them to us @bufferingcast. And, um, until next time?
+Jenny: Whaaaat? [offended]
+Kristin: I'm sorry, Jenny. That's your line. Go ahead.
+Jenny: Until next time. [softly and sadly]
+Kristin: Why are you so sad?
+Jenny: Maybe you should say it this time.
+Kristin: I did. I already said it, and you got upset.
+Jenny: I just shrieked; I had an emotional response I couldn't control. I wasn't necessarily upset; I was just reacting to own unforeseen shame.
+Kristin: Alright, well then, until next time:
+Together: Awooooo!
+Jenny: I feel like I had more to give to the "awooo" cause I didn't say "til next time."
+Kristin: You see? Sometimes change is good! [Jenny performing "Fear Itself," off the album "Songs from Season Four" by Buffering the Vampire Slayer] I feel like a pumpkin, they're living it up in the sun Til somebody cuts them, carving their hearts out for fun One in a million, you made me feel like I was But you're just a villain, making a game outta love Try to shake you, tonight I'm going out But the curse on this party's not what I need right now Halloween night, night I'm supposed to have off But all these demons never know when to back off Drag me down in their haunted house like I got nothing better to do On Halloween night, when all that I wanted is just to be haunted by you Down at the frat house everyone coming undone Tarantula party, people screaming and covered in blood Whatever your worst fear, it's coming to visit tonight At least there's no demon reptile waiting for a co-ed sacrifice Usually I'd drive a stake through, and be sound asleep by ten But the tonight the evil is fucking around in our heads Halloween night, night I'm supposed to have off But all these demons never know when to back off Drag me down in their haunted house like I got nothing better to do On Halloween night, when all that I wanted is just to be haunted by you Maybe what you're scared of can fit in the palm of your hand Sometimes you gotta put your fist through a pentagram Halloween night, night I'm supposed to have off But all these demons never know when to back off Drag me down in their haunted house like I got nothing better to do On Halloween night, when all that I wanted is just to be haunted by you
+NOTES: [CHIME]
+Jenny: Hey. Hey. Hey. Here we are, after the song. Ah, it's still me, Jenny Owen Youngs, but also, I'm joined by the one and only Chris Farren.
+Chris: Hi; thanks for having me.
+Jenny: Thank you for being here.
+Chris: I was happy to be here. [Jenny laughs]
+Jenny: Thanks for talking to me right now, and also, thanks for writing the song that we just listened to.
+Chris: And thanks for inviting me to write it with you.
+Jenny: Uh, literally my pleasure.
+Chris: Me too.
+Jenny: So, this is the third episode of Buffy the Vampire Slayer you've ever watched?
+Chris: Uh, okay, so one:
+Jenny: "Reptile Boy."
+Chris: Two: to the one you made you watch with you.
+Jenny: Uh, yes: "Graduation Day, Part 2."
+Chris: Uh-huh. And then this one is called-wait, hold on, don't tell me. Halloween… Scary… Freaks… Zone… "Fear, Itself," right?
+Jenny: Yes!
+Chris: I figured it out, cause you went, yeah.
+Jenny: Well, happy that I could help you sort that out. Yes, so what did you think of this episode?
+Chris: Well, I wrote a bunch of notes, and then you made me throw them away.
+Jenny: I did; I burned them actually in front of you.
+Chris: Right, so I don't remember. But I remember thinking that I was hopeful thatall the monsters were going to show up: Mummy, Dracula, Swamp Thing, uh, the Teenage Mutant Ninja Turtles. Is that a Buffy thing-the Teenage Mutant Ninja Turtles?
+Jenny: Why would that be a Buffy thing?
+Chris: Cause they're scary monsters, and Buffy fights all the scary monsters, does she not?
+Jenny: The Teenage Mutant Ninja Turtles are heroes on a half shell. Turtle power.
+Chris: Oh, I'm sorry. I thought Angel, the Dracula, was a hero in this show and others.
+Jenny: Well, he is now since moved on to his own spinoff, Angel.
+Chris: Right, but he's a scary monster. And scary monsters don't have to be bad. Oh, and now I have one over on you, don't I?
+Jenny: Uh, yeah, point to Chris Farren.
+Chris: Thank you.
+Jenny: You're welcome. I mean, thank you.
+Chris: Yes. And you're welcome.
+Jenny: So one thing that I've thought about a bunch when you and I were talkingabout this episode: The last time you were on the podcast was when we watched or when we talked about "Reptile Boy" in Season 2, which is, of course, most of that episode takes place in a frat house.
+Chris: Yes.
+Jenny: And most of this episode takes place in a frat house.
+Chris: Well, cause you come to me because you know that I am the frat expert, the frexpert.
+Jenny: Have you ever been to a frat party?
+Chris: Oh, probably, yeah-on tour, swing in, maybe not. Almost. Definitely not. I've been to a party. Is that the same thing? [Jenny laughs] And, of course, I've been to many parties.
+Jenny: Yeah, no, I know you're a-
+Chris: A party animal.
+Jenny: Yes, I have heard that stuff.
+Chris: I walk in, I say, "Hey!" And everybody goes, "Whoa, it's him! He's here!" And I talk to everybody, I make eye contact with everybody, and I say "cheers," and then everybody goes *cling, cling, cling* "Speech!" And I go, "Hey, I'm here at a party. Thanks for having me. And we're having fun tonight!" And then the music starts, the DJ goes [imitates record scratching], and then "I Came to Get Down" by Run-DMC plays, and they perform and they're there.
+Jenny: Oh, gee, at every party you ever go to?
+Chris: The ones I've been to, yeah. I just go to-I guess they're just Run-DMC concerts is what I'm describing.
+Jenny: Mmm that's not exactly what you're describing, but there's a strong Run-DMC concert component.
+Chris: Have you been to a Run-DMC concert?
+Jenny: Nope, nope, nope. Ok no, you're right.
+Chris: Well then, I'm the master.
+Jenny: Okay, I will do that.
+Chris: I've never been to a frat party, but maybe I have.
+Jenny: Okay, if anybody has any intel officially on whether Chris has been to a frat party or not-
+Chris: If you are a fratern, and you have seen me at your party or invited me to your party and I came, please write in bufferingthevampireslayer@gmail.com.
+Subject line: "Hey, I actually saw Chris at a party and it was mine and I'm frat."
+Jenny: Okay, okay. Another thing that I remember about your experience of this episode is that the frat house has a Halloween welcome mat that says "Hellcome," and you looked into my eyes and you said, "That's a great other name for a lava."
+Chris: Yeah.
+Jenny: And, and I just want to say gross.
+Chris: Well, what is the gross about that?
+Jenny: You know, what you did.
+Chris: I do.
+Jenny: So, what do you think is the scariest Halloween costume you've ever worn?
+Chris: Me? I won first-prize contest at my elementary school. First grade, I was the grim reaper, and I was very scary, ominous, and I won a weekend trip to stay at the Holiday Inn.
+Jenny: What! Where?
+Chris: Kind of close to where I was.
+Jenny: That is a weird prize for a kid in a costume contest.
+Chris: At the time, it seemed really cool. I have no idea why it was a prize, but at the time, I was like, that rocks, this is so cool. I think when you're in first grade you can win anything and it's cool.
+Jenny: Yeah, yeah; you just feel like a winner.
+Chris: Yeah. I think the hotel also had like a slide, like a water park kind of thing.
+Jenny: Wow, cool.
+Chris: It's in Michigan, probably.
+Jenny: Sure. That's the place.
+Chris: Yeah.
+Jenny: I was the shark one time.
+Chris: Scary.
+Jenny: My mom made the costume. The open mouth is where my face was.
+Chris: Oh, that makes sense.
+Jenny: Breaching shark, just in perpetual breach mode.
+Chris: I was an orc.
+Jenny: An orc, like from Lord of the Rings?
+Chris: From Warcraft.
+Jenny: Excuse me.
+Chris: Specifically, cause I loved Warcraft.
+Jenny: Work craft?
+Chris: And then also I was Blanka from Street Fighter 1.
+Jenny: Wow! That's cool!
+Chris: I must've had leftover green makeup from one of those, whichever one was first.
+Jenny: Wow. Yeah. Wow. I'm jealous. Street Fighter costume-that rocks.
+Chris: I can send you a photo.
+Jenny: Um, I wish that you would.
+Chris: In the photo, I'm pointing to myself with my thumbs. It's very cool.
+Jenny: Great. Can't wait to get a little side-by-side of you and the genuine article from Street Fighter. Um, maybe we'll post that on socials if you can. I know you love attention.
+Chris: I do.
+Jenny: Uh, what else? What else should we talk about? I feel like the direction of this song went in a particular way that's very different from the last time you worked on a song, which was for "The Zeppo," which you produced out, which was very Chris Farren-y in its production.
+Chris: Yes.
+Jenny: This song-you've been listening to a lot of Burt Bacharach.
+Chris: That's true.
+Jenny: And, that rocks-
+Chris: I've just been playing chords like that.
+Jenny: Yeah. Yeah. What's your favorite Burt Bacharach composition?
+Chris: Um, uh, I think "What the World Needs Now"?
+Jenny: Is love, sweet love?
+Chris: Yeah, because it's like, it's in a minor key, but it doesn't feel like it. And I'm interested in that. That's so interesting to me, when songs are in minor keys and they're not like… Every time I've ever written a song in a minor key, it sounds like the Haunted Mansion song [Jenny laughs] and I can't…
+Jenny: What is the Haunted Mansion song?
+Chris: It's like, I don't know. It's not, I can't even…
+Jenny: When you say Haunted Mansion song, I just think of "dun dun duuu, du du du du dunnn" [singing].
+Chris: No, the one from Disney World. It's from the ride.
+Jenny: It's a specific song that we would all recognize if we heard it, probably?
+Chris: Well, maybe not, but it's also-I can't think of what the song is right now-but it's also kind of like Tim Burton / Nightmare Before Christmas-y. Like Tom Waits, he kind of like pirate-y type music.
+Jenny: I love all these adjectives. This is great.
+Chris: And I like music like that, but I find myself feeling embarrassed when I make it.
+Jenny: Sure, sure. You just want to croon, ultimately.
+Chris: Yeah.
+Jenny: Don't we all?
+Chris: Yeah. I find it hard to not be playing like a character in a song when I'm playing songs like that.
+Jenny: So, do you remember anything that happened in this episode?
+Chris: Buffy, the vampire slayer-
+Jenny: Nailed it.
+Chris: She was going to have a day off. Her friends invited her to party, and they went to the party, and because of some Satanic rituals that accidentally performed, the whole party was turned into a scary, demon fright fest. And then they go into rooms, and they go, "What was that?" And then, they realize, it's a monster. And then they go into another room and they hear something else. They go, "What was that?" And then they realize, it's a different kind of monster. And then they make it to the last room. And, somebody comes in with a chainsaw, saves them in a way, and then they're like, here's where the monster is, and he's a little guy, he's small and he has a very little high-pitched voice. She smoshes him.
+Jenny: Smoshes?
+Chris: She's shoshes him with her foot.
+Jenny: Well that was a great. Basically, I don't think Kristin and I needed to actually record this episode. You kind of just got the whole thing in there very succinctly.
+Chris: I'm going to start a competing podcast.
+Jenny: Like a two-minute-long… Hah!
+Chris: That you don't need to listen to this episode!
+Jenny: Um, please do.
+Chris: Okay, I will.
+Jenny: Chris Farren!
+Chris: Yes.
+Jenny: A pleasure, as always. You are a like a cool drink of water on a hot summer's day.
+Chris: That's nice.
+Jenny: Thank you for writing this song with me.
+Chris: Thank you for having me. Had a blast.
+Jenny: Could you tell the good people who are listening where they can find more of your work and more of your face-your handsome, handsome face?
+Chris: Online!
+Jenny: At?
+Chris: Chrisfarren.
+Jenny: Dot com?
+Chris: Sure.
+Jenny: And also on every social media platform?
+Chris: Just my name, Chris Farren, spelled like everybody spells everything.
+Jenny: Interesting.
+Chris: I mean, I've seen people spell "Chris" in different ways, but I think there's the main way, and that's kind of the way I spell my name, which is what a lot of people say is the right way. Not me, just here. And then Farren, you know?
+Jenny: I do.
+Chris: You got it.
+Jenny: But just in case you don't know, it's F-A-R-R-E-N.
+Chris: I know!
+Jenny: No, the yous who are listening-bless them.
+Chris: And hello, audience! [Jenny laughs] And I love you. And I appreciate the follow. And then you will. And you did.
+Jenny: Okay. Thanks so much for joining us, Chris.
+Chris: Thank you.
+Jenny: You are the best. Okay.
+Chris: You are.

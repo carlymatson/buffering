@@ -36,6 +36,9 @@ class PodBot:
         line = PodBot.format_sentence(chain)
         return line
 
+    def __hash__(self):
+        return self.name
+
 
 def space_out_punctuation(text: str) -> str:
     text = text.replace("\n", " ")

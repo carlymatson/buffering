@@ -1,0 +1,934 @@
+Buffering the Vampire Slayer
+Episode 7.16: Storyteller
+NOTES: [CHIME]
+Jenny: Wah-oh! Hey! Everyone. Hello.
+Kristin: Hello.
+Jenny: I didn't see you there, gentle viewer.
+Kristin: Ah-ha, from not Philadelphia, we are introducing you to an episode that was taped in Philadelphia. How exciting. How exciting! We have some very special guests that you're gonna get to hear on the other side of the theme song. But for now, Jenny, let us talk…about some news, some updates, some important information. We've got some good news for you. I know that might be hard to believe-
+Jenny: [laughs] I thought good news was a thing of the past, Kristin!
+Kristin: [laughs] Yeah, we thought it couldn't be done. And to that end, before we get to the good news of it all, I just wanna say, hey. Take care of yourselves, okay? We're here to podcast about Buffy the Vampire Slayer as a means of helping you take care of yourselves. And we're also going to work really hard to take care of ourselves. This is your reminder that part of fighting and continuing to fight is, like, taking care of yourself and wrapping yourself in a cozy blanket and, like, taking a minute and taking a breath, taking a day. A week, even.
+Jenny: Mmhmm, mmhmm.
+Kristin: Take some time.
+Jenny: Mmhmm.
+Kristin: So this is Kristin, telling you, please, please, please remember to take care of yourselves.
+Jenny: One fun balm upon your soul could be, if you feel like it, joining us virtually as we broadcast the second night of our Dirty Girls weekend in Chicago. That's right. Dear friends. We are gonna have a live stream of our live taping of Dirty Girls, our Sunday night, on July 24th, live from Lincoln Hall in Chicago. And you can join us virtually. Tickets to our live stream are available now. And all details can be found at momenthouse.com/bufferingthevampireslayer, or as always, by going to our website directly and checking out the calendar of events. Tickets are $10.
+Kristin: Ten dollars for hearing us talk about Buffy and Faith seems like a steal to me. Also, guess what else, Jenny.
+Jenny: [gasps] What else?
+Kristin: Leading up to this [Jenny gasps] momentous occasion, which I've started referring to as Fuffy Summers. [Jenny laughs] Fuffy Summer, "s" in parentheses. Okay?
+Jenny: One of your best ideas.
+Kristin: Thank you so much. Leading up to this two-night event in Chicago, we're going to be doing live watches of all of what we consider to be the most important Fuffy and Fuffy-adjacent episodes that got us to this very moment, in Season 7, called Dirty Girls. All of the details for these live watches are on our calendar. We kick things off this Friday, July 1st, at 8 PM Eastern, with a double-header-that's right, I said double. [Jenny gasps] Header. Of Faith, Hope and Trick and Revelations. The whole schedule can be found on our Patreon page. This is available, open to all of our patrons to join us on the Discord channel. It'll go through July-I think it starts July 1st and goes all the way until the 18th of July, right before-
+Jenny: Oh my god.
+Kristin: We fly to Chicago. So it's gonna be super fun. Also, by way of Patreon, just a reminder that we are also in the middle of live watching Yellowjackets, Season 1. Thursday, tomorrow, is-
+Jenny: [singsong] Yes!
+Kristin: The viewing of Episode 3 of Yellowjackets in the Discord. Jenny and I are releasing the first pod to patrons tomorrow, as well. And, my god! When do we sleep? Spoiler, we don't. [Jenny laughs] Me and LaToya are also doing a podcast on the Netflix show, First Kill. All of that available to our patrons. Patreon.com/bufferingcast or all of this, as always, bufferingthevampireslayer.com.
+Jenny: What a world! What an embarrassment of escapism riches. [sighs] Speaking of embarrassments of riches…I'm here to tell you, if you can believe it, that we have a very special guest on today's episode's song. Obviously, the episode Storyteller is very Andrew heavy and we thought it would only be fitting to rope our dear friend, John Mark Nelson, into being the voice of Andrew for this song. And also-and also, arranging some strings for it. So I wrote the song and played some harpsichord, and John Mark sang it and arranged some strings. Our powers combined bring you this episode's song. You're welcome in advance. When I sent the song to Kristin, she said, "Oh my god, I had no idea John Mark's voice was so sexy" and then she said "Don't tell him I said that." [laughs]
+Kristin: That's exactly what I was gonna say, and I was like, and John Mark edits the episode but not the intro, so it's possible he'll still never hear the truth. [laughs]
+Jenny: Yes. Yes, your secret is safe, here in the intro.
+Kristin: Welcome to the universe, John Mark Nelson, starring as Andrew. Welcome, welcome.
+Jenny: So happy to have him. I'll tell you what else, Kristin.
+Kristin: Mmm. Speaking of sexy.
+Jenny: Mm, exactly. It's friggin' results time, here in the intro. For the Sexual Tension Awards of the episode Get It Done. If you know what I mean, [Kristin laughs] and I think that you do. In a very disappointing fourth place with…a very appealing 16.9% of the vote. [both laugh] It's-a nice little consolation percentage. It's Buffy and Principal Wood.
+Kristin: You-y'all better get Buffy and Wood up to the top of the goddamn list. I'm getting pissed.
+Jenny: Come now, with eyelashes on a man, like that?
+Kristin: Yeah.
+Jenny: Please.
+Kristin: And it's not gonna be in this episode, because Buffy's pouring cereal. So I know they're not gonna win this time either, but.
+Jenny: Ha!
+Kristin: Anyway, continue, Jenny. I'm so sorry.
+Jenny: Ah. In third place with 21% of the vote, somehow pulling ahead of Buffy and Wood, it's Andrew and his big board. [both laugh] Sure.
+Kristin: Fine.
+Jenny: Shockingly, in second and not first place, with 30.1% of the vote, it's Spike and getting beat up.
+Kristin: I don't know, I actually support this winner. They did earn this one.
+Jenny: Alright. And in first place with 32% of the vote, only point-nine percent more of the vote than Spike and getting beat up, to be fair. It's Anya and Spike.
+Kristin: It's 1.9% more, Jenny. So your math-
+Jenny: Oh my god. I'm-
+Kristin: Is incorrect. [laughs]
+Jenny: So bad at math. [both laugh] I am…but I'm just a little lady here in the intro, [both laughing] trying to do some math, Kristin. I'm so sorry.
+Kristin: So, Anya and Spike, look for your trophies in the mail. And-
+Jenny: Congrats.
+Kristin: Last but not least, just a couple of other things. I'm not gonna read an email this ep, just because it's a live episode, which means we're gonna have a whole situation over there. I'm gonna save the email for next time. But I would like to let you know that in our store, there is a brand new item, in case you missed it. It is the Kinda Gay Vampire Willow fan club design, on a crop top. The month is still June.
+Jenny: [simultaneously] Hell yeah.
+Kristin: Just barely. It is still Pride month, just barely. [Jenny laughs] And if you're listening to this podcast, you are kinda gay. So if you need-
+Jenny: At least kinda.
+Kristin: At least kinda. So if you need that on a crop top, go on over to our store. Our website has all this information. And one more thing about the store, Jenny and I were together in Philadelphia, which means we signed some things. So there are signed Buffering the Vampire Slayer posters, really beautiful screen printed posters, that feature Frank, Sam and Gus, our pets-
+Jenny: Aww!
+Kristin: As well as us. And we signed some of the split seven inches from way, way back, from I Will Remember You, the crossover with Angel. So those are now in the store, and you know, they're limited. 'Cause we-our wrists get tired. [laughs] So there's only so many of them, and then there will be no more. One thing heading to you if you're a patron that I didn't mention is that while Jenny and I taped this episode-and you'll hear us fiddling about with it a couple of times as we record in Philadelphia-we were using a camcorder that I purchased. It's a 2022 camcorder, very small, very cheap, very different than the 90s. [Jenny laughs] But we recorded footage of us backstage and the audience and just, like, really fun shit. And so I am stringing it all together and putting it up on Patreon as a little bonus content. So if you wanna see that behind the scenes stuff, any level of Patreon-age…[laughs] any level of patronage [Jenny laughs]… any level of patronage will-
+Jenny: Pa-tro-nah-jay!
+Kristin: [laughs] Will get you where you need to be. [sighs] I'm gonna take a nap while you listen to past me talk to past Jenny, how's that sound?
+Jenny: Enjoy, past us, in Philadelphia!
+NOTES: [Buffering theme plays] [cheering and applause]
+Jenny: [dramatically] Hello! Gentle listener, and welcome…[laughter] to Buffering the Vampire Slayer. [cheering and applause] A podcast where we are watching and discussing every episode of Buffy, the Slayer of the Vampires. [laughter] One by one, spoiler free, in tandem with the gals I'd love to gift a beautiful smoking jacket, for any holiday. Angel On Top. [even more dramatically] I'm Jenny Owen Youngs.
+NOTES: [cheers]
+Kristin: [laughs] I'm letting her keep the mood. I'm just funnel cake Andrew, so. [cheers] I'm Kristin Russo. [cheers] And this week, we are here, in Philadelphia…
+NOTES: [cheering and applause]
+Jenny: Woo-woo!
+Kristin: Talking about Season 7, Episode 16, Storyteller. [cheering and applause] Stay tuned at the end of this podcast every other week for an original song, written by Jenny, recapping the Buffy episode we're discussing. I cannot wait to hear what you write. We're in the past, but this will be in the future, so. It's a very special little nexus, you know?
+Jenny: [dramatically] Mmm! Yes! Well! [laughter] Only time can tell us that tale. But in the mean, Storyteller was written by Jane Espenson, directed by Marita Grabiak-a woman? [laughter]
+Kristin: Noo.
+Jenny: In this 'verse? [laughter] And originally aired on February 25th, 2003.
+Kristin: Okay, no? No birthday math? Okay.
+Jenny: No, no, I'm good. [laughter]
+Kristin: I just-like, it felt like the mood was really calling for birthday math. This isthe one, according to IMDB, where "Andrew creates a documentary called Buffy: Slayer of the Vampires." [laughter] For what it's worth, we are on the hook to only say "vampire." [cheers] And if we say the other word-same word, different pronu-you get what I mean. Then you're in charge of just absolutely giving us all the shit in the world, okay? [laughter] Philadelphia, you are on watch. Meaning, we're on watch, and you're watching. [laughter] "This documentary is a record of the current situation in Sunnydale, to show future generations. Andrew manages to capture many important moments and to annoy almost everyone in the house, but Buffy needs to tear him away from his filmmaking because the Seal of Danzelthorpe is active and Andrew-" It says that, I swear-it does. [laughter] "And Andrew may hold the key to closing it before it destroys the town." This is the one where Andrew does a bunch of shit with his camcorder.
+NOTES: [laughter, cheers and applause]
+Jenny: Hurray! Well!
+Kristin: I mean, has anyone ever had more things on a table?
+Jenny: You got a lot of things on your table.
+Kristin: Got a lot of things on the table. Okay. We can make a podcast.
+Jenny: You think you've got a lot of things on your table, listen to this Previously On. [laughter] Previously on Buffy, Slayer of the Vampires, [laughter] arch-nemesis-es. Warren was flayed. Andrew and Jonathan went to Mexico.
+Kristin: Mmhmm.
+Jenny: There's a big evil that can be any person it wants, as long as they're dead, and also, it's non-corporeal, woooo! Andrew killed Jonathan, oops.
+Kristin: Mmhmm.
+Jenny: Willow caught him buying blood. He likes to think of himself as more of a guest-age. Here's what Potential Slayers are, again. Wood took Buffy to dinner, his mom was a Slayer, and we see Spike kill Nikki again.
+Kristin: A lot of shit's going on. It's almost like we're at Episode 16 of the final season of Buffy the Vampire Slayer. [laughter] I have some, like, macro thoughts. Is it okay if I begin with a macro thought?
+Jenny: Imagine if I tried to stop you.
+Kristin: [simultaneously] It isn't even-[laughter] it isn't even fully formed, because that's how I roll. I'm just like, ooh, there's half a thought, I will bring it to everyone. I won't finish the thought. But I just-when I was watching this episode-was really thinking about Superstar. And how there are-especially because these are two members of the Trio. A trio of dudes who, like, really make themselves more grandiose in their minds, a means of, like, feeling important. And that they both have an episode that is directly focused on, like, the dissonance between, like, what they want to be-in Jonathan's case-or what they imagine they are-in Andrew's case. [laughter] Just maybe the difference. So that's my, like, half-baked thought. But I do feel-and we have a little video message later from LaToya Ferguson. [cheers and applause] Yeah. And she has some thoughts on, like, the Jonathan/Andrew of it all. And not just-you know, I'll back off my macro horse in just half a second. But I've seen a lot of commentary about how, like, this episode perhaps would have been if-not episode. But this season would have been if Jonathan was actually the one that was in the house with the Scoobs. You know?
+Jenny: Mmhmm.
+Kristin: Something to ponder. [laughter] Did you hear that sweet sound of pondering? [laughter] Okay, so we begin. [Jenny sings tune] And here's where we begin. [Jenny continues with tune] [laughter] Is that the song that plays?
+Jenny: Uh, not exactly. [Kristin laughs] But you know, I was, like, thinking about the harpsichord, vibing out, you know?
+Kristin: This is Tom Lenk at Tom Lenk's best. [laughter] He is so funny! That's my very smart thought.
+Jenny: He's really-I mean, I think-we don't know why this story is Andrew's instead of Jonathan's. But I think a strong possibility is that they just wanted Tom Lenk-
+Kristin: Yeah.
+Jenny: To Tom Lenk out, [laughter] because it's really fun to watch.
+Kristin: Absolutely. No, absolutely. And like, I mean, just his delivery. And I don't know, you know, I was the age of-we were both the age of the cast, basically, when-
+Jenny: Technically, Kristin's a year older than me. Go on. [laughter]
+Kristin: It's true, it's true. Though every year, I hope to pause for just long enough for her to catch up, you know?
+Jenny: Uh-huh.
+Kristin: But I feel like-so my best friend in high school was a gay man. And his comedy was so identical to this delivery that Tom Lenk has in this character. And so, I don't know, like, if it was just the place we were in, if there was something-if, like, Tom Lenk was the source. Probably not, because I don't think that my friend Jeffrey was watching Buffy the Vampire Slayer at the time, but like-
+NOTES: [crowd reacts negatively]
+Jenny: What show? What show?
+Kristin: Buffy the Vampire Slayer. [cheers and applause]
+Jenny: Ah.
+Kristin: Ughh, I'm so mad that I fucked it up before Jenny. [laughter]
+Jenny: "Before Jen-" when have I ever fucked anything up? Especially at a live taping. [laughter]
+Kristin: Anyway! All I was trying to say is that the comedy here-maybe there's a name for it-but just the way he delivers his fucking jokes are so perfect and delicious. And he carries this episode flawlessly.
+Jenny: [imitating Andrew] It's wonderful to get lost in a story, isn't it? [laughter]
+Kristin: The way that he coughs after he takes the first puff of his pipe, and this his-like, his tone of his voice is, like, eight octaves higher when he's like, "Come with me now!" [laughter] Ugh, it's so good! It's so good.
+Jenny: Mmhmm.
+Kristin: So, we're in the narration of Andrew, and we go to the cemetery, but Andrew's version of the cemetery. And we see-I mean, Buffy has incredible moves in-in general, she does have incredible moves. But like, she does this, like, backwards-you know what I mean? She, like, grabs the top of the-you just watch-she's just gonna watch me the whole time with her smug pipe. [laughter]
+Jenny: Uh, I was listening attentively. And…it's nice to have a hand prop.
+Kristin: Yeah. [laughter] I have a hand prop too. It's my tequila.
+Jenny: [laughs] Okay.
+NOTES: [cheers]
+Kristin: [laughs] Cheers. But you know, we go to the cemetery, we see this fancy footwork from Buffy. And we get narration from Andrew. [imitating Andrew] "Things don't look good for our Slayer." Interrupted by…[tapping noise]
+Jenny: Look at you with your little…foley? Is that what they call it? [laughter] Little tap-tap-tapping?
+Kristin: Anya, assuming that Andrew of course is masturbating…[laughter]
+Jenny: What else would you think? You-much has been made about how many girls are now living in this house and how there is one, maybe 1.5, bathrooms?
+Kristin: One bathroom and like, not to skip this part 'cause we'll talk about it, but like, when we get to the part where all the Potentials are going into the bathroom, what are they doing in there? They're, like, each going in, sneezing one time, and then leaving. [laughter]
+Jenny: Are they brushing their teeth?
+Kristin: They couldn't-if you watch how quick they go in and out, like, nothing happened in that bathroom. [laughter] They were like, everybody, go in, touch the wall, turn around, come back. [laughter] But Andrew has occupied the bathroom for, like, a half hour with his-and my-like, there's a lot of 90s-early 2000s shit in here. But like, the makeshift tripod that he has, [laughter] where it's just like, a stool with some towels and whatever. I was like, that is relatable content. [laughter] Definitely made a tripod like that many times. Just here to observe.
+NOTES: [laughter]
+Jenny: I'm auditing this pod, actually.
+Kristin: [simultaneously] She's just here to observe. [laughter] Did you wanna take a smoking break or shall I just continue talking?
+Jenny: Please, go forth. [laughter]
+Kristin: So anyway. Anya's like, get the fuck out of here, what are you even doing?!
+Jenny: Hey, he's entertaining and educating, actually.
+Kristin: And Andrew-okay, well, we go to the credits. But when we come back from the credits, Andrew is gonna make a really solid move here, where he is going to tell Anya that she's gonna be interviewed next. And she has a really good story to tell, like, I just-I feel like Andrew is making funnel cake. He's making big mistakes. But he also kind of has, like, a pretty good read on a lot of people in this household.
+Jenny: Yeah.
+Kristin: Right?
+Jenny: Yeah, it's always…well, it's just always Spike, Anya or Andrew, really.
+NOTES: [laughs] With their finger on the pulse. [laughter]
+Kristin: Mmhmm. Yeah.
+Jenny: Each, kind of, like, ignored or written off for various reasons at different times.
+Kristin: Yeah. I was gonna say, it all began with Cordelia.
+Jenny: Ahhh.
+Kristin: Which, like, I don't know-I didn't expect this. But…
+Jenny: But here we go. [laughs]
+NOTES: [CORDELIA jingle plays] Cordelia… (ah-ahh) I love you, Cordelia (ah-ahh) You're perfect, Cordelia (ah-ahh)
+NOTES: [cheers and applause]
+Jenny: Canonically…we don't acknowledge anything that she's gotten up to in Los Angeles, especially [laughter] in the most-the concurrent season of Angel-
+Kristin: No, no, no, no-
+Jenny: It's not happening. It's not happening! Don't worry about it.
+Kristin: [simultaneously] No, no. We're here to have a good time and only a good time.
+Jenny: I know. Unlike on Angel on Top, [laughter] we are here to have a good time. [laughter]
+Kristin: Agree. Okay, so. When we come back from the credits, before we get to the Anya shit, we go to the cemetery for real. And we see that Andrew is following Buffy around, and making a record. And like, I kind of side with Andrew on this.
+Jenny: I think…it's nice. [laughter] I think it's nice! I mean, he's making a really-you know, he makes a good point, that no one is recording this. Now, especially that the Council has been decimated, but even when they were around, they were just, like, taking credit for stuff and not paying the Slayer. So I think what he's doing, in a way? You know, part of it-
+Kristin: The essence of it.
+Jenny: The essence of it is a good idea that I support. I have never said anything negative about Andrew making a documentary about Buffy, Slayer of the Vampires, in my life. [cheers]
+Kristin: I mean, I was out there, making Scream 2 on my camcorder before there was a Scream 2. This seems like a more noble use of a camcorder.
+Jenny: So wild that yours didn't get made-
+Kristin: I know! [laughter] Also, not to bring up my gay friend Jeffrey again, but I made Scream 2 with him. Okay, so I have a little bit of information here that I would like to impart-well, some of you probably already know it, but some of you don't. Because Andrew says, hey, why do vampires show up on video?
+NOTES: [crowd reacts negatively]
+Kristin: Fuck me! [laughter and cheers]
+Jenny: I thought…you were a professional. [laughter]
+Kristin: I know. It's hard. It's hard. Can you tell that I only fuck it up when I'm, like, very intent on what I'm say-it's like, I get absorbed in the thing and I forget. But it's okay, you're doing a great job-
+Jenny: Do you wanna hold my pipe for a little bit? It might help you. [laughter]
+Kristin: No, I-Jenny, I have to go alone. [laughter]
+Jenny: Okay.
+Kristin: [takes deep breath] He says, "Why do vampires…not-" or "why do they show up on video?" And so I did some digging, and we've talked about this a little bit. But like, the general idea of why vampires don't show up [laughs] in mirrors-like, their reflection isn't there-is because of a-the myth usually goes all the way back to silver, right? That like, silver is, like, a holy thing. Yeah, you know, science. [laughter] Math. Religion. Whatever. And so it's the silver of it all, right? And that's why. And so, on a camcorder or what have you, there's not silver used in that, the reflection, and-
+Jenny: Mmm.
+Kristin: In current-day mirrors, there also is not silver. It's aluminum now. And! [laughs] Before there was silver used for mirrors, there were other things, like in the 15 and 1600s, they were mercury-coated, dangerous. [laughter] And then earlier than that, there were bronze mirrors. And the first mirror ever known, in 8000 BC, was an obsidian stone, known as black mirror, not to be confused with the show. And all of this led me to realize that we've been talking about Angel not able to do his fucking hair. But really, there are other reflective surfaces that he's probably using. You know that that guy has an obsidian stone…[laughter] right?
+Jenny: Highly polished.
+Kristin: Highly-he polishes it every night before bed. [laughter] [sighs] Anyway. I'm terrified to be on the stage now that I keep saying the word wrong, but I'm gonna power through it. [laughter]
+Jenny: You're doing great.
+Kristin: Thank you.
+Jenny: Yeah.
+Kristin: You're-it's Jenny-does everyone agree it's Jenny's turn? [laughter]
+Jenny: [clears throat] Okay.
+Kristin: [simultaneously] I think you need to put the pipe down.
+Jenny: Okay. [laughter] So the cemetery gives us the general read that Buffy doesn't want to be documented. This does not stop Andrew from pitching taglines while she's trying to do her job. "She was a woman in danger, or was she?"
+NOTES: [laughter]
+Kristin: He's good at what he does! He's good at it.
+Jenny: Yeah. "A Slayer in action."
+Kristin: Yes.
+Jenny: "A nerd in pain." [laughter] Ahhh! Alright.
+Kristin: So we go-we talked about the Anya moment. Anya is sold, sold. "I can be the star?"
+Jenny: This moment between them? Anya is so horny to be featured in a documentary [laughter] that, even though these have to be the two characters least likely to do a little kiss, it almost seems for a moment-[laughter] in the hallway, discussing Anya's appearance in the documentary-that they might accidentally just brush their lips together. A love that dare not speak its name.
+NOTES: [laughter]
+Kristin: I mean, they are very intimate. And Anya's been, like, really after this feature since Once More, With Feeling, if not earlier. Remember how mad she was that she didn't have, like, the hit single?
+Jenny: Yeah, she-
+Kristin: [simultaneously] That's not what she called it. [laughs]
+Jenny: She did not want a book number. She wanted a breakaway pop hit!
+Kristin: Breakaway pop hit! [applause] So, down to the basement we go now, where Andrew is getting the most use out of his big board.
+Jenny: Yeah, he's getting his money's worth. But now, whatever he did in the previous episode is, what? Lost? To the ages?
+Kristin: Yeah. It's temporary. Listen, this is the age of the camcorder. You tape over that shit, it's gone forever, you know? Uh, does nobody understand that? [laughter] Everyone was like, what do you mean, it's gone forever? [laughter]
+Jenny: It's in the cloud, probably. [laughter]
+Kristin: He has-[laughs] he has drawn, like, the head of the First, which is like, a little red devil head. And then, like, Sunnydale High School, and underneath it, the Hellmouth. And he has even drawn in the Bringers down at the bottom. They're, like, a little band of Bringers. [laughter] It's very cute. And he's explaining-basically, if anyone says to you, "So, like, what's happened in Season 7?" you just have to show them this clip. [laughter] And Andrew will explain it all.
+NOTES: [Jenny and Kristin laugh]
+Jenny: Yeah, they replace the Previously Ons with this. [laughter] "Let's explore the world of our story."
+Kristin: He also drew a fucking Turok-Han, and that is my favorite part of Andrew's drawing. [laughter]
+Jenny: It's pretty good.
+Kristin: [simultaneously] This nasty vampire. Vampire. [crowd reacts] I'm never gonna get it! My brain doesn't work. [laughter] But it's fun. [laughs]
+Jenny: Andrew also refers to the Bringers as "very mobile for blind people," which A., no, but also B., such a weird take from him because you know he has gotta be obsessed with Daredevil. [laughter] Arguably perhaps the most mobile-
+Kristin: Oh, shit.
+Jenny: Of all blind individuals ever to roam…
+Kristin: Yeah.
+Jenny: The Marvel-verse.
+Kristin: Good call, Jenny. Good thing there's a nerd here. [laughter]
+Jenny: What the fuck? [laughter]
+Kristin: I thought this was a nerd friendly zone. I meant it as a compliment.
+Jenny: Mmm. [laughter]
+Kristin: Did you know that this show is about many things, including vampires?
+NOTES: [laughter] Just trying to get my ratio up. [laughter]
+Jenny: Yeah. Yeah.
+Kristin: Oh god, it's time-
+Jenny: [simultaneously] Kristin's batting average. [laughter]
+Kristin: It's time to go to the kitchen. I'm so excited about the kitchen. Okay. [laughter]
+Jenny: Is this a show or a tell?
+Kristin: Well, we're gonna tell-
+Jenny: We're gonna tell and then show.
+Kristin: We're gonna tell and then show. [laughter] [imitating Andrew] So it's morning in Sunnydale. The women are taking the time to fortify themselves. [normal voice] Xander's like, "Excuse me." And you'd think, like, Andrew is digging on Xander for a second until you realize he's just flirting with Xander again. [laughter] He's like, "The women and Xander, the man who is the heart of the Slayer machine." And Xander's like, yeah, the heart. [laughter]
+Jenny: Yes!
+Kristin: And we get a little summary-
+Jenny: Oh!
+Kristin: Oh.
+Jenny: Wait. I'm sorry.
+Kristin: Yes. Please.
+Jenny: Spike is just smoking, indoors? [laughter] Listen-
+Kristin: Two thousand and fucking three, baby. Two thousand and fucking three.
+Jenny: [muffled by pipe] As I've always said, smoking indoors is absolutely inappropriate. [laughter] Under any circumstances.
+Kristin: You know who smoked indoors all the time in 2003? My friend Jeffrey. [laughter] Swear to god. [laughter] But this, like-this is not-'cause that was my response at first, too. I was like, um, not cool. But then I was like, wait, but in 2003 when I was 23, this would not have been a thing where you're like, "what are you doing? Get outside." You know? Like, people-
+Jenny: I guess-it's sunny out.
+Kristin: Ohh, he can't-!
+Jenny: But go stand by a window or something.
+Kristin: Or go to your basement.
+Jenny: Yeah.
+Kristin: Or get a-what do you call those things that we used to use in college to smoke weed?
+Jenny: A poof?
+Kristin: A spoof?
+Jenny: Is it a spoof or a-
+Kristin: A spoof.
+Jenny: Okay, I was like, poof, we got there halfway. [someone in crowd speaks]
+Kristin: Spoof. Yeah, for those of you who don't know what a spoof is, you take a toilet paper roll-the inside of-
+Jenny: Highly scientific.
+Kristin: The cardboard. And you put some dryer sheets in there, and then you take one nice dryer sheet, you put it over the top of that shit. You put your hair band around it. Then you take a puff of whatever smoke you're smoking-hopefully weed, 'cause cigarette smoke stinks bad-and then you blow it through. And it comes out smelling like smoke that is slightly tinged-[laughter]
+Jenny: Yeah. Dryer fresh smoke.
+Kristin: That's how you get away with smoking weed in college. [laughter] Anyway, this is not-this is not about science. This is about television. Okay, so we're gonna fucking play the scene.
+Jenny: We're gonna show it to you!
+Kristin: We're gonna show it to you. [cheers and applause]
+Jenny: 'Cause you deserve it.
+Kristin: Okay. Everybody ready? Okay. I was waiting for you to get quiet, I don't want you to miss anything. [scene from episode plays]
+Andrew: You've already met Buffy. She's beautiful, with a lion's heart and-and the face of an angel. [laughter] She's never afraid because she knows her side will always win. [cheers] Buffy and Spike have some kind of history. You can feel the heat between them, although technically, as a vampire, he's room temperature. [laughter and cheers] Anya, a feisty waif with a fiery temper and a vulnerable heart that she hides, even from herself. [laughter] This lovely girl-I don't remember her name- [laughter] [cheers and applause]
+Kristin: It's so good! Do you know what else is so good, is the person who's gonna come up here and talk to us about this scene and more, Jeremy Rodriguez. [cheers and applause]
+Jenny: Jeremy.
+Kristin: Oh my gosh. Hi.
+Jeremy: Hello.
+Jenny: How would you feel about sitting next to me while I read a couple of sentences about who you are?
+Jeremy: Oh, please do it. [laughter]
+Jenny: I'm gonna bring this all the way towards you.
+Jeremy: [simultaneously] Yes.
+Jenny: Dear, gentle viewers. Jeremy Rodriguez is a queer, nonbinary writer, a mod for Buffering's secret Facebook group, and cohost of the One Tree Hill rewatch podcast, Always and Forever. [cheers] Their greatest achievement in life was when James Marsters told them they had beautiful eyes. [laughter and cheers] Please welcome Jeremy!
+Jeremy: It's true. [cheers and applause]
+Kristin: Also, check out their nails. [cheers and applause]
+Jeremy: Podcast, it is a visual medium, obviously. But. [laughter]
+Kristin: For the listeners at home-
+Jeremy: [simultaneously] Everyone at World Cafe Live gets to experience this. [laughs]
+Kristin: For the listeners at home, Jeremy's nails are-are those gels?
+Jeremy: Yes, they are.
+Kristin: Of course they are.
+Jeremy: Mmhmm.
+Kristin: Gel, black, very like, Spike but as though Spike had never chipped a nail.
+Jenny: Mmm.
+Kristin: You know? That's what we're working with.
+Jeremy: I thought about running 'em through the mud, like James Marsters did.
+Kristin: Yeah.
+Jeremy: But I just didn't wanna go through the effort. [laughter] You know?
+Kristin: Jeremy, welcome to the fucking pod.
+Jeremy: Thank you so much for having me! I didn't think I'd be nervous about mispronunciating [sic] vam-vampire? Is that how it is? [laughter]
+Kristin: You just have to do-just play Jenny's game and don't fucking say anything. [laughter]
+Jenny: I said it so many times! The right way. [laughter]
+Kristin: That's because you've only talked in an accent the whole time. [laughter]
+Jenny: "Accent."
+Kristin: So Jeremy, I know we're here to talk about the episode Storyteller, but can you first tell us about James Marsters telling you you had beautiful eyes?
+Jeremy: Yes. Well, all I really had to do was get some cereal.
+Jenny: Oh, yeah.
+Jeremy: And then pour it in slow motion. [laughter]
+Jenny: Nice.
+Jeremy: Just like what you just saw up there. No. [laughs]
+Jenny: Yes, yes.
+Jeremy: Okay, all seriousness, though. It was at New York Comic-Con a few years ago. And I was meeting him, I was nervous, but he was so fucking nice. Like, such a warm, genuine person all-around. And I just decided to tell him, like, you know what? Like, you were my first gay crush. And-
+Kristin: [singsong] Flirting!
+Jeremy: All he said was, "You have great taste." [laughter and cheers] "And you're welcome." And then I just said, "oh, thank you so much, it was great to meet you." He was like, "Yeah, you have beautiful eyes, man." [cheers] And I pretty much went back to my hotel room later that night and just thought about it for the rest of the evening. [laughter]
+Kristin: Honestly, in my mind, the scene cuts and you're both in The Bronze, like… [laughter]
+Jenny: Uh-huh.
+Kristin: You know, strobe light.
+Jeremy: Oh, I wish.
+Kristin: And Jenny's like, what happened in the missing hours? [laughter] So Jeremy, you said this scene is where you wanted to come up and enter the pod, which is a pretty good choice 'cause it is amazing.
+Jeremy: It is.
+Kristin: Tell us about your feelings. Tell us about your feelings on Andrew.
+Jeremy: Okay, so. I know I talked about how much I loved Spike and he was part of my sexual awakening. But as I get older and older, I feel like Andrew is the type of guy I'm attracted to more now. [laughter] And is that a controversial opinion? I don't know.
+Kristin: I don't know either. It depends on what it means, you know? Like-I mean, Spike is a problematic fave. But I hate to break it to you. So is Andrew.
+Jeremy: So is Andrew, yeah. [laughter]
+Kristin: Different, but…
+Jeremy: I mean, I'm not attracted to guys who tend to kill people, kill their best friends over Seals of Danzelthorpes or anything like that.
+Kristin: Bless you.
+Jeremy: But…[laughter] but just the general vibe, I would say. You know, he's-I don't know, he's cute. Tom Lenk is adorable.
+Kristin: Tom Lenk is adorable.
+Jenny: He's very cute. [a few cheers]
+Jeremy: [simultaneously] Yeah. Anybody else? Thank you, thank you so much for the five people out there. [laughter]
+Kristin: Do you remember watching this episode for the first time?
+Jeremy: Yes. I watched Season 7 as it aired. It was actually the only season of Buffy I watched as it aired, ironically. I started to watch it and then it says, oh, the show's canceled. Great, well, fuck me. [laughter]
+Kristin: Were you-so, were you out to yourself when you were watching the show?
+Jeremy: No. [laughs]
+Kristin: Did you feel any feelings towards the fact that the character of Andrew was coded kind of gay, but not ever-like, did it bring up anything for you?
+Jeremy: I definitely identified with Andrew, just being, like, the weirdo in general, I would say. So a little bit. A little bit.
+Kristin: Yeah. 'Cause that's the thing with Andrew, and like, a thing that I feel like I wanna talk about in this episode. And LaToya will dig into it a little bit too, when we talk with her. But it's like, we never get a coming out from Andrew. You know? It's like, we get a lot of jokes about Andrew's queerness or gayness or whatever the word that maybe he would use. But it's sort of, like, there as a little bit of a joke, but also not in a mean joke. But it's a bizarre relationship to his sexuality that the show has. I think.
+Jenny: Do you think that-okay. [laughs] Standards and Practices, at this point, had a hard quota? They were like, one-you get one pair-
+Jeremy: Probably.
+Jenny: And that is it. Otherwise, what are we doing? It's a madhouse!
+Kristin: Right. Right, right.
+Jenny: Everyone will think they can be gay!
+Kristin: [simultaneously] Well, actually-[laughter]
+Jenny: And now?
+Kristin: And now!
+Jenny: The prophecy has been fulfilled! [laughter and cheers]
+Kristin: I don't know who's all the way in the back at the bar there, but you're in full silhouette.
+Jenny: They did the rise.
+Kristin: [simultaneously] So like, as our arms came up, your arms came up and it was so beautiful. [laughter] It was like-
+Jeremy: Love it.
+Jenny: Yeah.
+Kristin: [dramatically] Happy Pride! [laughter] Okay, Jeremy.
+Jeremy: Yes, Kristin.
+Kristin: Tell us some of your favorite things about this episode.
+Jeremy: So the reason why I wanted to come up to this scene in particular, I feel like it's just queer culture in general. [Jenny and Kristin laugh] You see Sarah Michelle Gellar, she looks so fucking gorgeous with her blond hair, flowing in the wind. And then you see Anya, eating grapes. And then-
+Kristin: [laughs] Queer culture: Anya eating grapes.
+Jeremy: Yeah. [laughter] It's gay rights, it's total gay rights, you know? [laughter] But-I mean, obviously, you know, you pick the two, like, gorgeous women on the show. And, you know, you have them do these iconic moments. It's just gay rights. [laughter]
+Kristin: Sarah Michelle Gellar's wink. [laughter] Is unbelieve-that deserves an Emmy of its fucking own! [applause]
+Jenny: Yeah.
+Kristin: It's amazing! And then you think, like, you've seen the best thing that can happen on screen. And Anya does her fucking look to camera. It's just-they're just brilliant. They really are very brilliant.
+Jeremy: Yeah. That's how I seduced James Marsters. [laughter]
+Kristin: Plus, James Marsters is shirtless-
+Jenny: [simultaneously] With a mouth full of grapes. [laughter]
+Kristin: Not upsetting. Not upsetting.
+Jeremy: I'm going into the gay-borhood after this so, you know, who knows. Maybe I'll just bring some grapes and just-
+Jenny: Yes.
+Jeremy: Seduce people on the dance floor.
+Kristin: Yeah, in case you don't know, you have a Philly resident here. Jeremy is living here in Philly, in your city. [cheers and applause] Jenny-
+Jenny: I'm just having a great time. [laughter]
+Jeremy: Same, same.
+Kristin: Did you have any questions for Jeremy? Any burning, deep desires?
+Jenny: How did we ever get so lucky? [crowd "awwww"s]
+Jeremy: How did I ever get so lucky? Is the better question.
+Kristin: Jeremy, for those of you who don't know, has been one of our two Facebook mods-like, main mods-for forever, it feels like. Because you were a mod in 2019, and so I don't know how far back it went before then, but it doesn't really matter.
+Jenny: Time has changed. Significantly. [laughter]
+Kristin: And has, like…them and Rosemary have done so-I mean, just like, lifted the community inside of that space, so many ways, so many times. Just…[cheers and applause]
+Jeremy: As Jenny would say, I have something in my eye. [laughter]
+Jenny: Me too!
+Kristin: But like, truly, I know that we'll probably do this 50 more times, because who could ever thank you enough for what you've done for the community? But like, thank you so fucking much, Jeremy.
+Jeremy: Thank you for everything you both do for me. I mean…these two ladies are fucking amazing! [cheers and applause] Thank you.
+Kristin: Also, we were supposed to do this show…
+Jeremy: Back in October.
+Kristin: Yeah. And Jeremy was gonna be a guest, and then we were like, JK! World is still on fire, world is still on-and then we were like, you know what? It turns out the fire is not going out, so we're doing the fucking show. [laughter]
+Jeremy: Let's do it anyway! Yeah!
+Kristin: Jeremy, are there other things about this episode that you would like to get off of your chest? Is there anything that is-that we did not talk to you about, that you must speak on now?
+Jeremy: Um, you get a little bit of shirtless Spike, which is always exciting. I feel like there's a lack of that in Season 7.
+Jenny: Mmhmm. Why?
+Jeremy: Great question.
+Kristin: [simultaneously] Oh! Oh, I have a question that I'm gonna ask you andour next guest as well, which is: do you think that Andrew is a Bangel stan…or a Spuffy stan?
+Jenny: Or! A Biley-Ruffy fan. [laughter]
+Kristin: Like, fully-like, fully was ready for Jenny to be like, "Fuffy." And then that shit came out of her mouth. [laughter] But like, yeah, who do you think that Andrew ships with Buffy?
+Someone in audience: Spuffy!
+Kristin: You think Spuffy? The audience is saying "Spuffy."
+Jeremy: I agree with Spuffy, just because-I mean, why else would Andrew, like, manifest that image-?
+Kristin: Right, right, right.
+Jeremy: Right then and there.
+Jenny: But Andrew's never met Angel. Andrew doesn't know anything about Angel. [laughs]
+Kristin: That's true.
+Jenny: That might be hindering-
+Kristin: That's true. He's like-
+Jeremy: He has to know something, though. He-
+Kristin: Yeah, he's like, that guy that showed up to prom? [laughter] He seemed a little older, but I don't know.
+Jeremy: I forget about that sometimes. Was Andrew at prom?
+Kristin: I don't know. His brother was really busy.
+Jeremy: Like, was he the same year as them?
+Kristin: No, he's a year younger than them, right?
+Jeremy: Oh yeah, it's an older brother, Tucker, correct.
+Kristin: Yeah, yeah.
+Jeremy: I'm a fake fan. I don't know this. [laughter]
+Kristin: No, this is how you do it, Jeremy. You just say, "Was he?" and then you look. And then everyone-[laughter]
+Jenny: You trust your community.
+Kristin: Especially the first few rows, they always know. [laughter and applause] Well, we love you very much.
+Jeremy: Love you.
+Kristin: And it has been a joy and an honor-
+Jeremy: Absolutely.
+Kristin: To have you up here with us.
+Jeremy: Thank you so much for having me.
+Jenny: Hell yeah.
+Kristin: And I also think that you have beautiful eyes.
+Jeremy: Aw. Thank you. [laughter and applause]
+Kristin: Jeremy Rodriguez, everybody! [cheers and applause]
+Kristin: Just the fucking best! Just the fucking best! Ughh. You know, it makes me angry, it's so good. Okay. Okay. So, there we were. We've just seen this scene. Everyone has had feelings. Honestly, as much as I love the wink, and I love the grapes, it is truly shirtless Spike that makes me fall off the couch. [laughter] It's just something about it. He just seems so vulnerable. [laughter] We have a brief exchange where everybody is-it's sort of like, I was mad at Giles, like, a few episodes ago. Because he just kept being like, "no fun! The world is ending, no fun!" And we've kind of, like, transferred that now to Buffy, who's like, "no cameras!" And everyone in the kitchen is kinda like, what's the-like, what's the big deal? Rona is like, "Honestly, if we save the world, having a record of it would be cool." And Amanda, who you think is, like, all puppies and kittens, is like, "And if we don't, then nothing fucking matters." [laughter]
+Jenny: Amanda, the surprise nihilist. [laughter] Buffy's like, listen. The reason that I am not interested or prioritizing this documentary is that I've had a vision. And I'm gonna do a little speech now. About it. 'Cause that's what I do. Now. [Kristin laughs] And Andrew, bless his heart, is like, "I'm gonna take you out of here. [laughter] Uh, 'cause these tend to go on for some time."
+Kristin: He's like, it's Episode 16 and we've gotten, like, eight of these speeches already, so…[laughter] He's talking to camera. He's explaining how he used to be a supervillain. [laughter]
+Jenny: Mmm.
+Kristin: Honestly, like, give me the Trio in this version. Like, I would like it if the Trio were this cartoon-like, mustache-twirling.
+Jenny: Yeah, yeah. Doing evil chemistry in their evil lab.
+Kristin: And like, honestly, not a bad idea to turn Buffy magnetic. [laughter]
+Jenny: Especially if, in your plan, you are beltless.
+Kristin: Especially. [laughter and applause] Especially. But as soon as-I don't remember who says it, but they're like, she wouldn't be able to get out of the car. I was like, [gasps] she wouldn't! What a great plan! [laughter] Wait, that's-
+Jenny: Have you ever seen Buffy drive? [laughter] Oh, I guess a really long time ago.
+Kristin: But all of her weapons-all of her weapons would just stick to herself.
+Jenny: Mmm.
+Kristin: She'd have, like, swords-well, the stake wouldn't, but. Faith's knife, we would always know when she'd been hanging out with Faith. [laughter] So…Andrew voiceover at the end of this little vignette is like, "Warren was cool. And wasn't Jonathan just the cutest thing?" [laughter] Buffy's still talking.
+Jenny: Yeah, he checks in on the speech and is like, "Even Willow looks bored." [laughter]
+Kristin: Andrew's relationship to Kennedy and Willow is kind of my favorite fucking thing ever. He's like, "They've been in a really bad place, but like, this is really good news. Things are looking up." And that, like, coming in a pair with, later, when he's like, fully shooting them making out. And then walks up and is like, "Clearly, everyone wants to see this. Look at this window sash that Xander has made!" [laughter] Beautiful! Have we ever seen a person not objectify lesbians on television, ever? [laughter] Andrew did it! [laughter]
+Jenny: And we get some, like, exposit-the plot moves forward? A subplot moves forward. Willow and Kennedy are fine now-or they're better.
+Kristin: They're better, you know. It's like, you know, Kennedy was like, "Oh, this is a little heavy for me, but fuck, you're still so cute. Fuck!" Relatable, you know? [laughter]
+Jenny: Because Buffy is still speech-ifying, Andrew has some time-
+Kristin: I can't, with this thing.
+Jenny: To fill his gentle viewers in on that time he went up against Dark Willow. [laughter]
+Kristin: It's so funny! [laughter]
+Jenny: He deflects thy power. He says, "Thank you, little one." [laughter]
+Kristin: The way they edit this scene together using all of Willow's lines from the episode, but to be in response to fucking Andrew being like, "Halt them!" [laughter]
+Jenny: Beautiful.
+Kristin: I guffaw-like, I guffawed at my TV, for this moment. It's very, very good. So we go to school.
+Jenny: Well, Buffy stopped talking, which usually means she had to go to work. [laughter] And so we go to school.
+Kristin: So we go to school. Alright, Buffy's at school. Shit. Is. Going. Fucking. Wild. She's breaking up a fight, there's another Marcy disappearing. [laughter] Fucking-the way that she lets this Marcy know that-
+Jenny: Yeah.
+Kristin: Is by smacking her in the face?
+Jenny: Yeah. [laughter] A shy girl is mystically disappearing until a faculty member strikes her. [laughter] Hurray?
+Kristin: "Oh. You do see me. I'm gonna go process what just happened." Cordelia 3.0 comes running outta the bathroom. "The mirror called me fat! And it really said it. It said the words."
+Jenny: A stressed-out boy, played by a man who looks to be about 35, [laughter] is freaking out! His course load is simply too much.
+Kristin: I just-when this boy explodes. [laughter] Nobody cares!
+Jenny: They're just like, okay, and we're just going to class now. [laughter] Who's going to clean up the meat splatter? [laughter]
+Kristin: Wood and Buffy are like, womp-womp. [laughter] To a student just exploding!
+Jenny: Tonally, very strange.
+Kristin: [laughs] People threw rocks-speaking of Principal Wood. People were throwing rocks at Principal Wood.
+Jenny: No thank you.
+Kristin: Only benefit being that we get to see Buffy apply a bandaid to-
+Jenny: Kinda hot.
+Kristin: She calls him "Robin" so much in this episode. And I don't know why it feels so sexual every time she does it. [laughter] You'd think "Wood" would feel more sexual. [laughter] But it doesn't.
+Jenny: It's the same thing as Spike having his shirt off. Like, "Robin" is, like, a vulnerable name.
+Kristin: [simultaneously] Yeah, it feels vulnerable. Tender.
+Jenny: Yeah.
+Kristin: It's like when Baby tells Patrick Swayze that her real name is Frances. You know? [laughter] I hope someone captured me lost in that moment. Okay, so Buffy makes some points. Right?
+Jenny: Go on. [laughter] Oh yeah, high school-
+Kristin: Jenny's like, does it have anything to do with a vampire? Why don't you tell them the story?
+Jenny: [laughs] I have my talking points. Uh…[applause] is that high school is war now, instead of being hell?
+Kristin: Yeah, well, it's-
+Jenny: The metaphor has evolved.
+Kristin: It's funny, because it's like, truly, Buffy is now just speaking about what the show has-like, how the show was created. You know? She's like, oh, this is actually the whole point, is like, high school is hell? So like, this is how it works.
+Jenny: Mmhmm.
+Kristin: And she says, I think, very succinctly, sometimes on the Hellmouth, when something feels a certain way, it just becomes that way for real. Like-
+Jenny: Mmhmm.
+Kristin: That's the biggest fuckery of the Hellmouth, is that it takes this, like, feeling and it just makes it real. You think that you're, like, not pretty? Then it will, like, take all of your biggest insecurities and, like, hand them to you, you know? You're stressed out? You will actually explode. [laughter]
+Jenny: Eugh.
+Kristin: Wood quotes the musical Carousel. [laughter] Just show me-I love that he's just like, loving Carousel over there. Carousel, a musical I was not super familiar with, and then I looked it up and the plotline is really dark. [laughs] Turns out. You would never know with a title like Carousel.
+Jenny: Yeah. I thought they'd just be on the carousel.
+Kristin: I know! [laughter] But he says, "Hell's busting out all over," which is a direct pull from "June's busting out all over," from the musical Carousel. A quick cut-made me laugh-to Andrew and his big board, being like, see? [laughter] I fucking told you.
+Jenny: It's good. Then Andrew's, you know, waxing poetic about Dawn. For a sec. And then gets right on to checking out Xander's extraordinary window sash work. And nothing else of importance going on, nearby.
+Kristin: Don't forget-did you already talk about Dawn and I missed it 'cause I was distracted? Because Andrew's zoom-in on a ring of keys-
+Jenny: [laughs] A ring of keys is good.
+Kristin: Yeah. "Dawn used to be a key." Click-click-click-click. It's just good. Back to school, Buffy's explaining, "Listen, we've had swim team monsters, we've had killer prom dogs." She's listing all the episodes for all of us nerds that wanna hear them listed.
+Jenny: Uh-huh, uh-huh. Do the hyenas! [laughter] And they talk about how the seal has become sort of this focal point of the Hellmouth. And Wood is like, "oh, so it's getting all focus-y." And Buffy says…
+Kristin: Mmhmm.
+Jenny: "Careful, you're starting to speak like me now."
+Kristin: Mmhmm.
+Jenny: But she says it in a way where she's making a lot of eye contact and you feel like you can hear her eyelashes as she blinks. [laughter] And their faces are very close, especially for coworkers. And I think the cowards making the show should let them do a little kiss.
+Kristin: I agree. [cheers]
+Jenny: Even at school!
+Kristin: [singing] "School's hard, but kissing's harder." You know? [cheers] [laughter] She just said no.
+Jenny: It's my job-a part of my job description is to periodically shake my head at you. [laughter]
+Kristin: It's true. Okay. Okay. Oh boy.
+Jenny: Oh. My. God.
+Kristin: Wow. The B plot-the C plot? Who knows? Where's LaToya and Morgan? Um, we're filming Xander and Anya. In the living room. This is a big deal. Big deal town, right here, okay? Andrew's explaining that he's making a documentary called Buffy, Slayer of the Vampires. Anya-
+Jenny: Or Buffy, the Slayer Who Knew No Fear, which Xander really likes. And-
+Kristin: You see how she chose the title that did not have the word "vampires" in it, right? [laughter]
+Jenny: And Andrew's like, "Thank you, Xander, that's sweet of you."
+Kristin: We get this immediate, like, Andrew is Barbara Walters in this moment. "I understand exactly one year ago today, you left Anya at the altar. Can you tell us more?" [laughter]
+Jenny: First question, no softballs.
+Kristin: This is pretty accurate. Hell's Bells was the 16th episode of the last season, this is the 16th episode. This episode aired February 25th, that episode aired March 5th. So it is in keeping with the timeline. So, then Anya and Xander have this conversation, that is kind of a breakthrough, I think? I think this is an important conversation.
+Jenny: It does feel very important.
+Kristin: What do you have to say for yourself, one year later? Xander says, "I've apologized enough."
+Jenny: The limit does not exist. [laughter and cheers] [HELLMATH jingle plays] Hellmath! [cheers and applause]
+Kristin: Okay.
+Jenny: Good, good.
+Kristin: So, Xander explains that he does think that at least the choice to not get married was correct, because he wasn't there. I think we all understand, including Xander, that that was not the way to do it. And then Anya's like, "But we still spark, we still get jealous of each other." And she says, "You still love me." And Andrew's like, "Is that true?!" [laughter] Nobody wants to cut to the Seal of Danzelthorpe, but we have to go there!
+Jenny: It has unburied itself.
+Kristin: Oh, god. "Look, Robin," Buffy says. [laughter] She explains that her vision showed her a lot of [sings snappy tune] [Jenny makes snare drum beat] [laughter] So many dancing Turok-Hans! [laughter] Are gonna come out of that hole. And they have a little flirtation, as you do at the Seal of Danzelthorpe. [laughter] Where she's explaining the difference between a dream and a vision. A dream is, like, where she might be on a bus, naked. And Robin is like, "Where's the bus going?" [laughter] Kiss! Ugh!
+Jenny: Yes. Oh, Wood raises a great point. He's like, "How can you trust each other? You've all been evil at some point." [laughter]
+Kristin: It is a good point.
+Jenny: And then…this is why you must be careful what you say on the Hellmouth. Wood immediately is possessed by the seal. [laughter] And starts saying evil things to Buffy.
+Kristin: Like, is it…is it just turning him evil or is it a thing where, like, your deepest, darkest feelings manifest? You know? 'Cause that's-right? Wow, I just felt so validated. [laughter] I don't know if any-I don't know if at any show, that many heads have nodded for me, ever before. [laughter] But yeah, he says, "You're with that…vampire." [cheers] Finally, got one that I didn't mean to get. "Screwing that vampire, you filthy whore." Yeah, rough shit. Rough shit. And we kind of, like, learn later-because I actually asked Jenny. I was like, so what was happening to Wood, though? And she was like, well, we see later, the students are basically turning into Bringers. Like, that is how the Bringers are made. So I guess we are to believe that if Wood had stayed, like, longer-
+Jenny: The seal seems to have an agenda.
+Kristin: [laughs] The seal is really-it's like tofu. It just kinda, like, does whatever you need it to do in the moment. You need a Bringer, it'll give you a Bringer. You need a Turok-Han, it'll give you a Turok-Han. [laughs] And then they realize that they have to stop the seal, and the way to do that might be-this is a pretty good fucking hunch, honestly-to talk to the guy who fed it its first drop of blood, AKA Andrew.
+Jenny: And then, a little pig that you might remember goes trotting by. [laughter]
+Kristin: Herbert Junior.
+Jenny: What is that pig eating? In the basement?
+Kristin: Oh my god, probably so much shit. There's probably so much shit down there.
+Jenny: Meanwhile-
+Kristin: Meanwhile.
+Jenny: In the basement, some important filmmaking is going on. Spike doesn't wanna be filmed. Get that camera…out of his face. Unless he's not in his best light, in which case, let him know and then he will take it from the top. [laughter and applause] This guy!
+Kristin: I mean, honestly, like, give us the deleted scene where Andrew basically does to Spike what he's done to Anya, right? And he's like, here's how I'm gonna feature you in this film, okay? You're gonna be, like, sexy but, like, mean. And so I need you to stand by this light and do this thing. And Spike's like, alright, alright. Can I smoke? Yeah? Okay. And then we get this intercut. We go-finally, we go back to the Xander and Anya of it all that we left. And we sort of see the rest of the scene through various perspectives. One being the actual conversation that they had, and the other being-because it was picked up on-it was sorta sneaky, like this, you know. It was just like, bink. Yeah, that's my prop. And we see Andrew watching it on replay, mouthing the words that they've said to each other.
+Jenny: Actually, Kristin. He's only mouthing Anya's dialogue. [laughter and applause]
+Kristin: Oh, fuck! I didn't-
+Jenny: Think about it.
+Kristin: I did not pick that up, and that is a very important point.
+Jenny: Xandrew!
+Kristin: Yes. Oh, god. I-
+Jenny: This is what he's in the middle of, when Buffy and Wood bust in to talk about the seal.
+Kristin: Yeah. "Yes, I still love you, I always will. I just don't know if that means anything for us anymore." It's really good. It's, like, this really good little chewy bit in this funny, bizarre-o episode. You know?
+Jenny: Mmhmm, mmhmm.
+Kristin: Jane Espenson, good job. Good job. [cheers] Right? Yeah. I mean, I would like to-for one moment-just talk about some of the other things that they say. Well, really, just one other thing. Two other-three other things. [laughter] I like the moment where Anya tells Xander that he was ready to fight with no weapons to protect her, and that, like, she saw that and she recognized it. And like, that bravery is important to her. And I also like the line that Anya says, where she says, "I hope you know you never left my heart." [crowd "awws"] It's really nice. It took them a minute, you know, but they are having this conversation and it feels like both people are there to receive the other person's truth. And it's very nice. Now you may continue.
+Jenny: Oh yeah, and then Buffy and Wood come in, and they're like, we gotta talk to you about the seal! Meanwhile, at the seal. [laughter]
+Kristin: It's fucking Latin o'clock, people. [laughter]
+Jenny: Teens encircling, kneeling, raising arms like our friend at the bar. [laughter] Chanting. I don't know actually, now in retrospect, what you're getting up to back there, but I hope it's wholesome. Surely, no good can come from this, at the Seal of Danzelthorpe.
+Kristin: This is a good moment, I think, to bring up our second guest. What do you think, Jenny?
+Jenny: Please! Ascend to the stage, our new friend and yours, Caroline Orejuela. [cheers and applause] Come to us! [cheers and applause]
+Caroline: Hi, everybody. Hi, Philly. [cheers]
+Kristin: Jenny, would you like to-
+Jenny: Oh. Yes, let me-
+Kristin: Introduce our wonderful guest?
+Jenny: [simultaneously] Do what I do best. Which is read things to you from my phone.
+Caroline: Thank you.
+Jenny: Caroline Orejuela is a Philadelphia-based voice actor and podcast producer, whose voice can be heard on Ultra Hope Girls, a Danganronpa podcast. A word that I said many times in the green room, praying that it would come out right. And, also, on It's Locked Podcast, about Her Interactives Nancy Drew video games. She's a super sleuth Tumblr-era Buffy fan and has probably written a haiku about every episode.
+Caroline: It's true. [cheers]
+Jenny: Hello!
+Kristin: [simultaneously] Also, like, here by popular demand.
+Caroline: It's true! I-
+Jenny: Twitter demanded it. [laughter]
+Kristin: We were like, Philly, do you have anybody who you'd wanna guest? And then it was, Caroline, Caroline, Caroline, Caroline! Obviously, it's unanimous, we all want Caroline! Okay! [laughter] Caroline, welcome.
+Jenny: Hello!
+Caroline: Thank you for having me. I mean, like, this is surreal. I've been listening to you guys since I was gardening for my voice teacher in high school, so. [laughs]
+Kristin: It's kind of a burn, you know? [laughter] Like, she came backstage and she was like, "I've been listening to you since I was 16." And we were like, what's your fucking point? [laughter]
+Caroline: You're old. [laughter]
+Kristin: I am, but one day, so will you be. [laughter] Welcome to the pod.
+Caroline: Thank you for having me, I'm so excited to be here. In between you two. Sandwiched. [laughter]
+Kristin: And look at your whole outfit! It's so good.
+Caroline: Thank you! I had to bring these back. I was a Willow, growing up, you know and-
+Kristin: I mean, clearly. Come on.
+Caroline: I mean, yeah. [laughter] I got into it 'cause my best friend was like, "There's a redheaded lesbian in this show. You should watch that." I was like, okay! [laughter] And I just liked Faith and my girlfriend is a Faith, so I kinda hit the jackpot.
+Jenny: Congrats.
+Kristin: Wow! [cheers and applause]
+Caroline: Thank you, thank you.
+Kristin: Your girlfriend, who is here-
+Caroline: She's here.
+Kristin: So you better guard her, you know what I mean? [laughter]
+Caroline: I know, it's true, she's a hot shot.
+Kristin: Got a lot of Faith fans in the audience. [laughter] Also, we talked about this a little backstage, but Willow/Faith as a pair-
+Caroline: Oh, yeah. Like, I read all the fanfiction growing up. So much fanfiction, and it's enemies to lovers and it's the hottest shit you've ever seen! You all know! You all know. It's ridiculous. [laughter]
+Kristin: Do you think it's better for you to begin-'cause I know you wrote a haiku for this shit.
+Caroline: It's true, I did write a haiku, for this evening.
+Kristin: Do you think we should begin there?
+Caroline: I mean. We can.
+Kristin: Oh my god, pulling it out of the tiny pocket.
+Caroline: I have a little baby pocket. [laughter]
+Kristin: It's a haiku-sized pocket!
+Caroline: It's so folded. I mean, this is a full 8 and a half by 11 size paper, but it's-[reading haiku] Andrew makes Buffy, Slayer of the vampires, no bongs for guest-age. [laughter] 'Cause he would cough it up.
+Kristin: Deep. Deep.
+Caroline: Thank you.
+Kristin: So have you written one for every episode of the show?
+Caroline: Not every episode, but I have one from Band Candy I could share too. If we're feeling frisky.
+Kristin: Yeah.
+Jenny: Yes, please.
+Kristin: [sings] Ba-ba-band candy!
+Caroline: Okay, ready?
+Kristin: Oh, I'm ready.
+Caroline: We have: "Willow, that's a tree, why is it always babies? Get on that cop car." [cheers and applause] [laughs]
+Kristin: Okay, so, first of all, standing ovation.
+Caroline: Thank you. That's my best work.
+Kristin: Second of all, you refer to yourself I think as a Tumblr-era Buffy fan.
+Caroline: It's true, correct.
+Kristin: I know what Tumblr is. It was-[laughter] it was a big part of my life at one point.
+Caroline: Right.
+Kristin: And I know what Buffy is. But I want to hear you explain what you mean-
+Jenny: In your own words.
+Kristin: Yes, by Tumblr-era Buffy fan.
+Caroline: Right. So, I mean, you know, there's the generation of fans who are, like, Superwholock, like, into all the fandoms. Thank you, thank you very much.
+Kristin: What is that word you just said? [cheers and laughter]
+Caroline: It's Supernatural, Sherlock and Dr. Who.
+Kristin: Ohhh. [cheers]
+Caroline: Right, Superwholock.
+Kristin: Wholock, okay.
+Caroline: And it roped into there because there's some cross-contamination with the actors, obviously, in all those shows-is Buffy. And my best friend at the time, who I had a massive crush on-I was 15. And she was like, hey, you're into Sherlock, you should watch Buffy. And I was like, sure, okay. [laughter] Never heard of this show. So I was on Netflix and I watched it all in a month. Which is something-
+Kristin: Wow.
+Caroline: I know, I know. So I binge-watched it, which is definitely a different experience from folks who watched it as it aired live. And you know, that changes the culture of it, because what that meant is, like, you know, there are only a few people from my high school who I knew who liked Buffy. Because no one had seen it, right? And those people, like, you know, I had friends who were fucking cheerleaders, I had friends who were in the band, and friends who were stoners. But the one thing we had in common was we all watched Buffy, right? And I'm still friends with all these people and they all know I'm here right now. [laughter] Because you know, that's how we bonded.
+Kristin: Yeah.
+Caroline: And like, I'm really close friends with all those people, still. Despite the fact we had nothing else in common in high school. And so it was really magical, it brought that generation of folks together, definitely.
+Kristin: I'm so glad to hear that still, the three food groups of high school students [laughter]-
+Jenny: As everyone knows.
+Caroline: I know. Cheerleader, band, stoner. What were you? Tag yourself. [laughs]
+Kristin: I was-I guess-I was theater, so that goes in the band piece of pie. And I crushed on the stoners.
+Jenny: Yeah, I think I was band but I mostly hung out with stoners.
+Kristin: Yeah.
+Caroline: Right, right.
+Kristin: There was a lot of bleed between theater and stoner. I would posit theater is the bridge between band and stoner. [laughter]
+Caroline: Correct. It's a Venn diagram. The middle is theater. Obviously. [laughter]
+Kristin: This is amazing. And the second thing that I love about this telling of your experience is that it still was a queer crush that brought Buffy to your front door.
+Caroline: Oh, absolutely. Yes.
+Jenny: Mmhmm.
+Caroline: Mmhmm, yep.
+Kristin: Beautiful.
+Caroline: It's true. I mean, she had dark brown hair and brown eyes. I mean, what can I say?
+Kristin: Wow.
+Jenny: A Boston accent. A really big knife. [laughter]
+Caroline: That's all I gotta say about that.
+Kristin: Okay, so that is how you got into the world of Buffy.
+Caroline: It's true.
+Kristin: I mean, maybe nobody wants to hear this but me, but how did you get into the world of Buffering? How'd you find us?
+Caroline: Buffering? Well, one of my friends from high school was like, "A podcast just started about Buffy." And I was like, I just got a job working as a gardener. So all I'm doing is sitting around and weeding flower beds all afternoon.
+Jenny: Yeah!
+Caroline: And I think at that point, like, Season 2 was halfway through for you guys. And so, I was, like-you know, at first, listening to it back to back to back. 'Cause I'd be there for, like, five hours at a time, right, so I could get three episodes in. Yeah, so that's how I learned about you guys. And like, meeting you today, I was like, wow, this parasocial relationship is now becoming…[laughter] a relationship. [laughter] It's crazy!
+Kristin: That meme of the boy eating the yogurt with the thing? It's like, then we all just started eating yogurt together.
+Caroline: Together.
+Jenny: Uh-huh, uh-huh/
+Caroline: It's a really magical moment. But yeah. So you guys were there as I was weeding mulch. Thank you.
+Kristin: Incredible.
+Jenny: Wow, I also listen to podcasts while I weed, but no one pays me. [laughter] What is your secret?
+Caroline: What's my secret? I told my voice teacher I was broke and she was like, girl, come weed my garden.
+Kristin: Do you have some Andrew thoughts that you'd like to share with us? Do you like Andrew as a character?
+Caroline: I do. And I know that that might be a controversial moment for this room, I don't know.
+Kristin: No, I don't think it-I think there's-yeah.
+Caroline: I mean, it might be divisive. Maybe, I don't know.
+Kristin: LaToya's gonna be pissed at you, but.
+Caroline: Right, right.
+Jenny: But she's just gonna be on a screen! So you're fine. [laughter]
+Caroline: I can take it, I think. Maybe. No, but I-you know, both of my podcasts are about, like, you know, murder video games where people die, often. And in one of the podcasts, you know, it's like high school students who are committing murder because they're in a situation where they, you know, can't 100% control their actions, right? And so, with Andrew, I can't help but feel bad for him. Like, yes, he chose to make the final stab [laughs] into Jonathan. But he-you know, there was a lot going on in the outside. I'm in my 20s, I understand that I'm still growing and he is still growing-
+Jenny: [simultaneously] Sometimes you murder people [laughter] because you feel like, you know, you kinda should.
+Caroline: Welcome to Philly. [laughter and applause]
+Jenny: Yeah.
+Caroline: But yeah, so-and I just can't help but-you know, I mean-what he says before, like, Willow murdered people, Spike murdered people-
+Kristin: Right.
+Caroline: And we love them. And I-Tom Lenk kills it for me. I love him. Because of that act-because of him, honestly. So yeah, I love the complexity of like, a villain who we learn to love. Honestly, I've always loved that in media, and that's why I love-obviously-Buffy, 'cause there's so much of that in Buffy.
+Kristin: Yeah. You are causing such-like, people are just-they need to speak now. [laughter] And not-like, in the best way. Like, I feel like you're talking and everyone's like, fuck, I have some ideas now, I have some really big fucking-write them into haikus.
+Caroline: Right. Tweet them at me, Caroline O-R-J-E-L-L-S. I'll read all of them.
+Kristin: Yes. And we'll, of course, in the future, put that in the show notes.
+Caroline: Fab.
+Kristin: So if you're listening here, you can tweet at Caroline all of your big thoughts about Andrew. Can you talk a little bit-and this is-I'm just curious. Because the word that Jenny was practicing saying means a thing that I don't know about.
+Caroline: Sure, yeah.
+Kristin: Can you tell me just a little bit about that podcast?
+Caroline: Yeah, absolutely. So Danganronpa is a Japanese visual novel video game and anime, and it's about 16 high school students who get trapped into their high school. And an evil principal who looks like a stuffed bear [laughs] comes out and is like, "In order to escape, you need to murder another student and get away with it." And so it raises all of these moral questions. So throughout the game, you know, multiple murders will happen-
+Kristin: Jenny thinks it's funny that I'm invested.
+Jenny: No, Kristin is all in! [laughter]
+Caroline: But it raises these questions, 'cause these kids are, like, 16, 17 years old. So like, are they gonna be defined by a murder they commit at this age? Are they still growing? Do they deserve a punishment if they get caught? Right, and it's really-yeah, it's a niche-you know, a lot of our fans are middle and high-schoolers. [laughs]
+Kristin: Amazing.
+Caroline: So that's great, I love it.
+Kristin: Amazing.
+Caroline: Yeah, that's it.
+Kristin: Are there other things about this episode that you wanna talk to us about, while you're here?
+Caroline: I have just two things to say.
+Kristin: Please.
+Caroline: One is that Buffy uses Fiesta dishware. For anyone who is familiar. [cheers] I did not know that until I watched this today. I was like, that is a Fiesta bowl that my parents have in their home.
+Kristin: Jenny is right now, on stage, googling Fiesta ware-
+Caroline: You'll know as soon as you see it.
+Jenny: Yep. Yep.
+Caroline: And then the other thing, I just have to elaborate more on this slap moment. Because-
+Kristin: With the invisible student?
+Caroline: Right, because it is-Buffy is like-she stops. Like, it's clear Sarah Michelle Gellar in the moment was like, "May I touch your face? Like, this?" [laughter] And then the sound effect is like, [slaps]. Like, it sounds like she [laughter] she assaulted this student, when it was truly just a little bit tap on the face. And I just, like-it's hilarious.
+Kristin: [simultaneously] It's true, she's being thrown under the bus by the sound effects people. [laughter]
+Caroline: It's true. I was like, guys, why are you doing her dirty? It's Season 7. She's ready to get out of here.
+Kristin: Although, I-so I did read about that scene, that in-because of the widescreen bullshit, yada-yada-yada, that like, in the original format, you don't actually see what we see-
+Caroline: Oh, with the slap? [laughter]
+Kristin: Right, you don't-I don't think you're supposed to actually see Sarah Michelle Gellar being like, boop. [laughter]
+Caroline: That's true.
+Kristin: Though I support your theory that it would be a much better way to make someone feel visible. [laughter]
+Caroline: Right, just slap them. Anyway, that's Tumblr era for you. We didn't get the-
+Jenny: Ahh.
+Kristin: This is the best. I'm so happy that you were here with us.
+Caroline: Thank you for having me!
+Kristin: Yes!
+Caroline: This is so fabulous!
+Kristin: Please give it up for Caroline. [cheers and applause]
+Caroline: Thank you. Thank you so much!
+Kristin: I took a lot from that. Mostly that there were a bunch of people in high school being like, "have you heard about this podcast called Buffering the Vampire Slayer?" [laughter] Do you not feel, like, extra special cool when people in high school are like-
+Jenny: Yeah, usually I see teens and I'm like, how can I reroute my walk right now…[laughter]
+Kristin: Yeah!
+Jenny: To leave a wide berth. I don't want them to say anything about me. Even if I never hear it. I'm scared. [laughter]
+Kristin: What is that? It's like, all of our inner teens just, like, constantly seeking for approval because same thing. If anyone who is a teen is, like, this is cool or like, "cool shoes," I'm like, [gasps] fuck, I am cool. [laughter] Is everyone like that? [crowd affirms] Okay. I thought so. Okay. Back to Latin o'clock. We go back to somewhere in Mexico, 2002. So we are now getting some detail into what happened with Jonathan and Andrew when they were in Mexico. And it was-they were having visions.
+Jenny: [spooky voice] Evil dreams from an evil seal!
+Kristin: I read-I wouldn't have picked this up on my own, but apparently, in the dream, we hear the Spanish for "from beneath you, it devours" but when they say it [laughter] to each other, they say what is Spanish for, "it eats you starting with your bottom." [laughter and applause]
+Jenny: Nice, the gift that keeps on giving.
+Kristin: Keeps on-it really just keeps on giving. And we-somewhere through this-get the reveal that Willow is using really, like, a Himalayan salt lamp-
+Jenny: Yeah, an enchanted salt lamp [laughter] that pulls out your memories, so be careful with your salt lamps at home. [laughter] Please. Andrew is tired. Having his memories extracted is thirsty work, and he would like a Zima. [laughter] Does anyone have any intel on if Zima is still being manufactured? [crowd affirms]
+Jenny: They brought it back.
+Kristin: They brought it back.
+Jenny: Everything old is new again! [laughter and cheers]
+Kristin: I don't know why, but the fact that you were loudly screaming about Zima really connects to Zima for me. [laughter]
+Jenny: It's good.
+Kristin: You know? Like, the fact you know a lota about Zima and you're not afraid to share it. It all fits. Zima!
+Jenny: Hell yeah.
+Kristin: Remember when we were so obsessed with everything being clear? [crowd affirms] Like, as though it would just pass through-like you never even drank it. It's clear. Okay.
+Jenny: We see Andrew interacting with Warren the First, early on in their…partnership?
+Kristin: We get more of, like, crushy stuff here. Again, like-
+Jenny: Oh, yeah, yeah, yeah, yeah, yeah.
+Kristin: Subtle. Not subtle, but not…subtext, not text.
+Jenny: Warren tells Andrew that he looks good and Andrew's like, "Oh, I probably have pillow creases." [laughter] Which I like.
+Kristin: Yeah, yeah. I mean, it's clear that Andrew just wants, like, a very strong man to bench-press him. You know? [laughter]
+Jenny: And…[crowd says something] alright. [laughter] [clears throat] Warren has directed Andrew to-Warren the First has-what's happening to me? Warren, the First, has directed Andrew to obtain a knife. All of the words in the right order. [laughter] And Andrew's seeming a little skeptical. Like, maybe I shouldn't actually murder my friend?
+Kristin: It just, like, doesn't take that much.
+Jenny: But Warren's like, "Baby, baby, baby. We will be as gods." [laughter] [sings] As gods! You know? Et cetera. If I saw that-if somebody told me that all I had to do was stick one little knife into Kristin Russo, [laughter] and then both of us would be in togas with harps in a beautiful flower field for all time as gods, I would at least consider it. [laughter] 'Cause I'd be doing you a favor, if it were true.
+Kristin: Not if you watched the rest of the show! [laughter]
+Jenny: Well! I'm just saying, up till now, Andrew hasn't seen the rest of the show yet. [laughter]
+Kristin: May this never be submitted to a court of law as evidence. [laughter]
+Jenny: Yeah.
+Kristin: The gods scene is hysterical. I would love to just see, like, the behind the scenes footage of this fucking scene, with these three dingdongs in their togas. [laughter]
+Jenny: It's good.
+Kristin: Just one trying to out-dingdong the other. Oh, it's so funny.
+Jenny: And then Warren the First tells Andrew that there's power in the knife, and that Andrew has to drive the words deep into Jonathan and that's the only way they get their rewards. And Willow's like, "Wait. Say that again." And Andrew's like, "This part? [sings] We are as gods!" [laughter] And she's like, "No, no, no, no, no. The other part with the words and the knife." And Andrew's like, "Oh, that knife? Oh, that knife is important? It's simply in the cutlery drawer. [laughter] Where I put it after I washed it, because you didn't have any steak knives." I have a really hard time believing that Joyce Summers never supplied her house with steak knives!
+Kristin: Also, when are these fuckers eating steak? [laughter]
+Jenny: Well, steak knives cut all kinds of stuff. Your best friend. Chicken. [laughter and applause] Okay, so they dig the knife out and praise, Andrew knows this language. It's sort of proto-Tawarick. And it says "the blood which I spill I consecrate to the oldest evil." Oh my god, I know…that evil!
+Kristin: Andrew drew it on his big board! [laughter] Yeah, this is-like, this is also cool that, like, Andrew-because, you know, the whole joke of Andrew is that he can't do anything useful. But like, the truth is that Andrew speaks all these languages and also has done a lot of demon summoning, and can actually be useful, if like, he could just pull his own head out of his own ass and like, focus, you know? So I like that the-I like that this moment is here. I like that he knows this language and he actually-it's not about him-'cause I could see this episode, like, going in a way where, like, Andrew doesn't mean to help but he accidentally helps. But like, he actually does have tools, which I think is…A plus.
+Jenny: I agree. Willow does a little clickety-clack, and it is decided-
+Kristin: [laughs] I just laughed because I have zip-zip in my notes, and I like that you have clickety-clack in yours. [laughs]
+Jenny: And they're gonna take Andrew to the seal and see if it'll respond to thislanguage, which Andrew conveniently can speak. So look at this roll call: Andrew, Buffy, Spike, Wood. Name a more iconic quartet. [laughter]
+Kristin: We go-the high school is full, full warzone. There's a riot happening here. We see-[laughs]
+Jenny: Where did they get the barrels to put the fire in?
+Kristin: The fire in the barrels is over the top. [laughter]
+Jenny: That's how you know they really-
+Kristin: [simultaneously] What, did they need to stay warm? What are they burning, books? What happen-what's happening?
+Jenny: Cheerleading uniforms, perhaps.
+Kristin: Oh, maybe. Because we get a "die, cheerleaders" followed by "marching band rules." [laughter]
+Jenny: Nice.
+Kristin: Two of our food groups already accounted for! The stoners are just like-they used the barrels, actually. [laughter] I don't know what the fuck is happening here, man. Buffy and Spike both have flashlights, little Scully and Mulder.
+Jenny: Uh-huh, uh-huh, uh-huh.
+Kristin: So I hear. Andrew's got his camera, Wood just has…himself, being sexy.
+Jenny: And Wood and Spike get into another-
+Kristin: I hate this.
+Jenny: Another thing where Wood is being like, "Oh yeah? You're a vamp…ire." [crow reacts]
+Kristin: Ah-ha! Ah-ha!
+Jenny: Uh…[Kristin groans] "These students are easy pickings for the likes of you, vrah!" This is so unproductive and not something that I can believe would be happening. But thankfully, Andrew is filming it and observes that there must be something going on between them. Sexual tension you could cut with a knife!
+Kristin: He literally says it!
+Jenny: [simultaneously] Perhaps a knife with some words on it!
+Kristin: Yes. I couldn't even believe that he said "sexual tension." I was like, [gasps] he knows!
+Jenny: He knows. [laughter]
+Kristin: He's watching us.
+Jenny: Bless.
+Kristin: Is it-did we do enough of it to actually go into the segment right now? [crowd affirms]
+Jenny: Uhh…
+Kristin: [crosstalk] do all the things? [laughter]
+Jenny: Yeah, I think-yeah, I think we're good. This is actually the optimal time. I think.
+Kristin: Great.
+Jenny: We have-
+Kristin: Uh, excuse me. [SEXUAL TENSION AWARD jingle plays] Sexual tension award!
+Jenny: Well! Welcome back to another thrilling installment, the most important part of the podcast. It's the Sexual Tension Awards. Many noms will enter, only four slots will be temporarily filled before a winning coupling, throupling or beyond is named. Here are your nominees. [laughter] Their faces got very close together. She put a bandaid on his head and called him by his first name! It's Buffy and Principal Wood. [cheers] In slot number two. Just when you thought you couldn't think of another thing to cut with a knife that's covered in words, it's Spike and Wood's sexual tension. [cheers] Good, good, good, yes. Sometimes-you know, one of the most powerful love languages is, to me, when someone recognizes how you put an incredible amount of craft and care into something. Like, for example, just off the top of my head, like a window sash or something. [laughter] It's Xandrew, of course. [cheers and applause] It's been called-in slot number four-it's been called the most important meal of the day! [laughter] And none of us, not a one among us, can hope to disagree. It's Buffy, cereal, and Spike. [cheers and applause] Now. You know. What our slots are full of! [laughter] Phrasing! Ahh. Consider these noms. These educational and entertaining noms. And cast your vote if you dare, on our Twitter poll, @BufferingCast. You will see these noms laid out, by Kristin Russo. You will cast your vote as you see fit, and then we will announce the winner in the next episode. Glorious. [SEXUAL TENSION AWARD jingle plays] Sexual tension award! [cheers and applause]
+Jenny: Okay. [clears throat]
+Kristin: Alright.
+Jenny: Okay. Okay, okay, okay.
+Kristin: [simultaneously] We're rounding the bend here. There's a riot at the school. There's-[crosstalk]
+Jenny: [simultaneously] Students attack! Students attack!
+Kristin: Wood, just having recovered from rocks, gets smashed in the head with a fire extinguisher. [laughter]
+Jenny: Andrew, instead of helping anyone, just narrating about how he's gonna be struck down before he can achieve-
+Kristin: [simultaneously] Listen, it's hard to be a documentarian, you know?
+Jenny: [simultaneously] Redemption.
+Kristin: [laughs] There's an incredible fucking roundhouse kick from Buffy in this scene, that is really nice. There's also so much flannel. Like…[laughter] they borrowed the My So Called Life wardrobe for this fucking scene. [laughter and cheers] Buffy's like, "Don't kill that kid, he's just a student, Spike." Spike's like, "It's not gonna kill him. Bam!" But it will, like, just calm him the fuck down-everybody's losing it.
+Jenny: Mmhmm, mmhmm, mmhmm. Buffy's gonna take Andrew to the basement and leave Spike and Wood alone together, a terrible idea. [laughter]
+Kristin: Also, like, before they go down to the basement, we get the most soap opera'ian-is that a word? [crowd affirms] Now it is. Like, cut to Wood and Spike. It's like, they're gonna go downstairs and we see Wood and Spike and it's like, bum-bum-baahhh-rum! You know? Drama.
+Jenny: Mmhmm.
+Kristin: I just hate it, I fucking hate the drama with these two.
+Jenny: Alright, alright, alright. Okay. Andrew and Buffy, going down the stairs. Buffy is like, "Put the camera away." Andrew says he wants to show the world what she does, and Buffy says, "What I do is too important to show the world."
+Kristin: That is-that makes you feel a lot of feelings?
+Jenny: I love her. [laughter] Even though she's having, objectively, a rough season. [laughter] Lots of ups and downs. It's great. It's good shit.
+Kristin: Yeah. Sometimes the world can't handle it, you know?
+Jenny: Mmhmm, mmhmm.
+Kristin: That's what she's saying. But also, I was like, oh, you're too important? [laughter]
+Jenny: Me?
+Kristin: No! [laughter]
+Jenny: Oh. Oh, I thought you were like-I thought you were like-
+Kristin: Buffy.
+Jenny: [simultaneously] "Oh, Jenny's over-identifying…" [laughter] and I was like-
+Kristin: Yeah, when I think about you, the first thing I think about is how important you always feel like you are. [laughter]
+Jenny: One of my most defining qualities. Okay. [Kristin laughs] Then we get something good. Something fun. Which is Andrew retelling Jonathan's death. [laughs] First, he tells it like, he's arguing with Warren. And he's like, "I'm not gonna do it." And then Jonathan attacks him and then he accidentally kills him in self defense. And Buffy's like, oh yeah, yeah, Wood was actually controlled by the seal just before. And Andrew's like, "Yes! Actually, what happened…[laughter] was my eyes went white and I had no control over my own faculties. And then I was like, get out of my brain!" [laughter] It's good. It's good, it's good. However. What's not good-
+Kristin: Ugh.
+Jenny: The transformation of this circle of teens into fresh Bringers.
+Kristin: Those teens, one of them was like, have you heard of the podcast Buffy the Vampire Slayer-Buffering the Vampire Slayer? [crowd reacts] Y'all did not catch me. [laughter] That's the rule, you have to catch me before I fix it. [Jenny laughs] Otherwise it doesn't count. Okay. So, Xander and Anya fucked. [laughter]
+Jenny: You carpenter, you.
+Kristin: I'm sorry! Like, I'm into this shit.
+Jenny: Are we to believe that there was hammering to be had? [laughter]
+Kristin: Xander: "Too bad Buffy took Spike's chains down." Anya: "You said it." [laughter]
+Jenny: Also, why?
+Kristin: I just-why what?
+Jenny: Why'd she take Spike's chains down?
+Kristin: Oh. [laughter] Because he's a good man.
+Jenny: But like…just in case. You know?
+Kristin: Yeah, well, I wish-
+Jenny: I mean, you could use them for a lot of things. Sex, also.
+Kristin: Yeah.
+Jenny: Containment of other dangerous individuals, also.
+Kristin: [simultaneously] Demons. Yeah. But not the First. Incorporeal.
+Jenny: Slip right through those manacles. [laughter]
+Kristin: So. They decide, kind of in collaboration, which is also nice, that this was fun and they had fun and they love each other, but it felt like a "one more time" kind of a thing. And they feel like they're done. Good. Right?
+Jenny: Yes? [crowd affirms]
+Kristin: Good? [crowd affirms] Thank you, my cohosts!
+Jenny: [simultaneously] Seems healthy. [laughter] Well! I'm just like, unless…I don't know! [laughter]
+Kristin: I just think it's nice that they're both in the same place with this.
+Jenny: That is nice.
+Kristin: The world is ending. They got to have some good sex.
+Jenny: But also, like, if the world is ending, why not just keep it going until the world ends? [cheers]
+Kristin: Yeah. But it's probably complicated. You know?
+Jenny: Yeah but if we all die, nothing matters. [laughter]
+Kristin: Amanda's just standing in the corner, like, "Guys. [laughter] Nothing fucking matters, so. You want me to get you the chains?" [laughter]
+Jenny: Or the camcorder. [laughter and applause] Someone loved it. [laughter]
+Kristin: Wood and Spike are upstairs, fighting students at the school. Wood is proud for one moment that someone has learned to do something in shop class. [laughter]
+Jenny: God bless him.
+Kristin: And he gets his shot. Wood gets a shot to stake Spike, and he fucking takes it. [someone in crowd "woo"s] Like, he takes it. And the only reason-I like that "woo." [laughter] That was a brave "woo." [laughter] And I appreciate it and agree with it, in many ways. You haven't even heard the episode for Get It Done, but. We have a lot to say about this whole thing. Anyway. He doesn't get to take it because a student attacks him right before he goes to stake Spike, the vampire. [laughter and cheers]
+Jenny: Wow. Okay. So downstairs-
+Kristin: Uh-huh.
+Jenny: The Bringer teens are attacking Buffy. Andrew is continuing to film and narrate. [laughs] Instead of making himself useful. Buffy, because of course she does, triumphs.
+Kristin: Mmhmm.
+Jenny: This, like, five to one ratio. And is like, okay, cool, now I have to bleed you onto the seal. And Andrew's like, wha-wha-what? What? [laughter] She tells him that the blood of the person who opened the seal will close it.
+Kristin: Which is, like, pretty believable. I feel like that's almost always the math. You know?
+Jenny: I also feel like people are usually bad at lying on this show, and this is a great lie.
+Kristin: Yeah. It's because she's lying so that we believe her. [laughter]
+Jenny: Yeah.
+Kristin: If you're lying on the show only to get a character to believe you, you do it really poorly. But if you're lying so that we're supposed to believe you, you do it really well. So she kind of starts this monologue, ish, to Andrew and is basically like, "You need to stop telling stories. Life isn't a story. You make every-" and I love this line. "You make everything into a story so no one is responsible for anything. They're just following a script." We all know humans who do this thing. Right? And it just is very-and she's trying to get him-I mean. [laughs] She's trying to get him to cry. But I think she's also laying down some really fucking important truths about the way that Andrew deals with the world around him and the way that he separates himself from it so that he doesn't have to take any accountability.
+Jenny: Mmhmm.
+Kristin: And with that, I think it might be time for our special video. A weird experience where we will be here, watching ourselves there, talk. But just pretend like this is us and LaToya's sitting here, and it's gonna be great. We ready?
+Jenny: Wow, I hope past me did a good job.
+Kristin: Right. [Video plays]
+Kristin: Holy shit. LaToya Ferguson.
+Jenny: Look who it is! Look who decided to show up to a podcast I heard she was feuding with, and yet! Can't stay away.
+Kristin: [simultaneously] Well, I mean, LaToya, you did arrive kind of to still feud. I mean, I think, anyway. You have some thoughts.
+Jenny: Interesting choice of venue. It's almost as if you wanna be around us. That's all.
+LaToya: I'm sabotaging from within, little Jenny. [laughter]
+Kristin: So LaToya, you feel really, really bad for Andrew, right? Like, it really just tugs on all your emotional strings to see him crying?
+Jenny: Yeah.
+LaToya: No. [laughter]
+Jenny: He's your fave?
+LaToya: No.
+Kristin: You love him?
+LaToya: No. [laughter]
+Jenny: You wanna do a little smooch with him?
+LaToya: How dare you! [laughter]
+Kristin: Tell us more about your feelings. We're here to listen. We're here to hold your-hold space for your feelings for Andrew. [laughs]
+LaToya: Well, it began by watching the show Buffy the Vampire Slayer. [laughter] Literally, every Andrew joke is "LOL, gay." Which, even as a teenager at the time, I was like, this isn't funny. And there is no coming out-literally, it's just, he's gay, right? There's no text, it's all subtext. And that's the joke.
+Kristin: Mmhmm. Mmhmm.
+Jenny: So, okay. So you dislike Andrew as sort of, like, a placeholder-as like, the target of this type of humor, and not, like, you hate…Andrew's soul? Or-
+LaToya: Well, no, I hate Andrew's soul too. That's just one reason I hate him. [laughter]
+Kristin: [simultaneously] No, no. She definitely also hates Andrew's soul. Yeah, yeah. Well, and is that-I mean, like, 'cause we've talked a bit about how Andrew is not good. Like-
+LaToya: He's not a good person.
+Kristin: He's not a good person and he's not really doing anything to, like, fix anything that he's done wrong. So…
+LaToya: No.
+Jenny: Mmhmm, mmhmm, mmhmm.
+LaToya: Yeah, I don't know if you've noticed, but over on Angel, Faith was in prison to redeem herself. She could have walked out the door at any moment. And she-you know, she was reckoning with what she did. She actually was trying to redeem herself.
+Jenny: Mmhmm, mmhmm.
+LaToya: Not absolve herself, which is all that Andrew tries to do, for things that he did, like murder Jonathan. Helped Warren in his assaulting and murder of Katrina. He still supported him after that, by the way. I have no problem with Tom Lenk, just for the record. [laughter]
+Kristin: Yeah, yeah, yeah.
+LaToya: Because I appreciate Tom Lenk, I enjoy most of Storyteller. Until the faux redemption they try to do with this character.
+Kristin: Yeah.
+Jenny: Mmhmm, mmhmm.
+Kristin: Well, LaToya. How would you have-like, if you had the reins on Andrew-
+Jenny: A million dollars an episode.
+Kristin: Million dollars an episode. Would you write Andrew off or would you write him in in a way that felt better?
+LaToya: I would write him off. Like, he would have to, like, turn himself in. There's even a point where Jonathan's thinking, we should turn ourselves in. And of course, Andrew's opposed to that. Then they-you know, they run off to Mexico for their adventures, or whatever. Before, you know, Andrew murders him. It's-I also think that the story in general, with Andrew, it makes more sense if it's Jonathan.
+Kristin: Mmm.
+LaToya: I do think, by virtue of Jonathan dying, it does make his story more tragic in general.
+Jenny: Yeah.
+LaToya: But I do think that a lot of what they're trying to do with Andrew works better if it is Jonathan, because he does have a connection to the Scoobies, and it would make sense why they wouldn't just cast him off. It makes no sense why they don't cast Andrew off, especially since we know he's weak-willed, weak-minded. He is, like, the perfect opening for the First. There's no reason he should be part of-like, he is a liability.
+Jenny: But don't you think he looks great in oven mitts? [laughter]
+LaToya: Shut up.
+Jenny: And a smoking jacket?
+LaToya: Shut up! [laughter]
+Kristin: LaToya, is there anything else you would like to say about Andrew to this live audience in Philadelphia, or the listeners that are listening after?
+LaToya: Ahh. Hello, Philadelphia. [cheers] Pause for applause, pause for applause. [laughter and applause]
+Jenny: LaToya, is there anything you wanna say to Philadelphia and our later listenership about why you have decided to call me "little Jenny"? [laughter]
+LaToya: Because it's very funny. [laughter]
+Kristin: It's really funny. But-
+LaToya: Also, people. If you're ever on the streets in LA and you see a drunk me around, which is usually the case. Just come talk to me about Andrew. [laughter]
+Kristin: Yeah, and I'm glad that you're here because this is what happens, is like, you know, we're over here laughing about Andrew. And there's people at home who are, like, pissed that we're laughing about Andrew, but they don't really say anything. But then, like, now that you're here, pissed about Andrew, everyone who's been, like, holding it in is gonna be like, yeah, what she said! [cheers]
+LaToya: They can, like, come out from hiding.
+Kristin: Yes, yes.
+LaToya: And finally live their truths. [Kristin laughs]
+Jenny: Wow.
+LaToya: 'Cause over on Angel On Top, we always tell the truth.
+Jenny: Oh my god…[laughs]
+LaToya: [simultaneously] We're always good, we're always having fun.
+Jenny: Shit, we meant to get a dirty bed sheet and spray paint "Welcome LaToya" for the beginning of this video. [laughter] [cheers and applause] [video ends]
+Kristin: Fucking LaToya. Wonderful. Delicious, perfect. And made some fucking points. And like, I think-I don't know, this feels like the meat of the whole show, is just this. That like, we just had Caroline up here with us, talking about this really fucking brilliant way of looking at what Andrew is doing. And we have LaToya, who's fucking brilliant, looking at what Andrew is doing. And that, like, this character is a character that is so flawed, but also-and even in a short span of episodes-I mean, it's not even like Andrew's been around for seven seasons. We get this character that's so complicated, that we know that-we know that all of the things he's done are so bad. And we know that he's, like, kind of working on it, but like, he's definitely not doing what I think would be expected of somebody to do in this situation. And it just causes us to, like, wrestle with those things and think about, like, but I like this character, so what do I do with that? What does that mean?
+Jenny: Watching this show is like training for the Problematic Fave Olympics. [laughter] We've already come so far and done so much. Andrew?
+Kristin: Yeah.
+Jenny: Whatever! What did he do? [laughter] He only killed one guy? [laughter and applause]
+Kristin: Oh, fuck, it's true. So. To sort of, like, close out this scene, we get Buffy saying to Andrew, right, "I made it up. I'm making it all up. Like, what kind of hero does that make me? This isn't some story where good triumphs because good triumphs." I wish I could tell so much of my extended family who are like, "Everything happens for a reason." You know, like, that-like, that is not what this story is. And she explains, like, "People are going to die. Good people are gonna die. Girls, maybe me, probably you." [laughter]
+Jenny: Probably right now.
+Kristin: Yeah. [laughter] And she kind of, like, gives him this-you know, "but your blood is gonna maybe-maybe save the world. So what do you think about that? Are you redeemed?" And he does have a moment, you know, of like, true-at least he's being real. Maybe for the first time that we've ever seen Andrew, like, actually break enough to see what's 50 layers underneath the storytelling surface. And he says, "No. I killed Jonathan. I'm scared, and this is what Jonathan felt." It's not redemption. It's not-he's not-but he is at least examining the reality of the thing, which is-
+Jenny: Maybe it's the beginning of something.
+Kristin: We would hope that it is the beginning of something. And then he cries, hurray!
+Jenny: Yay, and his little tears close the seal…forever? Until later? [laughter] I forget, actually? And Buffy says, "I wasn't gonna stab you." Andrew says, "What if the tears didn't work?" and Buffy, ice cold, says nothing, walks out of the room. [laughter and applause]
+Kristin: Couple small little ending scenes here. We have-back up at the school, when they come back up, there's still a lot of fighting going on. But then the minute that the tears have hit the seal, the students stop-they don't seem-I thought it was gonna be like one of those moments the show has given us a few times, where like, the students are disoriented. And like, "what was I doing?" But these students are just like, oh. [laughter]
+Jenny: Yeah, they're like, very NPC about it all. [laughter]
+Kristin: Yeah. "Guess I'll just go home." And Wood and Spike have a brief exchange. Wood saying, "She got it done." Spike saying, "Always has," which is really sexy and I love it. [laughter] And Wood being like, "So far." Why you gotta bum us out? [laughs] But we're all worried about what's to come.
+Jenny: And then Andrew tapes a little bathroom confessional.
+Kristin: How much Real World do you think Andrew has watched? [laughter]
+Jenny: A lot?
+Kristin: A lot!
+Jenny: And he says for the first time, with no frills-he just says, "I killed my best friend. And, you know, I don't think I'm gonna live through what's coming. And that's probably the way it should be." And then he goes to start talking, and then he's like, mm. And turns the camera off.
+Kristin: [simultaneously] Turns the camera off. [sighs] Turns the camera off. Who's gonna use it next? Who do you think is gonna-Dawn. [laughter]
+Jenny: Oh yeah.
+Kristin: You know Dawn is like, making vlogs up in her fucking room. "Reporting live from Sunnydale."
+Jenny: She's making vlogs-[laughing] yeah, okay. Sorry. I just…vampire. [laughter] Let me tell you. That I'm Jenny Owen Youngs. [cheers and applause]
+Kristin: Are you sure?
+Jenny: I'm like-I am sure that I'm Jenny Owen Youngs, but I was like, are we definitely-is this what's happening now? Yes.
+Kristin: Yeah, well, wait. Before you're Jenny Owen Youngs-
+Jenny: Oh! [laughter] Before. [laughter] How can I help?
+Kristin: What do you think of this episode?
+Jenny: Ohh! I like this episode. [laughter] I think-I mean. I do…I do think that the-that Andrew's sort of, like-the redemption thing? The idea that they're, like, reaching towards? I feel like it could be a little…more, like, juicy and authentic feeling.
+Kristin: Mmhmm.
+Jenny: But I like everything that comes before it so much, that I'm like, alright.
+Kristin: Yeah. Yeah, because it's hard to do both, I think.
+Jenny: Yeah.
+Kristin: It's hard to, like, have some of the real comedy moments in this episode and also land a full redemption. And they, like, get it as far as they can while keeping the comedy. So it's tricky.
+Jenny: But also, this season has not been the most joyous season. And I think-
+Kristin: Yeah.
+Jenny: We deserve this episode. [laughs]
+Kristin: I agree, I agree. And fucking Tom Lenk, honestly. Just-
+Jenny: Doing a great job. [cheers and applause]
+Kristin: He really did it. Now you're allowed-you're permitted to be Jenny Owen Youngs.
+Jenny: Oh my gosh, thank you! [laughter]
+Kristin: You're welcome.
+Jenny: I! [long pause] [laughter] [dramatically] I am Jenny Owen Youngs. And when I'm not watching Buffy, Slayer of the Vampires, I'm usually writing and recording songs. In fact, I just released a new EP called It's Dangerous to Go Alone. A couple weeks ago. [cheers and applause]
+Kristin: It's so good!
+Jenny: Oh!
+Kristin: It's so good!
+Jenny: Thanks, Kristin.
+Kristin: I'm obsessed with it.
+Jenny: Well. [laughter] [dramatically] You can find the EP in the magical land of BandCamp or your favorite digital music platform. You can also give me a shout on Twitter, @JennyOwenYoungs, and you can join me for live streams on Twitch, on a weekly basis. [normal voice] A bug landed on my nose. [laughter] Did you see?
+Kristin: I saw it.
+Jenny: Wow. [laughter]
+Kristin: How does the first one go? It's like, [singing] "your princess is in another castle." How's that one go?
+Jenny: Yeah, it's good.
+Kristin: It's good?
+Jenny: Yeah.
+Kristin: I love it so much. I am Kristin Russo and when I'm not listening to Jenny's new EP on repeat-
+Jenny: [laughing] Uh-huh.
+Kristin: Or discussing Buffy the Vampire Slayer or wearing- [crowd reacts negatively] [long pause] I lost. [laughter and applause] I lost. It doesn't matter anymore, what the math is. [laughter] I lost.
+Someone in crowd: You need a cigar jacket!
+Kristin: Yeah! I'm just over here, trying to make my funnel cake.
+Jenny: I do have an unfair advantage of sophistication! [laughter] Yes!
+Kristin: When I'm not listening to Jenny's new EP on repeat, or watching Buffy the Vampire Slayer. [cheers] Thank you. I…I am doing a lot of work with LGBTQ community. It is-at least right now, when I'm talking-the month of June, which is Pride month. And…[cheers and applause] yeah, fuck yeah, fuck yeah, happy Pride! Gay people rule! [cheers and applause] And I talk at workplaces and I'm writing a book on coming out and all sorts of fun stuff. And you can find out more about me on my website, kristinnoeline.com. How do you spell that? [crowd spells it at different speeds]
+Jenny: Okay, they didn't all start in the same place, but I think they all have the basic info correct.
+Kristin: [simultaneously] They all got it! They all got it, and it was so fun for me. [laughter] Who are we?
+Jenny: Buffering the Vampire Slayer…[cheers and applause] is on Twitter, Facebook and Instagram! @BufferingCast or drop us an email at bufferingthevampireslayer@gmail.com.
+Kristin: Such a bitch. [laughter and applause] You can support me and this bitch on Patreon. [laughter] If you'd like. Bufferingthevampireslayer.com, but you have to spell it the actual way. Click on Patreon, head to our store, do all that fun stuff. Or just, like, sit here in World Cafe Live and love us in Philadelphia. [cheers and applause]
+Jenny: This episode was recorded live in the beautiful city of Philadelphia, at World Cafe Live! [cheers and applause] Thanks to the magnificent people of this venue for treating us with such care and helping us to put on this flawless show for you! [applause] This episode was produced by Kristin Russo, Jenny Owen Youngs, and Alba Daza, wherever she may be! [laughs] With support from our consultant, Mackenzie MacDade. [cheers] It was edited-hell yeah-by John Mark Nelson. And…till next time…
+Kristin, Jenny, and crowd: Awwooooooooooooooooo!
+Jenny: Beautiful! [cheers and applause] Thank you so much!
+Kristin: Thank you, Philly!
+Jenny: Have a magnificent evening! [cheers and applause] ["Storyteller" plays]

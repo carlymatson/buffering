@@ -10,7 +10,7 @@ def welcome():
     st.header("Welcome, Gentle Viewers...")
     about_lines = [
         # "Welcome gentle viewers!",
-        "You find before you a hodgepodge of projects which were completed with a little knowledge of coding, some info gathered from episode transcripts, and too much free time.",
+        "You find before you a hodgepodge of projects which were completed with the episode transcripts, a moderate knowledge of coding, and too much free time.",
         "*Look back over a history of the podcast!*",
         "*Talk like LaToya!*",
         "*Finally figure out just how many times Jenny has said 'noms'!*",

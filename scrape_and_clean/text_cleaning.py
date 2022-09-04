@@ -2,6 +2,12 @@ import re
 from collections import Counter
 from pathlib import Path
 from pprint import pprint
+from typing import Optional, Iterable
+
+DATA_DIR = Path("data")
+DIRTY_DIR = DATA_DIR / "converted"
+CLEAN_DIR = DATA_DIR / "cleaned5"
+
 
 CHARACTER_REMAPS = {
     "Æ": "E",
@@ -26,6 +32,7 @@ CHARACTER_REMAPS = {
     "\u2019": "'",  # ’
     "\u02d0": " ",  # ː
     "\u2060": " ",  # "word joiner"
+    "\u200b": "",
     chr(8211): "-",
     chr(8212): "-",
     "“": '"',
@@ -155,3 +162,21 @@ def experiment_with_parsing(transcripts):
     count_characters(text)
     count_speakers(text)
     # check_parsing(text)
+
+
+def clean_all_transcripts(filenames: Optional[Iterable] = None) -> None:
+    file_list = filenames or DIRTY_DIR.iterdir()
+    for filepath in file_list:
+        with open(filepath, "r") as f:
+            transcript = f.read()
+        transcript = clean_transcript(transcript)
+        new_file = CLEAN_DIR / filepath.name
+        with open(new_file, "w") as f:
+            f.write(transcript)
+
+
+if __name__ == "__main__":
+    eps = ["BTVS_7_17_Lies_My_Parents_Told_Me.txt"]#, "BTVS_7_18_Dirty_Girls.txt"]
+    eps = ["BTVS_7_17_Lies_My_Parents_Told_Me.txt"]  # , "BTVS_7_18_Dirty_Girls.txt"]
+    files = [f"data/converted/{ep}" for ep in eps]
+    clean_all_transcripts(files)

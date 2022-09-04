@@ -1,12 +1,12 @@
+import re
 import json
 from datetime import datetime
 from typing import Optional
 
 import streamlit as st
-from streamlit_timeline import timeline
+from analysis.my_timeline import timeline
 
 from analysis.dataframe import load_air_dates
-
 
 season_dates = [
     ("Sep 1, 2016", "Jan 4, 2017"),
@@ -19,28 +19,10 @@ season_dates = [
 ]
 
 
-JINGLE_IMAGES = dict(
-    anya="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1573678066331-Q5V0MV27L5SSTE9G609O/hqdefault.jpg?format=500w",
-    ben_is_glory="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1588386397958-S2VXXV3B5WYACJVHK213/Ben+Is+Glory.jpg?format=750w",
-    cordelia="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653079880-9RCB1QN8LZSSO6RTEKFY/cordelia.jpg?format=1000w",
-    detective_angel="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1522948370982-QORHYWEANSS1MV4JT7N7/detective+angel.jpg?format=750w",
-    drusilla="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653090156-Z2CEHNXWEU7JNX1JK57F/drusilla.jpg?format=750w",
-    faith="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1522948107003-WO4KTUWXSU160JXR1ZJP/Faith-Lehane-Buffy-Vampire-Slayer-c.jpg?format=500w",
-    giles="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1569973934022-U0RSXS2OTDKJQN7VW1BJ/giles-forearms-gah-1024x774.png?format=500w",
-    go_away_riley="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1569973940180-QHJ4EWC3MTOGV1C1QXTG/RileyFinn.JPG.jpg?format=750w",
-    hellmath="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1569974446038-W8YJ2M75EBF4WLO7LNC2/hellmath.jpg?format=750w",
-    kristin_noeline="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1569973982905-7P6ASCNQ54KR5QPA4ONK/buffy-prom-2019-262.jpg?format=750w",
-    patrol_cat="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507656631429-5TG4ONVKCX3PXT57TT0N/IMG_0494.JPG?format=750w",
-    sexual_tension_award="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653359055-50AVZYJ0YMTKE0GE5VVK/sexual+tension.jpg?format=750w",
-    spike="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653099207-H63WHH354QT8W9M2HTG7/spike.png?format=750w",
-    spike_and_dru="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653117066-6B4E2PP80YUCRZRWW2GI/spikedru.jpg?format=1000w",
-    spooky_news="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1569973893569-R2TOLY6PG93IJN42DPP6/buffy-the-vampire-slayer-boo.png?format=750w",
-    the_green_mug_song="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653125041-J1CA5RJWHPQ5INXSYFWR/green+mug.jpg?format=750w",
-    the_patriarchy="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653213603-S8HMSFHOPZI48L0GMXB5/patriarchy.png?format=1000w",
-    vampire_willow="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1522948469651-V5ZTJIXH5UB5OIPEKDR9/vamp+willow.jpg?format=750w",
-    willow="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653107683-QAI2SH3PQ4XIP7F08ZOE/willow.jpg?format=500w",
-    willow_and_tara="https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1569973948524-VB64CBNWJZFPE5ZZPM61/tara-willow-candle.jpg?format=750w",
-)
+def load_interview_links():
+    with open("data/interview_info.json", "r") as f:
+        data = json.load(f)
+    return data
 
 
 class Event:
@@ -87,57 +69,99 @@ def display_dates(events):
     ]
     event_dicts = [ev.to_dict() for ev in events]
     data = {"events": event_dicts, "eras": eras}
-    # height = st.slider("Height", min_value=400, max_value=700, value=500)
     height = 600
     timeline(data, height=height)
 
 
-def ep_type(ep: str) -> str:
-    if "Interview" in ep:
-        return "Interview"
-    if "Mailbag" in ep:
-        return "Mailbag"
-    return "Special Episode"
+def is_interview(ep_title: str) -> str:
+    is_interview = "Interview" in ep_title or "Amber" in ep_title
+    return is_interview
 
 
-def load_jingle_dates():
-    with open("data/jingle_debut_dates.json", "r") as f:
+def load_jingle_data():
+    filename = "data/jingle_info.json"
+    with open(filename, "r") as f:
         data = json.load(f)
     return data
 
 
-def get_jingle_image(name):
-    words = [w.lower() for w in name.split(" ")]
-    key = "_".join(words)
-    return JINGLE_IMAGES.get(key, None)
+def format_lyrics(lyrics):
+    if not lyrics:
+        return ""
+    lyrics_html = "<i>" + "<br />".join(lyrics) + "</i>"
+    return lyrics_html
+
+
+def get_jingle_events(data):
+    events = [
+        Event(
+            headline=name,
+            start_date=jingle["debut_date"],
+            group="Jingle Debut",
+            media=jingle.get("image_url", None),
+            text=format_lyrics(jingle.get("lyrics", "")),
+        )
+        for name, jingle in data.items()
+    ]
+    return events
+
+
+def get_interviewee(ep_title) -> str:
+    if "Interview" in ep_title or "Amber" in ep_title:
+        print(f"Interview: {ep_title}")
+        _, name = ep_title.split(" with ")
+        # name = ep_title
+    else:
+        return ep_title
+    return name
+
+
+def get_interview_events(ep, airdate):
+    links = load_interview_links()
+    matching_links = [link for person, link in links.items() if person in ep]
+    url = matching_links[0] if matching_links else None
+    interview_events = Event(
+        headline=ep,
+        start_date=airdate,
+        group="Interview",
+        media=url,
+    )
+    return interview_events
 
 
 def show_special_episodes():
+    # Load data, parse, parse
     air_dates = load_air_dates()
-    special_eps = [
-        (f"{ep_id}: {info[0]}", info[1])
+    interviews = [
+        (get_interviewee(info[0]), info[1])
         for (show, ep_id), info in air_dates.items()
-        if ep_id.startswith("0")
+        if ep_id.startswith("0") and is_interview(info[0])
     ]
-    ep_types = {ep: ep_type(ep) for (ep, _) in special_eps}
-    events = [
-        Event(headline=ep, start_date=airdate, group=ep_types[ep])
+    special_eps = [
+        (info[0], info[1])
+        for (show, ep_id), info in air_dates.items()
+        if ep_id.startswith("0") and not is_interview(info[0])
+    ]
+    interview_events = [
+        get_interview_events(ep, airdate) for (ep, airdate) in interviews
+    ]
+    special_ep_events = [
+        Event(
+            headline=ep,
+            start_date=airdate,
+            group="Special Episode",
+        )
         for (ep, airdate) in special_eps
     ]
-    jingle_debut_data = load_jingle_dates()
-    jingle_debuts = [
-        Event(
-            headline=name,
-            start_date=airdate,
-            group="Jingle Debuts",
-            media=get_jingle_image(name),
-        )
-        for (name, airdate) in jingle_debut_data.items()
-    ]
-    events = events + jingle_debuts
+    jingle_data = load_jingle_data()
+    jingle_events = get_jingle_events(jingle_data)
+    events = interview_events + special_ep_events + jingle_events
     groups = set([ev.group for ev in events])
+    starting_groups = ["Interview", "Jingle Debut"]
     with st.sidebar:
-        display_groups = st.multiselect("Display", options=groups, default=groups)
+        display_groups = st.multiselect(
+            "Display", options=groups, default=starting_groups
+        )
     display_events = [ev for ev in events if ev.group in display_groups]
     display_dates(display_events)
 

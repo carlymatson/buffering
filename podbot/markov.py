@@ -24,15 +24,16 @@ class MarkovBot:
         pair = token_chain[-2:]
         return tuple(pair)
 
-    def next_word_probabilities(self):
-        token_pair = self.get_last_pair()
+    def next_word_probabilities(self, token_pair=None):
+        if token_pair is None:
+            token_pair = self.get_last_pair()
         next_tokens = self.probabilities[token_pair]
         token_counts = Counter(next_tokens)
         total = len(next_tokens)
-        token_probabilities = [
-            (tok, count / total) for tok, count in token_counts.items()
-        ]
-        return sorted(token_probabilities, key=lambda p: -p[1])
+        token_probabilities = {
+            token: count / total for token, count in token_counts.items()
+        }
+        return token_probabilities
 
     def generate_random_token(self):
         pair = self.get_last_pair()

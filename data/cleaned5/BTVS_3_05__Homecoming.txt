@@ -1,0 +1,807 @@
+Buffering the Vampire Slayer
+Episode 3.05: Homecoming
+NOTES: [audio clip from episode]
+Buffy: I'm gonna show you how it's done. I'm gonna run for homecoming queen and I'm going to win.
+Cordelia: This is starting to be sad.
+Buffy: Sorry, Cordy. But you have no idea who you're messing with.
+Cordelia: What, the slayer?
+Buffy: I'm not talking about the slayer. I'm talking about Buffy. You've awakened the prom queen within. And that crown is going to be mine.
+Jenny: Hey everybody, it's me, your elected homecoming queen, Jenny Owen Youngs.
+Kristin: When did the vote get cast?
+Jenny: [cheerfully] None of your business.
+Kristin: Wow.
+Jenny: Here we are at the top of the episode with some very exciting announcements… which I am telling you about because I am your elected homecoming queen.
+Kristin: Oh, brother.
+Jenny: First of all, let me tell you something. If you're in the LA area, I am playing a show, a musical show, this very Friday the [spooky voice] 13th of October, [normal voice] 2017. I'll be playing over at Troubador, opening up for my buddy Dan Wilson. It's gonna be really fun, doors are at 8 o'clock, and I would love to high five you all. I'm also playing up in San Francisco with Dan on Saturday the 21st at the Swedish American Hall. You can find out all the information for those two shows at jennyowenyoungs.com. Please come out, I would love to see you all and high five you and stuff.
+Kristin: As the runner up to this homecoming ballot that I was not aware of, I have-
+Jenny: I'm not entirely certain that you are a runner up. I need to tally the votes. The votes are still being counted.
+Kristin: Oh, because maybe there are two homecoming queens? [Jenny laughs] Like in this very episode?
+Jenny: That might be the case.
+Kristin: Well, as your second homecoming queen, I would like to tell you about a show that we are doing together the next- the very next day! It's a busy weekend for Jenny and Kristin.
+Jenny: Wow.
+Kristin: On Saturday night, the 14th at 9 pm, we will be at the NerdMelt Showroom in Los Angeles. The show is almost sold out, we are doing a live taping of "Revelations." We will have guests Kristin Tuna, Kate Leth, and Ira Madison III.
+Jenny: Wow!
+Kristin: It is going to be just really great! So you should join us there, and if you are not in LA you should know that if you're a patron of ours, you can join us to watch the episode "Revelations" with us, on a Buffy watch at 2pm that very same day.
+Jenny: You can get all the information about that show and ticket links at bufferingthevampireslayer.com. You know what else you can get at bufferingthevampireslay-
+Kristin: -er dot com? [Jenny laughs] Baseball tees! Baseball tees! Hoodies! Hoodies! Hats and hats!
+Jenny: Saturday in the steel cage! [Kristin laughs] One will enter and one will exit with a lot of new merch should you so choose to acquire it. You can do that at bufferingthevampireslayer.com by clicking on Shop.
+Kristin: Yes, and I have a message. It's a longer message, buckle up. Today is National Coming Out Day. Twenty-nine years ago on the anniversary of the National March on Washington for Lesbian and Gay Rights, National Coming Out Day was observed for the very first time. Today, I read a piece in the Washington Post that argued about the fact that maybe we shouldn't be celebrating this day anymore because of the progress that's been made by LGBTQ communities, and because this day underlines how we're different from, quote, "the norm" of heterosexuality. I take great issue with this position, and I cannot think of a more important time in my entire life to celebrate and lift up National Coming Out Day. We have a long way to go as an LGBTQ community, and I'm honored to be a part of the movement forward and the movement against the many harmful things that we've seen, even in the past few weeks, coming through the current administration. My life is different from the lives of many of my cisgender, heterosexual peers, and it's important that the troubling parts of those differences be examined and that the beautiful parts of those differences be celebrated. I don't talk a bunch about my work with LGBTQ communities during our podcast, but I wanted to take a moment before today's episode to note this day, and to tell you a little bit about the work that I've done over the past decade. I currently run two online support organizations for LGBTQ young people and their loved ones. "Everyone Is Gay" is an advice website that I co-founded in 2010, and it contains thousands of answers to questions submitted by LGBTQ young people, everything from coming out, to questioning your gender identity, to falling in love with your best friend. I toured hundreds of colleges and high schools over the past few years, and in speaking with the many students during that time, I realized that there was also a glaring absence in resources for parents and loved ones. As a response to this, I co-founded "My Kid Is Gay," which is an online advice website for parents and loved ones of LGBTQ people who have recently or not-so-recently come out. I also wrote This Is A Book for Parents of Gay Kids, which is a question and answer guide that tackles everything from differing religious beliefs, to talking to your kids about safe sex, to how to know if and when and how to tell other people about your LGBTQ loved one. You can learn more about "Everyone Is Gay" at everyoneisgay.com, "My Kid Is Gay" at mykidisgay.com, and you can get This Is A Book for Parents of Gay Kids on Amazon or at many of your local bookstores. I just wanna say I think that this book, This Is A Book for Parents of Gay Kids, should actually just be called This Is A Book for Parents.. or People? because I think it's important that we all educate ourselves on the many different things that come up when we are interacting with LGBTQ loved ones in so many different ways. So today on National Coming Out Day, perhaps you'll go, you'll find the book, you'll get a copy for yourself or someone else that you know. Or you'll make the decision to share these resources with people in your life. Happy National Coming Out Day to so many of you out there. If you have come out today, congratulations. And if you need any help, I am here for you as is the work that I've been doing for the last ten years. Alright.
+NOTES: [Intro theme]
+Jenny: Hello and welcome to Buffering the Vampire Slayer, a podcast where we are watching and discussing every episode of Buffy the Vampire Slayer one at a time. My name is Jenny Owen Youngs.
+Kristin: And I'm Kristin Russo, and this week we're talking about Season 3 episode 5, "Homecoming." Stay tuned at the end of this podcast every week for an original song written by us, recapping the Buffy episode we are discussing.
+Jenny: "Homecoming" was written and directed by David Greenwalt, and aired originally on November 3rd, 1998.
+Kristin: Yes, and this is the one, according to IMDB, where… [clears throat] As Buffy and Cordelia vie for homecoming queen, a group of killers gather to participate in… what, Jenny?
+Jenny: SlayerFest '98!
+Kristin: SlayerFest '98.
+Jenny: Listen… IMDB has fucked up in the past-
+Kristin: But they have nailed it!
+Jenny: But they did not drop the ball on this one.
+Kristin: No! They were like, two most important things about this episode? Homecoming and SlayerFest.
+Jenny: Yeah. Nicely done.
+Kristin: And th- I mean, this episode, like, just in a larger arc way, I love the side by side of the excitement about homecoming and the excitement about SlayerFest-
+Jenny: Oh yeah.
+Kristin: And the way they, like, parallel the two [both laugh] and layer them over each other, especially, and I'm sure we'll talk about this a little bit more when we get to it-
+Jenny: [sing-songy] The montage!
+Kristin: Yes! That we get not one but two montages. [Jenny laughs] Back to back. Oh, I love a good montage, you know?
+Jenny: I do know.
+Kristin: So, my big question to start off this episode, Jenny, is did you go to homecoming? Did you go to any homecomings?
+Jenny: Uh, noo… I didn't go to a homecoming dance, I didn't go to a prom.
+Kristin: You hated dances.
+Jenny: Uh, I never went to a formal dance after junior high, I don't think.
+Kristin: Oh. I went to some, I didn't go to a lot. But homecoming- so, in the episode, here's what I'm confused about in the episode. They paint homecoming kind of like it's a senior thing, and they also paint it like it's not a thing where college freshmen come back. And that's kind of the point of homecoming, at least that was my experience. That they always- they scheduled homecoming, I feel like, maybe before Thanksgiving or something? It was scheduled so that kids would be home-
+Jenny: Right, right, right.
+Kristin: From college, and they could, like, come to see the football game and be like, "Oh, my high school!" 'cause it was, like, before they were ready to be like, "Fuck my high school!" [cackles]
+Jenny: Right, right…
+Kristin: Ummm, they don't really-
+Jenny: Well, they probably just didn't have time, and we don't know any, we don't know any post-graduate-
+Kristin: We don't know any graduating-
+Jenny: But also, I feel like they didn't paint it like the dance was just for seniors, but maybe just that the homecoming queen-
+Kristin: The queen…
+Jenny: Also, where's the king!?
+Kristin: No homecoming king?
+Jenny: Yeah! Just two homecoming queens. [Kristin cackles] My kind of homecoming.
+Kristin: Man, this show just keeps getting queerer and queerer.
+Jenny: [laughing] Yeah.
+Kristin: [laughs] So, we start the episode at the Bronze, and we're watching, we watched this episode with a friend of ours who's never seen this series before and she was like, "Where are they?"
+Jenny: Great question.
+Kristin: She couldn't conceptualize where these high school students were possibly hanging out.
+Jenny: Yeah! Because who had that place to hang out at?
+Kristin: Right?
+Jenny: In high school.
+Kristin: I was like, it's like the Peach Pit, but with alcohol? But not?
+Jenny: Yeah…
+Kristin: But it's very confusing.
+Jenny: Some alcohol. But-
+Kristin: Yeah.
+Jenny: Not til later.
+Kristin: Not for the teens? Yeah. So anyhow. They're at the Bronze, and you know, couples are there together. We've got Oz and Willow and Cordelia and Xander, and Buffy's alone at the table, and they're talking about prom, and she looks a little… perplexed.
+Jenny: Uh huh, uh huh.
+Kristin: Scott walks over, and then Cordy begins the episode- she just shoots right out of her Cordy cannon.
+Jenny: Yes!
+Kristin: "Oh, did Scott not ask Buffy?" With Scott and Buffy-
+Jenny: "To homecoming yet!?" Great.
+Kristin: Directly there and then- and then Scott does, under pressure, ask Buffy.
+Jenny: Mmmm… mhm.
+Kristin: But he says, which I found kind of endearing, my last- probably my last endearing moment with Scott was like, "I thought that you would think it was kinda corny. I didn't think you'd be into homecoming." Which is fair, 'cause Jenny and myself, we were people who weren't overly into homecoming.
+Jenny: Totally. I had shit to do.
+Kristin: He was playing it, he was playing it safe.
+Jenny: I… is he? Or was- is this the beginning of the end for old-
+Kristin: You think it was foreshadowing?
+Jenny: I don't know. It's either foreshadowing or- I mean, I don't understand this hard flip switching-
+Kristin: That's the thing!
+Jenny: Character change of poor Scott Hope.
+Kristin: Right?! Because I… I… when we talked about it-
+Jenny: Assassinated mercilessly by David Greenwalt.
+Kristin: Right! Because I'm sure that the lines were maybe written to tip you off, but I wasn't tipped off. I did not foresee what was coming. I didn't think Scott Hope was gonna suddenly turn on his heel and be like, "Um, you seemed so full of life, Buffy, before this."
+Jenny: Right…
+Kristin: "Now you seem really distracted." It's like but she doesn't really-
+Jenny: If he was just a regular guy, like, if he didn't have all those endearing, quirky qualities, and wasn't so into Buffy, and trying so hard and just being- making a lot of gestures and stuff, it would make more sense if he was just a guy who was like, "Let's hook up. And now I'm done. Bleh."
+Kristin: Right! But he was never really that character, but I guess David Greenwalt saw naked Angel fall out of the sky and was like, "This guy's gotta go!" [Jenny laughs] So… so he did, but before he goes, we leave the Bronze, and we go to the mansion, where Angel has found… a silk shirt!
+Jenny: Thank goodness. But don't worry, the buttons have been singed off or something.
+Kristin: Oops!
+Jenny: And it's flapping in the breeze as he paces like a wild animal-
+Kristin: Yes.
+Jenny: Looking really paranoid and freaked out. Every tiny noise he's like, "Huh!"
+Kristin: And then Buffy comes in and she's all "Delivery!" [laughs]
+Jenny: Yeah! "Postmates! I have your blood…"
+Kristin: Your blood for delivery here, which I asked Jenny, I thought maybe she was going to Willy, but Jenny said no, she's going to the butcher.
+Jenny: I assume the butcher because that is- like, getting blood from the butcher is something that is introduced in the show- has been introduced already and you know, comes back periodically. So, I don't know for sure if you can just in real life go to the butcher and get blood.
+Kristin: I think we should try it.
+Jenny: I think you can try it-
+Kristin: I wanna go-
+Jenny: And I will wait at home.
+Kristin: I wanna say "I'm doing some research on vampires, and I wanna know… [Jenny laughs] if I had- if I was harboring a vampire in an abandoned mansion here in California and he had a soul so he needed blood to survive, but he didn't wanna kill anybody, could I, Mr. Butcher Man, get-"
+Jenny: Or Madame Butcher Lady. Or Non-Binary…
+Kristin: Butcher Person.
+Jenny: Yes.
+Kristin: Yes. "Can I get some blood from you for this fictional character." And I- what I hope happens in this exchange is that the butcher knows Buffy the Vampire Slayer, and we all have a good laugh, and then I get facts on blood and buying blood from the butcher.
+Jenny: Right. Right.
+Kristin: Or maybe they'll call the cops on me, I don't know.
+Jenny: Do you think that animals have different blood types, like how humans have different blood types?
+Kristin: I don't know.
+Jenny: I'm just wondering if there's like a flavor palette… [Kristin laughs] thing.
+Kristin: We go to this coffee shop that has a flavor palette wheel that's like, you know, floral, and then the various things that could come off of floral. They should have one of those for blood-
+Jenny: Yes.
+Kristin: For vamps. Anyhow, there's another moment that happens here in the- oh well, there's a couple. Buffy's wearing Angel's jacket, which I wasn't sure. I was like, "Is that Angel's jacket?" But then Angel, of course, takes his hands and fingers the jacket ever so lightly after he finds out that Buffy's seeing someone-
+Jenny: Ohh, yeah.
+Kristin: Which, he kind of snarls?
+Jenny: Yeah, yeah…
+Kristin: You know? A little bit of his animal instinct wells up and-
+Jenny: Uh huh. His head just whips around.
+Kristin: Yeah, and then touches the leather jacket. They have a moment. It's a whole thing. And then Buffy is all "Giles, blah blah blah." [Jenny laughs] And Angel is like, "Giles!" And I… didn't know what was happening in this moment, and my first thought was, oh my god, he's remembering all of his love affairs with Giles!
+Jenny: Wow.
+Kristin: All their shared beers when the kids weren't around.
+Jenny: Uh huh, yeah.
+Kristin: Their chats about shaving.
+Jenny: Two 240 year old guys hanging out. [Kristin laughing] But no, uh, Kristin, I think that's just Angel remembering that he spent a lot of time torturing Giles.
+Kristin: Yeah…
+Jenny: That he killed Jenny Calendar. He's still sort of recovering his memories after being, you know- for hundreds of years, being tortured in an alternate dimension.
+Kristin: Well, if anyone ever gets a hold of my Buffy notebooks where I take notes on the series and you see "Giles, Angel, LOLOL," please know that I did mean no disrespect to Giles. I thought that it was a love memory, not a torture memory.
+Jenny: Well, it's nice that your head and heart went to the positive right away.
+Kristin: Yeah, I was just excited. I was like, [singing] gang's getting back together again!
+Jenny: Ha!
+Kristin: You know? Also, so, whatever. Then Scott dumps Buffy, what the fuck? We've already discussed it. I don't like it, I don't really believe it, I don't really… I'm just not there with it.
+Jenny: Just not into it.
+Kristin: I'm not into it. Buffy's wearing quite an outfit in the breakup scene. I don't think Kate's gonna talk about that outfit, so we'll hang tight. [Jenny laughs] We'll get to Kate in a little bit. But! After we see the breakup, we of course find out that somebody is spying.
+Jenny: Yeah! Zoom out! Binocuvision outline.
+Kristin: [laughing] Lots of binocuvision in this episode.
+Jenny: Yeah. Buffy being observed by Hans and Frederick. Wow, being dumped. How embarrassing.
+Kristin: How embarrassing! My notes are "OMG twins! OMG dial up internet." And then, "Trick!"
+Jenny: Yo. That dial up modem… flip phone… video…
+Kristin: Oh, what a beautiful thing!
+Jenny: What?!
+Kristin: So high-tech!
+Jenny: Yeah, they were way ahead of the-
+Kristin: You were watching this in '98 you were like, "I didn't even know a phone could do that."
+Jenny: Yeah.
+Kristin: A phone in a van? What?
+Jenny: Mr. Trick really set us up for technological wonderment though, when he was-
+Kristin: Modern vampire.
+Jenny: Yes.
+Kristin: The modern vampire.
+Jenny: Talking about how many kilobytes-
+Kristin: [laughs] Kilobytes.
+Jenny: [laughing] And at what speed.
+Kristin: So right. So we find out something is afoot and then we go to the credits.
+Jenny: We sure do.
+Kristin: After we come back from the credits, [sing-song] who do we meet?!
+Jenny: We meet someone very special.
+Kristin: We meet the fucking mayor!
+Jenny: It's Mayor Richard Wilkins the Third.
+Kristin: We have heard about this mayor for some time. People have referenced- Snyder is always dropping "Mayor, Mayor this, Mayor that" and here he is in his very clean, [laughing] very organized, very precise office with his assistant.
+Jenny: He hates bacteria and mayonnaise.
+Kristin: [high-pitched] Allan.
+Jenny: Oh, sweet Allan.
+Kristin: I love Allan.
+Jenny: Allan loves to please. Allan just wants to do a good job.
+Kristin: And this scene is so amazing, like, I really want to give a shout to whomever- maybe it was David Greenwalt, maybe it was- I don't know who it was, who made this scene what it is. But talk about establishing a character. The first thing we see is the mayor smelling a piece of paper and saying to his assistant "Show me your hands" and being like, "I think we could do a better job keeping those cleaner, you know? Dirt gets under the fingernails."
+Jenny: Uh huh.
+Kristin: It's just, it really roots him in a-
+Jenny: I think really the first thing, the very first shot we see is him wiping his hands on a-
+Kristin: Oh, on a towelette?
+Jenny: On a moist towelette.
+Kristin: Yes. So we know something about the mayor.
+Jenny: Yeah, we know his priorities or one of them.
+Kristin: Yeah, he likes some clean stuff. We know he's definitely on a certain kind of line [laughing] when it comes to, you know, his dealings with his staff.
+Jenny: Yes.
+Kristin: So then we leave, right? We leave this introductory scene and we go to school pictures.
+Jenny: A classic trope from any television show that takes place during high school.
+Kristin: A rite of passage.
+Jenny: Mmhmm.
+Kristin: And I have convinced Jenny…
+Jenny: No.
+Kristin: Yes. To share-
+Jenny: You haven't, actually.
+Kristin: I have convinced Jenny-
+Jenny: That's not what you've done.
+Kristin: That we will be sharing our high school… senior photos.
+Jenny: You have convinced Jenny that you will be sharing your high school senior photo.
+Kristin: No… [chanting] Jenny, Jenny, Jenny.
+Jenny: I don't even know if I have-
+Kristin: Chant with me at home! Jenny, Jenny, Jenny! Can you hear them?
+Jenny: Full disclosure: I don't even know if I have access to my high school senior photos.
+Kristin: Oh, well you better not tell our listeners that because somebody'll find it for you.
+Jenny: Don't… go be a bunch of creeps. Don't do that.
+Kristin: [laughs] So we go to school pictures. Now this is a Cordelia GIF that has been used hundreds of thousands of times. But I haven't seen the other photos used as GIFs so often.
+Jenny: That's 'cause Cordelia's the only one who's really good at it.
+Kristin: Yeah, Cordelia is really nailing the school photo. And of course, not nailing the telling Buffy that school photos are happening.
+Jenny: Yeah…
+Kristin: She kind of fucks that up. But before she fucks that up, we- Xander and I share a moment which I don't like. I don't like to share moments with Xander.
+Jenny: [laughing] Uh huh.
+Kristin: But they were wondering where Buffy and Faith are and Xander says "Buffy and Faith? They're getting sweaty… together."
+Jenny: "In the library."
+Kristin: "In the library" and it should be gross and I want it to be gross. I want to be like "Xander, stop it. Stop being so gross" except for I-
+Jenny: The man has a point!
+Kristin: [laughs] Except for I'm like "Yeah Xander. They are in the library getting sweaty!"
+Jenny: [high-pitched] I mean…
+Kristin: [laughs] Oh, sometimes it's hard. Sometimes it's hard and you just want two girls to be getting sweaty in the library together.
+Jenny: I- yes.
+Kristin: Nice cutoff jeans, Faith.
+Jenny: I didn't notice those but tell me about them.
+Kristin: What kind of a queer lady are you?!
+Jenny: One who was taking copious notes.
+Kristin: Tell you about them? They were cut off about half- they're long. They're not super short, you know?
+Jenny: Uh huh.
+Kristin: But she definitely cut them herself.
+Jenny: Nice.
+Kristin: And they just fall real ni- they just look real good.
+Jenny: Okay.
+Kristin: Kristin's Fashion Watch [they both laugh]. So cutoff jeans are one thing but how about when…
+Jenny: Wow. Wow. Wow. Wow.
+Kristin: How about- tell us. Tell us Jenny. Tell us what happens.
+Jenny: [excited and speaking fast] Well, Buffy can't go to Homecoming with Scott but she already has a ticket so she should go with Faith! Faith says, Faith says, "Let's go together to Homecoming!"
+Kristin: Let's go together and use some boys and then discard them and then I don't know what will happen next. [Jenny laughs] I don't know if you know! Okay, alright. Great, great, great. So after this enthralling scene- I feel like somebody in the writers' room knew what was up, you know what I mean? They were like "In 20 years, Jenny and Kristin…"
+Jenny: Mmmm.
+Kristin: [laughing] "Will be doing a podcast where they're gonna be real excited about queer stuff so let's just introduce a character who just, in every episode since she's been introduced, will just drop one really suggestive line…
+Jenny: Yes.
+Kristin: You know?
+Jenny: Or more than one!
+Kristin: Or more than one, just for us.
+Jenny: You know what else those people were thinking?
+Kristin: What?
+Jenny: About us 20 years in the future?
+Kristin: What?
+Jenny: They were thinking, "What class changed Buffy's life?"
+Kristin: Oh my god!
+Jenny: Could it be Contemporary American Heroes from Amelia Earhart to Maya Angelou?
+Kristin: How wonderful is this?!
+Jenny: There's not even one guy in that two-person list of contemporary American heroes.
+Kristin: And of course, it's like, American heroes that inspire the slayer, of course it's going to be some lady- I mean, I wish the lady remembered Buffy.
+Jenny: How do you have a student named Buffy and not remember them?
+Kristin: I don't know. I don't know. But you know how, is you need to establish something in the episode which is that Buffy is feeling invisible in high school.
+Jenny: Yes.
+Kristin: That's the only way something like that could happen. But I just want to give a moment to what happened here. It's just sorta like brushed by, it just happened so quick but there's this moment where you learn that a teacher in Sunnydale High School is smashing something-
+Jenny: Oh my god, what is it?
+Kristin: And she's smashing something and helping students learn, that they too can smash that thing. And maybe we should just like crack open the door to that classroom and just see what they're smashing.
+NOTES: [The Patriarchy Jingle - spooky organ, thunder clap, evil laughter] The Patriarchy!!
+Kristin: Wow, great work everyone. Great work. So…
+Jenny: Somebody at Sunnydale High School is doing something right.
+Kristin: Yes! A couple of people. This lady and… Giles. [chuckles]
+Jenny: Yes. Well, is Giles doing something right, or is he forging inappropriately close bonds with the student body?
+Kristin: Awww, come on!
+Jenny: I mean, just from an outsider's perspective?
+Kristin: No, please, we're not outsiders, Jenny, we're insiders. Now, Buffy misses the picture. She misses the picture and- they're in the lunchroom. The lunch room doesn't seem big enough.
+Jenny: Um, yeah. It's a huge high school, maybe they have like seven cafeterias.
+Kristin: Yeah, maybe it's just like an eating area. Anyway, they're in the eating area and Buffy realizes she's missed the school picture. And she. Is. Pissed. [Jenny laughs] And she gets up to go confront Cordy and that's when we learn that Cordy's slogan to win Homecoming Queen is "You Get More, With Cor." [Jenny laughs] Which I'm just saying, like, I know we make t-shirts here, and I don't know-
+Jenny: "You get more", like it's not like she's campaigning for student government. Like, she's literally just campaigning to wear a crown for one night. [Kristin laughs] It's not like she has duties to perform, it's not even like Miss America. What the fuck is she talking- like, what is this campaign?
+Kristin: I dunno, but I'm with her. "You get more with Cor." [Jenny laughs] I do believe in fact that you do get more with Cor.
+Jenny: Well, yeah, no, it's hard to disagree with that. But…
+Kristin: Right so, [laughs] so Buffy goes up to Cordelia and is like, "What the fuck, Cordy?" and Cordy's like, "What the fuck yourself? Like, deal with it, it's a school picture, you're like, slaying vampires, why do you even care about this shit?" And they have this whole… [long pause] moment-
+Jenny: [laughs] Oh my God, that pause was Kristin holding her two forearms out with her palms up wiggling them back and forth furiously like "I can't even!"
+Kristin: [laughs] It's my favorite, they have this whole back and forth and you know Buffy's like, "I could beat your ass in fucking anything, Cordy, even Homecoming Queen," and Cordelia's like, "Fuckin' bring it, Buffy!" And so the episode begins.
+Jenny: Yes. Buffy announces, "You've awakened the prom queen within."
+Kristin: Ugh, it's so good. It's so good. And so, to get in- I mentioned at the start of the episode that really this whole thing is laid out like a back and forth between the competition between Buffy and Cordelia and the competition between those competing in SlayerFest. And so of course, the moment that this competition ignites between Cordelia and Buffy, we cut to Mr. Trick, Lyle and Candy Gorch, which we know their names are both Gorch 'cause he's very very adamant about the fact that she's his wife-
+Jenny: [in Southern accent] "Wife!"
+Kristin: [laughs] Kulak, not to be confused with culottes. Kulak the horned beast, the German brothers and you know, they're all ready. They're all ready to compete.
+Jenny: I just want to give a really quick shoutout to Kulak of the Miquot clan, the way that he announces himself, which is very reminiscent of all the Clans of the Mountain of the Moon which of course, Tyrion in Game of Thrones/Song of Ice and Fire famously allies himself with. Like, they all introduce themselves as like "I am Shaka, son of Dolf of the Storm Crows!" [Kristin laughs] And they all have that way of introducing themselves. And maybe! Maybe there's a crossover episode in the future.
+Kristin: Ohhh. So what does he say? "I am Kulak of the-"
+Jenny: "Of the Miquot clan."
+Kristin: Nice. I didn't know if he said more than that and I missed it. And we learn in this scene that there is going to be a SlayerFest.
+Jenny: Oh yeah.
+Kristin: A SlayerFest where they're going to compete- it's not really clear, do we ever learn like… is it everybody playing together? It's not.
+Jenny: No, they all pay in.
+Kristin: Right.
+Jenny: And then whoever kills the slayer has the delight of killing the slayer and they also win all the money in the pot.
+Kristin: They win all the money.
+Jenny: Also I just want to say-
+Kristin: But then-
+Jenny: Oh, sorry.
+Kristin: And then the old man at the helm of it all, he's just playing for sport?
+Jenny: No, he's on a team with the German brothers.
+Kristin: [in realization] Ohhhh!
+Jenny: Or he's playing and they're sort of like, his pawns.
+Kristin: Oh, oh, oh. That makes so much more sense. Great. I was confused, I thought he was the man in charge and the rest of them were doing stuff, but he seemed to really be giving an advantage to the German brothers.
+Jenny: Right.
+Kristin: So this makes sense. I'm so glad we've cleared this up.
+Jenny: So, yo, the hunter guy? I just want to say he's wearing a tooth necklace and a fur jacket and later he gets his foot caught in one of his own bear traps and he's got a big gun. Gee, does that remind us of anyone who was played by an actor who was perhaps booked at the time of the shooting of this episode?
+Kristin: Right?
+Jenny: Cain the werewolf hunter? He's definitely supposed to be a stand-in for Cain.
+Kristin: Right, he's supposed to be Cain. Okay, great. I'm glad you've also cleared that up because that's what I thought that too but then I was like, but that's also not Cain. Great. Also, they don't- since I guess the actor was not the same actor, they didn't have Buffy share a moment with Cain.
+Jenny: No, no and he's not called, like- the character isn't named Cain.
+Kristin: Right. But it definitely-
+Jenny: But it's supposed to be that guy.
+Kristin: Right. Totally.
+Jenny: Then- ugh. You know how sometimes you're just trying on your dance clothes with your best friend since childhood?
+Kristin: Ugh.
+Jenny: But then there's a Lisa Loeb song playing and it puts everything in a different light.
+Kristin: I have a lot of feelings about this scene because one of them obviously is "No. No no no no no. No no no. No." But the other feeling is that I think this is a really brilliant scene. I think it's one of the best scenes that's happened so far in the series, in terms of making us understand where they are in their lives.
+Jenny: Mmhmm.
+Kristin: And where Willow and Xander are in their friendship. It gave me all of the feelings and it definitely had a lot to do with the Lisa Loeb song.
+Jenny: Uh huh.
+Kristin: I will give that credit where it's due. But it's just so- it's set up so beautifully. You have Willow and Xander trying stuff on. Definitely not- like, they're seniors in high school, they kind of know what they want to wear, but not really? They're definitely not used to being dressed up, it's not something that you do a lot when you're in high school.
+Jenny: Right.
+Kristin: And you see all of the stuffed animals. Like, they're so prominently placed in Willow's room for this scene and it just sets up this- it's just beautiful, it gives me chills thinking about it. It really brought me back to being that place in my life with friends who I had had for so long and just thinking about, "Oh my god, we're about to embark on this next step in our lives." It's such an overwhelming time and it really… it's just so beautifully done. I love this scene and I hate what happens in this scene, but I just think that it makes a lot of sense to me.
+Jenny: Yeah.
+Kristin: A lot of what happens here makes a lot of sense to me.
+Jenny: You know what doesn't make sense? Just a high school girl with a dressing screen in her room.
+Kristin: [laughs] I don't know. I think that's totally possible. Because of decor.
+Jenny: Mmmm.
+Kristin: I think that having screens like that in rooms was totally a thing in the 90s.
+Jenny: Ah, okay.
+Kristin: You didn't really use them as dressing screens but Willow does.
+Jenny: Right, okay.
+Kristin: So also Willow's choice of outfits here are really funny. It's a little dramatic that she starts in a button down-
+Jenny: Oh my god.
+Kristin: And then she goes to a quirky dress and then all of a sudden, the third choice is like, this gorgeous, black-
+Jenny: "Or I could wear this thing that I just pulled out of the back of my closet!"
+Kristin: [laughs] But they- also, the actors in this scene do an incredible job too of showing us the moment that they're having together. Willow tying Xander's bow tie. It's all very sweet and overwhelming and they're overwhelmed, and then this moment happens. And I don't know that anybody wants this to happen? I mean, maybe some people- I don't know, there's a lot of fans out there. Maybe people are really rooting for this to happen. But my feeling and I think a lot of people's feeling is "What?" Willow is with Oz and we love Willow and Oz.
+Jenny: Yeah.
+Kristin: You know, we might have complicated feelings about Xander and Cordy but- I know I love Cordy and I know I love the coupling of Willow and Oz, and Oz has been so good to Willow and vice versa. So you know, I don't want this to happen and I'm very upset.
+Jenny: Right.
+Kristin: But that's a great feeling to have as an audience member because that is what you're supposed to- right, they don't want it to happen either.
+Jenny: Right.
+NOTES: [Ad break music starts]
+Kristin: Today's episode is brought to you by Care Of. Sometimes you find out that you've been chosen to fight vampires, battle demons, and save the world. There's only one other person like you on the planet and together, the two of you must join forces to ensure the safety of millions. It's a tale as old as time and it just can't happen without the help of important vitamins and supplements. Thankfully, Care Of is here to help you figure out exactly what you need to ensure that you're fighting hard and feeling great when you're cheek to cheek with your very best slayer gal pal. On their site, Care Of asks you questions about your diet and health goals and they recommend the best supplements for you. It's a really easy process that just takes a few minutes so you'll have time to make sure that that leather jacket is still looking great before you run out the door to the graveyard. Care Of will send you supplements in personalized daily packs which are really cute and even have a fact of the day written on them. What's more, they only use the best ingredients in their vitamins and supplements and you'll save money by getting your vitamins through them which is great, since you'll be struggling to pay that $18 a day Sunnydale motel rate. In all honesty, even if you're not a vampire slayer named Faith, Care Of is amazing. Jenny and I got their vitamins, they are so rad, they're in little personalized packets, we love them so much and they help us slay every day as well. Guess what?! You can go to takecareof.com right now and you can get a personalized recommendation and use our code 'Buffering' to get 50% off your first month. That's takecareof.com, offer code 'Buffering' for 50% off your first month of vitamins.
+NOTES: [Ad break music ends]
+Jenny: So then we go to the library where General Buffy Summers [Kristin laughs] is sort of giving a run down to her would-be soldiers about their respective roles in her upcoming Homecoming Queen campaign. And they all look very uncomfortable.
+Kristin: They do and so, I just want to call out an email that we receivedfrom Moe E. Moe E wrote in: "I would like to bring to your attention something in this episode. There's very important information about our beloved Cordelia Chase seen while Buffy is strategizing against her Homecoming Queen rivals. We learn that one of Cordelia's weaknesses is listed as brie. Please do with that knowledge what you will." So if you go back, and maybe you all saw it anyway, but if you go back and pause on this moment with the list behind Buffy, you'll see that "brie," as in the cheese, is listed as one of Cordelia's weaknesses. Does it mean that she loves brie and she will eat a lot of it? Does it mean that she hates brie and it can be used as a weapon against her?
+Jenny: Does it mean that she had a sordid affair with a classmate named Brie?
+Kristin: Ooooh! Great idea, Jenny.
+Jenny: Kind of like painful memories and deep emotional cuts?
+Kristin: Let the Cordelia and Brie fanfiction begin.
+Jenny: Ha ha ha!
+Kristin: [laughs] So right. So Buffy has made a list of everything, she's about to enlist her friends to help her win. But then, Cordelia walks in. This is brilliant! This is brilliant the way that this is done.
+Jenny: Ugh.
+Kristin: Because Buffy looks at Cordelia and is like "Hey man. No big deal. We're all friends here so it's not a big deal that I'm using my friends to help beat you." And Cordelia's like "You're right, you made a great point, Buffy. [Jenny laughs] So now, will everybody do the things that we've all agreed upon doing? Thank you so much."
+Jenny: Oh.
+Kristin: And out everyone goes. And it sucks, but it's fun. I'm having fun with this horrible competition at this point. You know, I don't want Buffy to be upset. But I understand where both of them are coming from. Do you understand where both of them are coming from?
+Jenny: Yeah, they both want to be Homecoming Queen.
+Kristin: Well, they both want to be Homecoming Queen but it's like, Buffy wants to be Homecoming Queen because she really feels like she needs to be seen.
+Jenny: Yeah.
+Kristin: I mean, she says it later on in the episode, right?
+Jenny: She needs to feel present in her own life.
+Kristin: Right. But Cordelia's like "You know what? You have this whole fucking thing going on."
+Jenny: Right, you're literally the Chosen One.
+Kristin: "This is my shit. Like you're the Slayer and I'm the queen. That's the way that this shit works. So what are you doing?" So I don't really understand why Willow has sided with Cor- I mean, I know that they couch it in like, Willow feels really guilty because of the Xander thing and so she does this?
+Jenny: Yeah.
+Kristin: But anyway. It's complicated, they all leave. I feel bad for Buffy but there's a little evil part inside of me that was like, "Yeah, Cordy!" [laughing] I don't know what's happening with me.
+Jenny: [laughs] Wow.
+Kristin: My inner Homecoming Queen was really unearthed in this episode.
+Jenny: I didn't even know you had an inner Homecoming Queen.
+Kristin: So then Buffy is with Giles-
+Jenny: Who's like "Ah, it's just for fun. It's just a silly high school thing, whatever." And then Buffy breaks a bottle with her bare hands.
+Kristin: With her bare hands. And then we begin…
+Jenny: Montage town.
+Kristin: Montage town. So the German brothers, I would like to give them runner up for Sexual Tension Award this week.
+Jenny: Yeah, that shirtless sort of wrestling, chopping thing.
+Kristin: Right, right. I mean, I know they're brothers but we watch Game of Thrones here.
+Jenny: Wow.
+Kristin: I'm just saying Sexual Tension runners up: German brothers. I don't know their names, you keep saying it and I forget.
+Jenny: Hans and Frederick.
+Kristin: I don't know. The German brothers, Hans and Frederick, runners up. Since we're here, Jenny I don't know if- we haven't discussed this but I do have an award for sexual tension.
+Jenny: Oh. Okay.
+Kristin: Are you okay if I…
+Jenny: Please, I'm sure I'll agree with whatever you have to say.
+Kristin: Alright. So [clears throat] play the jingle, please.
+NOTES: [Sexual Tension Award jingle plays] Sexual Tension Award!
+Kristin: I would like to award the Sexual Tension Award in "Homecoming" to Cordelia Chase and Buffy Summers.
+Jenny: Wow!
+Kristin: You didn't see that coming?
+Jenny: A twist!
+Kristin: Where did you think it was going to go?
+Jenny: Uhhh, Buffy and Faith? But I guess we already skated right by that.
+Kristin: I mean…
+Jenny: So tell me about Buffy and Cordelia.
+Kristin: I mean, they're muddy, they're fighting for their lives…
+Jenny: Oh, yeah.
+Kristin: They're in a cabin…
+Jenny: That's a great point.
+Kristin: The phone gets cut out…
+Jenny: Wow. That's a qualifier for the STA?
+Kristin: I'm just saying that sexual tension and competition, they usually go hand-in-hand. And in a lot of the episodes in this season, we have seen Faith and Buffy in conflict with each other, competing, right?
+Jenny: Right, right.
+Kristin: They're equally matched and they're duking it out and there's a heat there.
+Jenny: Mmmmm, yeah.
+Kristin: And I'm just saying that in this episode, I have to give it to- Buffy's really been crowned with Sexual Tension Awards for so many episodes now.
+Jenny: Right, right.
+Kristin: But I don't know who else to give it to.
+Jenny: Right, no. I think you're right, I just feel like we haven't quite gotten to where it really starts to get tense yet.
+Kristin: Well, I'm sorry. I couldn't wait [giggles].
+Jenny: But yeah, no. This is the beginning.
+Kristin: I figured since I said who the runner up was, I had to jump ahead.
+Jenny: Totally, of course.
+Kristin: I'll be happy to talk more about the sexual tension later on.
+Jenny: So in the middle of this montage situation-
+Kristin: Yes.
+Jenny: We see Buffy and Cordelia campaigning and then we see the SlayerFest baddies practicing. Can I just say that Kulak of the Miquot clan, I feel like his wrist knives-
+Kristin: Yeah?
+Jenny: That sort of pop out of his forearms and then he throws them? Are very slow. It just seems impractical in terms of a body weapon.
+Kristin: Yeah. It's definitely not- right. It's not a great weapon. But you know, he's quick once he gets them out. He throws them quick.
+Jenny: He does. He does at that. Okay, great. And he's imposing.
+Kristin: And it seems like later when he uses them, he didn't get there and then release them. He had them on hand.
+Jenny: Right but he doesn't- he's not weighed down by them when he's running.
+Kristin: Right, so he probably runs and then when he gets closer, then he pops them out so he's ready.
+Jenny: So much of life is timing.
+Kristin: Anyway…
+Jenny: We see Cordelia campaigning and trying to win over all kinds of people and when she gets to a group of folks that we'll call 'nerds', she says…
+NOTES: [Sound clip plays]
+Cordelia: Are you kidding? I've been doing the Vulcan death grip since I was four.
+Jenny: But she doesn't perform the Vulcan death grip [Kristin laughs] to demonstrate her skills. What she actually does is just sort of poke the guy in the forehead like four or five times in a row. [Kristin laughs] It's not even a grip!
+Kristin: Yeah, the nerds are not buying it, I'll tell you what.
+Jenny: Or are they?
+Kristin: I don't know, at the end of this episode, I think we learn that they were not buying it. [laughs]
+Jenny: [laughs] That's a great point.
+Kristin: And I think, fellow nerds out there, you know.
+Jenny: Yeah.
+Kristin: You can't be won over with some fake Vulcan death grip.
+Jenny: That's true.
+Kristin: Come on, Cordelia hasn't paid them any mind. She's been making fun of their outfits from Sears since freshman year.
+Jenny: Ohhh, Sears.
+Kristin: They're not going to vote for Cordelia.
+Jenny: Okay, okay. That's a good point.
+Kristin: I'm just saying. Also in this montage, we see Jonathan. Jonathan… if you're just watching the series for the first time, I think you're starting to understand how Jonathan gets a real soft spot in many of our hearts.
+Jenny: Yes, yes.
+Kristin: 'Cause he's just always there. He's just always having a moment.
+Jenny: Yeah, being the every man.
+Kristin: Yes, being the every man. So Jonathan has a moment in this montage. And the big question I have from this montage with thecompetition between Buffy and Cordelia is: why do those people eat their cupcakes like that? Why do they have chocolate all over their faces?
+Jenny: [disgusted] Ugh, clean yourselves!
+Kristin: Nobody eats a cupcake like that! What? I don't understand what that's supposed to be for.
+Jenny: Just be reasonable. Get a fork and knife if you don't know how to do it.
+Kristin: Is it supposed to show how the students are really eating up the competition or something?
+Jenny: Oh my god. [laughs hysterically]
+Kristin: I just don't understand! I don't understand why… David Greenwalt, if you're out there, please let me know why your direction was to have two people with chocolate all over their mouths.
+Jenny: All over their mouths.
+Kristin: They're not in elementary school.
+Jenny: No.
+Kristin: They're high school students. They're not gonna eat like that.
+Jenny: You know what else is great?
+Kristin: Yeah I do, but please. Please tell us, Jenny.
+Jenny: Buffy and Cordelia are getting into some shit out in the courtyard [Kristin laughs], and Cordelia says a terrible thing.
+Kristin: I mean, Buffy says "Do you have- how could you be as horrible as you are?" or whatever. "Do you even have parents?"
+Jenny: And Cordelia says "Yes. Two of them [Kristin laughs] unlike some people." [laughing] What?!
+Kristin: I'm sorry, I know joking about divorce isn't necessarily the most appropriate form of joking.
+Jenny: But his is just beyond the pale. It's so over the top.
+Kristin: Oh god, it made- I just can't. It made me- also, I wrote that quote down and then I wrote down "Fight! Fight! Fight! Fight!"
+Jenny: Yeah, there's some shoulder touching and some wrist grabbing.
+Kristin: Yeah.
+Jenny: It's a whole thing.
+Kristin: Do you see? Like I know we're not to the cabin yet.
+Jenny: I see, I see. The sexual tension is beginning to-
+Kristin: Sexual tension is afoot, Jenny.
+Jenny: Bloom upon the horizon.
+Kristin: It's afoot.
+Jenny: Or a-hand.
+Kristin: Speaking of sexual tension, whomp whomp. Then we go to Xander and Willow. [sounding disappointed] They're in Willow's room and we're learning that they can't keep their hands off of each other. I hate it. I know I already talked about this in the earlier scene, but I think that the biggest reason that I don't want this- and I mean no disrespect to Xander and Cordelia's relationship at all because I really- whatever. But I think the reason that I'm hurt the most by this is because I felt like Willow and Oz were going to be together forever.
+Jenny: Forever!
+Kristin: Forever. And they were- you know. And I just… I don't like cheating! Don't cheat, guys.
+Jenny: Please don't.
+Kristin: I know it's hard sometimes because you're like- and the show sets up the reality of cheating, I think, very well. Where you're like "This horrible thing has happened and it cannot happen again and I'm not going to say anything about it because it wasn't supposed to happen in the first place."
+Jenny: Right.
+Kristin: And I'm just going to make sure it doesn't happen again.
+Jenny: Mmhmm.
+Kristin: And this is a lesson to anyone out there. That's not really the best way to handle shit.
+Jenny: Yeah.
+Kristin: If something's happening, even if it's never going to happen again, bringing it out into the open and having a discussion about it is generally speaking, the best path forward. It's the most respectful path forward. And now we have this whole situation. Xander and Willow both feel horrible. Oz and Cordelia don't know anything but are set up to possibly feel horrible. And I feel- Kristin Russo feels horrible.
+Jenny: Yeah, perhaps the biggest victim in this whole scenario is Kristin Russo.
+Kristin: Yeah! Tell your partners that you're cheating so I don't have to feel bad. [They both laugh] Okay, so we go to the limo.
+Jenny: It's… Homecoming time.
+Kristin: Homecoming time.
+Jenny: As we learned earlier, and as Hans and Frederick happen to be listening in and learned earlier as well, [Kristin laughs] first the limo is going to pick up Faith, then Buffy.
+Kristin: Yes.
+Jenny: But when Buffy gets into the limo, it's not Faith, her date, waiting for her, but rather Cordelia.
+Kristin: And you know, Buffy's a little disappointed because it's Cordelia. She doesn't want to see Cordelia. But I think she's most disappointed because she was pretty excited about some alone time with Faith [they both laugh].
+Jenny: Okay. So she gets in and she's like "What the hell?" And they've got this note from their friends who are like "Listen."
+Kristin: Yeah.
+Jenny: "The limo wasn't cheap."
+Kristin: Figure it out.
+Jenny: "Work out your shit on the way to Homecoming so that we can all enjoy our evening." And there are two corsages. Cordelia took the orchid.
+Kristin: Cordelia, immediately: "I took the orchid." Cordelia, I love you and I want to say, we have two ladies in a limo wearing some homecoming dresses and some corsages. And I couldn't think of anybody but Kate Leth that I would like to hear from right at this moment.
+Jenny: Yes!
+NOTES: [Buffy Fashion Watch intro jingle plays] It's time for our friend Kate To give you the Buffy fashion update.
+Kate: Well, welcome back to Buffy Fashion Watch and it is Homecoming season. There are a lot of outfits in this episode, so let's get through two before the main event. One, Buffy's grey A-line pinup dress when she's trying to get votes is absolutely stunning. And two, Willow's Homecoming dress which is gorgeous and flattering, but kicks off one of the worst plotlines in the entire series so it's dead to me. Let's get in the limo. Cordelia clearly wins with that sweetheart neckline on a timeless, vintage-inspired green silk dress. The only thing dating her outfit are the curls in her hair, whereas Buffy's very California sweetheart coral gown feels a step out of touch now with the spaghetti straps. I do however prefer Buffy's tiny silk box-shaped clutch to Cordelia's envelope style one. There's a lot of good going on either way. But let's talk corsages, shall we? Now the bodice of a woman's dress was once called a corsage and these tiny floral arrangements were worn attached to the bodice as a [French accent] bouquet de corsage. I'm Canadian, I can't help it, sorry. Interestingly enough, in ancient Greece, the practice of wearing flowers to weddings was meant to ward off bad luck and evil spirits, which doesn't work so well for our heroines. In the early 20th century, as the practice of proms became more widespread, gentlemen would offer a bouquet of flowers to their date's parents and one bloom would be chosen and attached to the girl's dress. Heteronormative, I know, but bear with me. The practice of pinning the flower was more or less abandoned as spaghetti straps and strapless dresses came into fashion, which is why most corsages today are either worn on the wrist or come with a band for that option. Corsages can be made with fake flowers, but are traditionally fresh and prepared to match the dress of the receiver, as well as accents such as a pocket square or tie on the besuited gentleman. He may also wear a [French accent] boutonniere, or buttonhole, which is a smaller, coordinated flower. Iwould of course be remiss not to mention the alternative: a small bundle of flowers held in the hand, better for photography, which is called a nosegay. I'm not kidding, isn't that great? Of course, like prom itself, these traditions are painfully straight and practically made to be subverted, but however you choose to get fancy, I'm a fan of florals. Whether it's corsages, boutonnieres, nosegays, or elaborate flower crowns with antlers and all the trimmings, it's fun to feel a bit Midsummer Night's Dream no matter what the season. Plus, the fake flowers at Michael's are always on sale. Trust me. Until next time, I'll see you at the florist.
+NOTES: [Buffy Fashion Watch outro jingle plays] That was our friend Kate, She gave you the Buffy fashion update.
+Jenny: Thank you, Kate Leth, turning over every stone.
+Kristin: Kate Leth, always here for us when we need, always here for us to let us know the things that we wonder most about.
+Jenny: Yes.
+Kristin: We love you, Kate. So these two ladies roll up to the school.
+Jenny: Yeah, they think they're at school.
+Kristin: They're at school-
+Jenny: They get out of the-
+Kristin: Or wherever the Homecoming dance is. Is is at the school?
+Jenny: They hear footsteps receding quickly and they're like, "That's weird. Sounds like the driver got out of the limo and ran away."
+Kristin: Right, you see Buffy immediately switch into slayer mode. She's like "Something's up."
+Jenny: Right. Then they step out into the woods [Kristin laughs] and there's a TV and a VCR with a big sign that says 'Press Play'.
+Kristin: 'Press play'. I love the sign.
+Jenny: And what the fuck is it plugged into?! [Kristin laughs] What is it plugged into, a tree?
+Kristin: Hey, you know, there's extension cords, Jenny.
+Jenny: How e xtension?
+Kristin: And that van is wired up, maybe the van's parked a couple of miles away and they-
+Jenny: Just two miles of extension cords?
+Kristin: Yeah, two miles of extension cords.
+Jenny: Okay, great.
+Kristin: Come on, through the back alleys of Sunnydale.
+Jenny: Right, oh god, of course.
+Kristin: That's what they're here for.
+Jenny: Uh huh. Uh huh.
+Kristin: So press play and oh they do. And what we learn in this moment is that there is a graphic designer on the team. Some demon out there knows how to use- and it must be one of Trick's cronies.
+Jenny: Yeah, Trick's got a freelancer.
+Kristin: Yeah, 'cause Trick is a modern vampire. So he must have somebody that got turned into- you know what he probably did as a modern vampire?
+Jenny: Vampirized a graphic designer?
+Kristin: Yes, he sired himself an industry.
+Jenny: Oh my god.
+Kristin: He sired himself a graphic designer, I betcha he's got a whole fucking team.
+Jenny: Oh my god.
+Kristin: This logo is fantastic.
+Jenny: It looks great.
+Kristin: It looks wonderful. So before we follow these two into the woods on their journey, we learn that Dingoes Ate My Baby is playing Homecoming.
+Jenny: How do you get that gig?
+Kristin: That's a pretty good gig. It also doesn't really make much sense because I don't think the whole school listens to Dingoes Ate My Baby-
+Jenny: Yeah.
+Kristin: And I feel you probably want a DJ at your homecoming dance.
+Jenny: [laughing] Yeah.
+Kristin: Just- I mean, whatever.
+Jenny: 'Cause you want "End of the Road".
+Kristin: [laughing] Right. You want- [laughs] okay.
+Jenny: You want "I'll Make Love to You."
+Kristin: Yesterday, we were talking about Homecoming dances and Jenny was like "Yeah, when they play 'I'll Make Love to You'" and I was like [laughing] "did they play that song at your dance?!"
+Jenny: I think they did.
+Kristin: Like, that was the way they ended the fucking night? They were like [singing] "I'll make love to you."
+Jenny: Maybe not at the end. Let's not get the teens riled up-
+Kristin: A bunch of 15 year olds?
+Jenny: Before we turn them loose into the night. Just to be clear, I did go to dances that weren't formals.
+Kristin: Right right right.
+Jenny: We had cas d ances.
+Kristin: You went to only the dances where they played "I'll Make Love to You."
+Jenny: Goddammit!
+Kristin: [laughs] I just like- there's no funnier image for me than a bunch of people- a bunch of high schoolers at a dance and the adult DJ being like "I betcha this one will get them in the mood." [Jenny laughs] [singing] "I'll make love to you."
+Jenny: Listen, when you're playing the top hits of-
+Kristin: [singing] "Like you want me to."
+Jenny: Yesterday and today.
+Kristin: [singing] "And I'll hold you tight."
+Jenny: Okay…
+Kristin: [singing] "Baby all through the night."
+Jenny: You sound great.
+Kristin: Thank you, I was hoping you were going to join in with me.
+Jenny: No ma'am, that was a solo enterprise [Kristin laughs] for K. Russo.
+Kristin: Anyhow, you know who's looking-
+Jenny: Faith is looking good!
+Kristin: I would like to play that song for Faith.
+Jenny: Faith. Is. Looking. Good.
+Kristin: Faith looks awesome!
+Jenny: Nice choker.
+Kristin: You know what, I've seen some cosplay out there. I would like to know where my Faith at Homecoming cosplayers are.
+Jenny: Oh!
+Kristin: Because damn! She looks so great! I would like to wear this outfit.
+Jenny: She does. It would be hard to identify a cosplay costume as Faith at Homecoming, though. She looks like a hot, goth chick.
+Kristin: [overlapping] Yeah, well not if you're me. I promise if you show to any event as Faith from Homecoming, I will immediately recognize you.
+Jenny: Okay, okay, okay, so…
+Kristin: And then I will play [singing] "I'll make-" just kidding!
+Jenny: Okay, so Willow and Xander are watching Dingoes Ate My Baby play with guilt-stricken, miserable faces and Giles pops up between them and says, "We have to find Buffy, something terrible has happened." Before giggling to himself and being like "just kidding, everything's fine, I just thought I'd give you a scare, ahaha!"
+Kristin: It's gotta be one of the top Giles moments to date.
+Jenny: Yeah, it's really good.
+Kristin: It's great, stuffy Giles out for a romp, you know? Just out to have a great time. Of course, poor Giles will find out that he is actually correct. Something terrible has happened.
+Jenny: Dangit!
+Kristin: We're back in the woods and Buffy and Cordelia, Buffy has sort of like overtaken the wannabe Cain character. He's gotten caught in a bear trap and she's got the gun on him and she says "you better let me know how many people are out there and what they've got."
+Jenny: Yes.
+Kristin: And this guy gives it up.
+Jenny: Well, you know, yeah, what are you gonna do?
+Kristin: He wants to save his life but I just feel like in that situation, do you know that you're gonna still live? It's remarkable to me that he does still live, you know? That she's like, okay, great, so you're a-
+Jenny: Well she's got a moral compass. Maybe he knows something about slayers and morality and-
+Kristin: Ahh, maybe. But regardless we learn, or Buffy learns what she's up against which is really important. And then of course we see two spearheaded pointy headed spikes [both laugh] hit the tree and they run.
+Jenny: Yes!
+Kristin: But first, we go back to the dance.
+Jenny: We flash right back to the dance.
+Kristin: Where Faith is on the prowl to make sure that Scott gets what he deserves for dumping her girlfriend, Buffy Summers.
+Jenny: Yes! Praise!
+Kristin: Faith rolls right up to Scott and this other girl and she's pissed. Like, she was already pissed in the last bit, I think, and she's like, fucking, this guy, fucking blugh! She's so mad and so she goes over and she's like, "don't worry, Scott, the doctor called and your rash will clear up," classic-
+Jenny: Just gotta keep using the ointment.
+Kristin: [laughs] Classic move. And so, I don't know that that actually was effective because probably the girl was like "who is that girl? Does she go here?"
+Jenny: Yeah [laughs] She just looks like trouble!
+Kristin: Right, and then- the only thing I wanna point out in this scene before we go back to Cordelia and Buffy, k-i-s-s-i-n-g…
+Jenny: Wow.
+Kristin: Is that Giles calls the Homecoming Queen, "the coronation."
+Jenny: Yeah, he's going back to his office until it's time for the coronation.
+Kristin: Until the coronation, very-
+Jenny: So. English.
+Kristin: So English of Giles. So now here we are. Buffy has cordoned off- they found this cabin in the woods, not be confused with the movie.
+Jenny: The Cabin in the Woods.
+Kristin: Cabin in the Woods, that would be quite a twist if we suddenly wound up there. But they're in this cabin and they're looking for weapons or- you know, Buffy is like "Cordelia, you need to find a weapon" And she tries to get Cordelia mad, so that Cordelia is not scared. 'Cause Cordelia's first impulse is, like, "I can't do this, I don't wanna-" whatever. And Cordelia recognizes what's happening and says "You thought you'd get me mad and then- and it's kind of working." Right? It overtakes her and then she has- I know, this episode is full of us giving you Cordy sound clips but I just would like to go to the moment where she gets angry enough to look for the weapon. Let's hear you, Cordy.
+NOTES: [audio clip from episode]
+Cordelia: I know what you're up to. You think if you get me mad enough I won't be so scared. And hey, it's working. Where's a damn weapon?
+Kristin: Oh Cordy. Cordy, Cordy, Cordy how we love you. Don't you worry there's gonna be plenty of times when you get your jingle in this episode. But first, Cordelia finds her weapon. It is a spatula.
+Jenny: Uh, yeah, and she sort of waves it in the air at Buffy, it's like "whup whup whup!"
+Kristin: Yeah, it's like whoosh! whoosh! [laughs] and Buffy's like that's- and she's like "That's all I could find, just this, I opened the drawer and it was just this and a phone."
+Jenny: Ummm…
+Kristin: [imitating a car screeching to a halt]
+Jenny: So Buffy's like, maybe we could use the phone? You think that would be useful? And Cordelia has a moment where she's like, "no, aerodynamically, I think the spatula is the more nimble and…"
+Kristin: Which, you know I love Cordelia, but I think she's actually wrong on both counts. I do think that a phone would probably be a better-
+Jenny: A phone would, especially an old rotary phone!
+Kristin: Yeah!
+Jenny: A real heft to it.
+Kristin: It would be a much better weapon anyway. Something else that is said in this scene that I just wanna put a little spotlight on for 90s nostalgia is that they have a moment where they're talking about her- she's like, sort of thinking on her love for Xander and her life. And Buffy's like "You love Xander?" And she's like "You know, he just kind of grows on you, like a chia pet."
+Jenny: So here's the thing, a chia- this always bothered me.
+Kristin: [laughing] Okay, please.
+Jenny: Because I feel like she should say "Yeah, he just grows on you like mold-"
+Kristin: Mold, right.
+Jenny: Or something. A chia pet isn't an entity. It's a whole thing, including the animal-shaped base.
+Kristin: Right, but she means like the moss on the base.
+Jenny: Like the moss on a chia pet. Like moss, like mold.
+Kristin: Oh, that's a little nitpicky, Miss Youngs. [laughs]
+Jenny: I… object. But there's nothing I can do about it.
+Kristin: So they leave a message or Buffy starts to leave a message, it gets cut off but not too quickly.
+Jenny: Right, enough information.
+Kristin: Giles, we get a brief little glimpse of a green mug as Giles goes to the library, listens to the message…
+Jenny: And is like "oh, fuck."
+Kristin: And so Giles knows what's up. They're- you know, activate scoobies I'm sure is what's gonna happen next, who knows. But he knows what's up and then we go back to the cabin and this is where we get Buffy's big monologue, right? It's where we find out that- it's where she finally opens up to Cordelia about why this is important to her.
+Jenny: Right, Cordelia's like "Why do you care about homecoming queen when you're saving the world every day?"
+Kristin: Right, and this is interesting. Maybe I'm putting too personal a twist on this, but I do feel that it is often- when you're doing a particular kind of work it can seem to the outside world that you must be fulfilled, right? Buffy is saving the world every day, she's slaying vampires every day, so she must be fulfilled, she must be happy. I mean, she's literally doing the highest thing you can do.
+Jenny: Right, right, right.
+Kristin: But there's no room left for wanting to appreciate the other things in life, for wanting to participate in some of the things in life that you might not get to do when you're saving the world. And I like this, I like this moment between Buffy and Cordelia because I feel like it's important that we see- and I think as viewers, we see Buffy as a rounded person. But I think that we even, on the outside, could stand to remember that she is a high school student. That she is wanting to participate in high school things, that she has other desires outside of just saving the world. That saving the world alone, by herself, is not going to be fulfilling enough for her, she needs more. And I think Cordelia gets it, you know?
+Jenny: Plus she looks cute in a tiara, she says as she pumps a rifle.
+Kristin: [laughs] Yeah, great, fantastic moment. So in comes old-
+Jenny: Kulak!
+Kristin: Kulak!
+Jenny: Of the Miquot Clan shows up.
+Kristin: Kulak is on their heels and [laughs] I don't even remember exactly how this fight scene goes down, except for that there's a moment where Cordy is slapping Kulak with the spatula and it's fucking great! It's great and we're so close to the Cordelia jingle. I know everybody's just on the edge of their car seats right now.
+Jenny: When will it happen?
+Kristin: Waiting for us to play the jingle. She deserves it so many times but we're trying to have some self control.
+Jenny: Yes.
+Kristin: So in the middle of the spatula slapping the Gorch Brothers? No, the German brothers. Hans and Fredrick, what are their names?
+Jenny: Yeah, Hans and Fredrick.
+Kristin: Oh! Great. They throw a grenade- or they launch a- what Jenny called a mini missile?
+Jenny: Yeah, who knows what that thing was.
+Kristin: Into the cabin and so everyone jumps through windows except for…
+Jenny: Oh noo!
+Kristin: Kulak!
+Jenny: The window Kulak tries to jump through is boarded up.
+Kristin: It's so sad, I was really sad to lose Kulak. We just-
+Jenny: You were really rooting for Kulak, we hardly knew ye.
+Kristin: I wasn't rooting for Kulak to win, but I just felt like he should get away and we should see him again, another day. He was a great little demon.
+Jenny: Right, right, right.
+Kristin: Anyway he doesn't, the house explodes…
+Jenny: And we see two quick narrative things happen. First, we see that the Gorches have knocked Giles out and they're hanging out in the library, waiting for the slayers to show up after after they knocked out some of their-
+Kristin: Ding ding ding! Giles knockout!
+Jenny: Ha! Competition, then we see Mr. Trick answer a knock at the door and it's law enforcement. He gets carried away by them.
+Kristin: Yes. So the cops take Trick and we imagine that the cops are taking- you know, 'cause the mayor's orders were to get the German brothers and any other characters that were part of this SlayerFest. So you- when I saw this scene I was like, oh, they're probably going to get everyone. But then when we get to the end of the episode, it seems like he really-
+Jenny: It's just Trick.
+Kristin: He really just wanted Trick.
+Jenny: The leader.
+Kristin: The leader of the- [singing] the leader of the pack!
+Jenny: Wow. So then we get to Cordelia and Buffy getting back to the library and facing off with the Gorches. And it. Is. Great.
+Kristin: They're all laid out, like, they really spread out these SlayerFest players, you know? I was really- I wasn't expecting to see any of them at the school. I thought it was a woods-centric thing.
+Jenny: Well, in Sunnydale, the back alleys are adjacent to the school is adjacent to the woods is adjacent to the cemetery. So it's really just-
+Kristin: Easy access no matter where you go. So right, so this is where we've held our Cordelia jingle tongues until now because we thought otherwise we would have just- the whole episode would have been a Cordy jingle.
+Jenny: Just an hour of that.
+Kristin: So we waited for our favorite C ordelia moment in the episode.
+Jenny: Yes!
+Kristin: Which is like the one-two punch of- my notes are: "Cordy slays with a spatula, Cordy slays with her words."
+Jenny: Wow, well said!
+Kristin: 'Cause she does, she slays the vamp with… the spatula, everyone.
+Jenny: So great.
+Kristin: Incredible. Incredible-
+Jenny: Wooden handle right into the heart.
+Kristin: We assume it had a wooden handle.
+Jenny: That's gotta take a lot of force.
+Kristin: I'm not sure it had a wooden handle.
+Jenny: It has to be a wooden handle otherwise it wouldn't have killed the vampire.
+Kristin: I understand, but still. It looked like-
+Jenny: You're in denial. You're in spatula denial.
+Kristin: It just looked like a rubber spatula but you're right, Jenny, it had a wooden handle, thankfully. Anyway, Cordy slays Candy. What a great-
+Jenny: Yes! Cordy slays Candy, of course.
+Kristin: Cordy slays Candy and then we're left with Lyle. Lyle Gorch is like, "I'm gonna take you-"
+Jenny: Buffy's knocked out.
+Kristin: Right, Buffy's out. Buffy has really got some hard hits in the library.
+Jenny: She has absorbed some blunt force trauma.
+Kristin: Yes, and so Cordelia's like, well, I'm gonna step up. And she sparks fear in Lyle.
+Jenny: It's so amazing.
+Kristin: With her speech that is-
+Jenny: It's incredible.
+Kristin: So amazing! I mean, this is the embodiment of why there is a Cordelia jingle. So let us all think- as it plays, I want you to think about Cordelia, I want you to think about her with the spatula, I want you to think about her with her words. I want you to think about Lyle Gorch running out the door. Let's go.
+NOTES: [audio clip from episode]
+Cordelia: Listen up, need-a-brain. Buffy and I have taken out four of your cronies, not to mention your girlfriend.
+Lyle: Wife!
+Cordelia: Whatever. The point is, I haven't even broken a sweat. See, in the end, Buffy is just the runner up. I'm the queen. You get me mad, what do you think I'm gonna do to you?
+NOTES: [Cordelia jingle plays] Cordelia, ah-ah I love you Cordelia, ah-ah You're perfect Cordelia, ah-aahh
+Kristin: Oh, Cordelia.
+Jenny: Yes!
+Kristin: Maybe never have we loved you so much as we love you now. I want to let everyone listening know that the Cordelia jingle and most of our jingles are available for ringtones and also for android users on various sites. But we have taken it upon ourselves to centralize the jingles, so if you're a patron, you know, there's a little link you click on jingles, right? You get 'em all for free if you're a $5 patron or higher. Now if you're not and you want the jingles, just go to bufferingthevampireslayer.com and you will see in the music section, there's a little link to the jingles where you can find them all.
+Jenny: Wow! I didn't even know you did that!
+Kristin: I know, because right now, I haven't done it yet, Jenny. But I know this episode isn't gonna go up for a little while.
+Jenny: Oh, I see a little behind the scenes magic.
+Kristin: So don't look behind the curtain! [both laugh] But that'll be up for all of you 'cause I know many of you struggle to find it. It is kind of tricky in the back alleys of Amazon. So…
+Jenny: So.
+Kristin: So the corsages were wired this whole time!
+Jenny: Oh. My. God.
+Kristin: Is what we learn after Lyle Gorch gets real mad at Cordy for not calling Candy his wife. He flees and then in the next bit, we learn that the corsages- that's how they were being kept track of.
+Jenny: I just wanna say that the way they get tipped off to look at the corsages critically is Giles being like "oh, they gave you corsages, they didn't mention anything about corsages," [Kristin laughs] which is ridiculous. Ridiculous, I tell you. I call foul.
+Kristin: [laughing] It is, I didn't even notice it. It is absolutely ridiculous. Thank you for noticing, Jenny.
+Jenny: But they sort it out very quickly.
+Kristin: They sort it out very quickly and then Buffy uses a new tactic which is giant spitballs.
+Jenny: Yes.
+Kristin: To have the German brothers kill each other.
+Jenny: Kill each other which is… ehhh?
+Kristin: Yeah, this show's kind of like wilin' out on who we can and cannot kill these days, right?
+Jenny: Yeah, what's happening here?
+Kristin: Because are the brothers even demons?
+Jenny: I think they're just-
+Kristin: They're just people!
+Jenny: Well-trained brothers.
+Kristin: Right? So everybody, get back on the rails here. We think that the acceptable thing is that you can kill a demon, I don't know about killing-
+Jenny: But is it a kill or be killed- does being in a kill or be killed situation change the stakes or the rules or whatever.
+Kristin: I don't think it- I don't know. You know, that's a topic for another… time. It's a can of worms, Jenny. It's not only a can of worms, it's a can of worms and all those little worms are opening their own cans of worms.
+Jenny: Wow, of teeny tiny worms?
+Kristin: Teeny tiny worms, it's an endless worm can.
+Jenny: What a beautiful refraction.
+Kristin: So let's go back to the mayor.
+Jenny: Yes! Back to the mayor who has called a meeting unbenounced to Mr. Trick, with Mr. Trick.
+Kristin: Yes. "That's an exciting suit," he says about Mr. Trick's suit.
+Jenny: It is an exciting suit.
+Kristin: It is an exciting suit. Trick has another moment. We talked a couple of episodes ago about Trick bringing race into the conversation in Sunnydale. And Trick does this again. Trick says- so, you know, the mayor says something- or he goes to say something to Trick and Trick-
+Jenny: And he's like, well, the way the mayor sets it up is like, "it's a big year for me… and I need things to go smoothly this year."
+Kristin: Right, and Trick has this comment, I didn't write down the verbatim words, but he has this comment about how he was already sick of being told to move out of white people's neighborhoods-
+Jenny: Essentially.
+Kristin: Before he was sired as a vampire, so he certainly has had enough of it as a demon. So again this is not- we talked about this a couple episodes ago. It's not unpacked a ton but it is now two for two with Trick, 'cause Trick wasn't in the last episode. So Trick's had two episodes of having comments where he's saying, like, "hey, you know what, I'm gonna acknowledge something that nobody else on this show is acknowledging."
+Jenny: Yeah, because they have the privilege and ability to not have to acknowledge it.
+Kristin: Right, the mayor has the ability to start that sentence without thinking about, you know, what Trick or-
+Jenny: What it might mean-
+Kristin: Right, what that might mean to Trick or what it could mean… whatever. You know what I'm saying.
+Jenny: Yes.
+Kristin: So, important to notice this and I think for me, especially, 'cause I don't really remember a lot about the series. I remember the big plot points, but I'm really curious to see what else is gonna happen in Trick's arc this season. So… and then there's a moist towelette comment, you know.
+Jenny: Great.
+Kristin: Yeah just important things, and then we go to-
+Jenny: Well, wait! Wait! Wait! Wait!
+Kristin: Oh, I'm so sorry. Right, you're right.
+Jenny: No, it's just important to say that the mayor's like, "no, no, no that's not what I'm saying, we're gonna be on the same team" and Trick's like, "what if I don't wanna be on your team?" And then the mayor's like, "that won't be a problem."
+Kristin: Right, the mayor's very confident in the fact that-
+Jenny: They will be allies.
+Kristin: The offer he has will not be-
+Jenny: It's an offer Trick won't be able to refuse.
+Kristin: Yes, will not be able to be refused.
+Jenny: Oh, he also loves the name SlayerFest. He loves it!
+Kristin: [laughs] Which of course! Who doesn't?
+Jenny: Of course, no, 'cause it's a great name but just something nice to notice about the mayor, that he appreciates a well-named event.
+Kristin: He appreciates a well-named event and he has a good eye. I mean, from what we've seen of Trick. Trick is not fucking around.
+Jenny: Yeah, Trick is somebody you want on your side if you're up to some stuff.
+Kristin: If you're looking at the bigger picture-
+Jenny: Yes, exactly.
+Kristin: As Trick said himself. I think we have two gentlemen who are both looking at the bigger picture here, joining forces. Speaking of people joining forces…
+Jenny: It's time for the coronation!
+Kristin: The coronation! [laughs]
+Jenny: Now how does it come to pass- I guess it's just by default that Devon- because Dingoes Ate My Baby is playing, that Devon would be the person to announce Homecoming Queen, no King.
+Kristin: Yeah, I think it was just logistically easier to not have- you know, he's already on the mic, give him the envelope. And of course-
+Jenny: There's that great side moment where Buffy's like, "you don't wannamess with Cordelia," and Xander's like: [scared laughing] no.
+Kristin: Yeah, no, you don't wanna mess with Cordelia and Xander, you are messing with Cordelia. Bad idea, man. So the episode comes to a close around the winner of the Homecoming Queen and-
+Jenny: After everything they've been through, Buffy and Cordelia look each other in the eye. And they're like… mmm, that didn't put anything in perspective or that really put things in perspective and I still really care about being Homecoming Queen.
+Kristin: Yes. This show is not trying to tell us that life or death shit is gonna make you not want another thing that you wanted just as much.
+Jenny: Yeah, yeah.
+Kristin: You know, they still both want the Queen- the crown.
+Jenny: Which is great!
+Kristin: They still both want the crown. And Cordelia called this shit in the beginning of the episode. She said to Buffy "I don't understand why you have to splinter my vote."
+Jenny: Yes! "Stop splintering my vote."
+Kristin: And that's exactly what happened! Buffy splintered Cordelia's vote and so then the other two tied for Queen. And as we mentioned, we have two queens, no king.
+Jenny: Which we like.
+Kristin: And so Cordelia and Buffy are like, "are you… kidding me."
+Jenny: And we watch them sort of walking out of the auditorium, filthily- like, covered in dirt with straw in their hair and their dresses all mussed, rolling their eyes, clearly having just come down on the other side of the fence, like, "Homecoming Queen is bullshit."
+Kristin: Right! Totally, I love it, I love this moment. This is really- Cordelia and Buffy have had a couple of moments, here and there, where they've-
+Jenny: Oh yeah, like "Out of Mind, Out of Sight"?
+Kristin: Yes, exactly. But this is a really- this is just another little- it's like if they were two little laces. They really get tied up much tighter in this episode, you know? [Jenny laughs] We've talked a lot in our show about how Buffy's character was a Cordelia before she was chosen, before she knew she was the slayer and before her life changed.
+Jenny: Right, and being the slayer, being chosen, changed the shape of her life and made her reevaluate things, and I mean, how could it not? It's your whole thing, your whole existence.
+Kristin: And we're seeing- it's like we're seeing with the two of them how coexisting with another human being can bring out strengths in you that you didn't realize you had. I just feel like that Cordelia and Buffy together are very powerful, because we see in this episode and in the series, Buffy teaching Cordelia how strong she is. Right? In this episode, pick up a weapon, you can fight. She slays the vampire, she fucking makes the other vampire run away from her, and you can see the satisfaction on her face like, "I can do this." And I think that Cordelia also allows Buffy in this episode to say, wait a second. I didn't just wanna slay vampires. I had a whole life before this and I still identify with those pieces of me and those are important pieces of me. So I love their relationship. And this episode is very important to me. I think it's a really great episode for the two of them, a very important episode for Cordelia and just… a rad episode all around. Great work, everybody!
+Jenny: A plus!
+Kristin: Yes!
+Jenny: So great. Well, I am Jenny Owen Youngs and when I'm not making this podcast with Kristin, I'm making songs. You can hear some of those songs and learn more about my musical work over at jennyowenyoungs.com/buffering. You can always give me a holler on twitter @jennyowenyoungs.
+Kristin: Yes, and I'm Kristin Russo. You can find out all about me, my work with LGBTQ communities. Reminder, it's National Coming Out Day. No day like the present to check out all of those resources, over at everyoneisgay.com, mykidisgay.com or you could just find out about the whole shebang at my website, kristinnoeline.com or on twitter @kristinnoeline, that's k-r-i-s-t-i-n-n-o-e-l-i-n-e.
+Jenny: Buffering the Vampire Slayer is on twitter, instagram and facebook at bufferingcast and you can drop us an email at bufferingthevampireslayer@gmail.com.
+Kristin: Yeah, and we've got a couple of things to tell you about both of those ways to contact and follow us. First of all, if you follow us on twitter, facebook or instagram, you know that this week we did a giveaway of really cool shit. Three of you, one from twitter, one from facebook and one from instagram 'cause we like to spread the love, won special prizes. Kayla on Facebook won a Faith figurine, Christine on twitter won a dvd box set of Season 3 of Buffy the Vampire Slayer and Devon on instagram won a copy of Buffy the Vampire Slayer, the encyclopedia, which is a new book out by Nancy Holder and Lisa A. Clancy. Nancy Holder, if you don't know, wrote the Watcher's guide back in the day.
+Jenny: Whaaaaaaaat.
+Kristin: Is back at you for the 20th anniversary with this encyclopedia. And it rules. I actually put it to the test. I asked Jenny many times to tell me a thing and I found every single thing she thought of in the encyclopedia. So those three people won those three fun things. And I wanna say that two out of three of these fun things were actually given to us by you. Some of you are sending us your Buffy things that you no longer have space for or that you want to give on to the next generation of Buffy fans. And then we are re-gifting them, so thank you to those of you who have sent us these really special things. And if you want to be a part of this, we're doing another giveaway in a couple of weeks, so you can follow us in those places.
+Jenny: And oh hey, speaking of emails, we've got a few emails from last week that we wanted to share with all of you.
+Kristin: Yes, first of all, Ryan G. wrote in on something we said about the age of Angel in last week's episode. I think I made up a number, 481 or something. Ryan did a little Hell Math for us Jenny.
+NOTES: [Hell Math jingle] Hell Math!
+Kristin: Ryan G. writes to us: "If I remember correctly the rule was every one day on earth is 100 years down in the hell dimension. And Angel was there all summer, so for simplicity's sake, let's assume Angel was in the demon dimension from Memorial Day to Labor Day. Sorry, Angel, no pool parties for you. That's 99 days, which would mean he has aged approximately 9,900 years and is now 10,141 years old. It's a miracle he didn't drop from that claddagh ring portal with cloven hands and a fruit punch mouth."
+Jenny: [laughs]
+Kristin: Thank you, Ryan, for a good laugh and for an accurate depiction. We're dealing with a 10,141 year old Angel.
+Jenny: Even less appropriate to be dating a high school senior. Alright, Kate M. also wrote in with a little light Hell Math as well. In response to our question about how much blood you have to lose to die or lose consciousness… Kate writes, "We have about five liters of blood and if we lose anything more than 40% of that, so around 2,000 milliliters, we would probably go into shock and die fairly quickly. Although from my experience, (I work as a midwife) if you lose 1,000 milliliters, people tend to get pretty dizzy and faint. So a really fast-drinking vampire, as fast as the world record for chugging beer fast, could maybe cause someone to lose enough blood to faint in maybe six seconds. Also how affected you are depends on your initial iron levels, so maybe everyone in Sunnydale is just chronically anemic."
+Kristin: I wouldn't put it past 'em in Sunnydale. I'll tell you what, they have a lot going on on the Hellmouth.
+Jenny: They do.
+Kristin: Last but certainly not least, Amber H. wrote in to answer- now just so you know, these are- a lot of you answered these questions, not just these humans. But Amber H. wrote to us about morgues. We wondered- Cordy grabbed her nose, held her nose in the last episode and we were like, but does the morgue even smell? 'Cause the bodies are refrigerated.
+Amber says: "You guys were talking in 'Beauty and the Beasts' about whether or not bodies in the morgue would smell. I used to work as a crisis counselor in a medical examiner's office. The morgue can definitely smell. The bodies are refrigerated, which slows but does not stop the decomposition process. Also, the office regularly examined bodies that were pretty far along in the decomposition process before they ever made it to our doorstep. Those smells can linger." Amber H. from Philly, giving us all the information we need about morgues. Thank you, Amber. Alright, two more announcements, one huge, one tiny, before we go. The tiny announcement is that we have jingles on our website now. So many of you have been looking for jingles and we're like, go on Amazon, go on Google Play, on Patreon you can get- so we've centralized all of the jingles. If you go to bufferingthevampireslayer.com and you click on Music, there's a little link to jingles, and they're all there all of the links are there. I spent all day today finding them for you, so they're all in one place. So now you can get all of the jingles that your heart desires. In the large announcement bin-
+Jenny: [gasps]
+Kristin: We would like to tell you that we had the absolute privilege of getting to interview the one and only, Kristin Sutherland for-
+Jenny: Ahh!
+Kristin: I know! For next week's episode "Band Candy." So next week not only will you get Jenny Owen Youngs, Kristin Russo and Kate Leth, who guests with us for the full episode and who barely keeps it together with Giles. Let me tell you, I don't know how she made it through the episode. But we also have a special interview with Kristin Sutherland, who was so nice to talk with us. We are so- I mean, we couldn't be more excited. There's no- you couldn't make me more excited, not if you tried. So you really probably wanna tune in next week. "Band Candy," one of the best episodes of the whole damn season. A wonderful guest, a wonderful interview. We are very, very excited.
+Jenny: Yes, yes, yes! Yes, but until then-
+Kristin: Yes, until then!
+Jenny: We'll be howling into the abyss.
+Kristin: Yes!
+Jenny and Kristin: Awoooooooooooo!! [Jenny Owen Youngs performing "Homecoming" off the album "Songs From Season Three" by Buffering the Vampire Slayer] Don't fuck with me this week Cordelia Got campaign paraphernalia you've never seen; my inner prom queen can sweep and dust and mop the floor with you poach those votes and still have time to do homework and slay, oh how you'll pay Well tonight is the night paper streamers, twinkle lights limo ride, and surprise Hey we're finally at the… woods? VCR and a tape that some business vampire made Instead of Homecoming we're running in SlayerFest 98 Being hunted with Cordelia She ain't gonna make this easier Won't stand a chance 'less she gets mad Then if you're evil, yeah she'll whack at ya with a wooden handled spatula Gorches beware! … oh hey how's my hair Well tonight is the night paper streamers, twinkle lights limo ride, and surprise Hey we're finally at the… woods? VCR and a tape that some business vampire made Instead of Homecoming we're running in SlayerFest 98 Well we didn't win Stupid homecoming But we did win at spending quality time and learning about one another's strengths and weaknesses and deepening our friendship Well tonight is the night paper streamers, twinkle lights limo ride, and surprise Hey we're finally at the… woods? VCR and a tape that some business vampire made Instead of Homecoming we're running in SlayerFest 98

@@ -1,0 +1,731 @@
+Buffering the Vampire Slayer
+Episode 0.42: Welcome to the HelenMouth: Linguistics in Buffy with Helen Zaltzman
+NOTES: [CHIME]
+Jenny: Hey, everybody!
+Kristin: Oh, hi! [singsong] Another intro, another show! Doo-do-doo-do-do, doo-doo! [Jenny laughs] We have a special episode this week, don't we?
+Jenny: We have arguably the most special episode.
+Kristin: It's pretty exciting. We have Helen Zaltzman, friend of Jenny's, but also mine. We argue about it in the episode.
+Jenny: The jewel of my heart!
+Kristin: [laughs] Hey, what am I? [laughs]
+Jenny: Something else.
+Kristin: Okay, I'll let you think on that for a minute.
+Jenny: [laughs] Okay.
+Kristin: Before we get into today's episode with Helen where we talk about linguistics in Buffy the Vampire Slayer, plus some other fun shit, just a couple of quick announcements. First of all, Philadelphia, we are coming for you and you kind of know that already, because there are maybe 50 tickets left to our show in June. June 11th, we're coming to World Cafe Live. We are doing a live taping of the episode Storyteller. A favorite-
+Jenny: Yes!
+Kristin: A favorite, a very, very fun episode. And you can-if you have not already gotten your tickets, this is your moment, okay? Bufferingthevampireslayer.com, just go to our calendar. All the ticketing links are there for you. Also, you could just go to World Cafe Live's site and find us there. But those tickets are up now.
+Jenny: Come. Hang. Out with us. Philly! Also, oh my gosh. Are you ready? You're not ready. You don't even know. We have a couple new things in the merch store that are my two favorite things maybe that have ever been in the merch store? [Kristin laughs] One of them is a spicy new keychain to a very specific room-
+Kristin: Mmhmm.
+Jenny: At the Sunnydale Motor Inn.
+Kristin: Mmhmm.
+Jenny: It's wicked Spah-tan. [Kristin laughs] It's really good. [laughs] And the other thing is a yowler cat diner mug. Those are both up, they're both so beautiful, and I invite you to look upon them and try not to be moved-
+Kristin: It's just-
+Jenny: By how glorious they are.
+Kristin: Like, if you're dating somebody right now and you're, like, right on the cusp of maybe they should have a key? There-in my mind, there's no better way to give them the key to your apartment than on a Sunnydale Motor Inn keychain.
+Jenny: [laughing] Hell yes!
+Kristin: Right?!
+Jenny: Hell yes.
+Kristin: Alright. That's pretty much it. We-if you're listening to this in real time, this Saturday, we're watching the last two episodes of Firefly in our Feels Like the First Time Patreon podcast. So we start at 5 o'clock Eastern, we're watching Heart of Gold and Objects in Space. Wow, I knew those titles in my mind. I am ascending to a new nerd plane.
+Jenny: Ha! Ha! Wow, look at you, yeah.
+Kristin: [laughs] So come and watch with us. We'll be taping our last episode of the Firefly run probably the following week. And lucky you, you only have to wait one more week and we'll be back in your ears with our taping of Bring On the Night.
+Jenny: Hurray!
+Kristin: Alright, let's get in there with Helen.
+Jenny: Indeed!
+NOTES: [Buffering theme plays]
+Jenny: Oh! Hello and welcome to a very special episode of Buffering the Vampire Slayer, a podcast where we're usually talking about Buffy one episode at a time. But today, we are breaking out the linguistic microscope with a very special guest, to examine elements of language in the show. Please welcome my friend and Kristin's less close friend-[Kristin laughs] Helen Zaltzman. [laughter]
+Helen: It makes it sound like Kristin and I have got beef.
+Kristin: I know, it does, it makes it sound like we used to be close but then, like, something came between us. Betwixt us. [laughs]
+Helen: Yeah. But the truth is, we just haven't spent enough time together yet-
+Kristin: Right.
+Helen: To get to the point where we have beef. Isn't that blissful? [Jenny laughs]
+Kristin: Well, Jenny-I mean, Jenny probably phrased it like that because she realizes that with time, I could surpass her in friendship levels. You know, like-
+Helen: Whoa.
+Kristin: Given the amount of-yeah. [Jenny sighs] So you never know. So just-everybody, be careful.
+Jenny: [simultaneously] I'm not threatened. I'm not threatened! [laughter]
+Helen: I'll be very careful to portion affection equally. [laughter]
+Kristin: Helen-
+Helen: I think that's why I'm quite emotionally withdrawn, just in case unfairness results. [laughter]
+Kristin: You've been on Buffering the Vampire Slayer for approximately one minute and we've already caused you stress. We're already playing tug of war with your affections. [laughs]
+Helen: I'll just sneak out the back before I cause anymore damage. [Kristin laughs]
+Jenny: Perfect. No, Helen, you can't sneak out the back because we need you to answer a lot of questions.
+Helen: Okay, great.
+Jenny: We have a lot of questions for you.
+Helen: Well, I love to answer lots of questions.
+Kristin: People lost their ever-living minds when we told them that you were going to come here and be in the Buffering space with us. They are just-like, the nerd level-off the charts, like, fully. Just-it broke every computer when we tried to measure the nerd level. People are thrilled-
+Jenny: Mmhmm!
+Kristin: So-hell yeah.
+Helen: [simultaneously] Well, that's very flattering.
+Kristin: Thanks for being here.
+Helen: [simultaneously] But also, we're all quite bored in Covid. So any variety is good. [laughter]
+Kristin: I thought maybe, Helen, a good place to start is just having you talk to us a little bit about what you do. You know, I know that there are a lot of people here who are very familiar with your work, but if there are people who are like, "So, what do you mean, linguistics? Like, what-tell me more." Tell us about yourself.
+Helen: Well. I make podcasts. I was recapping Veronica Mars with Jenny Owen Youngs, on our podcast, Veronica Mars Investigations.
+Jenny: [simultaneously] Woop!
+Kristin: [simultaneously] I've heard of her.
+Helen: And I make a show about language, The Allusionist, which is about how and why we say the kinds of things we do and what that means, as humans. And I also made a podcast for nearly 15 years called Answer Me This, which was answering questions from our listeners. So between all of those, I feel like I'm moderately well qualified for what is about to happen. [Kristin laughs] But I don't wanna be hubristic.
+Jenny: [simultaneously] You are the perfect candidate. [laughs]
+Kristin: You are the perfect candidate. I mean, apart from the fact that you just only started watching Buffy the Vampire Slayer? Is that true?
+Helen: Yes. I did see a couple of episodes back when it came out, but I didn't really have access to it at the time, tele-visually. And then failed to catch up in the intervening 20-something years. [Kristin laughs] Until now.
+Jenny: Helen, in preparation for our conversation today, you and I have been texting. You've been keeping me updated on your viewing, and you've gone about it in a very interesting way. A way that I-
+Helen: [simultaneously] Is it disrespectful?
+Jenny: Oh, no, it's not disrespectful. But it definitely makes my mind reel, trying to figure out how you are experiencing it. [Helen laughs] Could you please tell our beautiful listeners what you have done up to this point?
+Helen: Well. I asked you, Jenny Owen Youngs, for your starter pack of Buffy episodes. And I also asked my friend Eleanor, who's very invested in this journey. And you had some overlap in your lists.
+Jenny: Mmhmm.
+Helen: You both chose Hush and The Body and Once More, with Feeling.
+Kristin: [shocked] The Body was in the starter pack?!
+Helen: Oh, maybe it was-yeah. Yeah, it was in both of your starter packs.
+Jenny: That's right.
+Kristin: Jesus Christ! [laughs]
+Helen: It's a very beautiful episode, I understand why you chose it.
+Kristin: I mean-
+Helen: Incredible.
+Kristin: I don't know about a starter…
+Helen: But you did veto some of Ellie's other picks. And then I added a few of my own, partly motivated by ones where I enjoy your song interpretation thereof. Which is why I watched Beer Bad and Bad Eggs-
+Jenny: [simultaneously] [whispers] Excellent.
+Helen: And Enemies. [laughter] And you can't stop me, it's already happened. And then some I just chose on a whim. Like, I thought Him sounded like an amusing premise, so I watched that. And it was. [Jenny laughs]
+Kristin: Yeah, that's a jaunt. [laughs]
+Helen: Oh, it's a jaunt. Love to see all these women throwing themselves at a bland white boy. [Kristin laughs]
+Jenny: Do sports teams in English high schools have an equivalent to the letterman jacket?
+Helen: Um. I'm the wrong person to ask, because I graduated high school in 1997. I don't-you might have a shirt-
+Jenny: [simultaneously] And you simply can't remember.
+Helen: You might have a shirt with your name emblazoned on the back, but you had to wear uniform-
+Jenny: Mmm.
+Helen: At most British schools, you have to wear uniform. And the jacket will just be a blazer.
+Jenny: [simultaneously] Right.
+Kristin: [simultaneously] I thought letterman jackets were a global phenomenon. I didn't even think about it-
+Helen: Alas, not.
+Kristin: [simultaneously] As a United States specific thing.
+Helen: I wonder whether we have-
+Kristin: Classic American viewpoint, really. [laughs] "Everybody did that."
+Helen: [simultaneously] Well, we do love-we do love a lot of your high school classic things. Like, now, British high schools have proms, which they didn't when I was at one. Thank god. So maybe they've got on board with the jackets as well?
+Jenny: How many episodes did you watch that featured a young vampire slayer named Faith?
+Kristin: Ooh.
+Helen: Only a couple. I watched Bad Girls and-
+Jenny and Kristin: [simultaneously] Nice.
+Helen: Band Candy? Was she in that one?
+Kristin: No. But-
+Jenny: No, she's got the day off for Band Candy. But you watched Enemies, right?
+Helen: Oh, yes, I watched Enemies. And Bad Eggs-? No, she's not in Bad Eggs.
+Kristin: So-but Enemies and Bad Girls-
+Jenny: [simultaneously] Excellent.
+Kristin: You've seen Buffy and Faith handcuffed to each other and you've also seen them almost kiss.
+Helen: Yeah.
+Kristin: So really, like, a great duo of episodes, I think, the two of them.
+Jenny: The whole…spectrum.
+Helen: The whole last 90s time.
+Kristin: [simultaneously] What are your-do you have-do you feel in your bizarre-o jaunt through these episodes, an attachment to, like, a particular character-like, what are you feeling? How do you feel? Do you wanna watch it from the beginning?
+Helen: I think I enjoyed it more the more it went on. Is that fair?
+Kristin: Oh, yeah. Yeah.
+Helen: Okay.
+Jenny: Yeah.
+Helen: So maybe-
+Kristin: It's a big show that hinges on, like, character-you know, like, when you start to connect with the characters, then the whole thing just kinda opens itself up for you, I feel like?
+Helen: Yeah. I don't feel qualified based on having watched a handful episodes per season to really make any intelligent comment on how it's working out. But I do feel like I've enjoyed it more after she has left high school. And usually in teen dramas, it completely goes to shit when they leave high school and go to college or whatever.
+Jenny: Yeah, yeah.
+Kristin: Yeah.
+Helen: But they've escaped that. 'Cause I'm also somewhat enjoying it more without Angel in it. Am I wrong? [Jenny laughs]
+Kristin: I mean…I would say no. But I would also get in big trouble for that. I love-like, I love-we had a great time during the Angel years. But I agree with you that I enjoy the show now that Angel's doing his own thing, you know? He's living his life.
+Jenny: Yeah, I think Angel is also better on Angel-
+Kristin: Yes.
+Jenny: Like, more enjoyable on Angel than on Buffy.
+Helen: Yeah. It wasn't really his fault. It was more just removing that particular attachment from Buffy made-somewhat liberated the character, I felt. In a way.
+Kristin: Yeah. Yeah.
+Jenny: Mmm.
+Kristin: Because those first couple seasons, it is-there's a lot of just this, like, soulmate love. And not that there's not, like, more love and relationship stuff in it. But it's not as, I guess, dramatized as it was with Buffy and Angel.
+Helen: Yeah.
+Kristin: Ohh, people are gonna be so mad. [laughter]
+Helen: You feel like it wouldn't be as much of a challenge for her to dump or kill any of her other romantic interests.
+Kristin: Exactly. Exactly. You know? She's grown up enough to dump or kill any of her future boyfriends. [laughter]
+Helen: Yeah. I only date casually, which means people I'm willing to kill. [laughter]
+Kristin: Well, so. Can I ask one question? Because I know, like, we're doing a lot with linguistics here. And you know, you have an entire podcast called The Allusionist that you talked about. So like, did you-how did you land in this linguistic place? Have you always been-like, did you go to school for this and you've always been fascinated by language? Or what brought you to a place where you wanted to spend so much time turning over the stones of language, if you will?
+Helen: Well, I've always been very interested in it. But I'm not particularly qualified. [laughter] And I think that's because I've seen what academic linguists do and it seems like dedicating your life to studying in a very scientific way, a very narrow range of things. And my mind is way too lazy and novelty-requiring [laughter] to do that. So I can just get people on my show that have done that, and drain them of their knowledge. And-then-
+Jenny: Excellent.
+Kristin: Oh my god, so you're like a word vampire.
+Jenny: Oh my god.
+Helen: [simultaneously] Right, yeah, and then I just pipe it into an entertainment form for other people to digest easier. [Kristin laughs] I'm not sure how that-is that more like a bird chewing up food and then spitting it into a baby bird's mouth?
+Kristin: I love that in this metaphor, you are spitting chewed-up worm bits into our mouths. Yes. [laughter]
+Helen: We've all done it, right? [laughter] I have a couple of questions for you, actually. I wouldn't have said I was watching this in a particularly linguistically-observant way. I was just trying to get a little grounding in what you've been studying for the last several years. I did not realize until this watch that Giles is his last name. [Jenny laughs] That is such a British school thing of the 20th century, just to call people by their last names. But he took it with him to California.
+Kristin: Interesting. Yeah.
+Jenny: Yeah, well, I guess he introduces himself as Mr. Giles in the pilot. And then he is just "Giles" forever after.
+Helen: Yeah. So like a butler or something.
+Kristin: Yeah, well, and in stark contrast-'cause I don't know, Helen, if you saw any of the episodes where we learn about Ripper. Which is, like, Rupert's young-like, his nickname when he was younger and he has-
+Helen: Oh, he wishes.
+Jenny: [simultaneously] And he was a bit of a bad boy.
+Kristin: A bit of a bad boy. Well, you saw Band Candy. So you saw, like, the manifestation of Ripper, when Giles turns into-
+Helen: Mmhmm.
+Kristin: His teenage self.
+Jenny: You know, rolling his shirt sleeves up, smoking a cigarette, having sex on a cop car?
+Helen: [simultaneously] He's-[crosstalk] doesn't he?
+Kristin: Yeah, yeah.
+Jenny: Uh-huh.
+Kristin: Yeah, he has this other magical dude named Ethan Rayne, who-they definitely make out. You know? Like, it's a whole-
+Jenny: They've got a history.
+Kristin: Yeah, it's a whole thing. So it's-I think going by his last name also gives us this, like, idea that when he's going by his first name, perhaps he's-you know-harkening back to those Ripper days. [laughs]
+Helen: I see. In Tabula Rasa, there is that cunning thing where he's like, "Oh, Rupert. Rupert's my name."
+Kristin: Right. Right, right, right.
+Helen: Sweet touch.
+Kristin: Oh my god, and Randy Giles. Yes. [Helen laughs] Ugh. You watched a lot of episodes. Like, this was only-
+Helen: Oh, I love to watch television for work. God bless. [laughter] I do have two other tiny questions for you though, based on British-isms I noticed in the ones I did watch. In the pilot, Giles mentions Bovril, a product-as far as I know-not marketed in the US. Which is a jar of beef extract. So-
+Jenny: What does he say about it? That slid right past us.
+Helen: [simultaneously] Well, he just says that he'd rather be at home with a cup of Bovril.
+Kristin: A cup?!
+Helen: Because people dilute it and drink it, hot.
+Kristin: Like broth?
+Jenny: Hmm.
+Helen: It's thicker-it's more viscous than broth. I think it's like what they do with old cow carcasses. I can't remember when they invented it, whether it was a Second World War thing or pre- that. But…
+Kristin: I don't understand what it is. A cow extract?
+Jenny: Is it like bouillon?
+Helen: [simultaneously] No, Americans don't have this, right? So why would you sneak that into the pilot? That's amazing to me. Like, would any viewer in the States get that?
+Kristin: No. But maybe somebody in the writers' room felt like I'm feeling right now. Like, kind of horrified and fascinated and, like, just learned about it [laughing] so wanted to pop it in the script. I just wanna under-
+Helen: [simultaneously] Maybe there was a Brit, in the production.
+Kristin: [simultaneously] What are they extracting? From the cow?
+Jenny: It's Joss. He's, like, an Anglophile? He's-
+Helen: Oh.
+Jenny: It's his favorite thing, to wedge little bits of this stuff in.
+Helen: He waltzes into the writers' room with a flask full of hot beef drink. [Jenny laughs]
+Kristin: [groans]
+Helen: And then Spike at some point says the word "git"-
+Kristin: [simultaneously] Wait. No one has answered my question about-
+Helen: Oh, sorry.
+Kristin: What they have extracted from the cow. I just, like-you can't just say it's a cow extract. Is it, like, skin?
+Jenny: It's none of your business, Kristin. [laughs]
+Kristin: I don't under-[laughs]
+Helen: It's honestly better not to know.
+Kristin: Is it blood? Is it, like-
+Helen: I think it's like, whatever is left over from the full cow, they [laughs] condense into a dark brown glue. [Jenny gags] [Kristin laughs] And put it in a jar. And…
+Jenny: Ohhh.
+Helen: You can spread it on some toast or you can, like, beef up a chili or something-
+Kristin: [simultaneously] No! What is with everyone and toast?
+Jenny: [simultaneously] Toast? "Beef up your chili," okay.
+Helen: [crosstalk] Like, a beefy tea. It is basically an instant beef tea 'cause that was what they were always feeding to people. A beef tea.
+Kristin: Okay, beef tea…
+Jenny: [whispering] Instant. Beef Tea.
+Helen: You know-
+Kristin: I mean, to me, it just sounds like-like, if you have a chicken and you have the chicken carcass, you throw it in some water and you cook it for a long time and then you get broth. So like, is that-they're just doing that, but with the cow? Kind of? A little bit?
+Helen: Uhh…it's much more intense, Kristin. It's much more intense.
+Kristin: [laughs] Alright, alright, I'll let it go. I'll let it go. Next question, I'm so sorry.
+Jenny: [simultaneously] Apologies to our beautiful vegan listenership that we respect. [Kristin laughs] And love.
+Helen: Oh, in about 2004, they took the beef out of Bovril and it was briefly vegetarian. And then a couple years later, they beefed it again.
+Kristin: Did people get-
+Jenny: [simultaneously] Wow, the re-beefening.
+Helen: They re-beefed-
+Kristin: [laughs] You know what, I'm just gonna stop asking questions-
+Jenny: [simultaneously] Electric Beef-aloo. [laughter]
+Kristin: It's clear to me that I need to stop asking questions. [laughs]
+Jenny: Yes.
+Helen: And the other thing was, Spike says the word "git," which is not a word I've ever heard an American say.
+Kristin: Oh.
+Helen: It's like a-
+Jenny: What does it mean?
+Helen: It's just an insult. It's like a-
+Kristin: Like a fool?
+Helen: A not so swear-y that you'd have to remove it insult. They probably say it in Harry Potter.
+Jenny: Gotcha.
+Kristin: Yeah, I feel like I've heard-
+Jenny: Ohh.
+Kristin: That before. Enough to be like, that's-you're saying something not nice.
+Helen: Yeah.
+Kristin: That's, like, all it does to my brain.
+Helen: Yeah. You might say someone is a douchebag or a wanker, but git is much kind of, like-
+Jenny: It's aerodynamic.
+Helen: It's a little retro. I'm not sure whether the children of today are saying it. But you could probably get it into a show-
+Jenny: Mmm.
+Helen: Aimed at them, without censorship.
+Kristin: If you're a child listening to this, please, do your job and bring "git" back, okay? [laughter] Shall we get-shall we go away from the cows and into the bin of questions here?
+Helen: Yeah. Into the jar of liquified cow-
+Jenny: [simultaneously] Into the bin!
+Helen: Of questions.
+Kristin: Yeah. [laughter] So I don't know how many of these we'll get to, because you know, Helen, I have a feeling you're gonna have some stuff to say about all of them. But we'll do our best.
+Helen: [simultaneously] Oh, we can get through-yeah.
+Kristin: We're gonna start at what I felt would be a good beginning place, which was a question from Alicia [pronounced a-leesh-a] or Alicia [pronounced a-lees-ee-a]. I'm sorry, I don't know how to pronounce your name. Who wrote in from Chicago and said, "Why is Buffy named Buffy? I've heard it's short for Elizabeth, which sounds odd to my ears. But is there any kind of linguistics history around why the name or nickname Buffy would be chosen for a vampire slaying heroine? When I first saw the show, it threw me off, especially as no one really comments on her name being unusual."
+Helen: Hmm. Well, there's not a linguistics history so much as there is Joss Whedon history.
+Kristin: Mmm.
+Helen: He was asked about it in an interview, ages-I think 2003? And he said, "It was the name I could think of that I took the least seriously. There is no way you could hear the name Buffy and think, this is an important person. To juxtapose that with vampire slayer just felt like that kind of thing, a B movie. But a B movie that had something more going on, that was my dream."
+Kristin: What do you think…
+Jenny: Huh.
+Kristin: 'Cause that's, like, the kind of stuff I had in my head as well. That like, the name was picked to specifically turn…you know, the idea of a tiny blond girl in the alley-
+Helen: Mmm.
+Kristin: Who could kick your ass on its head. So, why not get-you know, why not pick a name-right, like you said, that you would take the least seriously. But like, is there anything to that? Is, like, putting a Y on the end of a name part of what our brain takes less serious-like, you know? Is there more there?
+Helen: I don't know, I think it's quite a soft-
+Jenny: [simultaneously] It's the Y that makes you take it less seriously? [laughs]
+Kristin: Oh, you mad, Jenny? [laughter]
+Helen: It's quite a soft-sounding name, isn't it? Maybe because of the Fs. Like, it's a name you can imagine someone giving their cat and you wouldn't think that odd. But-
+Jenny: Yeah.
+Helen: I had seen some people speculating that he named her after Buffy St. Marie, the Canadian musician.
+Jenny: Mmm.
+Helen: Buffy St. Marie would be a cool name icon. But I hadn't seen Joss Whedon confirm it. And apparently the network really hated the title. And he refused to change it.
+Jenny: Yeah, stuff it, network.
+Kristin: Yeah. [laughs]
+Helen: Exactly. But I wonder how many people with the full name Elizabeth there are…who use this shortening.
+Kristin: How the hell do you get from Elizabeth to Buffy?
+Helen: Oh, people are wild, Kristin, with their [laughter] nicknames. Like, Peggy being short for Margaret. How did they get there?
+Kristin: What? Like…
+Helen: Absurd.
+Jenny: Yeah, yeah.
+Kristin: Yeah.
+Jenny: And Molly being short for Mary? Which it's not any shorter than. [laughs]
+Kristin: [simultaneously] Not short. That's an extra letter. [laughs]
+Helen: No. People go a lot of places with Mary. Also, the-Elizabeth means, like, sabbath. So that's interesting as well, to think, like, Buffy means-
+Kristin: On the Hellmouth.
+Helen: Something as religious as that.
+Jenny: Mmm.
+Kristin: Well, I mean, it's such a Christian…
+Jenny: [simultaneously] She is always wearing a cross.
+Kristin: Yeah, I mean. That's actually kind of cool, maybe unintentional, but-
+Helen: Mmm.
+Kristin: Because there is such a rooted-ness around the Hellmouth and there's a lot of Christian shit in this show, as we have talked about a few times.
+Helen: That is true. Not so much Jewish shit, though?
+Kristin: No. As a matter of fact, like, the exact opposite. Because Willow is Jewish. We're doing-one of the deeper dive episodes we're gonna do this season is actually gonna talk about that. Because Willow is Jewish, in the fact that she says she is Jewish and mentions it, like, two times-two to three times, you know, in the series, and it's kind of not spoken about. But it's really interesting when-I mean, for a million reasons. But one is that, like, she's on a Hellmouth and, like, there is no hell in-[laughs] you know what I-
+Helen: Mmm. It's just a mouth.
+Kristin: Right, it's just a mouth, just a mouth.
+Helen: Just a sinkhole.
+Kristin: Maybe, like, a good place to go from the Christian Hellmouth is the-all of the Latin used-
+Helen: Woof.
+Kristin: In spells. And we got two questions. One is broad and the next sorta narrows it down in a very fun way, if I do say so myself. But-do you know how to pronounce this name, this Scottish name? Iain? I-A-
+Helen: Iain. Yeah. Yeah, just "Ian."
+Kristin: It is just "Ian?" It's just the extra I in there. Okay. Yeah, Iain from cloudy Scotland asks, "Why is Latin still associated with spooky things?"
+Helen: That's a really-
+Jenny: [simultaneously] Well, it's a dead language, Kristin! [laughter]
+Helen: Yeah, it's a ghost language that just won't die! [laughter] I think because it is a language of religion. Like, it was the official language of Catholicism until really recently. I think until the 1960s. And not only that, it was also the language of science. And for a long time, there was so much more crossover with what we would now separate into, like, magic or occult and science than there is now. So broadly, I'd say that was it. And then you have, like, a lot of things that-yeah, were scientific then, like alchemy, where people were just trying it. And now you would think, well, that's some crank stuff, trying to turn, like, a sandwich into gold or whatever. But-[laughs]
+Jenny: Mmhmm, mmhmm.
+Kristin: Right…
+Helen: In pursuit of immortality-
+Jenny: [simultaneously] Mm, crazy until it works.
+Kristin: Yeah! [laughs]
+Helen: Right, exactly. Or like, necromancy. That was in Latin as well. So I think that was another thing. People were intoning this stuff in quite serious and boomy and repetitive ways.
+Jenny: Mmhmm, mmhmm.
+Helen: And if you associate Latin with that, then it's not much a leap to be like, okay, well, use that because people automatically feel the kind of thing where it's like, familiar but unfamiliar. It feels historical and elevated and mysterious, but comprehensible enough just because if you speak a language derived from it, you're like, oh, that word sounds a bit like this-
+Kristin: Mmm.
+Jenny: Right, right.
+Helen: But Latin's very privileged. It's got all this respect and this, like, global botanical and scientific impact. Then you're like, why did you get it? Just-you know, the Roman empire fell in, what? 450 AD? Yet Latin's still going great. [Kristin laughs] For a dead thing.
+Jenny: Going strong.
+Kristin: I'm-I'm like-
+Jenny: Even being dead, cannot stop it from pervading.
+Helen: [laughs] 'Cause people just keep perpetuating it. You know, I'll just take the Latin out for one last dance.
+Kristin: Yeah, and it's never the last dance. [laughter]
+Helen: Never. Just keeps on dancing.
+Kristin: I'm-and I know that Jenny's gonna take us into this next question. But I'm stuck on the idea that, like, science and magic-or, like, what we would consider now as science and magic were once so intertwined. And like, all of the things that actually were provable became, like, what is science and all of the things that perhaps have not been, like, proven yet have-like, were siphoned off into the magic bin. I'm just gonna be, like, thinking about that for a while. [laughs]
+Helen: Yeah. Well, it just stops you feeling too arrogant, really. Like, when scientists are like, "We've definitely solved this thing forever." And you're like, well, I mean, for 1600 years, they thought that the four humors was how, like, human bodies worked and how medicine worked. And then-
+Kristin: Right.
+Jenny: Mmhmm.
+Helen: Had to put that in the bin.
+Kristin: Right.
+Helen: So it just stops you from getting too unequivocal about stuff. That's not to say that I'm like, "ivermectin, brilliant." [Kristin laughs] Far from. You know, there's certain sensible assumptions you can make based on the knowledge of the time.
+Jenny: Zooming in a little bit.
+Helen: Mmm.
+Jenny: We've got a question from Steven, also from Scotland. Everybody in Scotland wants to talk about Latin.
+Kristin: Oh, wow, yeah.
+Jenny: And Steven writes, "Hi, Helen."
+Helen: Hi.
+Jenny: "Fan of this pod and yours."
+Helen: Thank you so much.
+Jenny: "My question is about the spells. There's lots in Latin, Sumatran too, maybe? And I'm sure there's a mix of meaningful words and lorem ipsum-like filler." Gotta come back to that. "But the one that always stuck in my head was Anya's accidental rabbit summoning, in Season 6's Tabula Rasa-" or Tabula Rasa [pronounces it ray-sa] if you're Helen.
+Helen: I don't know!
+Jenny: No, I believe you.
+Kristin: [simultaneously] We trust you. [laughs]
+Helen: Don't trust me.
+Jenny: "The spell goes, 'Bara, bara himble gemination' for the initial casting, then 'himble abri, abri voyon' for the attempted reverse. Is there any linguistic basis in this? Gemination is duplication, but I can't see any suitable translation or meaning for the rest. I'm sure there's lots of other interesting ones throughout the series, but I just love the line reading of this one." Helen, help.
+Helen: [laughs] And you really sold it, I guess, 'cause from what I can see, it is a real mishmash of [laughter] things that don't really go together. So I ran each individual word through Google translate. And-
+Jenny: Mmm.
+Helen: The "bara" is Swedish for "only." Is it "hindle" with an N or an M?
+Kristin: I think-
+Helen: Either way, I think that might be, like, a slightly archaic spelling of "humble," in olden times. It was also a name, apparently for people who are very diligent and very logical, and popular with coworkers. And what else? Gemination, that's a linguistics term for, like, a lengthened consonant sound, which is not something we really fuck with in English. "Abri" is French for shelter, and "voyons" with an S-but I don't know if it officially has an S or not-is French for "let's see." So you put all that together-
+Jenny: Wow.
+Helen: And you've got, like, "only, only, humble, lengthy consonant, [Kristin laughing] humble, shelter, shelter, let's see." [laughter] And then some rabbits come.
+Kristin: I mean-
+Jenny: Yeah, you could see why this didn't work.
+Kristin: You laugh, but Jenny's entire studio is full of rabbits right now. [laughter] 'Cause-
+Helen: Yeah.
+Kristin: She spoke that Latin slash other words in front of the books, as they say.
+Jenny: Uh-huh.
+Helen: Very powerful.
+Kristin: Yeah, it sounds like they just kinda threw-it sounds like the "let's see" at the end really is the answer to the rest of it. They were just like, I dunno. [laughs]
+Helen: Yeah. It's odd, because these words aesthetically don't really sound like they belong together. Maybe this is just because you're like, yeah, Latin, I'm used to that sounding like a spell 'cause that's what Latin prayers sound like. Whereas this, like, gemination and himble are…like, so-like, "himble" sounds kinda cute, "gemination" is not a term that I had known before, but a technical term. And then "bara, bara" sounds kind of more poetic-and "abri, abri" because they're doubled.
+Kristin: Yeah, and Steven said that gemination is duplication which that would make sense, because-
+Helen: It does, yeah.
+Kristin: Rabbits are, like, you know, duplicating. They're-whatever, you know.
+Helen: Yeah. And I suppose if you've got a double consonant, why not extend that to double rabbit?
+Kristin: Ahh, yes, yes, yes. I see how it fits in with the consonant thing.
+Helen: It's tenuous-
+Jenny: Mmhmm, mmhmm.
+Helen: [laughing] Tenuous to try to apply it to rabbits. [laughter] "Let's see" makes sense, I suppose. With an experimental incantation.
+Kristin: Yeah. Folks want us to get into Faith, and we're gonna get there. But I wanna just go into-I wanna just dance a little bit into the 90s before we get to Faith.
+Helen: Mmm.
+Kristin: Mary Megan writes in-I always love-I think Mary Megan has written in before. Because when I was in college, I had two roommates and their names were Mary and Megan, and I'm always like, oh. [laughter] My roommates, my college roommates are here.
+Helen: Amazing.
+Kristin: Mary Megan from Connecticut said, "I'm really curious about the etymology of 90s slang 'wigging.' In Buffy, we hear characters say 'gives me the wiggins, wiggie, and wiggin' out,' excuse me for paraphrasing. Where does this come from?"
+Jenny: Helen, I know how you feel about wigs. [Helen laughs] So. Do you feel emotionally prepared to answer this question? [laughter]
+Helen: Love to see people on television having to wear wigs that must be very hard to act whilst wearing. [laughter] Credit to Kristin Bell, for [laughter] getting through so many difficult wigs. Wigging out, you say, is 90s slang. It's not, it's 1950s slang.
+Kristin: Mmm.
+Jenny: Wow.
+Helen: And it was probably, like, saying "to flip your wig." You know, if you're wigging out, like, you're in such a state of agitation that your wig is dislodged. And I think that kind of slang has actually been around for, like, way longer. I guess, 'cause like, wig-wearing was associated with fancy people of the past. And like, if you had a really tall wig, it was like, such a status symbol. Like, the taller, the better, for the more power. So like, that's why you had "big wig" as well, like, if you had a big wig, you were an important one.
+Kristin: Ohhh.
+Helen: Even if it was a metaphorical wig, I suppose.
+Kristin: Wow, and Jenny connected that to your feelings about wigs. I didn't even realize that the answer was going to be rooted right there, in wigs. [Jenny laughs] I should have known better.
+Helen: But also, like, wig was used as an analogy for the human head, which hair is, often, as well.
+Jenny: Mmm.
+Helen: What's it, like, poll? Like, the word poll, like, when you go to vote. It was 'cause they would count-they would use that-they would, like-counting people, doing a headcount. But they would say "hair" instead of head count. So I think wig was similar. And then, you had a lot of, like, early 20th century African American slang, which is where I think the whole flip on wig came from, and lots of other things. What else does he-
+Jenny: Oh, wow.
+Helen: A wig picker was a psychiatrist. [laughs] In, like, the 1960s.
+Jenny: [simultaneously] Ohhh.
+Kristin: [simultaneously] So "wig" really was just, like, a shorthand in a lot of cases for your head.
+Helen: Yeah. And then "wiggins," that's a Joss Whedon-ism. And to be fair to him, I don't love to give him credit, but that is a convincing-sounding slang to come up with, I guess because "wig" was already in people's vocabularies and it's quite a funny sounding word, "wiggins." "Gives me the wiggins."
+Jenny: Yeah, yeah.
+Helen: Damn him.
+Kristin: Yeah, he did a lot of, like, pluralizing, right? Of things and like, adding S's to the ends and changing the form of words for comedy. And just, like, to kinda create-not his own language, but kind of, like, one step maybe below that.
+Helen: Yeah, that's pretty smart, isn't it? Take something familiar and just modify it enough that it seems particular to this.
+Kristin: Yeah. Which I feel like is what-I mean, like, I remember being in high school and playing with words like that as well.
+Helen: Yeah.
+Kristin: You know, like, sort of hearing it done to some other word and then taking that and applying it to something else. And you know, that was my experience growing up, so I'm sure that it happens-you know-
+Helen: Totally. Totally.
+Kristin: When you're of an age where you're sort of, like, familiar with your language enough to play with it.
+Helen: Yeah. I think it's a very human impulse, isn't it, to get creative with it. You've got a lot of opportunities, since you have to use it all the time. Do you think that his original phrase was "gives me the Whedons." [laughter]
+Kristin: We can change it to that now. [laughter]
+Jenny: This kinda connects nicely to a kinda similar email from Emma, who wrote in to say, "Buffy the Vampire Slayer is credited as being the first time Google was used as a verb when-in Season 7, Episode 4, Willow asked Buffy, 'Have you Googled her yet?' I'd love to hear your thoughts on pop culture verb-ifying nouns into actions."
+Helen: Well, that's a human thing, again, is-this is a form of-
+Jenny: Mmhmm.
+Helen: Language play that is-people get so pissed off about it and they think it's newfangled. But it's been going on for as long as English language has been going on. It's-like, turning a verb into a noun is called denomelization, I think. I would-probably just calling it nouning a verb or verbing a noun. 'Cause I can't remember linguistic terms. So I don't think that's unusual. I think the truth of it wasn't that this was the first time Google had ever been used as a verb, but it may have been the first time Google was used as a verb on television.
+Jenny: Yeah, yeah.
+Helen: 'Cause this was 2002, and I think it had already been used as a verb by 2000. But I will say, like, teenagers and specifically teenage girls tend to be, like, a decade or more ahead of linguistic change. So people often discredit the way that teenage girls speak, and actually should be studying it to see what's coming.
+Kristin: Oh, now we're in it.
+Jenny: [simultaneously] Ohh. Harbingers of what's to come!
+Helen: Yeah.
+Kristin: Tell me more! Could you just say that five times? You know-[laughs]
+Helen: Well, I'd recommend the book Because Internet by Gretchen McCulloch, which is a very interesting read.
+Kristin: Mmm.
+Helen: [laughs] But Google were really pissed off about being used as a verb. And you would think most brands would be, like, pretty thrilled to get to be the generic term for something. 'Cause it does mean that they have wiped the floor with the competition and even if the company dies, for whatever reason, they can be remembered. But they did this blog post in 2006 with lawyers, saying which ways were acceptable to use the word Google and which weren't.
+Kristin: [laughing] What?
+Helen: So it was basically a passive aggressive request for people not to use it as a verb, 'cause they only wanted you to say Google if you actually meant using Google.
+Jenny: Boo. Shut up, Google.
+Kristin: What?!
+Helen: [simultaneously] Sad sacks.
+Kristin: I mean, seriously.
+Helen: [simultaneously] You already wiped all the other search engines off into, like, some sad little pan of dead search engines.
+Kristin: I mean…like, imagine Kleenex was like, "Um, could you actually only call our tissues Kleenex?" [laughter] Like, what would the basis be of-right. I mean-
+Helen: Yeah.
+Kristin: It's just like, if you're popularized that much, how could that be bad? [laughs] Weird.
+Helen: Yeah, well, it'd be terrible for the other manufacturers for tissues. But not for Kleenex. [laughs]
+Kristin: Right. Not for-right.
+Helen: I mean, lucky them.
+Kristin: Right, like if-right. If some other brand of tissue was like, "Actually, you cannot use Kleenex to describe our tissues" that would make sense. But wow, that's fascinating.
+Helen: Yeah. Rude. You can't control these things. Once they're out, people are gonna use it how they want. And your blog post is not gonna change that. Also, the word Google as a verb had been around, actually, since the early 20th century as a cricket term. Which I'm sure you all-[laughing] well across of.
+Kristin: [sarcastically] Oh, yeah, of course. What does it mean in cricket?
+Helen: Oh, don't-I don't give a shit. [laughter] Some kind of ball thing. [laughs] From a googly shot-I grew up with a lot of cricket in the house and I refuse. I refuse to understand-
+Jenny: Mmm.
+Helen: What a googly actually is. [laughter] It's my form of rebelling against my childhood.
+Kristin: I mean, I just, like-first of all, I wanna read that book that you mentioned, about teenage girls being ahead of linguistics, 'cause I love that.
+Helen: Mmm.
+Kristin: But also, just talking about this-and I know, like, the whole point is that we're talking about, like, making up words and what have you. But that's what language is based on and it just always brings me back to this ongoing conversation on pronouns and how people are just constantly like, [Helen sighs] "But that's not how you use the word," which is, like, both inaccurate and also, even if it were accurate, language is evol-like, language is something that evolves.
+Helen: Yep. Can't stop it.
+Kristin: Yeah. Yeah! So-
+Helen: Just release yourself from that angst. I did, and my life's been the better for it. [laughter] I'm much less of an asshole to other people as well, which is a definite bonus.
+Kristin: It's just like, words are things we play with. And like-clearly, because we don't use a lot of the words we used to use and we use all new words. Anyway.
+Helen: Right. You can tell your cat to stop clawing your face. But it doesn't respond to that command. [laughter] And what you could do is introduce something else that is even more fun to claw.
+Jenny: Ooh.
+Helen: But…
+Kristin: Yes, than your face.
+Helen: Or linguistic equivalent.
+Kristin: Well, let's take a little detour over to Faith, because-
+Helen: Mmm.
+Kristin: I wanna know what you think about this, but so did Bridget from South London. [Helen laughs] Who asked, "What is Helen's take on Faith's catchphrase, five by five?" We've done a lot of talking about this in the podcast space, so what do you think, Helen?
+Helen: Oh, have you covered where it's from?
+Kristin: We've covered various places where it might be from, but then the one I think we landed the most-that stuck the most-was, like, truckers, over the radio? Right? Was that…kinda where we landed, Jenny?
+Jenny: Uh, or did it have something to do with sailing? Helen, help us!
+Kristin: [simultaneously] See, so this is kinda where we live with it. [laughs]
+Helen: Yeah. It is, like, a radio communications thing, primarily from the US military in the 1940s, and the five-point scale they had for clarity and signal strength. So five by five was, like, top notch for both those things-
+Kristin: [simultaneously] Right. Right.
+Helen: So it just means, "I understand you perfectly." Fine. My take is, where did late-90s teen Faith get hold of this?
+Kristin: Well, she probably, like-honestly, Faith-Faith's story could have easily included, like, hitchhiking-you know, like, hitchhiking and grabbing rides with truckers. Can't you see Faith, like, getting down to Sunnydale?
+Helen: That's true, or maybe she spent a lot of time in childhood with World War 2 vets. Or she watched Aliens a lot, apparently they use it in Aliens.
+Kristin: Yeah, they do use it in Aliens. [laughs]
+Jenny: [simultaneously] Oh, yeah.
+Helen: And Alias. [laughter] But it's funny, isn't it? It's like when…I don't think this show is too bad for it. But a lot of teen dramas, you're just so conscious that the writers are 30-plus years older than the characters-
+Jenny: Mmhmm.
+Kristin: Mmm.
+Helen: And have not taken account of that. And maybe it would be more embarrassing if they were trying to be, "How're you doing, fellow kids?" [laughter] But you could maybe hire some young writers, or do what Clueless did, which is, like, invent a whole system of convincing-sounding slang that isn't real and therefore it doesn't get embarrassing.
+Kristin: Yeah.
+Helen: But it's like in the Gilmore Girls, where like, Rory Gilmore has no references from art or media of her lifetime-
+Jenny: [simultaneously] [snorts] Dude…
+Helen: I think that's the worst example of it. So with Faith, like, I don't think it's as bad as that, but it still seems tenuous to me.
+Kristin: Yeah. I mean, Faith-on the one hand, Faith-I was just thinking. She's probably the character that plays with language the most? Although, Willow also does a lot, I think, with her language and like, changing words around. But I do feel like Faith is somebody who specifically comes in with a different set of words, from like, her background and where she's coming from, and seems to play with them a lot as well.
+Helen: But she's not explicitly a time traveler or anything. She's not Donna Quantum.
+Kristin: She's not. She's really not.
+Jenny: [simultaneously] Not that we're aware of.
+Kristin: And you made me think of the creator of My So-Called Life, when you were talking about that, who I remember reading a lot about how she sat and talked with them constantly-and the cast was notably mostly, like, 14, 15-
+Helen: Yeah.
+Kristin: Were actually young high school students. And so, that show-to me, at least-stands apart as one where the way they talk was exactly how I talked when I was in high school in the 90s.
+Helen: Yes. Agreed. I think that was the first time that I was really conscious of people saying "like" in the way that now, I use it all the time.
+Kristin: Mmhmm.
+Jenny: Oh yeah.
+Helen: But I guess on TV, before, it just wasn't really written like people actually speak.
+Kristin: Yeah. Yeah.
+Jenny: Alright, coming in…from Barbados, this question is from Khalil, who asks, "While I am conflicted about Season 6, I do like the scenes where Giles shows up with borrowed magic to fight Dark Willow." Spoiler for some episodes you missed, Helen. [laughter] "He borrowed the magic from a coven in Devon. What is the origin of the word 'coven'? Did it always mean witches?"
+Kristin: I love this question.
+Helen: [simultaneously] No. It has the same root as "convent" and that's what it meant. [Jenny and Kristin gasp] For men, as well. And it's basically, like, you know the word convene? It's the same word as that. Like, it's a coming together or, like, an assembly, so people gathering. And I guess a convent was where people gathered to do religious observance.
+Jenny: Wow.
+Helen: And then it became witchy in the 1660s, probably. I don't know whether that was just, like, a particularly hot time for witch gathering. When was, like…I would have thought, like, the big times for witch burnings were a bit earlier than that. But maybe that was one-off witches, rather than covens.
+Kristin: Well, when was the pla-when was the big plague? [laughs]
+Jenny: The big one?
+Helen: Oh. Well, there were a few big plagues. But there was one that ended in 1666, so.
+Jenny: Auspicious.
+Kristin: [simultaneously] Isn't that the plague-[laughter] but isn't that the plague where we got the root of alewives from? Because alewives were making beer, which people would not-they could drink without getting sick, because they were boiling the water. But they didn't, like, connect the fact that it was the boiling of the water that made them able to drink the beer. So people were drinking a lot of beer, and alewives were making a lot of beer. And then they were making money on their own and they didn't need husbands. And then they were defamed by, you know, the Catholic church because the Catholic church didn't want women making their own money. And that's where they got branded as witches, and they wore pointy hats-
+Helen: [simultaneously] Can't trust a single independent woman.
+Kristin: So-and I don't know if I have the right plague. But I do know that if I do, then that would make a lot of sense for coven to also be pivoting around that time. Because it was really when, like, the idea of a witch was kind of…like, first branded, almost-literally, kind of branded. Like, marketed. [laughs]
+Helen: It was popularized by an earlier plague, in the 1300s. And actually by the 1600s, the men had managed to come in and, like, seize the brewing industry.
+Kristin: Ahh.
+Helen: And start pushing out the alewives. Fuck's sake. So. [laughter] I don't know if it had as much to do with witches. It was a lot of, like, religious turmoil that may have resulted in people being like, you know what, let's take it out on the witches again. [laughter] It's always an easy win.
+Kristin: God. God.
+Helen: The term-like, even though it had been around for witches since about 1660, it didn't really take off until the 1920s when the anthropologists and folklorist Margaret Murray popularized this idea of witches gathering in covens of thirteen people, as a sort of witchy analog of Christ and the twelve disciples. But this theory is, like, widely discredited. [laughs] And then someone else was like, well, it might just have been that thirteen was a convenient number to fit in a nine-foot coven house. I don't know where they get this shit from, honestly. [laughter] I think witch history and science is not necessarily built on the most solid foundations, you know? [laughs]
+Kristin: But it's-you know, you have to really raise at least one eyebrow at how much connective tissue there is between Christianity and these concepts of magic and witches and covens and-you know? Like, they just always seem to be together. They always seem to be hanging out.
+Jenny: [simultaneously] Yeah, it's like-it's almost as if the church doth protest too much. Me thinks.
+Kristin: A little too much, yeah. Just a wee bit too much.
+Helen: Yeah.
+Kristin: Covens of nuns is good.
+Helen: [simultaneously] The Wile E. Coyote to witches' Roadrunner.
+Kristin: [laughs] Let's go to Cavy's question. Cavy wrote in from California. And this goes back to the beginning of the show. "Why does Giles' book from Episode 1 have 'Vampyre' spelled like that?" I hope that I communicated the spelling to you by my pronunciation, listeners. "Is that like an older spelling of vampire? Is it just dramatic flair? I don't think I've ever questioned it before, but now I'm dying to know."
+Helen: Oh, please don't die. [laughter] It's "vampire" with a Y?
+Jenny: Indeed.
+Kristin: Yes.
+Helen: Was pretty interchangeable with vampire with an I when it first landed in English. Actually, I think the first appearance in English was with a Y. We probably got it from French or German, but it was based on-it's a little unclear. But it's based on Hungarian, possibly, or Slavic languages. And it was because, at the time, they were doing a lot of coverage of the Serbian vampire epidemic of 1725 to 1732.
+Jenny: Oh, of course.
+Helen: Apparently there were a lot of Eastern European vampire epidemics.
+Kristin: What is a vampire epidemic?
+Helen: I…assume an epidemic of vampires. Imagine Covid, but for vampirism. [laughter] And no vaccine. No mask is gonna save you.
+Kristin: They're like, "We have a new variant," and Spike puts on his leather coat.
+NOTES: [laughter]
+Helen: Makes people kind of sexy and nocturnal. I'd imagine there was, like-they were probably dying of some blood disease. And they blamed it on vampirism. But like, they'd been writing about vampire-like creatures in English for hundreds of years before that, so the concept wasn't new. They just didn't really have the word in writing. Maybe it was too powerful to put in writing, I don't know.
+Jenny: Mmm.
+Kristin: Mmm.
+Helen: But like, when it did appear in writing, it wasn't that people felt the need to explain it, which suggests that people already knew what a vampire was. In-like, in talking.
+Kristin: Interesting.
+Helen: So anyway, with the Y, I imagine that it was partly 'cause, like, spelling was a lot more flexible then. It wasn't really standardized, and it had come from foreign languages. So that was another element of, like, witches? I don't know, just go with the flow. And then in the show, they're just gonna choose whatever looks the most arcane, aren't they?
+Jenny: Yes.
+Helen: Like, they would use a long S if that was relevant, or a V instead of a U.
+Kristin: [simultaneously] The old-yeah, like it's supposed to be an old book, yeah.
+Helen: Yeah. Exactly.
+Kristin: Maybe you don't know the answer to this question, but like, it never occurred to me that spelling was once not standardized-you know? Like, just hearing you say that so casually, I was like, wait. So before, you could just spell things like they sounded to you in your head, and that was fine? Like, how did it-why did it change?
+Helen: Oh, well, like you were saying earlier, [laughs] with people being like "rah-rah, pronouns are written in stone and have been handed down from the lord." [laughter] And that has never been the case. It's the same with spelling. Like Shakespeare, there were so many different ways he spelled his own name. And I think it's partly just because there wasn't as much geographical mingling of people. And not as many people were able to write.
+Jenny: Mmhmm.
+Kristin: Mmhmm.
+Helen: So when you get people more able to write and then more able to see what other people have written, from different regions, you're then like, oh, what the shit? But I think it was also just a couple of hundred years ago or more, there was a bunch of, like, grumpy men who decided just to impose a lot of rules on language. And make it how they thought-they really thought it should be like Latin.
+Kristin: [simultaneously] [sarcastically] Weird. That's weird, that that happened.
+Helen: [simultaneously] On the English language, specifically. I mean, there's still people doing that in, like, French. They've got an official body to decide what spelling's allowed. And English doesn't, so you've just got these, like, compromises.
+Jenny: Mmm.
+Helen: That's why a lot of spelling doesn't make sense, 'cause it's chaos.
+Kristin: Yeah, yeah. Yeah, when I was asking the question, too, I thought-I was thinking of, like, the printing press and, like-
+Helen: Yes! Yes.
+Kristin: As people were able to, like, distribute things-you know, like, wider distribution, more communication.
+Helen: Yeah.
+Kristin: If we all agree to spell this word like this, then we'll all know what we're talking about. But I kind of-I have to say. Maybe I'm just feeling a little chaotic today, but I kind of really would like to take a few steps back. And just, like, be able to have a good time. [laughter] And spell words how we want to spell them.
+Jenny: [simultaneously] No good times allowed. Those days are past.
+Kristin: [laughs] Yeah. How very non-man of me. [laughter] Well, okay. So we have a couple of questions left, and I wanna ask you, Helen. 'Cause one of them is sort of like a big question about fantasy. And I don't know if you wanna go there, or you wanna end there.
+Helen: I want to go there, please. So we don't end on a low.
+Kristin: Okay, so this question came in from Kat, who says, "Thoughts on the recent prevalence of conlanging?" How do you say that word, Helen?
+Helen: Uh. Yeah, conlanging.
+Kristin: [quietly to self] Conlanging?
+Helen: [simultaneously] Conlang is, like, shortening of constructed languages. So-
+Kristin: Okay, okay, conlanging.
+Helen: [simultaneously] Languages that have been invented recently. And then conlanging is that in action.
+Kristin: Great. Okay, so I'm glad I stopped there, because I needed to know what that word even meant before we went further.
+Helen: Very fair question. [laughter]
+Kristin: "Thoughts on the recent prevalence of conlanging in fantasy, versus just making shit up as you need it, versus using a real human language that's unlikely to be understood by the viewer? Going on David J. Peterson's Wikipedia, there's a lot of conlangs he's made for TV and film that were only used for one line or a couple of names. And to me, that seems like an awful lot of effort. But when you use a-"
+Helen: To you, it does. But to David J. Peterson, it is not. [laughter]
+Kristin: "But when you use a real human language, that has its own cultural implications a lot of the time. My aforementioned ling slash con/sci partner thinks that TV writers should use Icelandic a lot more, because it sounds very unusual to English speakers without running into the problem of, quote, let's use Arabic because it sounds harsh and exotic, end quote, et cetera. And when you just make things up, you run the risk of them sounding very silly." Wow, Kat.
+Helen: Yeah. Well, you just made the case, Kat, that when you just make things up, you run the risk of them sounding very silly. Which is why people hire conlangers like David J. Peterson to make up something that sounds like a plausible effort. 'Cause you say it's a lot of effort, but it's so much more effort for actors to have to extemporize some realistic-sounding fictional language. And then for that to be consistent with what the other actors are doing. I think that's how Klingon started, and then they needed more of it for the show. So then they brought in Marc Okrand to develop it, based on what the actors had done. But it was, like, quite challenging for the actors to have to deal with it, before that. So David J. Peterson has written-has constructed languages for lots of fiction. He came on The Allusionist a few years ago to talk about making Dothraki and Valyrian-
+Jenny: Woo-woo!
+Kristin: Cool.
+Helen: For Game of Thrones. And I read his book about constructing languages, which is intense! [laughter] 'Cause he goes deep!
+Kristin: [whispers] Wow.
+Helen: I was like-'cause we were talking about how much history he constructs for the language. 'Cause you have to take into account a lot of things, like the geography of a place, how that might have influenced the kinds of words people need or the kind of sounds they make. And then, just all these mistakes that are in language. Like, it's not consistent at all. Like, English is full of all these idiosyncrasies that don't really make sense. And he has to come up with that, so that the language isn't unrealistically perfect.
+Jenny: Mmm.
+Helen: And then you-like, it's just incredible how much stuff you have to think about. So probably, if in Kat's example, he's only had to come up with one or two lines, he's not gonna figure out thousands of words for it and a whole grammatical system and a whole writing system and a whole etymology. But I said to him, like, how much etymology do you make up then-well, not "make up," that would be insulting to him. How much etymology do you figure out, if you're trying to do quite a full-sounding language? And he was like, "Oh, not that much, only about a thousand years or so." [laughter]
+Kristin: Sure! Okay.
+Helen: But he said that in Game of Thrones' case, the producers had tried to make up some for the auditions. And they were really disappointed with how silly it sounded. And he's like, if you're spending millions on production and on a set and costumes and stuff, and you're inventing a world, it's so cheap to hire someone who constructs languages. Because people are really sensitive to this stuff if it sounds unreal. And some people get so into it, as well, that they then want to learn it. And if it doesn't work, they're like, wait a minute. So you might think that's a waste, but when you consider what the budget probably is for the wigs, and how bad the wigs are. You're like, you probably could spend a little bit more to get better wigs.
+NOTES: [laughter]
+Jenny: I loved hearing David J. Peterson talk in that episode that you had him on The Allusionist for, about like, how stressed out he was about the book spelling of the word Khaleesi and how it just, like, fucked up his whole day, in terms of, like, constructing the language around it-
+Helen: [simultaneously] His whole decade.
+Jenny: And how he just could not…
+Helen: Yeah.
+Jenny: It just could not make sense to him.
+Helen: Yeah. It doesn't work, as spelled-[laughter] the problem in brief, and he talked for several minutes about this word-is that the way that it's spelled would be pronounced differently to how they pronounce it. But the way that they pronounce it is only because, like, when an English speaker sees the double E, you pronounce that "ee." Whereas in the Dothraki system-or is it-? Yeah, it's Dothraki, isn't it-it would be kha-lay-uh-see, so two syllables. But he was like, the trouble is, no one has read Dothraki 'cause it's not a written language. So no one would be able to say "Khaleesi," it's impossible. [laughter] And…that's just gonna torment him forever. He was like, they should have re-spelled it. Because he was, like, working off the 50-odd words that George R. R. Martin had invented in the books. He was like, I'll incorporate that.
+Kristin: Right.
+Helen: And he didn't want to change them, but now he lives with regret-
+Kristin: Wow.
+Helen: About this impossible word. But I would say about Icelandic, I don't think Icelandic is the solution at all. I think maybe your partner in linguistics chose it because it's spoken mostly by white people, so that's why they thought it doesn't have the problems of Arabic, and there's only, like, 300,000 Icelandic speakers. And they have a pretty good standard of living. So. They're not discriminated against like other speakers of other languages might be. But Icelandic is an endangered language. And maybe it doesn't want whatever associations it would get from the fictional universe it's being poured into. Like, you say it wouldn't have the same problems as using Arabic, but no language is neutral.
+Jenny: Hm.
+Kristin: Yeah. Very interesting.
+Helen: And then some people will recognize it, 'cause-
+Kristin: Right.
+Helen: It is similar to Scandinavian languages, and there's quite a lot of that in English as well. So maybe it wouldn't sound foreign enough. Maybe this is why they use Latin so much, actually, 'cause you're not offending ancient Romans now, 'cause they're dead.
+Kristin: [simultaneously] No one-right, right. I guess I just never-like, I didn't know Klingon. I didn't know about the existence of Klingon. I didn't know-like, even when I knew the word Klingon, I didn't know until very recently that it was an actual language that was created by someone. Which I find fascinating. And I don't-like, I'm meandering to this question. But-and maybe you don't know the answer-but was Klingon one of the first times that this was done for a show? Like, the first time? Like-were languages made up for other TV shows before Klingon?
+Helen: I don't know the answer to that question. That's a really good question.
+Kristin: Well, write to us.
+Helen: [simultaneously] I think it certainly popularized it, because so many people learned it, that it had a life outside of the show. That was another thing David J. Peterson was a bit disappointed by. He hoped people would do that with the languages he made for Game of Thrones, but he said they didn't, really. It might have been 'cause the audience was a bit older and-
+Kristin: Right.
+Helen: A lot of kids liked learning Klingon.
+Kristin: But also, you can't really know what the lifespan of it will be. I mean, even if-
+Helen: That's true.
+Kristin: You know, like, even if that isn't a thing right now, I feel like fandoms especially, like, evolve over time. So it could have its time.
+Helen: That is very true.
+Kristin: [simultaneously] David J. Peterson, don't get sad, okay? [laughter] You might have your time.
+Jenny: Anything could happen. [laughter]
+Helen: I think he's alright. I think he may have just done the language for Dune, or something like that.
+Kristin: Oh, wow.
+Helen: He's a very busy language constructor. I'm happy for him.
+Kristin: What an amazingly fascinating job.
+Helen: Yeah. I think also, you don't get into it expecting it to become a job.
+Jenny: Mmm.
+Kristin: Right.
+Helen: He constructed-he's constructed, like, 50-odd languages. And I think the ones for Game of Thrones were maybe his 17th.
+Jenny: Wow.
+Helen: Some people just love doing this.
+Kristin: I can understand why.
+Jenny: It's cool.
+Kristin: Like, I couldn't do it myself-
+Helen: No, I couldn't.
+Kristin: But it does sound so fascinating and satisfying to me.
+Helen: Did you see the Netflix film, The Christmas Chronicles, where Kurt Russell plays Santa?
+Jenny: Mm-mm.
+Kristin: No.
+Helen: It came out a couple years ago. Apparently, he invented Yulish for that.
+Jenny: Wow. Excellent.
+Helen: The language of Santa Claus and the elves.
+Kristin: Okay, well. I'll be watching that now. [laughter]
+Jenny: "Yulish."
+Helen: [simultaneously] I never knew at the time. It was before I spoke to him.
+Kristin: [laughs] Yulish. What a fantastic name for the language.
+Helen: Did stuff in Thor and Doctor Strange, Lovecraft Country. The Witcher!
+Jenny: [through gritted teeth] Yes!
+Kristin: Oh, hey! So is he just, like, the only guy out there making languages or what?
+Jenny: Well, you do Game of Thrones, I feel like you're probably the first call [laughs] for everybody else.
+Kristin: [laughs] Yeah.
+Helen: That's true. If you're gonna do it-
+Kristin: Yeah.
+Helen: Get the best. Now, there's lots of people who love doing it but I don't know how many of them get to do it for money and television.
+Kristin: Right. David J. Peterson, just taking all the language work out there. [laughter] Well. The question remaining, of course, is reserved for Jenny Owen Youngs, because it incorporates a character that means a lot to her.
+Jenny: Yes. I'm really excited to ask this question, and it feels like the universe is excited too. Because this question is going to name someone who, in this episode, is playing a role called Cowboy Guy. And the local horse-riding instructor just turned the corner onto my street, with her brood of children on small horses. So…just a lot of cowboy, horse stuff-
+Helen: Wow.
+Jenny: Coming together.
+Kristin: Wow. Wow.
+Jenny: It's cool to be me right now. Alright. This question is from Imogen in Oxford. Unclear whether it's Lyra's Oxford, Will's Oxford or somebody else's Oxford. [laughter] Imogen says, "In Restless, Dream Riley keeps calling Buffy killer instead of slayer, much to her confusion. This is a theme that comes up a few times, e.g. Faith in Who Are You, affirming that she's not a killer, she's a slayer. Is there any linguistic or etymological distinction between these terms? What's the history of both of them? In other contexts, I feel like they're used pretty interchangeably. But in the show-"
+Helen: Really?
+Jenny: "A distinction is drawn and becomes quite a defining trait for slayer identity."
+Helen: I…in what other context is "slayer" used? I…don't feel like they're used that interchangeably in my life. But I'm a sheltered person.
+Jenny: [simultaneously] [laughs] You distinguish between when you're killing and when you're slaying, Helen. Okay.
+Helen: Absolutely.
+Jenny: It's important.
+Helen: Absolutely. I think it was-
+Kristin: I agree, Helen.
+Helen: Yeah.
+Jenny: Yeah.
+Kristin: I agree. Wholeheartedly.
+Helen: I think there's a lot of etymological distinction. Those are completely different words. [laughter] I was interested to find that both of them originally meant to injure someone, just not fatally. And then…[laughs] got more fatal.
+Jenny: [simultaneously] And then things got out of hand?
+Helen: Right, exactly. You know, just-you get better at it to the point that people start dying. I also learned that there's a noun called slay. "A noun called-" a noun that is the word slay that means an instrument on a weaver's limb to beat up the weft. Which is from the same root, because it means to strike. But I'm not experienced enough in weaving-
+Jenny: Always beating up that weft, myself.
+Helen: [simultaneously] And then-and there's a last name Slaymaker, who is someone who makes slays. Incredible.
+Jenny: Whoa.
+Helen: As in, slays for the weaving.
+Kristin: For the weaving?
+Jenny: Cool.
+Helen: Yeah.
+Kristin: Wow.
+Helen: So I think slayer was an earlier word than killer. And kill came from, like, an Old English word, cwellan. Which is like the word quell.
+Kristin: Mmm.
+Helen: Which is much gentler than kill, even though it's only subtly different. [laughter] But I think, in Buffy's case, she favors slayer over killer because killer is generic. Right? There are all sorts of people who are killers. Slayer is a calling. Slayer is kind of noble, in that she sacrificed her life for doing that.
+Jenny: Mmhmm, mmhmm, mmhmm.
+Helen: Killer is any old murderer. You know? Or exterminator.
+Kristin: Yeah, it does, it feels more, like, common. You know? Anybody can do it. But is that-
+Helen: Yeah.
+Kristin: Like, in my own mind, you know, I can't really separate it from the fact that I probably came to the word slayer…via Buffy the Vampire Slayer.
+Helen: Yeah.
+Kristin: You know?
+Helen: Yeah. And that's funny, isn't it? Because I don't think any of us would puzzle out what that means, if we'd never heard the word slayer before.
+Jenny: Mmm.
+Helen: But I don't know that-well, I suppose I'd heard of the band Slayer.
+Kristin: Right. [laughter]
+Helen: But that's still marginal, isn't it? It's not in my daily vocabulary.
+Kristin: Also, you made me realize-'cause you said killer-or kill came from quell. There's a demon-one of our least favorite demons in the universe-called the Queller demon.
+Helen: Ugh.
+Jenny: It's really a bummer.
+Kristin: Yeah. He's a nasty, nasty-
+Helen: I'm so sorry.
+Kristin: Little slimy guy. He climbs on ceilings, it's real bad. But I-'cause part of what I love about the word creation in the show are, like, the names of the demons. So it was an exciting little moment for me, that I was like, ooh, we got one anyway. Accidentally, we got the Queller demon, kind of like, his origins. Where that-what that word means. And, like-
+Helen: [simultaneously] Maybe they just liked Ben Kweller. And named a demon after him. [laughter] Or disliked him.
+Kristin: Ohh. [laughs] I hope that's not the case for poor Ben.
+Helen: Yeah. I can't think of anything that Ben Kweller might have done to be immortalized thus. [laughter] Complimentary or not. So is Dream Riley-yeah, he's being disrespectful, isn't he? That's how this scene reads?
+Kristin: I don't even know if you could-it's a very-Restless is such a wild episode. I would-based on all of the wild episodes you have watched, Helen, I think it's exactly where you should go next.
+Helen: Sweet.
+Kristin: 'Cause it's really done-it's kind of like Conversations with Dead People, come to think of it, where it's really, like, quartered. You know? There's like, Xander's dream, Willow's dream, Buffy's dream…and Giles' dream. And so-and they're all, like…very, very, very…I mean, dreamlike, clearly. But it's-like, Dream Riley is Buffy's manifestation of this weird-they're putting on a play [laughing] called Death of a Salesman, which I'm sure you've heard of. But it's like this wild interpretation of Death of a Sales-it's just like, very bizarre-o. So I don't even know that it's really, like, intended as an insult, as much as it is, like, her internalized-
+Jenny: Yeah, it's-
+Kristin: She's really struggling with, like, the darkness inside of her.
+Jenny: Mmhmm.
+Kristin: Like, and really trying to differentiate for herself, like, what makes her a slayer versus what makes her just a killer.
+Jenny: Mmhmm.
+Kristin: And you know-and telling-like, telling Faith that, like, they're not the law. Although now in the current season, she's going to claim that she is the law. It's complicated. But I do think that the-like, those words being put together a few times in the show is for that purpose.
+Helen: Right. So killing is fine as long as the person has a rubber face.
+Kristin: Mmhmm. [Jenny laughs] Precisely.
+Helen: Well, slaying is-that makes it slaying.
+Kristin: That makes it slaying.
+Helen: [simultaneously] If they have a rubber face, it's slaying, and if they have a flesh face, it's killing.
+Jenny: Correct.
+Kristin: Yes.
+Helen: Good.
+Kristin: Unless they have a soul, and then it gets all sorts of confusing. 'Cause then we don't know what to do.
+Helen: Ahh, it's always souls that cause the trouble, isn't it?
+Jenny: Uh-huh.
+Kristin: [laughs] I have a feeling, Helen, that we-in having this conversation with you, we will be asking you to have another conversation with-I have a feeling that, like, many people will now realize that they have burning-
+Jenny: [simultaneously] Realize the error of their ways? In not asking questions?
+Kristin: Yes. I think the linguistic questions that will now come into our inbox willbe plentiful. So I'm hoping for a future that involves perhaps a…Helen 2: the Re-Helening [laughter] episode. [laughs]
+Helen: Yeah. The Helenmouth. [inaudible]
+Kristin: [laughs] Welcome to the Helenmouth! Oh my god. You just titled the special episode. [laughter] Good job.
+Helen: I'd be very happy with this duty. And to the people whose questions didn't get answered, it's not your fault. [laughter]
+Kristin: You didn't do anything wrong.
+Helen: [simultaneously] Don't blame yourself. [Kristin laughs] It's good questions without good answers, just trust me on this. [laughter]
+Kristin: Were there any other things, Helen, that came up for you that you wanted to talk about? You know? You watched all these bizarre-o episodes. You got anything burning in your mind that you just need to get off?
+Helen: I should have asked you-
+Kristin: [simultaneously] Burning in your mind that you have to get off your chest? Is what I was gonna say.
+Helen: Yeah. When embers from my mind fell on my chest. [laughter] And soon they'll get my legs, so. I should have asked you, Kristin, for your selection of episodes. But we've already dealt with the Bovril thing, which has been playing on my mind nonstop, of course, since watching the pilot. [laughter]
+Kristin: Yeah. That was unfortunate for me. It's actually kind of my least favorite thing that you brought to the table with you, Helen. [laughs]
+Helen: The etymology of Bovril is great, 'cause the beef-'cause the "Bov" is like bovine, and the "ril" is like-I think it's a science fiction term made up to mean, like, life force.
+Jenny: Wow!
+Helen: So it's like, beefy life force.
+Kristin: Okay, so when I said what were they sucking out of the cow, you actually had the answer the whole time. [laughter]
+Helen: It's the cow's soul in the jar!
+Jenny: Yeah, yeah, yeah.
+Helen: Oh my god.
+Kristin: Oh, shit! [laughs]
+Helen: This is very serious.
+Kristin: I'll think on-now knowing the episodes you've watched, Helen, I'll think on what-I really do think Restless should be one of your next episodes. 'Cause it's wild. It's one of the most wild episodes I think of the whole pack.
+Helen: Cool. I'll add that to the list. And now I-now I'm not watching it whilst researching linguistic stuff, I can watch Hush.
+Jenny: Yes!
+Kristin: Oh, yes.
+Helen: But I thought I probably need my eyes on that. So I've watched, like, I don't know, 18 episodes. [laughs] But not in order. So maybe, eventually, I'll get through the whole seven seasons. [Kristin laughs] But just one from each season at a time.
+Jenny: Oh my god.
+Kristin: Maybe this is the way we'll return to Buffy after the podcast ends.
+Jenny: Yeah.
+Kristin: We'll just go-we'll go in the Helen order of things.
+Jenny: Yeah, yeah.
+Kristin: Just all over the place.
+Helen: Episode 1 of each season. And then episode 2 of each season, and then onward.
+Kristin: [laughs] Well, thank you for being here and talking to us about all this cool shit. It has ruled.
+Jenny: There's only one Helen Zaltzman. And only you-
+Kristin: It's true.
+Jenny: Could bring what you brought to us today. [Helen laughs] And I feel so blessed-
+Helen: Beef soul.
+Jenny: To know you and to have recorded yet another podcast episode with you, here today.
+Helen: Hey!
+Jenny: An enrichment to my life.
+Kristin: This was my first ever podcast with you, Helen.
+Helen: Oh yeah! What a landmark.
+Kristin: Yeah.
+Jenny: [sings jaunty tune]
+Kristin: It's a big day.
+Helen: Well, we'll re-open the Helenmouth, forthwith. [laughter]
+Kristin: But yeah, and tell-I mean, you know, you talked about what you do up at the top. But will you tell our listeners-the small handful of them who don't know where to find you-where they can find you and your work?
+Helen: Internet.
+Kristin: Internet!
+Helen: Yeah, you-yeah. That's where I live, on the internet. Yeah, theallusionist.org is where my main show lives. There's VMIPod with Jenny Owen Youngs. VMIpod.com.
+Jenny: Woo!
+Kristin: Hell yeah.
+Jenny: Well, thank you again, Helen, for joining us for this very magical episode. And till next time…
+Kristin, Jenny and Helen: Awwooooooooooooooo!
+NOTES: [CHIME]
