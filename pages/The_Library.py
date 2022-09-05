@@ -13,7 +13,7 @@ def about():
     lines = [
         "Every Scooby knows the importance of quality research tools.",
         ("Whether you need a list of missing girls from the past 50 years or just want to know what kind of hotties your new boo used to date, the value of finding the right tome or stack of newspapers can't be overstated. "
-        + "But this is 2022, so in the style of Jenny Calendar and Willow Rosenberg we're going digital."),
+        + "But this is 2022, so - in the style of Jenny Calendar and Willow Rosenberg - we're going digital."),
     ]
     for line in lines:
         st.markdown(line)

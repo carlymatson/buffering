@@ -27,7 +27,7 @@ def about():
     #st.subheader("About")
     lines = [
         "Have you ever noticed how auto-correct picks up on your speech patterns? Ever wished you could just have it talk for you?",
-        "Well now, with the power of [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), we can predict what word you are likely to say next! You can use this to generate text that actually sounds like the speaker. So that you too can one day have as many podcasts as Joanna Robinson.",
+        "Well now, with the power of [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), we can predict what word you are likely to say next! You can use this to generate text that actually sounds like the speaker. So that you, too, can one day have as many podcasts as Joanna Robinson.",
     ]
     for line in lines:
         st.markdown(line)

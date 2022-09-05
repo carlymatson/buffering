@@ -305,7 +305,8 @@
         "debut_date": "Jun 14, 2017",
         "image_url": "https://images.squarespace-cdn.com/content/v1/596014bd36e5d37e136fa33f/1507653107683-QAI2SH3PQ4XIP7F08ZOE/willow.jpg?format=500w",
         "lyrics": [
-            "Who knows the square root of 1225? Willow!",
+            "Who knows the square root of 1225?", 
+            "Willow!",
             "Who's gentle of heart and nimble with a hard drive?",
             "Willow!",
             "Willow, Willow, Willow"
