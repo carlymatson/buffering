@@ -2,7 +2,7 @@ import streamlit as st
 
 from analysis import dataframe
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="centered")
 st.markdown("# A Celebration of Buffering the Vampire Slayer")
 
 
@@ -13,7 +13,7 @@ def welcome():
         "You find before you a hodgepodge of projects which were completed with the episode transcripts, a moderate knowledge of coding, and too much free time.",
         "*Look back over a history of the podcast!*",
         "*Talk like LaToya!*",
-        "*Finally figure out just how many times Jenny has said 'noms'!*",
+        "*Finally figure out how many times Jenny has said \"slots\" and \"noms\"!*",
         "All these delights and more await you on our journey...",
     ]
     for line in about_lines:
@@ -22,7 +22,7 @@ def welcome():
 
 
 def relevant_quote():
-    st.header("A Relevant Excerpt")
+    st.subheader("A Relevant Excerpt")
     st.markdown(
         "While making this project I was lucky enough to stumble upon a relevant exchange from an earlier episode.\n\n "
         + "*From Season 3 Episode 8: Lovers Walk, while discussing a singing stuffed bat...*"
@@ -40,7 +40,7 @@ def relevant_quote():
 
 def show_sources():
     ### Sources
-    st.header("Sources")
+    st.subheader("Sources")
     lines = [
         "All transcript data was obtained from the BTVS website at https://www.bufferingthevampireslayer.com/transcriptions.",
         "Air dates were gathered from https://www.stitcher.com/show/buffering-the-vampire-slayer.",
@@ -49,6 +49,8 @@ def show_sources():
 
     for line in lines:
         st.write(line)
+
+    st.warning("Disclaimer: I could only find transcripts for Season 3 of Angel on Top, so Brittany Ashley and Laura Zak are tragically absent. We will remember them in our hearts.")
 
 
 welcome()

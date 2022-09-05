@@ -2,6 +2,7 @@ import re
 from typing import List, Iterable
 from pathlib import Path
 
+from analysis import data_utils
 from podbot.markov import MarkovBot
 
 
@@ -22,10 +23,17 @@ class PodBot:
         line = strip_spacing_before_punctuation(line)
         return line
 
+    @staticmethod
+    def tokenize_text(text: str) -> List[str]:
+        text = space_out_punctuation(text)
+        corpus_words = [word for word in text.split(" ") if word != ""]
+        return corpus_words
+
+
     def train(self, *lines):
         for line in lines:
             line = PodBot.clean(line)
-            chain = tokenize_text(line)
+            chain = self.tokenize_text(line)
             self.bot.train(chain)
 
     def add_token(self, token: str) -> None:
@@ -39,7 +47,7 @@ class PodBot:
     def __hash__(self):
         return self.name
 
-
+# Podcast-specific cleaning and tokenization
 def space_out_punctuation(text: str) -> str:
     text = text.replace("\n", " ")
     punctuation = ",.?!-():" + '"'
@@ -55,31 +63,12 @@ def strip_spacing_before_punctuation(text: str) -> str:
     return text
 
 
-def tokenize_text(text: str) -> List[str]:
-    text = space_out_punctuation(text)
-    corpus_words = [word for word in text.split(" ") if word != ""]
-    return corpus_words
-
-
-def get_transcript_lines(filepath, name):
-    with filepath.open("r") as f:
-        text = f.read()
-    pattern = f"^{name}: (.*)$"
-    lines = re.findall(pattern, text, flags=re.MULTILINE)
-    return lines
-
-
-def get_all_speaker_lines(name: str) -> List[str]:
-    transcript_dir = Path("data/cleaned")
-    all_lines = []
-    for filepath in transcript_dir.iterdir():
-        lines = get_transcript_lines(filepath, name)
-        all_lines.extend(lines)
-    return all_lines
-
 
 def get_trained_host_bot(name: str) -> PodBot:
     bot = PodBot(name=name)
-    lines = get_all_speaker_lines(name)
+    lines = [
+        line for fp in data_utils.TRANSCRIPT_DIR.iterdir() 
+        for line in data_utils.get_dialogue(data_utils.read_transcript(fp), speaker=name)
+    ]
     bot.train(*lines)
     return bot

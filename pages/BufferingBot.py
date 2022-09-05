@@ -5,14 +5,16 @@ from podbot.chatbot import (
     get_trained_host_bot,
 )
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="centered")
 state = st.session_state
 
 
 def initialize_state():
-    values = {"speaker_name": "Jenny", "next_word": "Hello", "lines": []}
+    #values = {"speaker_name": "Jenny", "next_word": "Hello", "lines": []}
+    values = {"speaker_name": "Jenny", "lines": []}
     for key, value in values.items():
         if key not in state:
+            print(f"initializing state {key}={value}")
             state[key] = value
 
 
@@ -22,25 +24,23 @@ def get_bot(speaker: str) -> PodBot:
 
 
 def about():
-    st.header("About")
+    #st.subheader("About")
     lines = [
-        "Have you ever noticed how auto-correct picks up on your speech patterns?",
-        "Ever wished you could just have it talk for you?",
-        "Well now, with the power of [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), we can predict what word you are likely to say next!",
-        "You can use this to generate text that actually sounds like the speaker.",
-        "Does the generated text make any sense? Don't worry about it.",
+        "Have you ever noticed how auto-correct picks up on your speech patterns? Ever wished you could just have it talk for you?",
+        "Well now, with the power of [Markov chains](https://en.wikipedia.org/wiki/Markov_chain), we can predict what word you are likely to say next! You can use this to generate text that actually sounds like the speaker. So that you too can one day have as many podcasts as Joanna Robinson.",
     ]
     for line in lines:
         st.markdown(line)
 
-    st.header("How to Use")
-    lines = [
-        "**Selecting a Word:** Use the drop down menu to select the next word or punctuation mark. Try typing in the drop down to filter the list of words - it can be hundreds long! The numbers indicate what percentage of the time that word would be likely to come next.",
-        "**Adding to a Sentence:** Add to a sentence by selecting a word to add, adding a random word, or randomly completing the sentence.",
-        "**Adding to the Transcript:** Click the button to add the current line to the transcript. Once you're happy with it, save that bad boy for a rainy day and clear to start a new one.",
-    ]
-    for line in lines:
-        st.markdown(line)
+    with st.sidebar:
+        st.subheader("How to Use")
+        lines = [
+            "**Selecting a Word:** Use the drop down menu to select the next word or punctuation mark. Try typing in the drop down to filter the list of words - it can be hundreds long! The numbers indicate what percentage of the time that word would be likely to come next.",
+            "**Adding to a Sentence:** Add to a sentence by selecting a word to add, adding a random word, or randomly completing the sentence.",
+            "**Adding to the Transcript:** Click the button to add the current line to the transcript. Once you're happy with it, save that bad boy for a rainy day and clear to start a new one.",
+        ]
+        for line in lines:
+            st.markdown(line)
     st.info(
         '**Fun fact:** Kristin, Jenny, and LaToya all start 11\% their sentences with the word "Yeah", and it is the most common starting word for every BTVS speaker featured here (excpet for Hrishi). Wild.'
     )
@@ -81,6 +81,11 @@ def add_to_transcript(speaker_bot, line):
     state["lines"].append(formatted_line)
     speaker_bot.bot.tokens = []
 
+def clear_transcript():
+    state["lines"] = []
+
+def clear_line(speaker_bot):
+    speaker_bot.bot.tokens = []
 
 def unified_display():
 
@@ -105,16 +110,15 @@ def unified_display():
     speaker_bot = get_bot(speaker)
 
     probs = speaker_bot.bot.next_word_probabilities()
+    if list(probs.keys()) == [None]:
+        probs = speaker_bot.bot.next_word_probabilities(token_pair=(None, None))
     non_null_probs = [key for key in probs.keys() if key is not None]
-
-    next_probs = sorted(non_null_probs, key=lambda x: -probs[x])
-    if len(next_probs) == 0:
-        next_probs = speaker_bot.bot.next_word_probabilities(token_pair=(None, None))
+    next_token_options = sorted(non_null_probs, key=lambda x: -probs.get(x, 0))
     with cols[1]:
         new_token = st.selectbox(
             "Select Next Word",
-            options=next_probs,
-            format_func=lambda x: format_probability(x, probs[x]),
+            options=next_token_options,
+            format_func=lambda x: format_probability(x, probs.get(x, 0)),
             help="Type to filter",
             key="next_word",
         )
@@ -123,18 +127,23 @@ def unified_display():
     with cols[2]:
         st.write("")
         st.write("")
-        st.button("Add Next Word", on_click=add_word, args=[speaker_bot, new_token])
+        st.button("Add to Line", on_click=add_word, args=[speaker_bot, new_token])
 
-    st.button("Add Random Word", on_click=add_random_token, args=[speaker_bot])
-    st.button("Randomly Complete Line", on_click=finish_sentence, args=[speaker_bot])
+    cols = st.columns(4)
+    cols[0].write("Add Randomly:")
+    cols[1].button("One Word", on_click=add_random_token, args=[speaker_bot], help = "Add one randomly chosen word")
+    cols[2].button("Finish Sentence", on_click=finish_sentence, args=[speaker_bot], help="Add random words until the line is complete")
 
     line = PodBot.format_sentence(speaker_bot.bot.tokens)
     formatted_line = format_markdown_quote(speaker_bot, line)
-    st.markdown(formatted_line)
-    st.button(
-        "Add to Transcript",
+    cols = st.columns((6,1,1))
+    cols[0].markdown(formatted_line)
+    cols[1].button("Clear", on_click=clear_line, args=[speaker_bot], help="Clear line")
+    cols[2].button(
+        "Add",
         on_click=add_to_transcript,
         args=[speaker_bot, line],
+        help="Add to transcript"
     )
     transcript = "  \n\n".join(state["lines"])
     return transcript
@@ -143,15 +152,16 @@ def unified_display():
 def main():
     initialize_state()
 
-    st.write("# BufferBot")
+    st.title("BufferingBot")
     about()
 
-    st.header("Text Generation")
+    st.subheader("Text Generator")
 
-    exp = st.expander("Transcript", expanded=True)
     transcript = unified_display()
+    exp = st.expander("Transcript", expanded=True)
     with exp:
         st.markdown(transcript)
+        st.button("Clear Transcript", on_click=clear_transcript)
     # st.write(st.session_state)
 
 

@@ -1,5 +1,6 @@
 import re
 import csv
+import json
 from pathlib import Path
 from datetime import datetime
 import random
@@ -9,6 +10,13 @@ import streamlit as st
 
 
 transcript_dir = Path("./data/cleaned5")
+
+
+def load_episode_info_json():
+    json_file = Path("data") / "episode_info.json"
+    with open(json_file, "r") as f:
+        data = json.load(f)
+    return data
 
 
 def load_air_dates():
@@ -29,43 +37,44 @@ def clean_transcript(text):
     return text
 
 
-def get_text_dataframe(filepath):
-    air_dates = load_air_dates()
-    show_header, season, ep_num, title = filepath.stem.split("_", 3)
-    ep_id = f"{season}.{ep_num}"
+def get_transcript_data(filepath):
     with filepath.open("r") as f:
         transcript = f.read().strip()
-        transcript = clean_transcript(transcript)
-        show_header, ep_header, body = transcript.split("\n", 2)
-    ep_header = ep_header.replace("Episode ", "")
-    try:
-        ep_id, _ = [part.strip() for part in ep_header.split(":", 1)]
-    except Exception as e:
-        print(f"File {filepath} has improperly formatted header.")
-        pass
-    ep_info = air_dates.get((show_header, ep_id), None)
-    if ep_info is None:
-        print(f"Couldn't find {(show_header, ep_id)}")
-        return
+    transcript = clean_transcript(transcript)
+    show, episode, body = transcript.split("\n", 2)
+    episode = episode.replace("Episode ", "")
+    # Find all dialogue based on pattern
     dialogue_pattern = "^(.*?): (.*)$"
     dialogue = re.findall(dialogue_pattern, body, flags=re.MULTILINE)
+    return show, episode, dialogue
+
+def get_episode_metadata(show, ep_header):
+    ep_id = ep_header.split(":", 1)[0]
+    ep_data = load_episode_info_json()
+    matches = [ep for ep in ep_data if ep["show"].startswith(show[0]) and ep["ep_id"] == ep_id]
+    if not matches:
+        print("No matches:")
+        print(ep_header)
+    return matches[0] if matches else {}
+
+def get_text_dataframe(filepath):
+    show_header, ep_header, dialogue = get_transcript_data(filepath)
+    meta = get_episode_metadata(show_header, ep_header)
     df = pd.DataFrame.from_records(dialogue, columns=["speaker", "line"])
     df["show"] = show_header
-    df["ep_id"] = ep_id
-    df["title"] = ep_info[0]
-    dt = str(datetime.strptime(ep_info[1], "%b %d, %Y").date())
+    df["ep_id"] = meta.get("ep_id", "?.?")
+    df["title"] = meta.get("title", "Unknown Title")
+    airdate = meta.get("airdate", "Jan 1, 2020") # FIXME What formatting is expected?
+    dt = str(datetime.strptime(airdate, "%b %d, %Y").date())
     df["episode_date"] = pd.Timestamp(dt)
-    df["air_date"] = ep_info[1]
-    df["run_time"] = ep_info[2]
+    df["air_date"] = airdate
+    df["run_time"] = meta.get("runtime", "0 minutes")
     df["line_num"] = df.index + 1
     return df
 
 
 def create_full_dataframe():
-    df_list = []
-    for filepath in transcript_dir.iterdir():
-        df = get_text_dataframe(filepath)
-        df_list.append(df)
+    df_list = [get_text_dataframe(filepath) for filepath in transcript_dir.iterdir()]
     full_df = pd.concat(df_list)
     full_df.sort_values(by=["episode_date", "line_num"], inplace=True)
     return full_df
@@ -73,9 +82,9 @@ def create_full_dataframe():
 
 def clean_jingle(text):
     jingle = text.upper()
-    jingle = re.sub("[^A-Z]S$", "", jingle)
+    jingle = re.sub("[^A-Z]S$", "", jingle)  # Remove apostrophe S?
+    jingle = re.sub('"', "", jingle) 
     jingle = re.sub('"', "", jingle)
-    jingle = re.sub("HELL MATH", "HELLMATH", jingle)
     jingle = re.sub(".*FASHION WATCH.*", "FASHION WATCH", jingle)
     if "PATRIARCHY" in jingle:
         jingle = "THE PATRIARCHY"
@@ -90,7 +99,7 @@ def get_jingle_name(text):
     jingle = jingles[0]
     return clean_jingle(jingle)
 
-
+# Where is this used?
 def find_jingles(df):
     jingles = df[df["line"].str.contains("\[.*jingle plays.*\]")]
     jingles["jingle"] = df["line"].apply(get_jingle_name)
